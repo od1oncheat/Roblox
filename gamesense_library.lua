@@ -178,6 +178,72 @@ function Library.new(title, size, toggleKey)
     return self
 end
 
+function Library:CreateTab(name)
+    local tab = {}
+    
+    -- Tab button
+    local tabButton = Instance.new("TextButton")
+    tabButton.Name = name
+    tabButton.Size = UDim2.new(1, -10, 0, 30)
+    tabButton.Position = UDim2.new(0, 5, 0, (#self.Tabs * 35) + 5)
+    tabButton.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+    tabButton.Text = name
+    tabButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    tabButton.TextSize = 14
+    tabButton.Font = Enum.Font.SourceSans
+    tabButton.Parent = self.TabContainer
+    
+    local TabButtonUICorner = Instance.new("UICorner")
+    TabButtonUICorner.CornerRadius = UDim.new(0, 4)
+    TabButtonUICorner.Parent = tabButton
+    
+    -- Tab content
+    tab.Content = Instance.new("ScrollingFrame")
+    tab.Content.Name = name .. "Content"
+    tab.Content.Size = UDim2.new(1, 0, 1, 0)
+    tab.Content.BackgroundTransparency = 1
+    tab.Content.BorderSizePixel = 0
+    tab.Content.ScrollBarThickness = 4
+    tab.Content.ScrollingDirection = Enum.ScrollingDirection.Y
+    tab.Content.Visible = false
+    tab.Content.Parent = self.TabContent
+    
+    -- Auto-size content
+    local UIListLayout = Instance.new("UIListLayout")
+    UIListLayout.Padding = UDim.new(0, 5)
+    UIListLayout.Parent = tab.Content
+    
+    UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+        tab.Content.CanvasSize = UDim2.new(0, 0, 0, UIListLayout.AbsoluteContentSize.Y)
+    end)
+    
+    -- Tab button functionality
+    tabButton.MouseButton1Click:Connect(function()
+        if self.ActiveTab then
+            self.ActiveTab.Content.Visible = false
+            CreateTween(self.ActiveTab.Button, {BackgroundColor3 = Color3.fromRGB(35, 35, 35)}):Play()
+        end
+        
+        self.ActiveTab = {
+            Content = tab.Content,
+            Button = tabButton
+        }
+        
+        tab.Content.Visible = true
+        CreateTween(tabButton, {BackgroundColor3 = Color3.fromRGB(45, 45, 45)}):Play()
+    end)
+    
+    -- Store tab
+    table.insert(self.Tabs, tab)
+    
+    -- If this is the first tab, set it as active
+    if #self.Tabs == 1 then
+        tabButton:Fire("MouseButton1Click")
+    end
+    
+    return tab
+end
+
 function Library:CreateTextBox(tab, text, placeholder, callback)
     local textbox = Instance.new("Frame")
     textbox.Name = text
