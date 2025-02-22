@@ -429,38 +429,3 @@ function Library:CreateWindow(config)
 end
 
 return Library
-Example Usage (example.lua):
--- Example Usage
-local Library = loadstring(game:HttpGet('YOUR_RAW_GITHUB_URL_HERE'))()
-
--- Create Window
-local Window = Library:CreateWindow({
-    WindowName = "RixUI Example",
-    WindowSize = UDim2.new(0, 550, 0, 350)
-})
-
--- Create Tabs
-local MainTab = Window:CreateTab("Main")
-local SettingsTab = Window:CreateTab("Settings")
-
--- Add elements to Main tab
-MainTab:CreateButton("Click Me!", function()
-    Library:Notify("Button Clicked", "You clicked the button!", 3)
-end)
-
-MainTab:CreateToggle("Toggle Example", false, function(state)
-    print("Toggle state:", state)
-end)
-
-MainTab:CreateSlider("Walkspeed", 16, 500, 16, function(value)
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = value
-end)
-
--- Add elements to Settings tab
-SettingsTab:CreateButton("Reset All", function()
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
-end)
-
-SettingsTab:CreateToggle("Auto Sprint", false, function(state)
-    print("Auto Sprint:", state)
-end)
