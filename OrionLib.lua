@@ -960,8 +960,8 @@ function OrionLib:MakeWindow(WindowConfig)
                 MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10),
                 {
                 Parent = Orion,
-                Position = UDim2.new(0.5, -615, 0.5, -344),
-                Size = UDim2.new(0, 1230, 0, 688),
+                Position = UDim2.new(0.5, -460.5, 0.5, -258),
+                Size = UDim2.new(0, 922.5, 0, 516),
                 ClipsDescendants = true
                 }
             ),
