@@ -959,10 +959,10 @@ function OrionLib:MakeWindow(WindowConfig)
             SetProps(
                 MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10),
                 {
-                    Parent = Orion,
-                    Position = UDim2.new(0.5, -307, 0.5, -172),
-                    Size = UDim2.new(0, 615, 0, 344),
-                    ClipsDescendants = true
+                Parent = Orion,
+                Position = UDim2.new(0.5, -615, 0.5, -344),
+                Size = UDim2.new(0, 1230, 0, 688),
+                ClipsDescendants = true
                 }
             ),
             {
