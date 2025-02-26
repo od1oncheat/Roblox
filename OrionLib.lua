@@ -1,2 +1,3058 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _UeFxTibPjVoK = a; end)); return(function(t,...)local g;local o;local n;local _;local d;local s;local p=24915;local h=0;local e={};while h<715 do h=h+1;while h<0x112 and p%0xa58<0x52c do h=h+1 p=(p*902)%16039 local l=h+p if(p%0x1d50)<0xea8 then p=(p-0x21e)%0xb633 while h<0xcb and p%0x1356<0x9ab do h=h+1 p=(p+550)%28452 local _=h+p if(p%0x1232)<0x919 then p=(p-0xaa)%0xe2a local p=1690 if not e[p]then e[p]=0x1 n=string;end elseif p%2~=0 then p=(p*0x22d)%0x42c8 local p=25471 if not e[p]then e[p]=0x1 o={};end else p=(p*0x127)%0x459d h=h+1 local p=13615 if not e[p]then e[p]=0x1 g=getfenv and getfenv();end end end elseif p%2~=0 then p=(p*0x23e)%0x6088 while h<0x16a and p%0x13f0<0x9f8 do h=h+1 p=(p*137)%7765 local d=h+p if(p%0xfe6)<=0x7f3 then p=(p-0x382)%0x73f6 local p=73935 if not e[p]then e[p]=0x1 _=function(_)local p=0x01 local function e(h)p=p+h return _:sub(p-h,p-0x01)end while true do local h=e(0x01)if(h=="\5")then break end local p=n.byte(e(0x01))local p=e(p)if h=="\2"then p=o.bZmRZeMa(p)elseif h=="\3"then p=p~="\0"elseif h=="\6"then g[p]=function(h,p)return t(8,nil,t,p,h)end elseif h=="\4"then p=g[p]elseif h=="\0"then p=g[p][e(n.byte(e(0x01)))];end local h=e(0x08)o[h]=p end end end elseif p%2~=0 then p=(p+0x37a)%0x9566 local p=74022 if not e[p]then e[p]=0x1 end else p=(p*0x11f)%0xa34 h=h+1 local p=72815 if not e[p]then e[p]=0x1 end end end else p=(p*0x171)%0x6619 h=h+1 while h<0x2b3 and p%0x3fc8<0x1fe4 do h=h+1 p=(p+746)%43406 local _=h+p if(p%0xfec)<=0x7f6 then p=(p+0x3dc)%0x41fb local p=32546 if not e[p]then e[p]=0x1 g=(not g)and _ENV or g;end elseif p%2~=0 then p=(p+0x21e)%0x547b local p=71472 if not e[p]then e[p]=0x1 d="\4\8\116\111\110\117\109\98\101\114\98\90\109\82\90\101\77\97\0\6\115\116\114\105\110\103\4\99\104\97\114\104\95\104\101\76\71\101\119\0\6\115\116\114\105\110\103\3\115\117\98\70\73\108\84\101\68\119\73\0\6\115\116\114\105\110\103\4\98\121\116\101\122\85\114\120\99\84\84\110\0\5\116\97\98\108\101\6\99\111\110\99\97\116\80\65\122\82\117\116\108\118\0\5\116\97\98\108\101\6\105\110\115\101\114\116\103\119\84\120\105\89\104\114\5";end else p=(p*0x235)%0x4507 h=h+1 local p=64047 if not e[p]then e[p]=0x1 s=tonumber;end end end end end p=(p*893)%24062 end _(d);local p={};for h=0x0,0xff do local e=o.h_heLGew(h);p[h]=e;p[e]=h;end local function l(h)return p[h];end local l=(function(d,n)local t,e=0x01,0x10 local h={{},{},{}}local g=-0x01 local p=0x01 local _=d while true do h[0x03][o.FIlTeDwI(n,p,(function()p=t+p return p-0x01 end)())]=(function()g=g+0x01 return g end)()if g==(0x0f)then g=""e=0x000 break end end local g=#n while p<g+0x01 do h[0x02][e]=o.FIlTeDwI(n,p,(function()p=t+p return p-0x01 end)())e=e+0x01 if e%0x02==0x00 then e=0x00 o.gwTxiYhr(h[0x01],(l((((h[0x03][h[0x02][0x00]]or 0x00)*0x10)+(h[0x03][h[0x02][0x01]]or 0x00)+_)%0x100)));_=d+_;end end return o.PAzRutlv(h[0x01])end);_(l(104,"U=h syJ7px^<g)/Gx)"));_(l(192,"!.C;N2ok=:(s<QyeN?=o;;kNsCy:CyokNNyN;2oQs{<NC.N;:NQoR2N.(k=N<2kM(;y.C<o<=(<k.rNC(keCCeokN.=2;dkC(:yy;Noy:;yN.e2N(sQ2CsmYNoe;;NkC(:yyCkt2(Qy.;No;(=ekCk2C(<e(C=kN(2=?<NoQ(.eNC=_2(<yNC2k=s#<=;2k=(e<<.CoNs.=N<<k;(2eNCQo2sNy.;No.(Cy<C2o;(2y(ieN<=Qys.k{NNkQoC2o;sNye;C;;s2yyCsoo:=<:C(N;NN=N;ko.(:eN.Cok:(e;K22k(k<N<C_.k:y;xQo.(<y:?;k2(o=N<=kN(ee;;NkC(:yyCk2e=2<s5eNs(yQe.:^VN2eNC.oC(<y2<ok2(yedC.o;(sQ;;No=(yQN.eo.s;=N<ok2(yeYC.o;(s<..:o:=eQ+..kC(N=N<2kZsCy:CykN:Ie;.=kC=eyC_2o:NN=o;;o2(<y2C;kN(2eNCQNo=2eC.P2eNi=NCQo.sNy=<2oo(<yeCekC=Qysl;oQ=<<.C:osN2"));local p=(-414+(function()local e,p=0,1;(function(g,e,h,p)h(h(h,e,g,h),p(g,p,h,p),h(p,e,p,g),e(e,e,p,p))end)(function(h,g,_,n)if e>430 then return h end e=e+1 p=(p*441)%118 if(p%520)<260 then p=(p+532)%25199 return _(g(_ and _,g,h,h),g(g,n and h,h,_ and _),h(_,h,n,g)and g(n,g and h,n,_ and h),h(n,g,g,n))else return h end return h end,function(h,_,n,g)if e>156 then return h end e=e+1 p=(p*780)%26845 if(p%1144)<=572 then p=(p*826)%29431 return n(h(_,h,g,_),n(g,n,h,_),_(g,g and _,h and n,g and h),h(h and h,g,h,h))else return h end return h end,function(_,g,n,h)if e>374 then return g end e=e+1 p=(p*158)%35954 if(p%836)>418 then return h(h(g,h and h,_ and h,_),h(g,_,h,g)and g(n and n,_,n,_ and g),_(_,h,g,h),g(n,n,g,h))else return _ end return n end,function(g,n,h,_)if e>313 then return h end e=e+1 p=(p-692)%22236 if(p%1134)<=567 then p=(p*498)%40311 return n(g(h,g,g,h)and h(h,_,h,h),n(n,h,g,h and h),_(_,g,_,n)and g(_,_,_,g),_(h,h and n,g,_))else return g end return h end)return p;end)())local f=o.AYiOPQrd or o.SthnT_as;local gp=(getfenv)or(function()return _ENV end);local m=1;local d=4;local _=3;local g=2;local function ep(a,...)local r=l(p,"EAT0p hxiONR*6g_iO0i pxWigNg*pgV_* RN0R*6R_N6x*TgA_iAp0HNAN*g6H6gg6i_pA(T*pihpi2< _i6h_hW*TippR0gA_RT00g fDNTxpF *xirTA p0gNz T)0* i*RO-N**igpcZA*_i*hRBigN6*pgS_*hRNGRA6__>Nh*p6*_iApxpRR6__TNT*06i_pAbiARh*_ggDRT_pT_TATTipphs*AtRAx0A *h6ThpO *xiOpe00R Nxih_NgR*6OvTNg6pgp3=A*i**R6 _AAhAxp hgigO6R06AiNNN*m6*_i xO RN6*gOATRg6*_pAJT*R_* _TXNRi6p_-s*TipphP6 6iRp6,g*9iTpp= *Rh6pRT60giYpTYixR6g660ART*pO(TT00i px36_#O0Np 0_xgOR TxxiiNp*1T_ RihO_Ri6p*NATA6p  OAT0hpihpieg0A6pip0xAONRN*O6__6Rp6)g*-iTppK0*gx6pRT6+giVpTDiNROgA_ Ng*ggpZ}A*xN*0gpL:Ax0AgT5AAi0p 5R _ k TxpA_NA_0bp*hi_pATTRp* Ox0NCNx*R_ C RN6R_#F*TiNN6TgR} 5hAxTg<NTNps *xi6xA_0g hhOOT0* ixpO3N**igp p *0N _xai*Ni#xp_hNihOOR0gl_AA0Tgp__NAx0%p*hi_xAOTN6N_NAlT*piRigieAT 0Oh0^gTOpph{x*gRRh6xg*UiTpi0*RgN_O_xpA ADhTp0* ixp66e60A TzTAg0i pxdgAAi*h_O_*Ai0pO66R_xATA0pA Rx0i0*)6Ng6fgT0pR0*xOOtN**Ogg66T*pihT/gT_pph#x*6*AO0hp6x6O+Rp gx_OpRz**0ghOi0Rz*xgh*TNg*ggpW{A*iiR gT_AAh0ig-_*Ai0p Uh*Ti&i/>6gW0Ap03p*RA_A.AT0060hi NoR*60ggO*Ri6p_K(*Tipp uRRON* 6=g*QixNN *gg*_6A0T6 pp i*N R_gT_6AA0h i)TTx0i pxn6i!O06p_xAi*i0*T6+g6Ah*Tg*_iAp08OO*Og_D UNpxhixOOTRA*xgAA8TAp0 g4gT*pphcx*__A 06 A(NTNpS *xi6hT pn *x0ig0ghAxpO5N*ARpxxTiAO6*TRxrAAA*pgr_*Ai0p ,h*O*gp*Tgi_iAp0MN{62gOv6TATx hxNOANR6i_0OgR*6p_sW*xpNO*h_cON*A6)g*WixxN *i66_xTp0Ap* iiiNA* 6OOTRT*igpWCx<xg*h6A_O/6*hgN_*Ai0pO6*6_0UOAxp hhxiO_*0hNiNNZR*6i0Nx_OiN**O_TOgR_6p_Q^*h*NO60_:PNT0pOggA3TppF *R__OTpAO xxOO0NA NxOOkN**i00xTi Nx*TxTOxNi*pg)ppi*Ni*QR_g6Ah0hp  RxO0T %hiipNQAAA* 6x6T*pihpiWO*Ri6p_:d*TNpih4x*Oi_O0ghAx Thp  *xiOp_*T6pNhOi*0gh xpO,N*Tx0Oh hTR&Ni6Ogg_iTg0hhRh00h ph*iiNpAppAx4ii0T ThiipNGT pi  xOOgRRhxiqO*Ri6p_a)*TippOO0*ONRO64g*LihNN*R66_.xRT6pgibpT<i**xgx_OTX0A 0hgAgp0 pxri*_p00p0 6ipipR**6/AeO0T6g_6Ap0lp*RNg6}xTpp*_hA T*pihp_y__AOpy *Cg0Tpph8x*gNT0p  Nh*hNRTR6g _ORT_0giCpTwOb*Y6640**Tgp6h*iA i*R6A__*i0p ThRi*OOR0gFg6Dig{ 0hAiiOih*R _01_TNTR Ox0p*OgOxiTN0Ri6p_v KOARN*Ogn_6Th6T__UiTpp}Npgx}hAOph xxTOpO6*pR _*A T_ Th6iANh*ixTOlNi*pgcp ihO6*phgO Np*s6*p6ixO RgRA_TAF0Ap*piiOO*N6hhiOO*Ri6p0Ox_xNRO*ggNBATT0xggYgTppH **RCiTT0R 0hOTTph ixpOX_g06 T 0iANN*N6Og_D6*hgA_*Ai0pOAhgi6Np*V6*0gihOARO*6ihNiR*6i_p  OiN66Ag SNT*px_TA0TipphS**_OAi0p  xhiRpt *xiOpRH**gip6h&0g RxpO9N*A*p hTAgpn px-i*_*TO ixq *O *T6xiNN *>6*_iAg0T xhiipNy_6ph xxiORRNRpg_V Thpi_TAxTipphj*0_6TiA0 pxAOlNp*g66YTRT6AgiZpT<N_*i6 1xAN*Ng6mkA*0iOh6Ag_A00x B 6xROO TxiiiNp*<TOhxiON0RANN_OAp0jpxhTpATg phpi;O*K p0h x_i6ih6 _}D*T00gAg,N _pZ *xiOg__0g Ax0ig *Np66_TAgTO hxO0*h xpRhg6AA09p hU0iNiR_i*_pA0TAp!Ai NO N66*g*= Tg_i06x0ORRh6xNgR*_6phhTxRONhp*0gR_*AObN:*;NTNpM *xi_RA pY FxOiO0g _xpOQN*Ai ;hAO O6*hg0igN**pgD_*hRO6*N6AiNNi*^6*_ih,OOR_6*ihNpR*6i_pipi6RR*_iTN*Ri6p_4hAORNO6T* VhTpp h3 RiORT6TgA_xA *ggOcpTl0*O*xpO)N**igpSCA*x*OpxAigRp*pgl_*h N0* 6_g6gh0  zh*i0Ogx_hNi*N:R*6i06xgO_R** gg__A6_i_Bz*Ti Thtx*OiRh6Rg*3iTpiO*O6O_RA #_ xxPi_NgiRxhNpN**igp 0x_NN*06*_igNT  Tp i O Rx6A*RA0T*pRhNpx0T phiipNQAATApxipOgRx*_g OgR66p_l2*hRR0**gRWNRh6Og*YiTpOp*A_({i_*T6pNhOi*0g _xpOjN*A*pOxiOUxN*0giigNR*pg>_*hANxOAhgOhNp*I6*pRxxNTRR6p_m;OTN0_0NiTi6R *OiTNhRi6p_kh8i6R*6pRgt6Tipp RxhThpN *xiOp_O0OpOhRi iiRO6h_ Ai*N_ps.A*0iOh6Ag_A0TR ThRi6NTRpN__xA=T_pgTRAh0Rp*hiipgOTO0O Rx hgR66i_p=RTh6h_ k*TippNhgg_OTA0 ggATTpp? ***_OTip/TRx0i*NR*NNxOIN**igp0xA*0i pO(N*NO* gP_*Ai0R LxgpTNp*06*n Ap0dp*hi6_NXR66i_xALTgpihN_QO*RO6p_RB*TOpphAx*O*A06>g*GiT_pv 6xiRp6!*6gOLpTF0* _xpNThh*igx-eT 0i px8i*%0*pgA_*AR0p Th*igAp*>66_iA_0wp6hii Nk*k0x_pA7T* 0hpiAO*R*00_{P*Ti Ah3x6Oi*hiNg*lOTppR *xiOpRt_0gi4 Tk0g ixpO?**gig WAA*0i pxxi*RNxggJ__Ai0* Zh*iiNpAR6*_OAp00p*hNipNh x6i_ A,pspih iIO*Ri6ip_:*Tippxpx*OORpgTNh(iT pn gxiOpR5**?_5pTA0* NxpOBN*gi!pYAA60i px&O0Ni6hON_*AR0p 0h*iiNp*v0x_iA 0;p_hiihNM*Tpi_pAAT*hThpiAO*RO6p_phRTipphrOhOiR 6<_{hxTppc *OpOpRA**_NRgTG06 ixiOkN**igpTxA*0O pxTi*Ni*pQLA*AO0  &h*iiNR*SggRTAp00p*h6ipNfR*6ip_AlT6pihxiZOgRi6NiRV*TOppiTx*OORp6=g*<*i0pt *xiRhR{*6giZix_0* ixpRxN**OgpTH0*0O  xCi*Ni*Rgq.g6T0p 0h*igNp*L6*_ih_07p6hiixNKRg6i_NNRT*pOhpNOO*RO6p_tn*T*N0hrx*Oi6663g6li0h_N *xOOpRg**gi-pTyh0 ix OcNg*igp7%0* i  xAi*Ni*pgx_*TNgg Hh_iiNg*t6*_iApiRp*hOipN0R*6N_pAhO*pih i46MRi6 _}:6TipiR_x*OiRptpg*uOTph9x*xOO R(**gi7RTbpgATxpO0N*6pgp)&A*0iN_xji6Ni*xg{_gAi0N*^h*iONp_p6*_OAp0Ap*h*g0NQR*6iTiA3T6pihi6_O*Ri6pTh4*TOppxT0hOiR 6;g6viTppf *O_OpRA**gN3pT50* i*hO3N**ig c+A*0i  xAi*Ni*pgTvQAi0p 46Ng6A*0p6*_iAp0f xhiipNF*g*N_pATT*pOhpi7O*Ri*R_b;_Tipph=x*OiRp*ig*>*Tppp *xiOpRpTRgiVpTBpp ix O<RTg*g ^hA*pn pxAi*NO*pgp RAi0p kxpiiN *Y6*_AAp0xp*hOipN/R*6iARAH00pihhivO*Ri6N_x+*TNpphpx*OORp6Tg*z*i0pq *xiOiR+*6gispxT0* ixpOAN**igp3TT00i px&igN6*pgt_* RN0R*6R_NNh*x6*_iApOhRg6x_A_T#0AN_hAhT*pihp*02RTpp0hT0_TNp6hXx*Oi=i0i  hRi_Ng*AgRSxRT6pgiQpT=OANA*xBpAg0xp_h A*0i px%i*NiNpp_0*Ai0p /h*iiNp*&**0xAp0+p*hiOxNmR*6i_p TT*pNhpifO*Ri6p4T*hTipxh(iAOiRp6+g*0cTppp *xiOpRT**ggTpT9pA ix_OlN6*igp,2TGOx pxji*R0*pgA_*TNTh UxAiiNx*;6*_i0p6;p*h6ipN R*6N_pTT0_pihNi2NTRi6p_dAgTgpphxx*OgRp6fg*ANT6p,hpxiONRJ**gifp0p0* 6xpOiN**NgpAyiN0i ix8i6Ni*Og(fT0i0p  h*OxNp*A6*_OAp0pNRhiipN)*R6i_ A70gLThpi O*R_6p_{M*0iRThIiCOiRi61_A&iTpOR *xNOpRp**gN.pTIh0 ixhOdNg*igps1A*iN px,i*NO*pg<_*AN0O Jh*iiNh*A6*_iApxTpghOipNuR*A__hAhT*pihp*0{RTpp0hT0_TNp hWx*Oivh6T_0viTppS*TgNQ0A6AgT_phT(0* ixpOiN**igpATng0i  xPi_Ni*pg)A*NR0p Ah*iONp* 6*AiNx0lpghiipNU*o6iApN0T*pRhpitO*RN6pAlO_TipihJx*OiR 6>g*6TTppA *x*OpRf**gi0hTD06 ixpOcN**igp TA*0i pxAi*Ni*pgAAkAi0p JhgigNp*>6*0Ri0O*RR6NRxNkR*6i_pAVT*pi pR_OgR*6p_3P*xpNO*h_!ONRp6;g*fiTxpA *xiOpR;**giSppgx* Nx*O^N**i0hhOx_N;Ni6 ypA**hgh_*Ai0pOx6R_*b*TApO_NTT0#p*hi6iY 0pp*p* AOiRA*RggYOA6pThp7gT_pph5x*_gTh0_ O NhRiT *xiOpRs**gi;pT(0* NxgO+N**i0ih OpN*Ox6__iAx0hA0_gA*0p ah*6*!O0i d_NAi05p*hi*O%g0Ap _hAOT*pihp6p7A0Bpi0*h6iNNO**xgNzRp6yg* *iORi6.*R_6TN0AgNziTK0* iRN__AN0*gp9BA*0i pxGi*Ah<pgTATAi0p 8NggOnxTRp0hNi0N RN**6iATA6phhxiui6RN*Ogg__0A6h=Z!*TippRpgAAlTiTp ghOOTR0**6O:hA 0NpRx6T-0* ixpR0N**igpZY g0i xx)i*Ni*pgLfg6T0p ph*OxNp*.6*_i0*0H AhiipN8*p6i_N0PT*pghpihO*RO6p_cs*T*N0hux*OiRN6Vg6oi0h_N *xgOpRp**giyp0sNN ixOOfRO*igNH3TgTN pxhi*NO*pg-_*0i6p =xTiiNN*&gh_iTh0gp*h_ipRTR*6i_pTTp%pih*i}NgRi6p_eAg06pphOx*NNRp6:g*>i0%p:hTxiO6Rw*ggiApig0* 6xpO*N**ggpDh0*0i NxPO6Ni* gs_gAi0iN_h*iiNp6A6*_OAppTuhhiiNNw*x6i_pAS0*Rhhpi O***6p_h=*Tghph(iTOi*O6#g61iT p%hQ6xOpRS**_6apTA0*hNTgOjRT*igN!QA*0ihp6gi*N6*p_t_*Ag0phTROiONN*2gN_iAp0Kh*i ipNhR*6g_pTAT*hixhizNTRi6N_rApTi phgx*O6RpgAg*ygTpxq _xiOOR160gi)OTBh*hAxpO N*6Rgp.TA*pN NxvOTNi6Tgs_*Ai p*_h*igNp*h6*2AAp &p_hiiNNq*T6i_xAc0* ihpi O**A6p_h+*Tip*h(x_OiRO6{ggUiTp p *xROpRT**gi7pTF0g ixpOYN6*igpUXA_0_ px2i*Ni*pg7_*Ai0p0Q6R*iNh*h6*_iApx0RR6p_0ATg_6NrpAWT*piNhgA__T00RhTxRO6RT*pR_DxTm0_ g0RThpx *xiOpAh0g xxAxTi0ONxhO_N**igppTiRNNRi6 _g_RT6 NhAhiO6*i6A_pNh* 6*_iApxhRg*O_AJ R*6i_pA!T*pihpi+O*Ri6p_W&*0ipphQx*Oi_h6dg6yiTppy *xiNhhN**gNspTh0* ixpO<6p*igx#WA*0i hxDOT*i*pgp_*T00p Ah*iiNp*p0R_iAp0: xhii N;*g*N_pApT*pNhpidO*6ixp_jAGTipihYi)Oi*h6hg*,6TppA *xiOp*T*6gi8NTQ06 ixpO7Rg6Agp}xA*0O pxKi*Ni*_gr4GAi0R ChgiiRpTg6*_RAp00p*h*ip6li66i_xAz0ApihRi.O*A06p_A+*TRpphTx*Oi6R6dg63iThpB *xiOpHT**giapTA0* ixpOARA*igpLMAg0_ pxji*gR00pghNx6Ox*phgOANp*%6*pAixiT*A6h_TCOTN0__hAhT*pihpgOHNTR0OhTi2TNpOh3x*OiTi0ApgxpiOpThxxiOpR47_ xxTigNARRgi_OAR0h xq#A*0i piAi*Ni*pg-0gAi0h eh*iiNp*F_*AiA 0Tp*hNipNTR*6iAOAGTgpihhiZOgRi6Nhav*TNpphhx*OORp6Ag*>*i0p{ *xiONRq*6giwpxT0* ixpOAN**igpTZ0*0O hxXi*Ni* gB_*H_0p ph*iONp*I6*_ih_0)pghiiiNBRg6i,hSTT*pRhpipO*Ri6pAMO_Tipxhkx_OiRx6<g*pNTppp *xiOpRw**MiOxTap% ixiOLRA*igp_xA*06 pxTi*Ni*pg-gOAi0x IxAiiN *q6*A_Ap0Tp*hNipN,R*6iphAWT*pih i^O*Ri6h_pv*TipphTx_OiRp6y Nh6ORpThpxiOpRvA  hxxOpO6*h6x_ Ng**gpyCA*NhROgi?sNN*NgX_*AiipRA6gg6AT0p6*_iAp0QhphiipNn*g*N_pA0T*pNhpiHO*6ihx_Xq_Tipxh:x6OiRp*xg*1*TppK *xiOpRu_AgicxTq0g ixhOLRgRNgpypA*0R pxSi*NggpgoWAAi0* }h6iiN *sgJ xAp0=p*x5ipNAR*6iA*Am0Apihpi1O*Ri6pgit*Tgpphhx*OiRp6ppRtiTpp{hxxiO Rs**6*vpT00* _xpOiN**ggRqXT20i gxli6Ni*hgd5(xx0p Jh*OTNp*A6*FN5h0u /hiixNLR*6i_N0aT*p6hpOAO*RO6p_Tf*T*N0h+x*Oi* 6)g6<iTphi *x6OpRJ**gi^pT,0p ixNO<RT*igpscTrOx pxUi*R**pgA_*TiNT FxpiiNi*26__iAN0xp*h*ipR0R*6O_pATT*p**0inO*Rigx_vY6Tippixx*ORRp6Tg*oiTppCNgxiOpRX*6gimpTG0_ 6xpOzN**Ngi}oA*0i*x6O_0Ah*pgw_*Ai0p /h*hig0*TgA_iAp0BRT6p_0-_Tg6N_iA(T*pi6AgAA8T^6p_z!*Tipphqx*OiRp6lg*ciTp k *xiOp*TxNgichTHpn ixpOy**6pgpaTA*0N px0i*Ni*ggV__Ai0p 7h6iiRh*_6*_*Ap0pp*hiip*)*R6i_iAU0&pih iwO**u6p_ D*Tipph;x*OiR66w_-#iThp? gxiRp*T**g*QpTp0* NxpO.*h*igx?mA_0i ix.i**j*pgT_*AN0p Th*iiNx*56g_iAh0Pp6hiNNkiR*6N_pAgT*pOhpi O*R*00_mq*Ti Th=x6OiRpAAg6{NTppT *xOOpRe_0gi2hTu0g ixpO}N*ANgp8lA*0O pxoi*NN*6gl_*Ai0h Ch*iiNp*06*_iAp0/p*hiipNbN*Ax_hANT*pihp6pCA01pi0TiAO*Ri*_gNOiRp6Jg*XiTppu *xiOhRp**gi9pxpNA6DgiOTRR*igpU) gNx*h6p_AANAxpOxhx6ipROgpg6Am*T_T_iAp0/ig*OgxnRT0pNh0i ONN*Ri_T_6ThpxhJh6ONNO*g6_AARh6_g*<iTpiA6Ag*S0_TpA *xii_NNORg0_*AR0NgpwqA*0i gx(i*Ni*phg_*Ai0p mh*iiNp6T_V_iA 0M ZhiipN#R*66_pATT*pihpipO*gigx_;ygTipNhbx6Oigp6gg*9NTppO *xNOpg36*giShTVpp ixxOU6*6Rgp+TA*0_ px i*Ni66ge_*Ai0h ahgiiNp666*_iAp0Tp*hiipN^6p6i_pA<T6pihpi!O*R66p_Qf*TN wh/x*Oi_*pphXxihRN 61ROIxTO0NpRzhT 0* ixp_OS_0x Tx0Ag0* pxVi*<_T p6hAANi6 Ih*ii9*0p 9hiixhNxROx_hmA00lh RxONwRB6OgTAATR0OhTh_OxRT6pgA3hTi_gp_xxOAh_*Agg90AO0NpRx0OTN*ixgHW )_0Apih xgNp*0giRRA T  0x1x6Nhx_6__NHxg_pOhxxiN Ri*6_x*_0Ap* 6x* RRA*xg_=NTReT Nx_OxRThTihOiRp6<0h Rx0igN466_xA_0kp6upTy0* ixgOVN**igp6nA*0i pxAi*Ni*pBJApAi0p jh*iiNO*-gg4hAp0Tp*hRipNSR*_iQiAXTgpihhiFO6Righ_OM*T*pphpx*OiRp6tHALiThpGh5xiOpRK**1 ZpTM0* ixpOTN*gi_N)rA*0i px;igNi*pg0_*Ai0p Yh*iiNp*wgl_iAp0/p6hiipN-R*6O_pAJT*pNhRidO*RiAi  x_O*Rh*__ OiRp6cg*Y*Tpp! *xi6hR(*6giMpTQ0* iOpR}N6*Ogp,AA*0O pxj_6Ni* gZ_gAi0  Qh*6NNp*B6*_OAp0>p*hOi N-R*6i_hA T*pihp_0q*AOpR g(6Tipph1*AOiRp6zg_GOTpp} *xiOpRL**A*ppTlh_iRNx*06__R6x0_Ag0g pxFi*_iT  ThAihNi TxiiiNp*P0)hNx OgR_6ig ATTAph xiOTgp*hpilO*_gp0 giMTN Rh7x*OiTh0ThphOOxR0*Ag*_6ApqhAx00 ph_OSNi*p6*_RAO00pg0iggkOT pA 6xO_A x0h ph*iiNp0x06hAii0T OhiipN^_6p6hix_OONO6igO__}R06hNxATNpihzx*OioT0A Oh6Tpx0i_NR*xg0__*Rp0TT0g ixpOk_ 0hghWRA*0i p*p_AT!0i0xhgxONp*/6Ag*Nh* 6*_iApipR 6*_et R*6i_pAHT*piNp6x6*RNgT_^;*TiiR*__fekA 060_h6OANORggxqaAp*gg6apTo0*N6Ri_OAO_NgpYfA*0i pxCi*6h%pgTq0Ai0p }Rlg6Ax0ppghxi60:p*hiipNUR*6iT6 ?Tg 0hpi&O*)ApA Ax0i6ix*_giXxThb0ggAgTppV *RN_ A00xp_xhi_RA*h6igpAgTO Tx0i*OO*h6 _N/R06gTGAAi0p XRigO}hT pi_NAi0bp*hi6ifOTO06_hA T*pihp*OJOAO0R  QgTgpphBx*g*_NpTp6x iOp, *xiOpRP**hip_gF0g _xpOuN*Tg hh_iOiNORRTigNO*pgB_*xA0p :h*iiNp*G6*hh p0^p*hiipN/R*6i_pAnT*pihpi/O*Ri6pApp*TNpihUx*Oi_O0ghAx Thpi *xiOpu A 0RxiOTNR*06OOTRT*igpH9 _Nx*v6__g6R*pxNO RA*6gOy hAg0*Tg0_iAp0+O**OgizpT ph RAT0hpihpiQ_nA6p*hpp_OxR?*_gg*RRh6pg*8iTpiOR_gxSTRS**gizpTV0* iRT6IN*hTx6OOR 6Ag6AO*RNi*pgY_*Ai0p <p**xNp*.6*_iAp0>p*Op*pN-R*6i_pA:T*pi*6*(O*Ri6p_Sf*Tipp 3RRONRx6fg*IiOTN 60xNONRe**gipxOTNAROgi_ N*_Ap4i_6gT6x* **RNN6pg2_*AiiiR gp_*_i0T06hhixNkN66NgOFgA_ A_hA T*pihp6AAATApThpyg0 pphFx*g*TR0  AxhxpN_*_gA2iAO0R hKpRN6 _AP6TOp RAT0yTTh0i pxK6gAx0Opghy gNhRA6Og6Nh6A6*_iApxORO*OgR; AdpN  xgO_Ri* _TkATh0xhOn*Tipph:x*OiRpDgN*cNTRps *xi6xA_0N *hOigR7 NidO}N**i0Th_OWNARN6Og_}O0ipOhRih0pi0O_RR6x_0S_*R 00T  hiipNlA^p_ Ox ONOA6TghIRRN6i_7r*TiOx*O_h_6Rh6Ng*UiTpix*Rg*_*AA0OTNx0i*N= NxNOfN**i0xxpigNxR_6 igRc*pgB_*hiN0*06 _*)6T_pN_NAi03p*hi6pm*A6 A_hApT*pihp6p+ATRpi_C.*Tipph.x*Oi6*A^ggA0TppQ *R6_ T00  hhRx0R?6Ag-_ N*O RB**giGpTo **RNi*pgs_*h00  Qh*iigh*<6*_iAp0tp*hiipgTR*6O_pA5T*pihpN^T_Ri6 _e(6Tip_hMiT00Rp6Ag*FgTppA *xiOpRpTRgizpTfpT ix O4RmTxgp24A*0_ pxAi*RNxggc_6Aihg ?h*iiRpTg6*_iAp0Rp*hOipN._g6i_pAHT*pihpiGO*_N6p_A<*Tipphtx*Ripx6Dg6XiT pwO xiONTz**gOwpTg0* OxpOAN***p02rA*0ihTx^i6Ni6hON_*AO0pOTh*iiNp6HpN_iAp0ti hii NjR*AN_pA%T*pihpi!O*RiAh_KV6Tipphux*Oi6ph0g*DOTppA *OTOpRhhxgiJ T2 A ix OzN**igi _A*0i pi i*NO*pgp RAi0p (iTiiN *mggRTAp0Ap*h_ipNbR*gihTA#T*pixgiKO6Ri6p0T?*Tipphvx*OiRp6vTgeiT p! *xiOpR1g*xRXpTA0* OxpNON**gx_vlA60ixAxzi6Ni*pgK<mxx0p 2h*N Np*A6*_*x00/p*hiNTNJR66i=h*NT*pOhpO0O*Ri6p&9xNTipph&O OiR 6Xg*pNTppd *xOOpRL**giphTB06 ixhOPN**i_hNhA*0N piRi*Ni*pgzAAAi0  2hgiiNh*J6*A0Ap0Tp*hiipN0R*gND6AcT_pixhitO*Ri_p_*j*TRpph0x**xRpgTg_liTip/iNxiOpRm6g_OXpT 0*xixpO/N*6NOND(TT0ixpxri*Ni6h_6_*A_0pxSh*iiNp*ngh_iAx0I 0hiihNy**_T_pATT*i hpi0O**NgR_wf_Tihhhyx*Oi6pgpg*LRTpp0 *iTOp6o*6gi&xT:0_ iOTOSR*ixgpfTA*pT px0i*Ni*hgq__Ai0x {h*iiRp6R6*_NAp0pp*hRipNQ*=6i_pAVTgpihhiXO**O6p_Ab*T*pph:x*Oi* 69gg%iT p} *xiOp*6**gRepTT0* ixpNThh*igikM T0i pxDOgNg*pg _*0*0p Dh*NiRe*!gA_iAO0khOhiOhRRR*6g_pT T*pihpOTNNRi6R_,TATipph<igOORp6ig*A6Tppr *xiN6Rk6Agi/*Ta0g iihOgN**ggpTJA*0i piTphNi*RguA6Ai0p eh*g0Np*06*__Ap0Tp*hiN*NP*s6i_pA/0ApixpihO6R*6p_pb*TippxTx_OiRO6G_g;iTpp9x*O>OpR **g6;pp_0*hNigO/RT*iATq.A*0ihhihi*N_*pQy_*Ai0phTxPiiN**Z_*_iAp0D gx0ipNOR*_i_pA4T*pi6hi{NARi66_FFgTi pxpx*O*Rp>6g*76Tp ThOxiOOR46ggi!pTC *h_xpO N**6gpT_A*pNxAxcOTNi_Tg._*AiphhOh*i_Np6*6*_iAppThxhii*NX6*6i_pAZ0gKThpiOO*6i6p_wQ*TiO_hliAOiR66Ugg&i0pNg *x*Op_,**g6Pp Fj6 ixiOF*0*iVpScTgTN px i**N*pgS_*0i*x dxAiiNO*Kgh_i0p*0p*h6ipN R*_h_pT!ONpihiiCNhRi6O_Sy*i0pphTx*O*Rp6Tg*jip*pX _xiOiRZ**giHphT0* *xpOTN**igpAT6h0i OxF*RNi*pgl^gAg0p hh*N*Np*X6*AiT 0# ThiiNNX6O6irhTTT*p_hpOfO*Ri6pcTTxTip*hji*OiRp6:_gLOTppO *iiOpRy**giA?T?pT ix6OVNg*i_hApA*0_ px0i*Ni*pg9 xAi0i Ux0iiNh*Z6*0NAp0 p*hNipN;R*gNNgA>0TpiiNidO*RighNN!*T_ppN0x*OiRpgTNhWiT*pQO_xiOpRq6gNTSpTO0*ORxpOfN*6NOg2QTh0iOxxki*Ni*p0R_*A60p Nh*iNNp*IAg_iAN0/p6hiipNVR*AN_pAxT*pNhpi}O**Nig_JApTi ghux*OiRpATg*AATpp- *xiOp6V _giS6Tmp  iigObN*hxgpkxA*pA pxTi*Ni6ig7XpAi0p &h_iiRh*N6*zAAppTp*hiip*1*R6i_6A.0 piO0i.Ng*g6p_N8*pipph/x*NNRN62_xZiThpX *xiNhR_**_pfppL0* ixpNT*A*O_AsuAg0i px&i*NO*pgO_*T 0p Th*OiR2*}gp_i A0j  hiOhNRR*gA_p0pT*pihpN<NpRi66_2A TihAhIigORRp6Ng*TxTpp? *iNN*RK6xgiT0T)0* iihpNN*6pgpA_A*0i pxrgxNi*6gYkiAi0h /x*_hNp*i6*1gAp0Op*Oi  NF*p6i__AK ppihp6RO*Rg6p_i4*TNpphCRgOiRR6/g6XiTpp& *RNOpRi**gNDpTz0*hNTgO5R *i_*zYA*0i pRTi*RT*pgU_*Ai0pxr__iiNg*3gh_iA_0D gTAipNRR*gR_pA3T*pix0i{NpRi6__X}gTippx6x*NARp6Dg*K*Tp T 6xiOgRq6ggiapT4 *hixpONN*6TgpT_A*pNhxxeOxNi_Tg7_*Aiphhph*OpNp_i6*_iAppTxAhOOAN/6*6i_pAr0g xhpigO*RN6p_%I*Tip_h=ihOi*T61gg2i0p A *iAOpg6**_T4p0T A ixgO9Rg*igpl-0*0N pxNi*RT*pL__*TNpA Gxxii*p*16*_iThpAp*xpip*OR*6i_pTT0 pixAiQR*Ri6p_JAg0ipphgx*RiRp6yg*DiT pGhhxiNTR2*ggiApTg0*hAxp6JN*6TgpAT0p0i gxPNgNi*pglA*Ti0p Nh*OTNp*h6*AiNx0w hhiigNH_N6iDpxgT* AhpihO**T6pT>66Tip6hmixOi*064g*h0Tppx *iAOpRT**giphTmpp ix O!N**igppTA*pA pxTi*Ni*p_TRhAi0g DipiiNp*X6*0NAp0Rp*hiipNGR*_iixA:0xpih_iQ6 RighNOG*0pppi*x*OiRp6F_NIiT6pWhixiOhRW**_p9pTN0* ixpOxN*6Ng >cTx0ihhxri*Nigp_R_*T00p Rh*RxNp6T_h_iTb07xNhiipN}*g_ _pA6T*hihpitO**N_O_AANTihph;x*Oi*h6Ag*AxTph< *xiOpR?6igiI_TwpR ixhOKR*6ggpsNA*x  pxRi*RN6Ng<ZxAiph >h*ii*p*p6*l0Ap0Rp*OxipRT6x6i7SA1p*pihpiBNg*O6p_6L*pipphkx*NN*h6-_N;ippp2 *xiNh*N**_x;p0 0* ixpO:RR*ig_D9TR0i hxqO*Rg*pgN_* i0p Rh*ONN *Ggx_i0h0Qp*hiNpRAR*g0_pART*pghpNGT_Ri6__{AxTi  h,i*thRp6Ng*KgTppR *Nih R46hgil_T4x  iihiTN*60gpTTA*0i pOIA_Ni*_g1qxAi0g Li*ARNp*R6*40Appgp*xi_TNV*h6i_gAP0xpixhxTO**06pAp<*TippiCA*OiR_6l_xcipAp(hgO OpR***A 9pTl0*hNi_O=RO*iAA>KA*0ihhxAi*Rh*p76_*Ai0p =xAiiN_*ygN_iAh02 *6hipNNR*___pART*xi0 iaNhRigT_Sc6Tippxpx*NHRp6Ng*8iTpp!NNxiOxR4**giV T^0*R0xpOAN**Rgp?TA*0iOhx3igNi*Ogb_*Ai piih6iNNp*T6*TiAp0. NhiiiNuR66i_pAL0g ghpi O*_p6p_wz*pi 6h.iAOiRO6cARIi0hpR *xgOp6R**gi4p0T 0 ixRO.*g*igp-+0*pA pxxi*N_*pTp_*0i*x ^x0iiNR*az__iAp*_p*h6ipNxR*6N_pA30NpihNi4O*Ri6 _CAgTNpphxx*NNRp6Wg*Ti0hpuh0xiORR3_RgiAhTA0*h3xpRrN**igpATTg0i 6xbN*Ni*pg+,gT_0p Nh*NiNp*.6*<NY00k xhiNpN>R*6i_pApT*p_hpiRO*RN6pLaThTipNhWR*OiRR6rg*ANTppT *xgOpRT**3iA Ta0g ixhO&g6*igpt_A*0N pxTi*NO*p_TApAi0h wx iiNp*I6*M Ap00p*hiipN:R*_i _AAT_pihxivR Ri_p^hF*TRpph0x**ORp6/_N%iThpn gxiO R1**Zp8pTT0* 6xpOfN*gi_*(zAg0i hx>R*Nigp_6_*A*0p Ah*R4Np6T_i_iAO0qiihiipNv6*T__pA T*p6hpN_O**NgR_vATTihOh;x*Oi*hgpg*m_TphT *xiOp62g&gi3RTcp0 iRiOQ**6xgpsxA*0_ pN0i*Ni6NgesAAi0R ?hgiiNp6i6*_gAp0jp*hOip6Ui66i_NAdh0piOTi?O*A06p_Tz*TgpphTx*Ri6p6Agg5iThp&O6xiOpAi*6gNXpTT0* OxpOtRp*ighrtTA0i pxJN*Rh*pgT_*AN0piYh*iiR0*Zg(_iA 0lp*hiOhR6R*66_pp*T*pihpNLR0Ri6O_9AATix0hligR:Rp6hg*06Tppu *iN60Rm60giThT/0* iOpN6N**_gpwxA*x* pO5OBNi*Rgyz0Aihx nh*O_Np* 6*__Ap0Tp*hiORNe*T6i_pAIT6piOpiNO*Rg6pSx8*0ppphfihOiRh6c_TSiThp:x*O9OpRT**gN1phA0* iOAO-Ng*ighkUA60ihhhTi*NN*pgO_*Ai0phTThiiNx*tAx_iAp0up*6OipNTR*6N_pAAT*piNhi(OgRi6O_}H*Tihpiex6ONRp6Tg*0iTphu09xiOiR>*6giTxTupgx0xpO N*#pgpaLA* i Nx=OANi*OgCTRAiph Ah*igNp**6*_iAppThOhiiRNr6g6i_pAXp* hhpixO*R_6p0pX*pi *h}i0OiRR6YA_kiTpOR *x6OpRx**gN2pTVhp ixNOHN**ig Wtp*jO pxhi*N6*pT _*Aii_ yhgiiNN*k6g_i0p mp6hNipNTR*AO_pA8O6pihhibOgRi6 _!!*hNpphTx*O6Rp6og*TipppA gxiOhRD_*giTp_p0* *xpOAN*6xgpAT0O0i Oxs*iNi*pgyA*AO0p  h*i6Npg_6*wNT603 ThiOqNfR*6iohTNT*p_hpNTO*Ri6pAfTOTipRhMi0Oi_i6%%*ATTppx *x_Opg0**gi _TLpA ixRO.Ng*igpTiA*0g px(i*NO*pAY*6Ai0N vOgii*O*;6* 0Ap0Tp*hgipNTR*_iApAATgpihhi/66Ri6phAo*TNpphTx*OORp6rTgKiThpkhAxiOpRQg*bi} TT0* Nxp*1N*giRi-LT90i  xK* Ni6h_p_*A60pi*h*iiNpgD66_iAO0& AhiR0NS*g6R_pAhT* phpi5O**N6h_=A0TihhhYx*Oi6p6xg*L_Tppx *R*Op6)66giaRT:p0 iNxO&N*T0gpn A*0_ pxTi*Nig*g-VTAi0p nh6ii6pA+6*_gAphTp*O0ipNk6A6i_hAQ0Tpihhi.R*606p_T!*TNppNAx*Oi*06ngg>iThpP 6xiNhRR**gN5pTO0* ixpNT*0*igx54ph0i px+i*AO*pgT_*AN0p Ah*Ni*p*A6g_iA 0^iehiOh_6R66*_pTTT*pihpN9OgRi6i_mAMTix0hrigO6Rp6 g*0hTppt *iNN6Rt6Tgi;hT{0* iihOTN**_gpT{A*0i piTONNi**g:A*Ai0p ;h*OTNp*p6*=eAp0Tp*xN0gNU*A6ikAAvT*pixh0NO*Rg6pT0q*TippxT0hOiRR6nTA+iTpp: *xAOpRi**gOqpT+0* iRiOANg*ig*QGA60ihhiTi*NN*pgO_*Ai0phTxbiiNx*qgp_iAp0Vp*hOipNTR*6N_pAAT*hix6ifOgRi6 _HT;Tippx*x*ONRp6Tg*&OTppMhTxiOpR+*6giBpTo0*hTxpOHN*6N6h8lAg0i  xBi*Ni*NP0_6AR0p mh*iONp*h6*_i-R0cp*hii NYR*6i_phxT6pihpi,O*Ri6p_}h0TOpphkx6OiRp6Wg* _T pk *xNOpRB**gi RTA0* ixxO<N**igp xA60i pxpi*Ni*pgCh6Ai0h ;hgiiN *%6*pNAp03p*hOipNzR*6N_xA;T*pihhixO*Ri6p hxRONNO*A6_w&Rh6Ng*5iTpiNN_*xgT_p0ApRx0ipNA NxOOPN**i ihAxgNpROxAi*Ni*pgp_*Ai0p TxAiiNp*?p_hix NxRNhNiiNzR*6ihRxAOgRhhhi O*Ri6p0hxiiONR60xg* Rp6{g* xOhNO*RghRp_*0 pNxhiANg6AOp60AR0hpNhOi0 iNt6_g6d*TO TA*p  pO06R_6A8Tp_*hhi0Nph**gg6UgTk_i_ ABT*pihiifO*Ri6h_p{*TippRp_ ?iAO6T_xjiTppGO_gxjmA_0g ih6i0NxR6ghOTN_*igp,Sh_O6*ixTOANi*pgPpTipO Rx6_iiNp*-6*ATAp0op*hiRRNAR*6i_pA2T*piipOxO*Ri6p_-5*T*pphwOpOiR 6Mg6:iTppC *iiOpR}**giGpTA0*xiipO.N**igpWSA60ixNx_i*Ni*pgi_*AO0p Th*i*;0*M6*_iA*0Lp6hiii__R*6i_pTTT*pOhpiU6gRi6p_fC*Tipph&O*TRRp6&g*yiTppp *xi6hRG*6gim T40* ixpRON6*igp<!A*0O pOyN*NO*pg+_*Ai0x <h**NNp*T6*_NAp02p*hi*hNKR_6i_xAfT*pihpN0O*RN6p_0y*TipphfNhOORp6Bg*IiT p)h46xOpRD**9A(pTA0* iRhOvN**igp9zA*0ixpNii*Ni*pgW_*A*0p 8xOiiN *f66_iAp0}p*xiipN^R*6i_pAAT*hih*i<O*Ri6p_B._Tipphix*ONRp60g*?iTpp7xhxiOpR3*ggiY TW0*NNxpO1N**Ogpy:A*0ihxx&i*Ni*pTT_*AN0p {h*iiNpg.h__iAh0HpghiixNmR*rA_ ATT*pNhpiQO*Rgh__?1gTi Ah3x6OiRp6X_lhxTpp5 *i OpRA**_N_hTV0g ix O,N**igNT0A60R px(i*NO*pgp_*AiiR Ah*iiNp*Y6*_iApTxp*hiipN7R*6i_pADi0pOhpi)O6Ri6p_Ys*A_pph2x*OORp6;g*aiO pF gxiOhRG*6gi9ix_0* ixpNTN**OgpATlg0i hxligNi*pg3(g6T0p 0h*i*Np*=6*_iSR0a <hiipNmR*6i_pHxT*p6hpiAO*Ri6p_>_OTiphhfiAOiR 6Vg* NTppH *xOOpR}**gNA?Tf0* ixp6TN**OgpY{A*0i pO4N*NO* g9_6Ai0h uh*x_Np*06*_iAp0;p*hi6_NvR66i_xAmTgpixhxTO*RN6p_0v*TippiKU_OiRh6-gg.iT pl *h_OpR0**gO)pTD0* gOxOARa*igpU%A60i hx;i*__* g)_*AO0p nh*ii_R*A6*_iAh0Wp*hiipi6R*6N_pApT*pOhpicggRi6p_3n6Tipph#x6O*Rp6rg*sN0Apr *xigxA 0ip6hxOpNAR**i_iAA0 pO{TTA0i pxW_*sOT6 Th_ANp? }h*ii_iTipAh xOx_Ng6TgOM00LpR_hAhT*pihp6p;pA6pA  x_Tipph3x*RlRp6Vg*ANAhpn *xiOhRU**gi8phT0* OxpO=N**igpT5N_0i  xUi6Ni*xga_*p 0  7h*iNNp*T6*_*x00Bp*hiOONzR66i8h8TT*p6hpiTO*Ri6p_?Y0TipNh5iWOiRp6Mg*0 T p  *xNOpRx**g*h0T70* iixO/N6*igppTA*pT pxAi*Ni*pg7_0Ai0_ yx iiNp*86*A6Ap0Np*hNipNTR*6i0hAy0xpihpiZO*Ri_pi02*00pphRx*O*Rp6HTgli0cpw *xiOpR7g*xRapT*0*hpxpOAN**iW6KATx0i _xsOiNi*pQO_6T00p Rh*iRNp*>6z_iA60P hhii_N,*T6__pA T* AhpiAO*RN6p_phRTipph<i OiR 6F_T7_TppZ *x6OpRA**gN(pTpOR ixpO&RA*ig cFA*iN pxki*NO*pg(_*Ai0i kh*iiNh* 6*_iApxORO*OgR( R*6i_pA>T*pihpxo6RRNgN_rI*Tiih*A6_s0ARpT Rx6OTNpRfgN_ Ag0_ ih OTNA*h6xUONg60gp)LA*iA*A6A_0l6,h  x.i*N0Rgh*iiNp*Sgp_iAp02p*6_ipNAR*6i_pACT* Nh*iGOgRi6i_m2*Tipph x*ORRp6wg*8NTp u _xiOxR9*6gi}pTIh*hpxpO0N**RgpqTA*0i NxUi6Ni*xgv_gAi0phih*iONp*T6*_iAp0=OghiipNVR66i_pA,T6pOhpi:O*RO6p_J}*Tip_hkx*OiRpATg*mOTppu *xiOpRv_ gO) Tq06 ixpOX6TxRgp}AA*pC pxAi*NO*pgp RAi0p YxpiiN *M6*0NAp0Ap*hiipNZR*6iA6AAT6pih iwO*Ri6pAx1*TOpphTx*OiRp6ppR/iTppwhhxiO R%**gtlpTA0* OxpOVN**ieRS/A60i hxci*Ni*p0T_*Ai0p Ah*iiNp*A6g_iAp0Vpgh_ipNvR*TR  ihOAiR*NgxOgR66p_=#*OiNx*AgiZpR 6eg*Ji00pk *xiOh*m**gi5ph6O6*06O6gAR0*p6hhi ORR gp_ Ax0TgT_6Ai0p vORiNNi*D6*_ixROARO*6ihNxR*6i_p 0ORRh6ig WNT*6h_pu*TippRpg F AO6T_T#iTppPNTgxoJAp0A NChT60* ixp60AR0hpNhOi0N6*h6Ar-AA00pg_g0_0p :h**OAO0ppRT iYO_N6**gOHp6*0Rh0xgOTRA*R_ MgAOpi OxROhhp*hgR#N6ppp ph6ppNxR6g _O6&*gg*^pT-0*ihgi!iTZ*NgNS-A*0iR6g0_TAA0Bp _gAg0p Uh**_f T6pApAxi0Tp6hiipN!gN6i_pAkT*pihpiLR#_i6h_pW*TippNg66u AO6T_p7iTppX*g66_ Ap0T Axui 0* ixpOB*_*igpGFTg*  pxai*RT*pgt_*Ai06 <h6iiNp*76*_i0ppRp*hOipNAR*6g_pTTp pihhiwOgRi6p_tAg0xpph0x*ORRp6(g*TiTipb _xiOxRb6xgiAhTT0* *xpOON**igpc>6p0i  xki6Ni*ig+_*060p Lh*iNNp*T6*_gN_0Jp*hiNhNzR66i_pA!0;NxhpiFO*6N6p_AL*Tiihhqx*OiR 6Zg*%i0h*6 *xOOpR_**gi,pT3 + ixhO!N**igpX#0* / pxTi*NN*pgh_*TNpx ch_iiNh*26*_iThphp*h*ipN0R*6i_p0a0NpihiiyNmRi6__BAgT*pph x*NARp6&g*JihOpU gxiOhRV6Agi}pTx0* OxpOTN**igp7{TT0i pxbi*Ni* gz_*TN0p kh*iiNp*w6*AiTp0<p*hiipNCR66i_pThT*pNhpi^O*RR6pT#ApTiphhuiNOiRR68_gAgTpp0 *i4OpRU**_NMiTmp, ixxO4N**ibpYiA*0* pxpi*R0*p_TRhAi0O rxiiiNp*I6*RFAp00p*hRipN R*gihTA;Tgpihii#O_Ri>p*AH*TNpph x*N Rp686O-iTppJ gxiO Rt**0NKpT>0* OxpOXN**igg3^A*0i pRTi*NO*pgb_*Ai0pxZ__iiN *%66_iA 0S T&0ipNAR*gA_pAAT*pihpip_RRi6p_:A Tip heigiNRp6Ag*{NTppw *xgRxRA*ggi>pTf06 ixhO?N*A_g ?fA*0i px(i*NiARgA_*Ai0  Ph*iiNp0A6*_OAp0Tp*hOipN7og6i_pA?T6pihpiFO6A_6p_sb*TN RhQx*OiTh0ThphOOxR0*Ag*_6ApahAx00 ixpiRNi*xgF=/A 0yp_0i px!i*Ni*pgB0N6i0p th*iiNp*m6*Th p0Wp*hiipN,R*Oi h 2TgpghpizO*_Rp0 *xRONxxhTiiOiRp6jT_xxOTNh* 6_6NA_0ip*hOOT0ghAxpO%N*AA TxpigNxO660_RAh*hg _*Ai0pOO6OgOVRT 6gtaAp0Bp*R*gOAi0=TR 6iNOApNhii:O*RiA6 0xROhphx0x*OiRpAApgxRO0N*6Ag*_O_00R hxii NN***x_OThT6ghXpA*0i pR _NA60AgT=pAi0p v*Gg6A*0pT! OihORpgh6ipNBR*Tp  xTOARphhOxO*Ri6phThgNWN 60g__6Ti0O MpT 0h_O0Ni*RgT>0AN0O 0xWiNxhOhN**igp 0OQNN*06R_ANN*gg1_*Aix6Rg6*_6AiyTpA _x Ogp*hiipNWR*6i_ppgh*pNx*i3O*RiAR  i.xiRh*_g*_6Thpph pRi*NA*N6__OApA_ AhRigO6*pxpOtN**igp,rA*piOpxTOxNi*pgYppiAOiR R*_N!OT6p h6iA0-p*hiipNfR*6iAp +T*pihpijO*Ri6pIip*Tipphox*OiRp6sAgpiThpx *xiOpHKT6p*hiiONNR_xhOON**igppOiNN**h6_gjZ60* p_gTi0p Jh**RAWTOp*hR iO R_*RgOBgT!0OhTipO_pNipiUO*Ri_Nhxx i*Ri*iRO**ghoYATx3iONO*0gkIig6I;AN0pphNT*xgh_6K60*TAx1iNO_ hxii*Ni*p00hpixNROO*__xAT*Tgw_iAp0)N^*6_*ApRgg _pA?T*iR61g_c_A6Ax AxiOpNh*A6_L0Rh6 g*niTpih*g6OkAA **gi%pTG0* ixp*Oh**igpSsA*0i pNk__hi*pgY_*Ai0p wh*6Agp*Tgi_iAp0wNARA6ntOT_p*p/xAN Rx6O_pO*Ri6p_U+*Tippi*R*ONRN6+g*dixxN R_gxUTAp**gi.pTL0* ixpOwg**igpulA*0i p_bfAgi*hgN_*Ai0pN0*6_glOk0pRhhxNOOR0hNORNzR*6ihhxTNpNO6x_0nAT*06 pph xx0OpN**Rg HiTppA 6xTOpxNORR)**gipiiORT*A6i_ Ag*Ng_K#A*0iOi6O__Ai09pAx hhO R66AiiNp*w6*_iApRyO6NiihNRR*6i_ph0i_RN60g*#i_gph AxOi6phhRx*OiRpAx Rx*i*NA*ORNr-AAT_ 0>pTu0* ixpOGN*9ATpzTTx0i px8*6AhTxpihRiNipR_6 _hAi*(6*_iAp0?p*hiR*hJRg66_pAbT*O6NigO5OgN6p_Yk*Tipph4x*gAxp6=g*viTppy *R1Ax_n*gg*fpTb0*N 6 _OAN*igp5#A*0i px5Rpgi*hg0_*Ai0pRg6A__Np*G6*_iAp0s***6ppN-R*6i_pAfT*piOx*BOg*g6p_aH*hNN *0gx__Th0_hAxhiiOp*g6O=TT00*pOxhi NNRRg6OqN**igpS3A*0iiiRdigNg*pgH_*h6NxR 6g6A8i*#6*_iAp0fp*hiNhgURg6*_pALT*OR*6_NMARNgR_,z*TiRh*T_p_OTxp0 Ax*i6NpOhNx*0gx_*A_0h xh6OANx*0gp*igp9GA*0i pxUh*gx*pg4_*Ai0p !h*xih0*Tg0_iAp0.RT6N_0y6LgA_0hAT0ppihpi}g*Txpx OiIOAR0*gxgO_Rp6=g* Ri Rh*ARR_NAx**gidpTL0* ixpiJgR*igp2oA*0i pxKRhgi*pg3_*Ai0p op*_xgp*TgT_iAp0(i_6x_hugTApN_hAgT*pihp*6aRT6px  pgO6Ri6pgRXhg T  *2NTipJ *xi6NA_0N *(pT90* ixpO8N*g*Np9TTh0i px(_O-OT_p hTixNcRp6A_NNh*h6*_iApi.N66NgO!g0U6i_pA^T*pihpin*o_i6h_*.*TippNOgNv*Th0_0Axhi NT*i66_iRT60givpTziORO6__ lqTOphtTTh0i px16*AN00pNhAxRNiO N6g4Nh*N6*_iApiTRR66_THp}TpN  x6OApihpi4O*Ri6p_<Tihiphhpx*OiRpA*  xROipThhxiOpRIA0 xxiiiO6* Rh__AiT*ghUxA*0i p*h_AwR0ip_hgpN0h ih*iiNpTOp_ gi0O*Rq*6_hN%R*6i_pA<T*piRTpYO_RO6p_P>*Tipph=x*OiRp6T_T8iTppmOgg65iTp0R hShTp0* ixp6gI60 pOzTTT0i px%g5gg0hpAhOx60hixh*iiNpTi fh*ipN0ihOxR0Ax00p_TTiTORNN6)g_Apgh0x _xO xN** 66_*Tx0i Rx* ARp*pg6sAAT0NpOh6i*hR*AgA_AA0T6T0x i_O6*hRO_7g * g-_*Ai0p Yh*iigp}86*_iAp0Lp*hi)p_hx*6N_pAJT*pihhixO*Ri6pphx ORN6*Tgi_6Rh60g*%iTpiOR_gxOhRh**giHphhNR*p6i_ Ag*NgNo4A*0iNi6__*gNT  T{0Ai0p bxhiiNp*{6g(iAp0Dp*RA_TApTApN NxAi_N6ip*iM A*0i  xNTN Ah/x*Oi_x0* RxRiOi0R6gp<!ATT6pRh_T30* ixpOKN**i_ipfAg0* px<i*_*T6p6hAAN0i rh*ii_TTApO 6Ax0PpgxiipNBR*T   xROAOh60_pV Ag06 0h6O*N6*_gNONRR6jg*IihxN_*Ng*_OAgpFgNuRTZ0* i*N_OA_0Aphh*iA0NxNxmi*NiAipAh*0iihRO60_SAiA0pphAxNNph*6*_0*BTg06h0ikOARhip_pBpA6_p OxNO*NO6TgT_OAx0 g*miTppZhRxiOpR,**TNepTd0* ixpO-N*_iR ctA*0i 6xlOTNi*p6O_*Ai0p Ah*iiNp*Dxh_iAp0Kp6hiipNtR*AN_pAvT*pNhpiUO*6i_p_A#*TipphGi0OiRp_ig*4NTppa *xROpgrO6gi<hT>pA ix O26*OOgpwTA*p- pxNi*6iO gP_gAi0i 5h_iiNpN66*_iAp0Tp*hOipNZ_g6i_pA)T_pihpikR*pR6p_:f*TipphTx*Oipq6cg*1iT pn 6xiOpsT**gi+pTA0* ixpO}6N*igplmAg0* pxFi*A_T pOx;AR0p TxRiiNp*jTA OixOORN*_*i8OTg06 xipO Rx6TiTN*Ri6p_eh8i6R*6p6qqNA 0g _xii RT*Agh_xTO*gg_spT40*Rggh__AOANTRpTAgp0 pxci*_A0ApAh0x6xxR_6i_xAh_06g_6Ap0fp*R6*iLOTOsN_pA+T*pihpinO*OiA0_I8*TipphXx*OigoAlggL*Tpp> **R_6TN0AgNjxTa0* igT_ T0*NgOn(A*0iNc6Agg760FgT/0Ai0p r*Tg68x0ppRhNph0T +hiipNc>TpxhTipTg Thpi^O*__p0hpxpiORANTgR3pAi60g6?iRg6O_ AAT6pON Txmh0A0* ixp6OAOTOpRh x.NNR 6g__AiT  ThAihOx*OhgO0Np*L6*0OiTO0Rp6x_h_KTRpAhTipT*gT_6AO0  Ah66OpRTNpNhux*Oi_xpT AhOOiN  gihOpRS**0*hOOiR;RSR _*A T_ Th6iANh*ixTO Ni*pg3 li_OOR 6N6AATThpR_NAx01p*hi60A 0(6N_OAVT*piN6g6_6A_0O_l1*Tipphtx*OigxA5gg5_Tpp1 *R*_OT0p% Nx0OO0gh0xpO^N*j6p x0i NhRR*0+3TA0?p _*Ai0p lh*iiNp*yA*_iAp0tp*hiipi^TRAi_hApT*pihp6.=iAOp6_X0_ RxxO0N_*RixW_ggAbTppl **if0T00  *h6i_NN ixpO!N**igp:? ixi hxOi*Ni*pTOhNi*NhR_R gRA0Tg6g__Ap0Xp*Rgg6A0T 0Nhax Tgpghpi%O*&i0 hTxAOhRih9x*OiRp67g*%iTppw gx*OpR>**T6xTO NO Nx6O8N**iT6hgOFNN*0*p_ATf0igT-hAi0p ^*jg6A*0pAghxiOOgR,6RihNhR*6i_p 0OARh6ig wgRN6i_tU*TiO 6 66_*Rp6/g*:iTppm *hi60RT*6gi/pT-Op NxNO7N**iTxh_iiNx*hN0i*Ni*pgnRNAi0p ch*OxN *v6*_iAp0dp*OiOgN;R*6iAiA!Tgpihpi*O*Ri6p_AY*Tipph8OpOiR 6cggciTppWhgOpOpRT**:AUpTC0* iiiO,N_*igx.8A*0ixpi*i*NR*pg0_*0R0p jxgiiN *86__iAh0rp**_i NTR*6i_pAhT*pih_iVO_Ri6i_:#*Ti pxTx*ONRp_ g*tRTp ThgxiOxRm6Ogi8pT8 *hgxpO0N**RgpkRA*pNhpxrO^Ni**go_*Aiph Oh*i6Np*i6*_iAp0KRghiixN#*A6i_hA?0* 0hpiTO**R6p_0M*0N Ah!x_OiRR6ng*=ipppi *xROpR0**_0>p0TpR ixiOcRp*igpwyTgpN px i**g*pgP_*TN0x bxTiiR *)6*_iThp p6h_ip*hR*6i_pA;00pihxiVN0Ri6h_LA*T*pphTx*RORp60g*AN0OpP _xiORR-**giTpTi0* RxpO0N*60gpATTT0i ix}RTNi*pgeMgT_0p  h*NNNp*M6*mN0O0A ThiNNNmR*6iWhTiT*p_hpNTO*Ri6p_yA}Tipxh#i0OiRh6Z_*A_TppT *iTOpR0**_NTATy0_ iNTO>N**iSpA A*0R px0i*N6*p_TwTAi0i #iNiiNp*5ggRTAp0 p*ihipN+R*gNNgA.0TpiiTilO*Ri6ppRJ*TRpphhx*ONRpgk NziThp!hTxiOxR3_*ROUpTT0*hNxpR*N**i0_ILA*0i hxzigNi*pTT_*AO0p Ah*iiNp*QAg_iAh0QpghiipNG*gOT_pA0T* phpi+O*RiAh_sA-Tipxh7x*Oi6ph0g*(*Tppp *NuOp*TihgidOTfp  ixpOfN*T0gpuTA*06 pxTi*NiTRgA__Ai0p ,x0iiNp**6*_*Ap0pp*hiipR2*06i_xA! Apihii<Ng6f6p_p{*T_pphkx*RiRg6>_>#iTipHhxxiNh*x**g6kpp*0* ixpNTRO*igNaZpT0i px/Og*6* gx_*pp0p :h*ONNx*Cgp_i0N0.p*hiipRRR*6*_pAiT*pNhpO<O6Ri6x_>AhTipih=igR0Rp6pg*A TppY *OiORRI64giQiTDpx iihONN**6gp^iA*0i piTNANO*Ng48pAi0p =h*i_Np*p6*_gAp0Tp*xiixNUR_6iVxA,0apixhOpO*R*6p_xf*TippiaiAOiRi61_8tiT_pFhgijOpR **_mPpTK0*hNiRO1RT*i_gP:A*0ihhThi*N_*pgi_*Ai0phTiliiN**f=T_iAp0Hp*h*ipNpR*gc_pATT* ixTizO_Ri_ _cAcTi hh6x*O*Rp_xg*PiTphJ gxiOiRV6LgiANTV * *xpOpN***gpTNA*piO*xwi_Ni6Ngu)5Aiphhxh*i*Npgx6*_iAp W ThiiiN{*d6i1TAzp* 0hpipO*R*6p__I*0i gh,x_Oi*T6H_+ci pAA *xROpRp**ApCpTWOx ix O,N_*igh,4A*xN pxTi*N6*pg<_*0ih* AhgiiNh*Z_A_iAp0gp*h*ipNLR*6i_pTTpppihOi+R0Ri6p_kT*0gpph x*O6Rp6Rg*AN0*pdhTxiRpR9**giAhT00* _xpRxN**igpTaT60i RxSO0Nig,g%A*NR0p xh*i_NpgR6*&Nzh0F phiNRNPR*6iApN0T* WhpiiO*RR6pA5O_Tip*hFipOi**6Qg*h0Tpp  *i7OpRT**giT*TqpT ixpOuNg*iAp6AA*0g piTi**g*p_T OAO0R :x0iiNp*{_*_gAp0xp*h_ipNRR*gN/TA{0ppih*i;O*Righ_ F*0Appihx*OiRpgT;pBiTgp>hpxiOpRJ6g_RGpTR0*xgxpOSN**ig G4T00i _xSigNi6pAp_*Ag0pxAh*i_Np*Wgi_iAh0F ThiihN%6*6__pATT*pNhpO_O*Ri6__aHgTiphhVx6Oi*hg g*3NTppA *xiOp*T6NgiHxTB S ixpO:N*0jg #TA*0N pxAi*Ni*RgD_gAi0O =h*ii*p6 6*_NAp0Tp*x6ipNK*x6i_iA}T*pihpi>Ng6p6p_ ?*0_pphCx*Ri*A6S_A,iTOpchxxiNhR0**ggsppK0* ixpNTOg*igRz>p00i px4N**O*pgx_*A_0ph*h*NiNh*lg0_iAR0uxxhiOhN0R*g!_p0xT*pihpN1RpRi6*_YApTipxh)O*N Rp6ig*AZTp i *xiNAR;6AgiC*T+0g ixpOAN**ggpHKA*0O piTxgNi*Rg<z0Ai0p 9i**hNp*x6*__Ap0Rp*xNixNf*p6i_*A1T*piipiRO**A6p_As* Appi7OxOiR668_ 5i Ap1x*igOpRO**_AMp060* ixgOBR *ig6=nA*0ihhihi*RT*pgi_*Ai0phTThiiN_*;UT_iAp0op**0ipNxR*g0_pATT* iOiiYNTRi_ _/A0TippxRx*ONRp6hg*oNTph+hpxiOhR;*ggiT0Ta0*xAxpOTN**NgpIAA*pNhgx{igNi* g,_*Aiph _h*iRNpg(6*_iAp07RphOihN:Rg6i_ A-T*pRhpiTO*R66p_}q*pip*hvxgOiRh6y?AfiTpp0 *x*OpRA**gi-p0Tp7 ixOOd*0*igpuk0*p_ px i*N6*pgR_*TNpA )xTii*p*:6*_iThTTp*h_ip*xR*6i_p0op6pihRiPN0Ri_3_rT*0Rpphxx*O_Rp_Rg*AN0pp4hpxiRRR)**giTpTR0*hexpOiN**RgpT%T_0i *xyOpNi6*g._*Tg0p  h*OzNp*T6*_iTg0% ThiipN.R66iTph2T*pghpipO*6g6p_ZAATiphhbiTOiRh64P*TpTppT *xNOp*_**giAhT10g ixhO9N6*i_hARA*0N pxAi*Ni*p_TuxAi0x wiOiiNp*F6*haA 0Tp*hNipNAR*6iCAAVTgpihOi?O*Ri_p_pS*TNpphTx*N6Rp6w_NeiTipD 6xiOpR,6g_N>pT 0*h_xpO2N*gigh8:TA0i Ox=OxNi6h_6_*Ag0px/h*iiNp6T*g_iAR0+x0hiipNk6*_O_pAxT*p_hpO*O*6igN_(A0TipRh7NxOi*hg*g*AVTphx *xiOp6r6igi3*TQpp ixxO%**6*gpjiA*po piii*Ni6pgBkAAi0* MhgiiNp*O6*_gAp0kp*hOip6?i66i_NA+08piO>iMO*A06p_TP*TgpphTx*Ri6p6AggbiThpqxRxiOpTA**gNKpTT0* OxpOXgg*igh4cA*0i pxvR*xO*pgT_*0*0ph=h*Ni*p*A6g_iAp0>hxhiipAAR*6N_pATT*pOhpN>R*RO6h_XJ6Ti _hlx*!ORp6Tg*+NTppA *xighRf**giw TY0* ixpOmN**igpfoA*0i pxAi*Ni*pg{pgAi0p Wh6iiNp*b6*piAp0Wp*hiipN{R*6i_pA{xiiihhigO*Ri6p0hx OhNiNhg ?NTxppT_xui6N**kxNO_R1**gi xi0Ng*xg5_*_T0Np h6iA0N _xei*NidRp_xbiwO R6Ng_pf T0px_NT*0Wp*hi*RZ 0(Tihhx_O*N66h_pA _R0* AxNi_NO*p*_VAAR0gp6xpTppG *xiOpR=p*TO*pTTpx ixpOcFeT6 *xpx0NNR g2_*:6TigTIpAi0p QR*_xAxTO ZhAi0Ogp*hiipNZR*6i_pTih*pihpiPO*Ri6p_QhAhipphfx*OiRp6IT*hOhppV *xiOpRe**gipxhy0g *xpOeN*U6 Tx iO0NhpxXi*NiAp ThAi O6* 6ONigNT 06h*iONTRA6RihNgR*6i_p xORR***gAXOVR0O 6x iNR0**g#ONRp6Gg*niThp* *xiOp. A 0ph6O0RcNp6 ZOAR06 i1TT00i pxB6*(OTipph ihOR TxTiiNp*DAgh6iiNpRR6hipNSR*6i_pAXN*N0NpiTR0Ri6p_4xgiNR**Ag_7RAOpp  h* gh_iRN**igi__AR0i  xpi_NOOTRT*igp&fx}xg*h6A_O>6*hg _*Ai0pOO6OgOlRT 6*_iAp0%p*hiSpgA_*6O_pAvT*pihpiGx*TxAp_TAATipph?*i_OAh0  i2RTpp# *xiOpRY**giAihw0g _xpOlN*I*p6xhi O*ROgTigN_*pgz_* *OO*0g2_NA00O6*_iAp0<p*hiipNtR*6NW A1T*piN6g6_6A_0OppxgiORT60g*_OTh0  NhRO6pT _xiOpR+T7pOhhTTpA ixpOS-Q0A ih*iA0R  xTO.Ni*pg/hNx6N**ph*iiNp*{6*_iApT/iRhNO NZR*6ipAx_NARR*O*TAAT*pi _xN Oix**g _RA_6Wg*FiTppc *xi6xx#*gggjpTH0*ORg0_*AR0NAxmTTT0i px}6*5O0hp hNi*0p Kh*iiNp*16*hA6p0T hhiipNV> p* Ox6x*NO6hg YNT*6h_xr*Tipp*hgg-xTATT00pNThp6 *xiOp_OpWp6xAh0NR*hgi_AA 0hpOxTAgp0 pxzi*_i0hp hOiANOR6RR_hAj0O6g_*Ap0Fp*Rhg ?6TA6i_pA-T*pihpiXg _i6h_x%*TippRhg LRA60T ih6Tpp/ *xiOpRd**AhppTTpv ixpOz_T0x TxpAgpi pxVi*_*TO ixGh*NhRA6N_RApTApg 6iTO0* hNOxNBR*6i0 xTO_Rx6>_ AbA6Ax _xNO*NO*g_YgRA6pN A-NTxp% *xi66A00RgizpTo0* ixpO&_ iigpONR 6Ag6SOT iA50gq_*Ai0p >h*iigT186g_*Ap0ep*RAgxr_TN6i_pABT*pihppG_g_i6p_PU*TipphZx*R*_p6og*>iTppG *0i_hx.*g_AGpTb0*N6R6gYk6T*pihOiNO_ hixi*Ni*p T gO3O *06_g6AiTOpK0Tp0 _x_OgR 6bgg,RT6pOhTxihhipO*Ri6pppxANaRihTi+OiRp6K0ixAOxRp *xiOpR;**gidppix* ixpO7N**igp9qpgxi pxUi*Ni*pg:_*_ix0 TxXiiNp*^T_hAigO pghRipN!R*ph OixTgR6hpi%O*Q*0* Ox_piRp*AggC*6p0_ TTiOiNi*AOiqxA00g AxpOp **AgxRVAi0xpxhRiAO*xpgp_R*iAxpOhgiANO*0i*6iAhT pOhAiOO6h*66_x% TgpRTT0tx*R66hg08pAOpx  T*xiRh* gO4ATO06B*xAOThU6{g>_O6uA. Axxi0NR*N6iR+A_T6 hxhiANNxpOi_JAA0xp0hRiNOixg60g_6000p hNx6N R_OAihNRR*6i_p AONNR**g_GgKip0 OxNO*phx0x*OiRpT  NhOOORp*pgx!hAO0_p6hip.x6RR6x_ A_0RghVNA*0i pRA_zS*Axp  _i*O6R_6NiNNR*t6*_ihNO N_6*_0ATgg6i_pAbT*pihpiI_i_i6h_Nb*TippNxgRc*A*0A OpNO0N**rxiOpRk**gijpT(hiOixhO N**igp  hoNA*ANTOANi*pg/, Ai0p /hgOhNp*w6*0OxiOpi_6x_v+_Tgpi 6x0OxN66hiTNxRi6p_up6i*NiNpgg-xTp0p Rx_OTpThixiOpRj56p*hix4O6*N6 _xAgTO phiAgpA px8i*gOTipp bixORRx6ig6Nh*i6*_iApxAR}**6rcAAg06h<AT0 pihpin66A*0ip0xiOANi* ggONRg6qg*2ih Np*%**_OTip8pNx0Oi0ghAxpO7N*3Opihp gN6*igp_RAh*hgx_*Ai0pOA6<g*ghTOpN *A60fp*hi60NdR*6i_hApT*pihp*h&RThpi_TAATipph^*i_OAh0  i{NTRpW *xi6xA_0N *hOigRu ixpO7N**igpBnT*xi px:i*Ni*pg,_*ihxp Th6iiNp*nTT_NAi0up*hi*O%g0Ap _hAiT*pihp6K7RTR06hpx OxRThTiTOiRp6m00xxOiNiR6g OhR **gifphONORO6R_ N**igpH7A*0i pR0p*NN*xg1_*Aix6R06RiNRp*D6*_i xO*R 6i_xgpTApR xx ONN** ggAoTR6h_h;*TippR0gA_RT00g o=N0Rpe *xi/hATpppOxxO0NA**66_pgh_xA00xp*h_ihNxR*6g_RAO0TAN0R Wh*ii_NTOp_hAxhO*RAhNiiNMR*6ip{xOO_R*hpi+O*Ri6p_y7*ihiphTiAOiRp6YpThOOQR *AxiOpRq**givpTSA*OxxpO=N**igp2BA*h*OpxTOINi*pgthTiANTRphgi_Np*n6*0*x6NhR **gOATR*6i_pAKT*pihp*06*RN6O_yz*TiOONpg P gh6T_BBiTpp&NigAUTA *gg*-pTf0*OggB_AA0*NgOH^A*0iON6*g6C_0xgTDTAi0p 4N__xAhTgpAhNAp0jp*hiipNkR*AhRpATT_pihpiB*Ngh8T_TAyTipphy6qAATp0 ggA0Tpps **R_xTT0R px8hhNgROgA_ Ng**gp,3A*iRR gh_ANN*_gC_*Aix6R6*6g_?O40pRhpi0NTx_hNiiNsR*6ipTxAOON6hhi O*Ri6ppTx i_N*6px_OORh6xg*qiTpOT*A6g4hA 0_ DMpTC0* ixpO(i*0xTpsTTT0i px^*_Ax02p_hgpR0p 8h*iiNp*f6*Tz p0T 0hiipN/%}06 NxANARp6iiTNpRi6p_vhMi6R*6p*2_OTh0Rg*/iTpp^ *xiOpNWiRgN&NT80* i*p_AAgT6 TxpAgpT pxyi*_N00  hNx*xN*T*6_ aO*56*_iAp02p*hiN*hnR*6i_pA!T*pihpOp6*RN6N_Xq*TiOx6pgg+xA_0 ggA/Tpp: *RR_ A*0ipNh i0Nx NxxOHN**i0xh OP0N _xei*Ni, pg _i<N0*TR*_xl6Tg ,_NAR0Pp*hi60AV0;pAh0xgO_pNhii#O*RiTi  ipO*pph-x*OiRp6ag*0ThppTh0xiOpRJTTp6hxOpNR*NNhOTR_*igpoF 6ON*x6__iA60ip 0_ixNT*p6A_hAiA0p xTxO0T AhiipNaXTpN  x6OApNhpi#O*Ri6p_d-*Tipphzx*OiRp6,g*miTppv *xi*T_F*g_&#pT20*NR6O_*AATR ih iv0N Nx,i*NiAiThhgxONAR hgigNp*K6*0NiONp*K6x_TNT6p6i_pA)x0N66i6uvgTxpp  xgO*R6N0gp_OTT0x Ah*xxNO*0gh_ A***giopT^0* ixpi7gR*NgxH&A*0i*T6 .0NN*gg9_*AixRR_g8_fY T6Aghxi!OppgxOipNIR*T h0i O_N6Nh_ AtT*p0 g06hRRw*O6_a0Rp6Ig*=iTppP *R* pRT6pgi9pToiJ*Ng0^DAz0x RhgAg0_ pxWi*_*00pxh0ipOORphgi*Np*56*pRx6NNRAhRipNT*06i_pAIhgR66i_pdRThpx_TAATipph3_b_OAh0* AzN0TpP *xigiA pp * *hANi*A6R_gAOT6 TxpAg0_ pxai*=g0hp_hOhNxROTxTiiNp*v6*_iAp0Fp*hiipNHR66i_pAcT*ONhpiLO*RO6p_>o*TihAh-x*OiRp6qg*#iTpp= *Os6pRT*_gi?pT}NNR6gROTRp*igp4Uh*Nx*x6OV2AA00pg_gA60p ?h*6p; TTpAhpAh0 p*hiipA)A6pAhhi0Tgp*hpiIO*wR06hNxATipph^x*OiRp6q6*pxTpp! *xiOpRU**TpppT/0* ixpO5N**i{ppqAgpO pxli*_ 00  h_x6xh* ge_*A0Tgz60Ri%OON_60ihNhR*6i_p 0ORRN6Tg !gRN6N_<P*Tiih6 _;y*T00ggg;gTppB **i_ TT0A hxiTTpA ixpOSBI0A ih*iA0iggwOT pA 6xO6  x0hhhh*iiNpzT06 Rx_OxRg6x_ODgTkT*hhxAONRR6pgAHgA6pT 0i Tipph?x*OiRp6aAhpiThp  *xiOp& Az AxA T0* ixpO2N**igp{WA*0N Rx(i*NiTN ThRi ihOxNgiNNi*l6*_ihiO *p6*ihR&R*6i_p 0OiRA6p_0gWA6px 0xAOhNi*AgNm*Tx6T_T&iTppoO_gx&SA_0gARrhTx0* ixp6TTA0* ih_iNNR pxbi*Ni*pg9_* *xp 0h6iNNi*s6*_ihTOARO*6ihNxR*6i_p pO Rg*6gpJATN6p_r3*TipphKx*Rixp6Ag*;iTpp0 *xiOpRT*_giwpT-i_R6giOTRT*igpYkh0OO*A6 6 :**hgp_*Ai0pRx*6_ bO*-6*_iAp0Op*hiipNH_g6i_pALT*pihpitR*6i6 _/Y*TipphAx*Oi_h6/ggsiT p} *xiOpO6**gidpTT0* OxpO9gg*igpjyAg0i px^OgON*pgA_*AR0p Gh*Ni0x*{66_iA 0bpghiipAAR*6i_pATT*pOhpi#ggRi6p_},6Tipph.x*gRRp6Pg*ANAhp< 6xiOOR1**giHpAx0* NxpOfN**igpkcpO0O  x}igNi*xg2;Gxx0p kh*6iNp*A6*_i h0n ThiipNGR*6i_pRTT*p_hpiAO*Ri6p_-ApTip*hfxgOiRp64g*TpTppO *xROpR:**_NrRTcph ii5OoN**i_h2hA*p0 pixi*Ni*pW{)pAi0_ %xxiiRi*mggkRAp0*p*iAipNUR*gNTOAA0Opix6iJO*Righ_6v*0hppxOx*OiRp62_gWiT_pvhNxiOpRZ**L ZpTO0* ixpOTN**igxLyTh0i  xYi*Ni*p_ _*T00p 0h*iiNp6T_i_iTW0- xhiipNd*ggg_pA6T* RhpiJO**N6O_2ANTip h/x*OiRpg0g*A0Tppg *xNOpRr?ggiASTz0* ixpO>N*MNgpD6A*0O px}i*Nijhg#GNAi0x Ch*iiRhxN6*YxAp0pp*hiipNIR06i<pAS0ApihpiJNggp6 WAy*0Opphox*NNR_6,_gui00po *xiOp*h**_h%p0T0* NxpOQ*T*i_0U:A*0i xx#Og* *p_Z_*TN0p vh*NiRp*?g*_iTp0{pghiOhNhR*gO_pT0T*pihpOTN6Righ_-A Tipph2igNSRpg0g*ARTppM *iNNXRwgSgiAxTV0* ixpOxN*6igpApA*0N pimO0Ni60gH__Aipp 9xgOTNp6?6*.NAp0,p*iiixN4**6i?pALTgpixhh*O**O6p_x(*TippxTiROi*h6s=OziTpp&hgxgOp*0**g_=pT,0*hNiIO)*#*i_xY!A*0i px*i*Ri*p_p_*AN0phMhgiiR0*kgT_iTp0#x*xpipN_R*_0_pAgT*piR_itNORig0_V&gTi hANx*NhRpg g*WiTpp-xoxiN:Rn6Ngi)pTL0*NhxpONN**igp(AA*0iN_xnOpNi*gg9_gAi0pRxh6OANp*L6*_*Ap0) _hiigNY*m6i_pAk0*pRhpiOO** 6p_Nb*0N 0h/ihOi*h64g*}ippp  *iTOpRN**gNHp0T0_ ix_O7R0*igptXTgp0 px*i*RR*pgu_*TNgg /xOiiRx*o6*_iThO_p*xhipNiR*6i_pArpApihgi.NNRi6h_?A*TgpphOx*OgRp6Ng*0i06psh xiNpRy60gi0pTN0*hAxpNhN*gTgpKj0p0i RxtO Ni*hgS=g000p ih*NpNp*d6*_ih_0= Thii*N>Rg6i_p TT*p_hpi O*Ri6pA2O_Tip*h)iTOiRg6:_TTRT pO *xiOpRA**gRWpT-O0 OxpO:RT*igp1YA*T_ px3i*N6*pgU_*AiiR Ah*iiNR*s6*_iApp p*h_ipNOR*6O_pAYT_pihRi-NTRi6p_sT*0 pphxx*O_Rpgig*qi0ip?h0xiOORk6Tgiop0h0* *xpO2N**igprhT00i  xrOVNi* gG_gAi0iN_h*iiNp*p6*_OAp09OghiipN8R66i_pA#T6hThpi:O*Ri6p_Hf*Tippg/gT6iRh6hg*miTpi0*g66_ Tp0AgN8xT.0* iR6_0AR*NgRw=A*0iN0g!9^AA00pgh_AN0i &h*ii_pT*06xAAp0op*hiipN/R*Ap0pA% _xROxR0*_gROxT_qgT_pphUx*g*T00x 0xpiONp gi0OpRn**T6h O0N *h6Rg0T=pA ah Agpx pxui*g6T  0h ihOROp6 _NeOT0 UhAi0OgpghOipNcR*Ag_hApT*pihp* ZNT6pA_jB*Tipph^x*OiRp6cggkOTpp- *6AOhRx**gicpxhN *R66_TAiT6gh.pA*0i pR*_ AhTOg1_*Ai0p Yh*iiOp__6g_*Ap0tp*RRg6ANTA6N_6AoT*piRi_x4AA6pT0OxNigR0hTioOiRp6P06x6i Np *xiOpR!**giUph0x* NixOnN**iT hTi_Nx*Sg LQ&6vxp_hNi*OORggn6RJ60NpA_NA*09p*hi6h?_0l0OhixOORRhhhi0O*Ri6p gxAO_phh0x*OiRpA_hAx*Thp  *xiOpG A+ AxA T0* ixpOn0A*igp(WA*0i  x&i*Ni*pg(_*AipO jh6iiNp*b6*_i0p0Rp*hOipNAR*gP_pAU0*pih ilO6Ri6p_nA*T*pph)x*NoRp6Ag*zihhpD *xiO R{**giTpR00* ixpOQN*60gpTtN_0i pxci*Ni6pgD_* N0p Ah*iiNp*^6*AiNx0+p6hii N=*p6i=pxgT*pihpi_O*RO6p_ypgTipphIxgOiRp6sz*TiT p/ *xiOpRT**giphTe0g ix OeN**i9pO0A*0N pxTi*R0*pvl64Ai0h vhgiiNx*&ggjNAp00p*xRipNnR*_iAlAzT_pihxi,RpRigh_R>*T*pphxx*OiRpgTggviTOpqhixiOpRFg*g6GpT 0* 6xpOON*gi_ 2/TA0i OxCNVNi6h6T_*Ag0p *h*iiNpgKh__iAN0{ ThiigN:6*hR_pAhT*pghpOOO*RiT__1Z_TipNh,xgOiRp_ig*D*TppF *xOOpRz.ggi4OTM0* ixpOa** Rgp7 A*06 pxii*Ng0pgfUAAi p :h6iiN *dgl xAp09p*iiipNAR*6* 0AeT*piixi&O6RighNN9*T6pphAx*OiRp6h *jiTOp&i=xiO RI*6gi!ix_0* ixpRpN**OgpAT6h0i OxDOONi*pg#d*ih0p ph*O_Np* 6*_ih_0Jp*hiiiNeRg6iAp0UT6pihpiSO*R66p_ox6TipphnxgOiR 6og*pNTppQ *xiOpRm**tiOxTV0* ixpO4Rd*igpdRA*0i pxji*Ni*pgF0gAi0  fh_iiNp*)gTAOA 0Ap*OxipNAR*6i_pApiRpihpiq*RRi6 _FA!ixpphHx*_TRp6Ag*JihhpK *xiOhR^**giTpp%06 ixpO?N**Ngpo% g0i hxUi6Ni*pg-:gWT0p 0h*ORNp*X6*AiT 0Pp_hiixNH6p6i-hA6T*p*hpixO*Ri6pUTAATipOh5iiOiRp65^*T-Tpp  *x6OpRO**)i>6TUpA ixOO!*(*i_hAOA*0g px*i*Ni*p,Li_Ai0N jxTiiNg*y_*iRAp0hp*hgipROR*6ip_A{T_pihNiIOgRi6pAis*T*pphGx*OORp6;TgDiTOp< *xiOpR}g*xRWpT 0* 6xpOiN**g pB;TA0iOhxXi6Ni* g<sMxx0p Sh**NNp*A6*_*x00Xp*hi6TN/R66i?h?TT*p6hpONO*Ri6pA(AOTipOh%iAOi**64_gANTpph *iOOpR=**_NApT-p0 iiAO!N**i_hZNA*p4 px6i*Ni*pg1_gAi06 ,h_iiNp*^_*A?Ap0Op*xAipNhR*giLxAj0 pixOi:N Ri6p_NP*T6pphOx*ONRp6h_0qiTOp7NNxiO RL**gi.ix_0* ixp6gN**Ogp>pxR0i pxFgANi* gSbg^N0p  h*NTNp*u6*AiRx0{ AhiiOND6p6i%hTRT*pghpOAO*Ri6pqTr_TipRhriOOiRp6/_gJRTppi *i OpRb**_NAiTqp  iiOOQN**igpU_A*06 pxOi*NN*p_MhNAi0i kxgiiNO*:6* 0Ap0}p*h*ipNTR*_iApAAT*pihpi-NARi6phAU*TipphTx*OORp6ppR<iTppfgwxiO RC**TNzpTy0* NxpOIN*giGpdAA*0i px+igNi*pTT_*AN0p Ah*iiNp6T*h_iAx0/ _hiipNo6*gg_pA0T*pRhpOiO**N6g_eAVTipRh8x*Oi*hg6g*X6Tpp* *xiOp6)62gifOT}pA ix6O&****gpG A*06 pipi*RN6*g#:TAip{ -h*ii*p 06*_gAp0hp*xTip*7p_6i_NAC0Tpix6ivO*A06p_0k*TgpphTx*Oi6*6:_4!iTppe 6xiOp_T**g6WpTY0* ixpR70_*igOljTA0i *xGOTp0*pg _*OA0p Ah*iiNp*p0R_iAp0X* hii ND*g*N_pA T*hThpi}O*6iA0_AAATipOh3OpOi*h6Ng*^gTp A *xiOp*Tgegi,RT+pO ixpOvRg6ggp4iA*p  pxmi*Ni6pg,D Ai0i ;h*ii*p*R6*BAAp0Op*xgip*vR66i_6Ab0 pixTieR** 6p_O+*0Appx x*OiRN6U_AqiT6p) gxiONRx**g6ypOO0* OxpO3N***p0&+A*0i*6xPi6Ni*i0__*Ai0p61h*iONp6T*g_iAO0ohhhiipNX6*xR_pA T*p6hpOiO**Ng__GATTi  hDx*Oi*h6Ng*^_Tpp6 *xiOp*T*ggiM*TlpO ixpOtRg6TgpBOA*p6 px-i*Ni6Ngl!AAi06 {hgiiRpTg6*_*AppTp*h6ipNaAx6i_pAd0spihhi)R*6i6 _2W*Tipph x*OiT 6!g*YiThp7 6xiOp7T**gi<pTA0* ixpOURT*igp&YAgpT px(i*gRT pgxTxONxN06 mT=O*Tg__iAp0ki6*N_x:_Tip6hix h_Rx6T_pCAThpip0x NTNOhTx_OiRp6. Nh6ORpThAxiOpRKTAT*h6i6hg Nx O!N**i06I(A*0i pxui*Ni*pg{_*Ai0p +xiiiNp*P6*NNAp0Vp*hiipNLR*gN>iA2T6pihiiGO*Ri_p/0J*TOpphAx*ORRpgT{AyiThp%hTxiOpRs6g+JepT00* gxpOHN*6N_Xq,Tk0i NxQi*Ni*pg*_*A60p Ah*iiNpg%h__iAO0= AhiihNS6*hR_pA T*p6hpi O*RiT__k76TipOh.xgOi*p0gg*&iTppA *xOOpRGAggi)pT206 ixpO/N**ggpH:A*0N Rx.i*Ninip h_i*NhR_g iNNO*H6*_iiiOANg6pgONT*06i_pA1hgR66i_pYRThpx_TA0Tipphu*RCiTi0O RxhOxpThAxiOpRfT_ phOiANg NxOOLN**i phAi NN*xxXi*Ni*p_6_*Ai0p h6*iiNh*U6__iA 0Vp6hiii__R*6i_pA0T*pOhpip_RRi6p_{TTTip hmigiNRp60g*vgTppr *xi6hR=6MgilpTX0* iOpT0N***gpapA*0R px?RONO*xg(_gAi0O #xCgxNp*.6*ZTAp0Ap*iiNpNA*p6i_RA1T6pihp_AO**:6p_T5*TOpphhi0OiRx6t_p,iT p+ gxiOi&_**giFpTi0* OxpNTOg*igx^1Ag0i pxZN*0R*pg0_*AR0p  h*iigh*Vg+_iAp0Fp*hiNp00R*6*_pApT*p*hpiek6Ri6x_uwgTip hGigiNRp60g*tNTppK *OiTxRm*_ginxT:pA ixp6TN***gpsGA*0i pO#A_Ni*igXoGAi0x Ch*_ONp*06*_NAp0Ap*hi*hNcR_6i_pAPT*pixp*hO*RR6p_pG*TOpphXOAOiRx6dg6YiTppY *i OpRp**giLpT>0*xixRO9R(*igiZrTo0i pi6i*NR*pgT_*AO0p 3iTiiNp*I66_iAp04p_i0ipNtR*6N_iAUT*piNOggAAT 6hS+8*TippRpgAA+TiTp ghOOTR0**6O9hA 0NpRx6TTpF ixpOG7}T6 *xpAgpg pxni*gNT p0hxx_NhR_gA_h=iAppg OiTN0R**O_hw TN0Rh6ATT_pihpicgRT6pi_TAATippht_z_OAh0* AfiTppr *xiOpRt**gi<hTi0* ixp60=60p &hTx6ORR_xTORNi*pg^pAxONxRO6Ng_giTOpg 6xxNpR 6x_TNTR_6i_pAZONN66RiTNARi6p_ChTiOR76 gAONR*6?g*&ixxN *i66_xTp0Ap*lhT 0* ixp^f860A hx0A*0i px-i*Ni*p6Y0RAN0i +h*ii_pT*06xAAh00p*hiip*ggN,h_pNN* gA_6AO0 OAA0_TA Tipph{6k^_AO0  N AOTNh*RxNONRU**gipxOTNAROgi_ Ng**gp5!A*OgR66g_bNN*OgF_*AiiiROg9_p5O*Tg:_iAp0YO666g WpRg6O_pA(T*ighpR0*_gR.xT00_gRi0hTi0OiRp6-Tgx6OiRp*RghdxRT60gi9pTziR*igi_OAR0h xVTTx0i px}6AwO0xpOhNx_ix*pg _pQO*B6*_iAp*_p*hiipRT_ 6i_hAb0Tpihpi/R*R_6p_Ta*TNppxpx*OiRR6ag_FiTpps *xiRp*h**gR;pT00*xTxpOV*i*igiDoA60i pxYi*R *pgT_*A*0p Th*igNN*26g_i Q0?p6hii N}*90x_pAmT*iphpiAO*RiAh_eLgTipphFx*Oigp_*g*9NTppR *iiOpRj6_gizhTm06 ixpO/**6pgpmTA*0N pixi**i*Rg&_gAi0h ^xiiiNp*66*_RAp09p*hiip*86A6i_xA8T_pih_i+N*6p6p_T)*TRpph0x*NN*O65gg8i0Apj *xiOp*p**gRnpT40* ixpR;*p*igx/7A_0ih6xdi*6 * gT_*AN0p ph*i*=0*o6*_ip60vp6hiipgTR*6__pATT*pihpN<6pRO6R_WA0Ti xhFx*N Rp6Og*lgTppl *iNNARk6hgiAhT?0* iOpOiN*6TgpSNA*pT piTONNi*_g=ApAi0p GxgOONp**6*_OAp09p*iiihNY*i6i#KAtpxpiip6NO6*p6p_*L*0gppxTOAOi*A6kg6HiTppPx*iOOpR6**_ wpTO0*xiOBOtRO*i_AcZTA0i pihi*RT*pg6_*AN0p ShgiiN_*M6*_iA 0cx*xAipNRR*6*_pAgT*pixRieN0Ri6__?LgTihpxAx*O_Rp6xg*AxTpp/xixiORRm*ggi9 T40*ONxpOxN**Ngp},A* ixpxAO0Ni*RguP_Ai pTph*OANp*h6*}6AppThThiigN)*g6i_pAvp* ghpiNO**T6p_Nw*0N Nh:ixOi**6Ig*:i0h O *ipOpRA**gi/ppP 0 iiKO(Ri*i__d)0*0g px*i*Rp*p_h_*TNx0 !xOiiN *c6*_i0ppAp*x ipN6R*gA_p08TgpixAiVNORi6O_^7*0.pphNx*N Rp6Tg*SiTipJhxxiOpR#*6gi0p0*0*h0xpOTN*6OgpH#Tz0i Rx%OxNi*hgMA*000p xh*i_Np*_6*_i0A0z 0hiihN-R66i_NAxT*pNhpO O*RO6p_TX*T*N0hux*Oi*O6dg6^iTpOT *xiOpRA**giBpTVxg ixhO+N**igpJuT*_* pxTi*R0*pgA_*Ai0* }hgiiN *C6*_i0ppTp*hNipNTR*g__p0/0xpihhiuOgRig)_zQ*T_pph0x*OiRp6Bg*TiTgp5 _xiOxR56xgiApTR0* NxpO0N**RgpAT020i hxvOONi*pgq_*Th0p 0h*iiNp*{6*AiT00kp_hiixN}6 6i_p06T6pNhpiTO*R*6p_phRTipphagOOiR 6<g*pNTppx *xNOpR(**li0*TAp0 ixROXR_*igpA6A*pA pxhi*Ni*p_TAAAi0g ?xgiiNp*f_*Y*Ap0Np*xTipNNR*gN_*AZ0xpix*i}O*RighSO;*0ppphAx*OiRp_7_O4i0VpzhixiN_Rwg*pTJ T*0*hpxpNhN*6NgRudTO0i  x(i*Nigp_*_*T 0p 6h*OANpgz6g_iTA07 OhiiONoR*_0_pANT*  hpiTO*Ri66_IAxTipphCx6OigpgMg*A0Tppp *ihOpRZ6igiaRTPpx ixhOK**gagp3xA*0_ px_i*Ni66g-c0Ai0h ^h6iiNp.T6*__Ap0Tp*hiip*d6*6O_RAH00pixxirR*i*6p_Ob*Tgppx x*NN* 6z_hGi0hp. *xiRp*?**_TQpTN0*hTxpNTRT*ig_D20p0i pxbOgRp*pg*_*AO0p Vh*NiR_*lgi_iTF0VhxhiNpR,R*gp_pA*T* ghpOT6RRigA_5;6Tipph-O*R0Rp66g*A TppO *OiRFR+6OgiAAT;pA ixpORN*6Tgp26A*0N pxXORNi*_gw_*Ai0  wO*NTNp*R6*_NAppAp*hiOiNc*06i__AfTgpiipOTO*R_6p_x.*0xpphuiAOiRR6Bgg<iT pnhTx_OpRT**0A)pTA0* NxpOp:R*igp4>h 0i  xUi*gN*pgT_*AN0p +h*Ni*p*A6g_iAh0q _hiipgTR*6*_pAPT*pihpN4T_Ri6i_4AVTi 6hlx**AR 6pg*C*TppA *iNxgRk6AgiAhT<0* iOpN6N**6gpX A*pT piTOiNi*Ng7ApAi0p /xgO_Np*x6*_OAp0vp*iiOON}*06i_RAcpxpiipOpO*R_6p_xJ*0gppxTiiOiR*6Gg6eiTpp!x*uROpRi**_QFpTO0*xiQxOIRp*ig*nzTA0i p*Ri*N6*pgi_*AN0p YOpiiNN*f6*_iA 0nx*0OipNhR*6*_pAxT*piR_iDOgRi6N_Z4gTihpiDx6ONRp6Tg*AxTppo*6xiOhR!*ggi8 T?0*ONxpOTN**Ngp<zA* ixpxAigNi*hgnI_Ai0pOTh*i*Np*}6*_iAp m6_hiiiNX*-6in6AsT*xAh ipO*R*6p_A4*piAih3idOiRi6m#Ati0hpT *x6Op*T**gikppapx ixOOKRA*igg5HTgpN pxhi**C*pga_*TN & vx0iiN *=6*_i0p00p*h_ipNxR*_0_p0zp0pihRi2N0RigN_2Ag6*pphix*OORp6yg*Ti00pwhpxiO*Re6 giTp0T0*hjxpOiN**6gp(ZAg0i Ox/OpNi*hgz_*T60p hh*iiNp*A6*TiAx0! ThiihNJ*06i_pTtT*pNhpihO*RN6pA&A*TiphhSxgOi*06;g*ATTppT *xNOpRA**gi2_Tn0g ixxOlN**i9pO0A*0N pxTi*Rt*pg! TAO0x -h*iiNp*z_*{pAp00p*hRipNRR*6i__AyTgpihxi2O*Ri6peif*TNpph2x*OiRp6S_p9iTpp2 6xiOpR7*gp_Z T)0* gu_OtN6*igx#%A60i pxUO&8x*pg=_*AR0p Ah*i*K0*%6*_iAO0cp6hiip*iR*6N_pAfT*pihpi.O0Ri6 _CdgTipphbO*TRRp6Tg*wOTphp *xgT_R^*ggie6Tf06 ixpOrR=Txgpl.A*pA pxAi*N*T0gl_*Ai0g Vh6iiRhxN6*_NApxip*hiipRzTN6i_ A% !pihhiSR*pR6p_TK*TOppOhx*OgTp69ggri00p% 6xiO R&6=pxPpTY0*hxxpOAN**iX*nZAg0i px2i*Ni6ppg_*AO0pihh*iNNpg(h__iAh09p6hiN_N=*Tx0_pATT* *hpiAO*Ri6p_phRTipph^OuOiR 6Z_?hxTppo *i6OpRA**_NRgT,0g iRfO>N**i_phgA*0O pORi*NN*pzVi_Ai0h ch6ii6x*.gThiAp0Tp*iTipNAR*6O_pApiRpihpi.RhRi6 _K&giAp hTx*OiRp6Wg*AiOTpa 6xi*xRq*ggiTpR00* NxpOAN*g0gp#hRx0i hxkNRNi* gk_*Ai0iN_h*iiNp6_6*_OAp0pNRhiipN96*6i_ ArT*p}hpiTO*RN6p_Y{*0iRThVx6Oi*_68gg+ipp60 *xNOpRA**CNwpTh6x ixhO36A*ig q8A*0i i*_i*Ni*pP _*AO0p p*RiiNp*Y?T_iA 04p*hAipNTR*6i_pAPT* i6TiCO6Ri_h_ltgTippiix*ONRp6)g*8gTphQg_xiOxR#*6giT_TJp**hxpOTN*6Rgp<0A* igxx=i_Ni* g.0TAippRgh*iNNp_h6*_RAp0sxphiixN#R*6i_pA#0*RhhpiTO*-p6p_0D* iA hZxgOi_6630x^i pAA *xNOp6j**0afppy*_ ixxOeN6*iVhJsT*Nh pxTi**N*pg0_*TN T Ah_ii6 *(6*_iTh0Op*h*ipg6R*6i_p0-0 pihii3NaRigN_!T*0Npph x*ONRpjhg*Ti0 pShTxiOhRk6_gi2pT 0* *xpOhN**Ngp5hTR0i ixj*xNi* g5_6Ai0iN_h*iiNp_R6*_OAphWA6hiihNJ*_6iA0AcT*iNhpipO*Ri6p_^l*0N_gh(iAOi* 6cg*oiTph  *x*OpRT**gNqpTjOT ixOOPN6*igp-QA*pp pxhi*NN*pg,_*Ai A &x0iiNx*t6*_iAp06p*xvipN4R*6i_pTT0*pih6i2R6Ri6p_rAgTRpphNx**ARp6Hg*TiTRp9hhxiOgR7ARgiAhph0*h0xpNTN**igpAT0A0ihBx#OgNi*pgLug0 0p 6h*ONNp*46*_iA*0d hhiOANCRg6i)hANT* 0hpipO*Ri6p_KAhTip*hvixOiRh6:g*s_TppO *xOOpR?**giAAT:ph ixiOKN**igp.iA*pA pxNi*NO*pgz xAi0R sx iiNh*s6* _A 0ip*hiipNpR*6i_*Ay0 pihiiHO*Rigpcr#*0%ppigx*NARpgTg6UiT6pWx xiOpR}g*:04pTO0*hAxp6pN*6N9LaUTh0iOAxCi*Ni6h_T_*T00pi6h*iiNp6T=A_OT?0DiOhiipNs*gg0_pA6T*h<hpiUO*Ri6N_QA Ti Ah:xgOi*pg0g*APTppi *iAOp*TgAgiY6TX   ixpO5**6RgpyOA*pA pRpi*RN6 g)8hAixx Vh*iiRhxN6*=0Aph6p*hiipRTp06il>AKh_pihpiaNg6p6p_6!*00pphSx*Oi*66W_ Gi0Ap- gxiNpRh**_%-phN0*hAxp*I*k*ig*Y:TO0ixNxki*RN*pgh_*Ts0p Th*ONR0*Bg0_iTR0lp*hiip_RR*66_pAxT*pNhpi^6gRi6N_1bgTipph!x*6NRp6xg*qiTppv *iN0NRC6pgip TY0* ixpOiN**_gpqTA*0N pxmOANi**gl_*Ai0  3xgO*Np*O6*AAAp0{p*iiOONv* 6i_6AjxfpixhiAO**T6p00m*TippxTiOOiR_6<TOaiTppqhgR_O R***TR9pTr0*hNxOO^RO*iTA7BA*0i piGi*RA*pg6_*AN0phPxiiiN**kTh_iA60;p*hRipNhR*gV_pATT*piRNi(N0Ri6 _{e*Tipphgx*N-Rp60g*<iTpp=hNxiO6R-*ggitpTm0*h_xpONN**igp,5A*pN NxeOxNi_0gs_*AiphhAh*OpNpgO6*_iAp epghiOZN^*i6ip0A:0g9Thpi6O*g;6p_tG*0N_ghsiNOi6*6:g*Gi0h_N *ixOp6i**giqpTGOx iikOsRR*igh4JTghp  x6i*g *pg}_*TNpA mxNii6 *U6*_iApp0p*xTipNgR*6N_pAY0*pih_iDO*Ri6x_cAgT*pph*x*RARp6{g*TiT_p2hixiNQRQAQgiAh0T0*h xp60N**igpATRT0ihTxo*ONi*pgKvgTT0p _h** Np*46*,NT 0= *hiO*NFR*6i_pA6T* phpOWO*RN6p<DTxTip_hb*hOi*k6(g*A Tpp* *x*OpR8**_iARTPpx iNTO#Ri*iApA0A*p0 px6i**g*pgF xAi06 !xxiiNh*v6*TFAp0Np*hRipNJR*6igRAw0xpihOi-O*Ri6p0T7*0ppphTx*OiRp6XTgBi0Ap- _xiOpRH**TNjpTg0* ixpO-N*6NOg.BTR0iOpxGi*Ni*pOR_*Th0p Th*iNNp*+_O_iT00c AhiipN&R*gi_pTDT*pOhpiLO*RigN_rA6Tiphh!x*OiRp6pg*ANTppV *xiOp*T*6giAxT-0g ixpO9**66gpApA*0O pOpi*RNx6g.AAAixT Ph*iiNp6T6*eNApp p*hNipNX*O6icxA8T*pihiiWNg6p6pdpd*pApph5x*RiR 6)}7Vi0ipdNnxiNhRp**_6fph00* ixpNT*T*i_N:3p*0i pxtOg*6* _x_* R0p 7h*ONNO*C_p_i A0Mp*hiipNiR*g*_pTiT*pNhpOBR Rigx_5 hTi ih^igNxRpgpg*TATpp? *OiNNRsg5giAiTGiZ iihORN*66gp06A*0i piTO6Ni6Ng>ThAi0p BxgOpNp6x6*0 Ap02p*xNi_N>6p6i0AAFT*pihpihO***6pPi3*TNppxLOxOi*x6Y_p)i0ipHhgxgOp*p**g_CpTS0*xix_O!*}*i_ijqA60ixpRNi6R**p_p_* 60phdh_iiRx*q66_iTi0{x*ipipR0R*_*_pA0T*pih6i^N6Rigx_ZBgTi hxxx*NNRp3xg*diTpp&xUxiNpRF6ggiShTb0*hTxpNAN**OgpwoA*0ih_x?OgNi*hgQ_*Ai0phOh*ORNp*>6*_iAppTxihOOiNy*h6i_pA40g ghpO O**x6p_^?*Ti 6h#i_Oi*O6lggUiTpp_ *i*OpRG**g6zp0T0_ iiOOL* *igp;80*px pi i*R6*pTp_*TNph ,iTiigA*t6*_iThpAp*x_ipR R*6i_pTT0Tpix*iI6ORi6p_DAg0*ppxOx*N6Rp61g*.i0 pVxAxiN6R{*ggiApTx0*h*xp6NN*66gpAT0x0ihOxf* Ni*pg;A*T;0ph h*O6NpZp6*&N0O0AhThi*AN2R*6iWhThT* _hpOpO*Ri6p_#TATi Oh5O0OiRh6B_*A6Tp p *N6Op* **_NAgTa A ii6O<N**itpApA*p6 pi i*g**p_T/xAipN BN_iiNp*uggvOAppxp*ihipNFR*gN_RAopppixiiXO*Righj*4*pAppO6x*OiRp6zLAdi0OpMx xiOhRP6*nAqp0p0*h&xpN N*6N_Owf0A0ix6x3i*Nigp_i_*T60ph h*6xNp6TOh_iTN0J AhiipNX*g __pTxT*p6hpiyO**N66_5TpTipOhqx*OiRp6Ng*A6Tp i *xNOp*>6TgiAiT} _ iiOO/6**ggpApA* * px*i*Ni**gGLgAipi XhgiiRh**6*tRAp *p*hiipN5*p6i# Ae0_pihhiPO*R_6pjTo*TOpphmx*Oi*R6?__3iThpS *xiOp*6**_*opTC0* ixpNTR**i_OIaAg0i px8Og6p* _h_* x0p Kh*ONR *3_0_ip*0%p*hiipN6R*g*_pTxT*pNhpifRiRigO_H4*Tipih{igNNRpghg*TATppX *OiOORrgTgiANTPie iihNNN*6_gpp0A*0i piTO6Ni6*glp0Ai0p CxgONNp6O6*0RAp0zp*xNi6N)6h6i0AAMT*pihpiiO**g6pJNB*TNppxaOpOi*O6l0h/i0Npchgx*Op*h**g_#pT-0*xiiHO?*T*i_NG1A60ixp>0i*Rg*p_h_*TA0phm6NiiRO*K66_iTN0Gx*0OipR R*_*_pp_T* N hi/RTRi6R_)c*Tihp_0x*NgRpghg* hTph+g_xiNNR/gTgiTOTop**pxpN N*AhgpAhA*0ihxx8O_Ni6Ogw_gAiph _h*O*Npg*6*_iAp0tp6hiOhNk6:6i_hA;T* xhpO0O*RO6p_q;*TihAh+OvOiRh6yg*>iTp A *i6OpRV**gi,p0TgT iiNOegx*igp8fA* 0 pi i*NN*pgT_*Aip* riTiiNp*qg#_iTh0xp*x_ipROR*6i_p0?pppixRi)R0RiAi_IAg0_ppxix*6RRp6{g*AN00p!x xi6AR+**giAhp 06xTxp*6N**igpATTh0ih_x,*_Ni*pgG_*T00phxh*N0Np*T6*WiAh0(hThi*gN;606i7hT0T* _hpOOO*Ri6pA{ThTi RhaO0Oi_i6D_gAgTp i *R OpRt**_NRgT4   iRAOJN**i_hRNA* T pR0i*Ni*p_ThRAip_ vOOiiNp*>6*^GAppxp*i0ipNTR*gi,RAypTpih*i/R0Ri;p_O!*0gppipx*RTRpGQ_*Mi0NpJh*xi6_Rt**_hZp0p0*hgxpOTN*6N_{Lk0A0iihxCi*Ni*p0R_*TR0ph h*iNNp*d60_iTi0K ThiipNoR*3__pA_T* *hpiAO*RiT__JAOTi 0hJxgOiRpgRg*AhTpp< *xROp*TgbgiA0Tq   ixpO3**6 gpc_A*px pRpi*RN* gv,*Aixx 3h*iiRh6A6*^OAph6p*hiipRT*O6i/hAuhOpihpirNg*p6pe0}*pfpph7x*Oi!_62_Rbi0xpe gxiNpAg**_h!phN0*hxxp*jx6*i_T/WTO0ixNx;R*xO*pgg_*0*0p hh*ii__*(gi_iTT0zpghiipgTR*g _pAAT*pihpiK6gRigT_+2*Tipphwig TRp6_g*0NTpp{ *xiRORy6Ngi2hT30g iihpNN*6xgp0TA*0i px/gxNi6AgV,RAi0h bh**NNp*g6*_iAp0up*xN0gNY*R6iAAAVT*pihpN0O**h6p__/*Tipphb*NOiRg6mg*!iT pc *60OpRi**_TbpTT0*hN0_OvR *i_Tu&A*0i piii*N_*pgO_*AN0p uxAiiN**XgA_iAp0bh*x*ipNOR*6*_p TT* Nh*i(NxRiCg_GV*Tippxix*NARp6Rg*3NTpphx_xOOgRJ*_gi2 TW0g ixpixN**igpj A*0i px!i0Ni*pgCa,Ai0p qh*x Np*i6*=TAp0Ap*hgNxNA*p6i_ AIT6pih*inO*%_6 _Zt*TOpphMx*Oi5R6Ag*UiThpQ *xiOp2x*6gijpT00* ixpOY,0*OgpeHA*0i pxoi*O_*pg<_*A60p lh*ii_R*A6*_iAO0(p*hiipOxR*6i_pATT*pihpiu_0RO6p_vATTipphliTRRR 6Og*1*TppA *xNOpR<*0gi)pTy0g ixpO1N*R_gpn7A*p! px8i*Ri0Tg+_gAi R lx iiNNg066JAAp0 p*hOipNpR*6igRA{T*pihhi/O*Ri6pgx2*Tipphxx*OiRp6Fp0YOTppBh0xiOpR^**6_ypTe0* OxpOCN*6i T+8Ag0iiix4O Ni*pTT_*TA0p  h*iiNpgfh__iAg0? Thi*NNL*T_R_ ART*pNhpiAO*R66p_!70TipphexgOiRp6#g*__TppU *x_OpRl**gi RTA0* ixROnN**igp_xA*0i px0i*Ni*pg)_0Ai0p &x;iiNp*B6*g Ap0Op*x0ipNAR*_iApAA0 pihhiC*0Ri_pi0b*00pphTx**gRp6Bg <i0Ppu *xiOpRQ**6 kpTO0*hpxpOAN*gi^pyAT 0i hxz*%Nigpx0_*T00p Th*ORNp*q*O_iA60Y xhii Nt6*hR_pAOT*pOhpORO*Rgpp_7A TiN hAx6OiR 6c_rhxTpp^ *6OO RA**g*h0Tw0* i6OOAN6*igppTA*pA pxii*Ni*p?Bi_Ai06 Gx ii*1*1_*iRAp0Np*hOipRRR*6igiAS0 pihgiaOgRi6pAx5*TNpphTx*OiRp6X0gmiTppt 6xiOpR&*gUp1pT70* NxNO/N**i0xh x_Nx*T6pi*Ni*pgY_*Ai0pigN*iNN**?6*_ihpO_R_6A_ikOTRph_hThT*pihp*T_6AR0_ xxgOxRO*gg}g*Th0A NxROpNA*g66ZTA0p gN2NT,0* iRx__Ai0x h00Ag0* pxsi*_hT p6hAAN0O bh*ii_Odpp h ph0T ThiipN3W_p*hhx_OxN6hhi0O*Ri6p gxAO_phhxx*OiRpA0 RxhOiN *Ng*OhRh**gidpxeO6*N6O_gT4*igpV3A*0i px-RNgi*hg _*Ai0pO**6gN,OT*6*_iAp0:p*hiip*ix*6N_iA(T*piRxgOAhA66h_0B*TippR0gA<*Rp6{g*{iTppc *NS6pRz**gi1pTH0* ihp*_Ng6Tgps9A*x_*0gp_pbO0ATThRipOi vh*iiNp*Z6*_iTixZp*hiipN>R*6i6px_h*pi*Ngh}TAg0N h_Thxphhpx*OiRpAh RxhOipThPxiOpRMT?p6x*Op0g _xpOkN*Tg hh_iOiNORRTigN**pgZ_* 6NT* 6OiiNp*M6*_iAp0Fp*hiihNNR*6i_phTORR66TgpgTTN0  6xATOpph}x*ONRp6%g*PNTipc *xigiA pp *LhTx0* ixp60AR0h ih iNN* px^i*Ni*igS_*Ai0pOTh*iNNp*46*_iAp 86_hiihN;Rg6i_hA%0*RhhpiTO*RO6p_A&*TiOhhvx*OiR 6:g*fiThi* *xiOpRmTTgiZhTs0* ixpO(N*g;gp>0A*0O px5i*Ni6_g<KmAi0h +h*iiNp6N6*_6Ap00p*hiipRTR_6i_NArpipihpicNg*T6p_xj*T6pphjx*Ri*_6H_04iTRpox xiNhhN**_s1p0 0* ixpNThh*ig6G90A0i px:OghT*pgN_*T60p Ih*ii__*/g0_iAg0BpghiOh**R6g4_pTRT*pihpOTNORi66_fTvTipph=x*OgRp6 g*AATppT *xiNiR=6TgiJpT{0_ iihOTN**_gpuxA*0i pOfi6Ni*Rg8.0Ai06 /xgOiNp*i6*MNAp0Cp*xNpON/* 6i=_A,T*pixhipO**T6p.R+*TippxTiAOiR_6FggkiTpp& *xOOpRx**_0)pTT0*hiiiOWRT*i_0!HT00iippAi*Ng*pgp_*Tg0p 5NgiiNR*,gM_iAp0d *R6ipNhR*g0_pAxT*pixTiXN(Ri6N_2dgTippxTx*O6Rp6Ag*}iTpp&hRxiONRH**giBpTG0* RxpOxN**NgpujA*0ihAxeOpNi*xg:_*Aiph ih*OANp*66*_iAp0t*OhiigNDR66i_pAk0gp_hpiRO**p6p_LX*Tip6huipOiR_6!ggeiTp 6 *iAOpR3**g*?p0T O ixgOoR0*igpWj0*pp pxNi*RT*pgO_*TN0R YxxiiRh*>6*_iThpAp*xpipNgR*6i_pTT0ipixAiqNgRi6p_fAgTgpphgx*R0Rp6Ig*<iTxpPhhxiNTR:*ggiAp0O0*hAxpO_N*6TgpATT00i gxYO0Ni*pgqA*AR0p Nh*OTNp*O6*&NTm0& xhiO_N2R*6ifhAAT* phpOAO*Ri6pfTARTi AhvOxOiRp6H_gARTppg *O0OpRs**gi9RT/ph iiTOCNg*i_p=pA*pA px0i*RT*p_TAiAi0g IihiiNp*4_*iRAp0Np*xTipRxR*_i6OAm0hpihgi+N_Rigp:eD*0Appxxx*NTRp8&g_-iT6pDhTxiOgRz**XGdpTx0*hAxpOTN*6NgR!zTp0ih*xXi*Ni*p_1_*Ag0p ih*iNNp*!_O_iAR0Up*hiipNYR*g0_pAiT*pRhpi9O**N6O_-A Tip*htx*OiRpgpg*AYTppT *xNOp*Tihgi}6TVpp ixpOrN*6*gp#xA*pA pxai*NiATgY/AAi0p 7h6iiNpAR6*_RAp0 p*hNipRTxh6i_iAZT6pihpilO*A06p_T5*T*pphTx*Oi6*6rg_KiTpp) *xiON60*6g*=pT30* OxpOAN**i6R;JA*0i hxti*Ni6ppg_*AR0phBh*i*Np*XM0_iAx07pghiipN(R*TN_pA:T*pOhpiUO*RN_*_&>*Tiphhhx*OiRpT0 AhRO0Ng*vxNOiR2**gipNi_NN**xpO<N**igpHFA*hhOpxTOxNi*pgL jx6N**p*0_N> 0>p* 6xi0{p*hiipNJR*Rih0 wT*pihpiKO*Ri6pgHpRTNpxh<x*Oi5x0 hCtiTpp9 *xiOpRtg}TiWhTi0* ixpgpAApY ippx6NNR_xH_TVgTNphhTxgANi_hgi*Np*I6*phx O6RAhNiNN(R*6ipxipOgRx*_g O*Ri6p_rD*TippipR*ONRx6zg*>iOTN 60xNONR=**gipxi_Ni*xgh*0N**igpC}A*0i pOip*NN*Og?_*AiiiROgS_pdO*Tg0_iAp0PRT6N_0G61gA_0hAT0Hpihpi>g_TApg  9gT*pph9x*66TTp  O1N0*p3 *xi6RA pe0ixhi_N*R6gh7pT %Rp*hAiNO_RO6p6_AATRpg 6ip0h  h*iiNp1*06 NxOO*pgh*ipNrR*T* OiiN/pNhgivO*RiTh _iAOhNiNhgg_OTA0 g_SOThpN *xiOp_x0R *h*iANOONg0_*A4*NgO<HA*0iNORp_ A _hgv_*Ai0p {h*iiNp*86*_iAp0Mp*hiip6g_*6N9TAaT*piNRg_AGT,0  6 _i6RA*O6gBxTU0pg*CiTpp= *xiOpgii*gNsNT+0* i*p_AAgT6 TxpA*0i pxri*Ni*pAN0*ANpN Dh*iighTA0_h0xRNTRR66_T8pAZpN  xgO_Ri* _T.ATh0xhOa*Tipphcx*OiRp_iT*HNTppZ *xiOhRi**gizpx!NR*R66npA 0x TFTT00i pxt*_Ax0T phAihNi qh*iiNp*I6*_ip4x(p*hiipN&R*6i_p0Nh*pNhpi4O*RN6p_<S*TNpihIx*Oisi0 hpx*Thpx *xiOp_00R hxii NN**xpOWN**igiDKA*0i pRTi*NN*pgw_*Ai0pxs__iiNh*G6g_iAh0I *6hipNTR*6O_pAAT*piRhilO*Ri6 _Yk*TiphhNx*OiRp61g*uiTppf *xiipg_*gg*:pT80*NR66DNAA*igpu/A*0i p_k*6gi*hgN_*Ai0pNp6A+:Ai?TpRh6iTOpR_hNixN^R*6ihTx N0pNhRinO*RiAx _xNO*NO*g_=OiRp6ug*QiTpp= *xiOhRA**gi4pxO0g 6xpOjN*A6TihOiOhN px)i*Ni*pgJ_* 9_p &h*iiNp6R6*_iAp0tT6hiipNcR*6i_pA/p*pOhpiuO*Ri6p_hl*0Np_h5x6OiR66=g*Pipp p *xOOpRA**g6<p0Tpi ixhOzN6*igpt>Tgpx px0i*RT*pgy_*TNpx 5x?iiNR*y6*_iAp0xp*h6ipN=R*6i_p0q0ipihOicNARi6N_!T*0Opph x*O6Rp6pg*TiRxpahAxiOOR!6pgi-pxR0* OxpO N**NgpAwiN0i pxdigNi* g9_**N0p wh*iiNp*X6*tNTy0mp6hii6NYR*6iApA0T*pOhpiAO*R66p8TTiTiphhPx6OiRp6/_gAhTpp0 *x_OpR^**_NA*T&p; ixROGN**igpy0A*06 px#i*Ni*pI%xAAi0O nxAiiNN*u_*<pAp0 p*h6ipNpR*_i__A10ApihOicNpRi_pq6-*T6pph x*ORRp6mgg?iT pthAxiOhRb6*YYPpTV0* NxpOAN**i_N>wA*0i  x>i*Ni*p 6_*Ai0p h6*iiN *y6__iA 0sp6hiii__R*6i_pA0T*pOhpOT hRi6 _^T0Tipph>iT!iRp6Tg*(gTppA *xOOpRpTRgiMpTjpT ix O:RgiTgpnTA* g px-i*NiHhgr__Ai0p (h*iiNphT6*_*Ap0Ap*hiipN=6.6i_OAYTgpihpi>O*6 6p_hv*TRpph8x*NN*O6&_0Ki0*ps *xiNhR***_%MpT_0* ixpRfR6*ig*?3Tp0ihhxzOgNN*pgO_*A60p lh*ON g*qgh_iAO05p*hiOh NR*g0_pA T*pihpiQ_xRi6*_jAxTiphh?ig*pR 6Og*TpTppr *iNN0R36hgiI*TI0* ixpOiN**ggp9NA*0N pxdNiNi*Rg8_*Ai0x exgOUNp*i6*A0Ap0Jp*iiORNr*p6i_*A10NpixhOHO**A6p_hD*TippxTpAOiRg6P4i^iTppHhgO0OpRR**3pwpTV0*hNi6O1Ri*i,AuWA*0i pi*i*R8*pg*_*AN0phVxRiiNR*>g__iA*0!x*0OipNxR*_N_pANT*piNhijNpRi6i_/q*Ti pR x*O_Rp_{g*A9TppBh_xiOOR>60gi,hTW0*xTxpOhN**Ngpk/A*0i ixMO0Ni*pgb_*Ai0phRh*O)Np*T6*_iAp0ohAhii6NJR_6i_pAj0g xhpiNO**g6p_rQ*Ti*Ah=ixOiR 6yg*bi0h 6 *ipOpR0**giPpTbp6 ix6OwRi*igh4rA*0g pxNi*Ni*pgp_*TNp* 7xxiiR_*j6*_i0p06p*x0ipNRR*gh_pTTp pix3i2NTRi6p_ZAg0Opph6x*NiRp6rg*ANTxpmhNxiRuR^**giAh0O0*hxxpRxN**igp390 0i _xYORNi*hg>F*TA0p Nh*ORNp*R6*7NA60d xhiO_NsR*6iApT T* 0hpiRO**h6plTAiTi WhfOiOiRp6r_gATTpp6 *OROpR!**_NV6TtpN iO<OlN**i_hAAA*px px6i*Ni*pg7ApAi0_ JxRiiNh*}g*_6Ap0Np*i6ipNRR*gN_ Ad0xpixii^O*Ri_pi0+*00pphRx*ONRp_50hLOT_p=hxxiNgRM6*_xmpTN0* NxpORN*_igOltTh0i _xKO6Ni*p_x_*T,0p Nh*iNNp6Tg__iA60Zh0hiipNIR*g*_pAxT* AhpiTO*RigR_PApTipphex*OiRpghg*AATppT *xiOpRM6hgiLgTk0_ ixpO9RgiTgp8RA*pg pxyi*RN_wgAMiAi i +h*iiRh6*6*; Ap ip*hiipNz*A6i_gAF0Opihhi-O**O6p_R7*Tipph x*NN*A6b_i7i0_p} *xiRp*A**_papT*0*hhxpNT*T*i_AYdTT0i pxcOgRO*pgg_*0x0p nh*ONRh*ngR_i0^0bp*hiOhR{R*gi_pT*T*pihpi7N Rig5_#A*Tiphhsi*N Rp6Rg*ARTpp* *iNNTRJ6igiA_Tk0* iOpNxN*6pgpt*A*ph piTOiNi6Ag2AiAi0p lxgO Np*g6*ARAp0!p*xNO0N(*R6iAQA&T*pixhOTO**i6pAA8*TipphDiAOi*46d_*KiThpPh*x_OpRR**96HpT*0*hNieO&Ri*i_iY8A*0ixp 0i*Rp*pg*_*AN0pxdxxiiR2*ugi_i0T0& *hRipNRR*6N_pA*T*xixpisNxRi6__90TTixpx6x*N0Rp6pg*TATppLh!xiO6Ry6xgiqhT7pghxxpONN*6Agp/WA*0ihNxYOpNi*gg8_gAi0p ih*OANp*m6*_iAp0) =hiigNCR_6i_pAj0gWThpiRO**p6p_Jv*TihOhMihOiRh6sgg8i0h_N *i0OpR***gi}pTk j ix6OzRx*igp>fA*ih pxhi*Ni*pgA_*Aii_ YxuiiNN*l6g_iThT p*h6ipNAR*6i_pAoT6pihxi,NARi6h_l>*0Npphpx*O6Rp6Zg*TipspBhAxiOxRF_TgiTpTp0* 6xpO N*66gpAT0T0i Rx,N0Ni*pgL_*AR0p  h*i_Np*T6*_g0x0A Thii NkR66i_ A-T*0_hpi5O*RR6p_nM*Ti0Ah!idOiRN6wg6tipp60 *x*OpR0**Cg+p0CNN ixiOP*0*ighIuA*ho pxpi*Ni*pgj_*Ag x AxAiiNp*U66_iA 0-p* _ipNyR*6R_pA/T* i6TicNoRi6R_oAATippixx*O*Rp6Tg*-iTppWNgxiOpRF*6gi>pT20_OAxpO.N**NgR^.A*0iOi6 _TnO0Op*xtAi0p 4h*iiNpNlpR0iAh0xp*hiip_hTA0Rhix_OgxNhpi(O*Ri6p_=G* SiphTiAOiRp6S0ihOihN *ixNNARw**gi ii Rp**Ri_OA_TO pxjiAOO*hxTOTNi*pgH0_x6NT*p6A_NNp*U6*_iAp0Gi*6T*pNYR*6i_pA^T*pixi*?Og*n6p_3o*hRN **gi_NA 00 x!N0Tp+ *xigiA pp * *hANi*A6R_gAOT6 TxpAg0g px?i*gN0O px#ixNT Zh*iiNp*)6*_i0*_JpghgipNkR*TR Ox0ORRh*iiwO*Ri6p_b9*TixlN#xgNTRp6(g*  O0R *_666OAgpkp6xhT00* ixpOaN**igpQ,A*0i hxOi*Ni*pThhRxRNO*0Ri_xAx0p6*_iAp0np*hiipRQ_*6N_OA{T*piN6ggl*T6pi_TAFTipphC*_7ATg0 ggViTpp^ *xNOgRd**gi hi_RA*h6i6hAgTO Ah A*0i px:i*Ni*p*=0RAi0p uh*iiNp*SAp0iAh0Rp*hiipgATN0R *x_OgOi60gO>NT*6hLAu*TippRZgi_OAx0  pxxOYNp*AgN6xA_0i xxh 00g *xpOeN*S6 Tx iO0Nhpx:i*Nidxp*hAxONhNp6AsIAil_pN0gi0O0*A6RihNNR*6i_phpOA*36i*03RTpp0hT0_TNpRhXx*OiANpT Rx xhixOgxNO*RC**gi pi_N_*Agi_OAR0hghs_A*0i p*w_isOTxp hpixN^Rp6A_N_iT  ph*Ah0ip*hiip_pTA 1hih0O *T*OiTNSRi6p_zhIi6R*6pxgNgRp6tg*pNi N0*x6_4hA_pA hhixpNgROgT(0A*TO hh iNOR*6xTOTNi*pg.0_ixN8R_6gRRNh*g6*_iApx6RR66_xk _gp6hiipORRhO 6 f*RN6R_dr*TiOi* _pI*_h0_hpsiTppn *xiOpRDZ_Ti}hTN0* ixp6xAR0*p*hAiOxN*06*_fNN*xgc_*AiNTR g0iNNi*Q6*_ihAOAR 6hihNxR*6i_phpOA*q6igTFR0+6h_gz*TippNxgRZ*A*0A O RiON6* 6N40A*03gN8iT:0* iRN__AN0*gh=pA*0i pRgg6A TOgTKhAi0p URO_xAO00pAppxOOA*T*6ipNSR*6i_pAsT*0iN0iTNTRi6p_t _O*Rh*_gx_6Rh6hg*?iTpOYR6gN_OAgpngNApTz0* i*A__TA0RpOpTOAN**i6__N6OCip_x0ih0h  h*iiNpA T{hAiAhTpgi4ipN3R*A_ Oipx*RN60_y5ATNpihOp_OJN *gg0_6AiT0  h_OTNA*ixiOpR?**gilpT4hNOixhOxN**igpp0iRNh*i6 _NA**RgB_*AipT jh*iiNh*O6*_iApip*0*6gO3gb ph Nx_TgpghpiGO*_Rph  h6O*NOhIx*OiRp6+g*!i_px_ gx6OpR)**0OxOiONN**xhOpN**igpp iNN6*AxTi_Ni*pgQpRi6Ni Tx*iiNp*+Ag OxxORR06N_0A TN0*0xx_OiRx6hR0OgRg6p_>;*x*N** gO_6Tx6T_xfiTppQNA6O+xAO0Np_ xOpR *p6OOTRM*igp-1h*NpR gOigR *pgu_*hROOR*6AgRAiT p}p*x*O RO*6ihN0R*6i_pxgOAR_hhi_O*Ri6p0 h6ORN6*gg06*A6pT AhROiNO*RghOhRh**girpx0NARRg0_gAU*igp.MA* A pxJi*Nip_g7_*Ai0p Jh*ii*p6x6*_iAp0Gp*hNipNj606i_hA7T6pihpizNg*h6p_0&*TOpph4x*RiRR6fg_FiTxpIhixiNh*O**g*7pT00* ixpNT*4*igO(QTA0i px;N**O*pg _*A60p Oh*NiN_*SgA_iAO0: GhiOhN R*6g_pA T*pihpN!RARi6N_{ATTi Ah%O*ORRp6hg*DgTpph *xiO RQ*_givNTV0g ixpONN***gpM3A*0O pxrAgNi*OgL_gAi0p &i*iRNp* 6*_6Ap0ip*hiO0N8*T6i_hABT*piipi_O*Rg6p_h3*00pphmOpOiRO6u_AeiTNpGx*izOpR **g6QpTg0*hiiAOwR.*igR;=TA0i px_i*Ni*pgp_*AN0pxjx0iiNp*S6*_iAg0(p*xNipNtR*6N_pAAT*piRhi&O*Ri6 _{H*Tippxhx*OiRp6T_ PiTppvR:g__OA 0N0AxTihNR Nx OXN**iThsTT00i px<_TAN00p6pg _xh TxxiiNp*eTA OixOORN*_6xAp0 pp OAT0ipihpi#6_AOpphpiAONNONhgR_RTOp0g*miTppZ *xixpA_^*gN}iT+0* i*p_*&6pAghnAA*0i p*TigNR*pgn_*ihOO*xh*iiNp*16*_iAp0ii*hNO0NmR*6i0OxAO_RA6TgxguTAph  h_O*N6*_gNONRN6=g*4ihxRT*A6OZiA *g_iepTF0*ON6 _0AxT_ hh_OANhRiR0_RAp00 TT_AN0x .h*ii_00  %_NAN0+p*hi6ieiTAp  Oi0Tgpghpi^O*-R0O 0xROhNihTx6OiRp6L00lNTipf *xi6OAgpA  ,hTh0* ixp60AR0p 0xTp_0i pxdi*Ni*pg?** x0h 6h*iiNpA0pAhpxOO0*M*6gi_pTp06hAx Tgp6hpibO*8OpO OxNO*pphjx*Oigi61g*CiTp*R *xiOpR<**gi&ppb06 ixpO5N**i_l5}A*p0 pxTi*NO*pgo_*TNp6 /h_iiN *%6*_i0p0gp*hRipN0R*gA_pTTpxpihiiGR3Ri6p_LAgT*pph x*NNRp6-g*Tip pohAxiOORb6MgiTpTi0* 6xpO N*6ggpATTg0i NxKOgNi*pgtA*0;0p hh*igNp*R6*AiTx0r ThiiNNH*N6i_pANT*pRhpihO*RN6p_9LgTipihDx*OiR 6/_g_NTpp  *iROpRI**ViOxTBpA ixOOZN_*igp NA*0g pxTi*Ni*ps<AhAi0N )xTiiR0*b6*ATAp0xp*hNipNMR*_i_gAc00pihRiyRARi6p}xJ*Tgpphhx*O_Rp_BfAKiTNp4hTxiNpR^g*_0VpTh0* gxpOiN*giTAlWTT0i NxQOTNigp_p_*Ag0p hh*OTNp*P_O_iAR0apghiipNB6*6R_pAxT*p_hpi_O*RigN_GApTiphh8x*Oi6pg2g*APTppi *i6OpRv6Bgi}RTUp0 ix*OQ** RgpGxA*0_ piyi**i xgKt0Ai0R Yx6ii*p_66*__Ap0xp*hgip*Z6 6i_RAy00pihgiqO*R_6p_ir*TNpph-x*Ri**6y_p(iT*p;hRxiOp*0**_AIpTT0* ixpRMRh*ig6XPT 0ihOxci*RT*pgi_*T=0p Oh*Ni0x*vgp_iA*0c *hiNpRhR*g5_pAiT*pNhpNtR Ri6*_vApTipNh<O*NORp6ig*A^TppN *xiN R=6Agi(*T{0g iipNON***gpa6A*06 pxVNiNi*pgsm9Ai0h qi*OANp*86*_iAp0xp*hi_ N;R*6i_hA-T6pihp*TO*Ri6p_0f*Tippi3O*OORp63g*siTOpj *gOOpRZ**gNqpTA0* i*hO}N**ig FDA*0i pi i*Ni*pgTsAAi0p -R6_6}6Tg a_NAR03p*higNATTRp ph xhgpNhxi9O*RipT  i0TNpNh7x*OiLx0 p_xxOTNp gx*OpR1**0ixriAR  Nx OkN**i0h?&A*0i pxbi*ii00Tl_gAO0p =h**NNh*h6*_iApx0Rg*6g ApTA6N_ AyT*piNRiTO_Ri6p_} RO6RihTiTOiRp6nT_xxO}N_*gNROpRv**giSpTX0*TiR0OZN**igp7/A*0i *RaigR0*pg3_* 6O *06 _h&RA0 JxAilO pgxiipN4R*AN  x0OxN_6hg_AATh0i00xROpR06TN_ON*A6eg*kixxN *i66_xTp0Ap* iiiNA* 6OOTRT*igpL3xYNcRO66_AAR*hg__*Ai0pO *6_Rf6Tgp00*x6NTRA*R_isOTRph_hApT*pihp* 3NT6pA_TA TipphD67)_AO0  N AOTNh*RxiOpRS**AOGpTl0* i__OCN**igp7QA*0ixpi*i*Ni*pgW_*TA0p kxNiiNh*I66_iAp0? giAipN0R*g6_pAoT*hihiiBO_Ri6x_ul_Ti hhTx*O*Rp66g*kiTp T _xiOORog%gi3pT? *xOxpO N**6gpY_A* ih*x>OANi*Ogy_6Aiph ih*igNp6p6*_iAp H RhiiNNJ*T6i-xAup* 6hpihO*Rg6p_Rb*Tip6h=x_OiRN6Dgg7iTp 6 *x*OpR)**gO%p0TTg ixOOKRi*igp(10**R px i*N6*pgT_*Aiig PxTiiNh*G6*_i0p0gp*hgipNhR*gN_pAVT_pihRi,OgRi6p_vT*09pphxx*O_RpgAg*;i0GpWhTxiONR260giTp0(0* gxpOhN***gpT(000i NxoOTNi*Ng8A*  0p hh*igNp*x6*AiTh04 ThiiNNJ*N6i_pAgT*p_hpiTO*Ri6pA1ANTipRh{i0Oi*h6Sg*AATppi *xNOpR>**QiAhT1pp ix*OMR6*igp&hA*0_ pxxi*R-*p3Di_Ai0R Xx0iiNi*n_*iRAp0xp*h_ipNNR*_i0AA}00pihRiYN0Ri_pexn*T_pphxx*NhRp6o^OCiT*p9 gxiOpR5g*c0cpTi0*h>xpNTN**i__Z9T 0i hxLi*Nigp_p_*TA0p Oh*OONp*4_n_iA*0r phii6N^6*hR_pAiT* JhpipO*6igN_JApTip*h)ipOi6pgTg*A{Tppi *x_Op6#6Tgi#*TFpp iiTOIN*6pgp- A*p} pxTi*Ri*hg8aLAipp cxAiiNp6h6*_iAp0pp*hNip*rRg6i_pAGT*pihOiGO*TO6p_CQ*TNpphAx*Oi;h6cg*niT pQ *xiOp*A**gi<pTKjOTpp; *xiOp*/0_AgpT px#i*_*TO ixy NN0* 6Ng*Ax*TgT_iAp0^i_6NgOUA0-06_pA=T*pihpi8O*Ri6p_T-_Tipph4gN_6TR6Tg_GiTppkNRg6PiRT*6giZpTkOp NxiO/N**iTOhgOAN  pxli*Ni*pg:_*pixp Tx2iiNp*=T_hAigO pgxAipNGR*T*hRx OARhN6ggYTTx6h_ J*TippRA_A.ATTppggb6Tpp, **66iAO0OANrhTR0* ixp6 b60Rp6hgi0iR*igO_ie6*pg9_*Ai0p {h**cgp*TgX_iAp0#O*6pg AORggx_pA&T*i6* _0F Th0R0px ONNO*0_VqAT00gg*ZiTppYxOxiOpRC**x0kpTs0* ixpOLN*gigx;mA*0i px<i_Ni*pgT_*AN0p Ah*iiNp6Tg _iAx0v xhiipN96*6g_pA0T*pRhpi O**Ng0_FAyTip h,x*Oi*hgOg*L6Tppi *xiOp6Qg6giQOTcpA iiTOc**60gpl A*06 px*i*RN6AgvPTAi0* Mh*ii*p**6*_gAp0hp*xOip*UR_6i_NA<0TpihNi^O**N6p_0e*TgpphTx*Oi*R6o_DFiTpp= 6xiNhNT**g6CpT60* ixpRw0_*igO9cTA0i OxHOghT*pgh_*A*0p th*iigh*sg0_iAh0ep*hiNp00R*6__pAxT*pNhpN2T_Ri6R_.A0TipRh,O*O_R 6xg*3_TppO *iN6RRA6pgi/iTf0* iihO N*6AgpH_A*0i px>NhNi*Og<) Ai0h ox*N Np*p6*ITAp0 p*hiO0NQR*6i_iAoTgpiipNQO6Ri6p_+q*0ipph+g6OiRp6yggsiT pH **NOpRv**gO%pT(0* iiOOzN**ighL0A*0i pR_WAA**hgA_*Ai0pOTh*iiNp*Y6*_iAppii*hNO0N8R*6i0OxAO_RA6TgxgSTAph  h_O*N6*_gNOiRp6.g*liTpp9T*RxOhRO**giypxpR0R66O_g_ 0hpNh_Ag0O pxzi*_N*hgh_*Ai0pNp6pg6AAT p__NTA0fp*hi6xn Ti06 xipOAN*RigiUAT 0O_TATTipph{R_tNAO0Ahvh6Thp  *xiOp)ApA AxTOp0* ixpOuN**i*ph_ *0N ixbi*NibOpgxAi 0h hh*iiNp80pRhpi0NTx_hNi NmR*6i0RATT_pihpiQMNA6pR_TATTipphz*__6Ax0_ Nh*Th o *xiOp_TT6pRh_ixNg*xgO_gA&;R 0h*iRNNixxTO0Ni*pg1hTiNN0R6Rg*_gh*TgF_iAp0CO*6pg AORgg0_pAtT*i6* _0e Th0Rp0iMNARd* x*OiRp6=A69iTpp( *a0OpR{**gi;pTb0*xixNOlN**igp{wTh0i pipi*NN*pgA_*Ai0phTxgiiNx*vgT_iAp0Xh*xiipN0R*6R_pT}T* Nxxi1N.Ri6O_?e*Ti hh0x*O6Rp66g*niTphWx6xiOORl6AgiAOT8 *h1xpO N**6gp+RA*pN _x^OTNi6Agb_*Ai p Oh*igNp*h6*_*Ap r  hiiNNl*T6i_ A8T*h hpi0O*Rg6p_TS*Ti  hBi9OiRp6lg6%i0h0T *x6OpRg**giFppz*_ ixOOjRA*i_x2{A*OT pxhi*NN*pgP_*0i0_ bxTiiNN*?gp_iApphp*h_ipNTR*6i_p0tpApihRiJN0Ri66_H:*00pphhx*OgRp6xg*TiT pFhTxiONR#66giTp0A0* gxpOhN**_gpT; O0i Nx5OTNi6-gPA*Tp0p hh*igNp*06*_i0A0% 0hiihN?R*6iApT6T*p_hpixO**Y6p_uTOTip*h)xgOiRp6z5*A6Tppi *i<OpRO**gi?RT^p0 ixROfRp*iSpO0A*0_ pxxi*RO*pu3i_Ai0R qx0iiR0*}_*0 Ap0xp*h_ipN*R*_i_6Ad00pihRiVO_Ri6pVxM*0kpphTx*OiRp_#4iKiT*p#hpxiO*RU**__upTO0* NxpO%N*gigh/kT 0i 6xlO Ni*pgO_*T30p ih*OANpg^h__iA*0t phiO Na6*gg_pAiT* LhpiTO*6i6g_sApTip*hbiiOi6p6_g*APTppi *xROpR>60gi.OT.pp ixhO%R*g0gpXpA*pN px i*Ni*hgQ_*Ai0i Hhgii*p6*6*_iAp0ap*x*ipNLT66i_pA=Tgpih iMO*SN6p_ab*TOpphex*OiRi6kg*}iThp6 *xiOpVp0Ah<xihpN *R6 dvA*T6p xTAg0i pxwi*NN*igf_*AiiiR gp_*Nh*i6*_iApx0N66p_wUTA60R _ALT*pihpi*O*Ri6p_lpgTipph-x*OiRp63?*ORTppD *xiOpRp**giphTH06 ix O#N**irpO0A*0O pxAi*NR*pg^h6Ai0p +hgiiN *d6*0NAp0qp*hiipNnR*_iixA8T*pihpizO6Ri6NiRw*TipphRx*OORp6Bg*<*i0p8 *xiO_RX*6gi>phT0* ixpOAN**igp0Cg60i pxDi_Ni*hg<_*hN0p Wh*iONp*=6*_iAp0bp*hiipN8R*6i_ AqT*pihp6TO*Ri6p_A&*TipphCxhOiRp6/_TN0TppA *xROpRA**gispTpOR ixpOwN_*ig yBTdOx px/i*N6*pgA_*Ai * lhgiiNp*e6*_iApTxp*hOipNTR*6i_p0MR_pihhieO6RiXp_nAT*0pphTx*NARp6Ag*.iTpppRRxiOpR^6 gij T=p.RxxpOoN*6TgpYAA*pNzgx4igNi_Ag(_*AippRgh*iONp_F6*_NAp F6_hiihNjR66i_ A80TRihpiTO**x6p_Aj*TOpphp6ROiRp6+_RtiT p(hg0TOpRT**__3pT,0*higTO8N6*ig P(Ag0ixpj0i*NN*pgA_*Ag0p h6*iiNh*{_X_iA 0=p6hiii__R*6i_pTpT*pOhpi}O Ri6h_M.*Tipph<i*%hRp6Ag*1gTppT *OiTxRy*ggi; TBph ixNTRN**NgpAOA*0O pxGi*N*T0gJ_*Aip6 wh6iiNiA_6*_iAppNp*hOipNTA 6O_hA#0TpihpizN*Th6p_Aa*0TpphTx*Oi_h6+ggIiTppJ *xiOp_T**gRDpTA0* ixpNT T*igiQyTi0i pxKi*NN*pg0_*AN0p Th*iiN *Ug,_iAp0}p6hiOhNRR*66_pphT*pihpN9OgRi6O_BAATih_hdigNRRp6hg*0NTppY *iNNhR<60giAhT;0* iih6xN66.gp0TA*0i piTNpNi*6gdbgAi0p Gh*O0Np* 6*XAAp0Tp*xiO N8*{6i(NAG0ApihpOAO*RN6p_p5*TNpph9RgOiRx6GggtiTppZ *OhOpRp**gRVpTw0*hNOAOZRA*i%*!zA*0i piNi*Ng*pg!_*TA0phTh_iiNR*dAT_iAp0oh*h6ipNxR*6__p0RT* NxiiXNpRich_o:*Ti hh6x*NARpgTg*4iTp TOgxOOgRC_ggiapT#pghAxpORN*6NgpJ+A*0ih6xGO0Ni*_gD_gAipphOh*igNp6h6*__Aph= OhiiNNLgA6iThA+0g ihpixO*6g6p_VC*pihihDi0OiRR6!2*ci0hpp *i7OpRT**gi,p0TpO ix6OfNg*igpzuTgpR pxNi*NN*pg,_*Aip6 5x0iiNg*K6g_iTp0gp*hgipR_R*6__pTTp?pihRiD*TRi6p_jT**ipphxx*O_Rp_Xg*AN0Rp5hpxiO*R^**giAh0o0*hAxpOiN**igpAT0x0i gxmOpNi*pgq_*Th0p xh*OTNp*T6*)ixN0A ThiNeNk*06iTpAhT*pghpNTO**66prTTGTipRh/OOOiRp6S3*T0Tppx *x_Op6_**)iA0TZp0 ixRO-6N*i_p8gA*0g pO_i*N_*p_T5AAi0R !iOiiNp*;_*jAAp0xp*h_ipNRR*_i_gA}00pihRiHN0Rigp_Tb*TgpphRx*O_Rp.XR6=iTNpMx_xiN0Rj_*ROvpTh0*xhxpNAN**i0_(rTs0i Nx.igNi6hpO_6A60pxph*iiNp*%_h_iAx0% AhiihNKR*g__pApT*pNhpijO*Ri6*_JAATipih+x*OiRp6Tg*GgTpp% *xiOpRtgAgiLRTe06 ixpOVRggpgpdiA* v pxzi*RN*NgyW Ai N Ch*ii*p606*-AAp0Op*iiipRT6p6i_gAjTgpihpibNg*N6p_Ry*TNpphtx*NNRR6)_iUiThpU *xiOpR0**_A;pT*0* NxpNT*h*iggY:Tg0i px/OghA*pgR_*T*0p +h*iiRg*Xg0_iA_0dpghiipNNR*g8_pA4T*pRhpOTN6Ri66_-pTTipphaO*ONRp6Og*AATphR *iNO R)6hgiAhTL0* iihN*N*60gpANA*0i piTRANO6:gQIgAi0p MxgOTNp*66*ATAp04p*hiONNl* 6ijAAzTgpixpOTO**U6pvh5*0AppxTi6OiR66<TTeiTppsx*ihOpRO**_A3ppR0*hNxNOHRh*iAhFFA*0ihhiAi*R0*pg6_*Ai0phTxpiiRM*/_ _iAp07 gxAipN6R*gN_pA%T*pix0iqN RigA_/bgTi ph6x*N^Rp_Ag*AATp ThgxiO6RP*_givpTy *hixpOON*6AgpTRA*pNORxAOhNi_hga_*AiphhAh*O0Np6O6*_iAp0Uhihii6N}*x6i_hAD0*pNhpiiO*606p_Ow*Tip_h{iTOiR*6=gg#iTphi *x_OpRT**giIpTqxg ix*OFNg*igpyqA*xN pxOi*NO*pgL_*TNgg 8xhii6x*#6*_iAp  p*xAipNTR*6N_pTTghpihgi-*_Ri6p_Dz*i0pphix*NTRp6Tg*jiARpJh xiOxRY**gijp x0* _xpOON**OgpZ2xx0i OxWO0Ni*hgusgiA0  hh*RpNp*B6*_iAi0s shiiNN^Rg6i_pT T*p6hpiTO*Ri6p_{TpTipNhwiwOiRp6{g*ApTppx *xiOpRy**giaRT1pp ix OmN**i_hAtA*pA piii*Ni*p_TCTAi0g 8OTiiNp*Y_*A0Ap0Np*xTip*9R*gNDpA.0xpihhikO*Righ_h2*0ppphTx*OiRpgT_6{i0ApL gxiOpRw**rp9pTN0*h xpOTN*6N_NC}Tx0ihhxyi*Ni6hOO_*Tp0p Oh*iiNp*lgg_iA*0G ihiihNMR*6__pAOT*pihpiTO**NgT_VAhTixNhJx*Oi6pgRg*ATTppN *N0Op*T6Rgiu_Tthg ixpO(Rg66gp=*A*pN pxdi*RNO:gbuOAiph ?h*iiRh6A6*JhAp Op*hiipNF6A6i_gA>0Npihhi7N**h6p_O}*0gpphNx*Oi**6c_h/iTOpL *xiNpQ **_AIp p0*hTxpO,N6*igRf/T 0i hx/i*R**pgi_*A*0p rh*iiR0*Fg _iAh0&p*hiipNxR*gT_pAIT*pihpijRTRi6__B.6Tipph^igN*Rp6*g*s6Tpp^ *OiTxRX6OgiW T>h* iihpON*6hgp0iA*0i pxXO*Ni*_gkdNAi0h ,h*iRNp**6*_iAp0pp*xNORN}*O6iTNA(T*piipi_O** 6p_6r* 0ppxTixOi*T6:AgHiTpplhgO OpR_**_ 2pT&0*hNOOOAR**iAhLbA*0ihhi0i*RO*p_T_*Ai0p !iTiiRA*eg6_iAh0u *xRipN*R*gg_pA6T* NxRi?NORijN_mv*Tihph6x*N Rp66g*00Tp ThgxiNTRC6ggijpTLpghOxpO_N***gpP9A*pN RxLO*Ni6hg+_*Aiph *h*OONp6T6*_iAp0&hOhiOANf*66i_hAt0* xhpi*O*6O6p_6W*0N ThQiOOi6A6Qg*ripp p *i OpR6**AxjppqTA iiAOKRO*i8gUZT*pg px*i*6x*pg6_*pipi )xiii6p*DA _iApp*p*xTipN*R*6N_pTT0Rpih_iz*+Ri6p_B^*0xpphOx*N0Rp6Tg*di0ppohhxiOhRD**gi8pTA0*h0xpOAN**igpATAg0ih2xbR_Ni*pg3_*T 0p Rh*iNNp*T6*HN*g0: ihiRxN;R*6i_phRT* Thpi*O*RN6p_&Y0Tip_h+idOiRp6mg*__Tpp* *xNOpRt**gi0RTjpp ii5OFN6*igp RA*0g pxii*NN*p_T*xAi0R cxNiiNp*86*_RAp0 p*h_ipNTR*6i_ Au0TpihNiUO*Ri_p2BZ*T_pph0x**_RpgTg_&iT6p&iJxiOpR5**<A^pTx0*hAxpOTN**g/xcATp0i xxui6Ni*xgJ_*h_0  yh*i_Np*y6*_ieR04p*hiiiNnR*6i_p}xT*pihpi0O*Ri6p_y_OTipNhfipOiR 6zg*pNTpph *xgOpR5**aiOxTrp0 ixxOuR_*igNT0A6pX px i*NO*pgT_*AiTR ah*iiN *f6*_iApTxp*hiipN0R*6i_pArpRpOhNizNpRi6 _CT*TOpphhx*OORp6Ag*Ai07p+ _xiRiRG6TginpTg0* gxpOhN**igpTn000i RxFigNi6pgl1T0R0  ih*iNNp*A6*_RAp0>N0hOipN4*06i_pA3T*0_hpiCO*R66p_n8*TiORhAx*OiR*6}g*;iTpT6 *xgOpRi**gO7pT#xg ixNOKRT*igp.o0**R pxxi*NN*pAA_*Ag x AxpiiNp*266_iAx0yp*R_i NBR*6__pAZT*pi RidO*Ri6O_ZG*TippRxx6OiRp6ig*{iTpp!pOxiONRX6pgiF TU0*ONxpOhN**ggpMqA* igxx%O0Ni*hgST0Ai0Nx0h6O&Np*A6*_OAp0pp*hi6RNAR*6i_RA^T*pihpxxO*Ri6p_ U*Tipphr60OORp6-_pfiTppo *h_OpRd**gRnpT>0* ihAO7RT*ig*zCA60i pRTi*Ng*pgh_*Ai0pxk__iiNR*v6g_ipO0Z TiRi NiR*6*_pAAT*pRhpin_0RO6p_WA0Tipph5x*i_Rp6Gg*{6Tpp+ *xigRRA**gi8*T.0* ixpx6N**ggpViA*0O pxq6gNi*pgy_6Ai0p mhgg6Np*Y6*_NAN0tp*hi6xApTgpx _x T*pihpiMO*Ri6pTTp*TNp*h,x*Oi8h0_hvhOOiNO*RghOpRd**giepT50*O&RpOTRA*igpc!xTOO*:g _ANN*_gb_*AiipRA6og*v6Tgp0ppxOOh*HhNiiNlR*6iplxOONN6hhNNO*Ri6p iiUO*RpONNR*xTRpxh00hOhN_Rggpf0Ti_NpRx0i6hRROgx.0AA0*A00_i O*OANp*p6i_OAhT_ Ahpi7O*iNNi*k6*_ihAOAR 6hixN4Rg6*_pAuT*ig6!gA20RNgN_CL*Tiih*A6_I0ARpT Rx6OTNpR^gN_ Ag0_ ih OTNA*h6x8ONg6Tgp/=A*x_*0gp_poO0ATThRipOi Ti0iiNp*upg Ni*OAR_6RgOApT 0*Tg0_ Rx*O R 6A_9lpTA0g 6xhhTiOOiRp6fT_xxO.N_*g*R_OTApAp6xTi0NA ixpOoN**igpGD 7_i hx0i*Ni*pThh i*0x Ahgi_Np*z6*p*i0OxR06pgODpR*6i_pAPT*pihpxJ6RRi6p_!n*TipphQip6iRphNi NAR66O_ pA60RT6 gi}pT?i_RR6 _*AAA* 6xwiA0N OxPi*Ni0ip_pphRiN TxTiiNp*9T* OihO RN6*ihN R*6i_p *i6NN*Og*Og*Y6p_#{*xiR060g Z*A60_ NjiTppP *xiOpRJd*NiShTx0* ixpghAATR ih_ighN pxXi*Ni*pgr_*pOxp Kh*iiNp*16*_ipOxrp*hiipNYR*6ixp Ah*pNh*i;O*RiAx AxiOpNh*A6_.0Rh6 g*KiTpiO*O6O_RA **gi4pTb0* ixpRgg**NgOUrA*0iON6*g6?_0xgTSlAi0p I6OgOAiTi6g_*Ap0>p*Ng_0qg046i_pA-T*pihpgbVR_i6h_pc*TippNg669 AO6T_h+iTppyN ghcpT pXTNhOixO6*hxhO N**igp  hVNA*ANTigR?*pg2_*h6x6O06R_NATT pg_NAi0dp*hi6xUO0h06_hAAT*pihp6OO*Ri6p_BW*Tiip*6R*ON*,6Kg*Hih NT*_gx.WT p<p6 xiORhR6xpOyN**igp79A* *OpxTO6Ni*pgZpOixNO*06A*NAO0p fhxiThAi_6pg6t0Tx6NfpAnT*piN gT&_TxpGh iQi6Op*_g_lATi0O RxhThph *xiOp_00R px0OTh_ NxiO+N**i0Oppi N  pxji*Ni*pgI6*ixxp th*iiNp*{6*_iAp0npgxiipNkR*ARhXxOO*RRNig d_AR0O gx=iORT6pg_ONRO6zg*ciixN*R6g rpRM**gi3pTt0* iNi6jNg60gp.vA*xO*T60_pAx0h0thRiANT*phgO0Np*S6*0Ri0O*RR6N_p<OA_p0 OiTTgpghpiyO*_NpOhpiDOxRThTihOiRp6l0 x i Nx*A*p_ AT0A pUhTx0* ixp_hAg0x A Th0xN hxpi*Ni*p0px iiOO Ih*iiNp*26*_i px7pgxTipNkR*TAhTi{NAR*NOggwDA60i_5?*TipphQx*Oi6*O,g*NTR66O_ AAT6iO&RgNZRTr0* iRi_ ATTO Oh*OB0iTA0* ixpO/N*gi x0h *h*iiNpAZ06 *xiOORN*_6hzOT0p!hiAT0Opihpi+g*AO0i px OhNRNTgRU*Ti0_ OGNTOpe *xi6NTTT6  hOT90* ixpOwN**iA6*)Ag0R pxui*_RTO p_gTA0p lh*66g6AZ06 *xiOORN*_ihN*R*6i_p 0ORRN6Tg (g7N0  px O6RxhTihOiRp6}0gxxOONg*<RgmhAA0Op6>hTp0* ixpg0l60gpOHTT00i px4gTAA0xpO gipOO .h*iiNp*y6*_i_ph_p*+TA60O  xAi6_OhRpihpi9O*Ri6p_;0phipphDx*OiRp6og*AihppT _xiOpRU0Np6xRTs0* ixpOyN**i_ipIAg0g px(i*_RTOp0hRihOi Tx0iiNp*dA_hxiTNpRA6h_iNTR66i_pA=ippihpi}O*Ri6p_I_*gxphhpx*OiRpA  Nx6OApTxAxiOpR1#_ xx-i_NgNR6O:ATAT6 Th0iAi0ROgO_*AxT6pgxqAN0  5h*iigN*Tgh_iAp0<NARA*RATA60* 6x ONR*hhi O*Ri6p00xROpR06TxgNTRp6vg* ii Np*WgA{TAxTc xxpTTpT ixpO7-ukg hhAiOO6 hxpi*Ni*p0phAOYNi lh*iiNp*G6*_i xxnp*hiipNKR*6i6pi;h*piOxR0*_gRcxT0g_hxphhhx*OiRpp0 AxpiON06FiJOpR}**ggCpTL0* NxgO1N**iTxh_iiNx*hRO_NAi0O p_gTT0p ^h***/6000_hxiTOgRA*R_iNT*O6i_pAKiARR*O_Tg Thpph iox*R661gAONRi6Yg*mihONg6Ag OhR***gi1ph6NR*6gx_ gg06 ixpiRNhi xTOONi*pgvpgx6NTRp6A_N_x0ppAhiipO RFhOipN<R*g0_pA{T*pNxpijO*RiA  Tx_OxRn6 _V_69p0_ _xAOiNO*RghOhR **gikpi0NiROgAwSNg*Rgp9.A*NhROgxi*Ni*pg3_*Ai0ppGNRiNN *?6*_ih*0Tp6hiipNYA 6NzIAXT*piN gTa_Txpsh i8i6Ox*O_h_6Rp6Yg*JiTpp> *xiOpRT6pgiSpTZi**xgx_OTv0A 0hgAg0* pxqi*A T  phpAN0O 7h*ii_Ompp h ph0/p*hiip6AR*6i_pTT0ppOhpilNhRi6p_7T*pCpphXx*OiRp6Tg*Pi0xpj 6xiOpRD**giTp0B0* OxpOAN**6gpId0^0i hx3i6Ni*pgmA*0T0p Th*iNNp*A6*AiTh05pghiihN?*A6i_pT0T*pOhpiAO*RN6plTA Tiphh/ipOiRp6%g*VOTpp0 *xOOpR,**+iOxTB0_ ixxO5R0*iIpO0A*0R px0i*N6*pgU xAi0p zh_iiNh*c6*0NAp0Ap*hOipN&R*_iixA3T6pih i!N0Ri_pi0w*TOpphAx*O6Rp65_xuOTppd *xiO RM6g_.# TA0*hTxpO7N*gigx.5A60i  x{igNi*pg__*AN0p .h*iiNpg)g*_iAh02pghiiNNzR*gN_pA0T*pOhpimO*6ig0_w-_Tipxh#x6Oi6pgxg*nRTpp0 *xgOpRH6*gizhTm0g ixxOWRggAgp40A*pH px2i*Ni*ggrteAi0  >h*ii*p 06*_*Ap0pp*h_ip*(p_6i_iAC0^pihNieO*A06p_AB*T*pphTx*Oi_h6)ggqiT pc *xiRpp0**gN%pTT0* _xpRa0_*igh?)Ag0i NxDi*R0* gA_*AO0p Th*iigh*56g_iAh0/p*hiOhOTR*6R_pART*pihpN=T_Ri6x_3w_Tipxh4x*i_Rp6pg*uiTppP *iNpgR{6AgiX*Tr0* ixpixN**ggp/AA*0i piTphNi*RgC+pAi0p kh*g0Np*06*__Ap0Tp*xi_TNeRg6i_6A>T_pihpANO*Ri6p_0!*Tippx#  OiRh6&_e7iT pd *ATOpRT**g*8pT}0* iRhOCNg*igOF1A*0i p_*i*NN*pgA_*AO0p PRgiiNp*q66_iAp05p*iTipN=R*_i PA/T6pihpibO_Righ_Al*TNpphpx*OiRp_M_6;iThp3 gxiOxRqg*.pmpTT0* NxpO N**ggg<1A60ih6xGi6Ni*hgc35xx0p -h*NANp*A6*yN=h0Fp6hii N(R*6i_Ni4T*pOhpiNO*RO6p_AW*T*N0h:x*OiRg6Pg6+iTiO_ *xiOpR6**gOrp0TTg ix OIN6*igpYy0* i  xAi*NO*pgT_*AiN  ;h6iiNh*+66_iApxTp*hOipNFR*6i_pAahgpihhidO6Ri6p_=T*RRpphTx*ONRp6hg*bgpxpA _xiOpR1*6giWNT<0*N_x OMN**Ngp%=A*0iNRxAi*Ni*xg!_*Ai0pNxh6iiNp*p6*_iAp0eN0hOipNd*A6i_pALT*O_h iLO*Rg6p_ZL*TiORhAx*OiRR6eg*diTpOR *xOOpR0**gNfp0TU_ ix O2N6*igpYvA*iN pxni*NO*pg!_*AO0x .h*iiNh* 6*_iApihN66p_O( Rggi_pAHT*iN* g0CxA_ph _iAOhNiN0gR^pT0pTA_QNT*pt *xi6xAA0i phhiAO_*0xpOQN**i_l4tA*0i phNi*NN*pgB_*Ai0ph-x6iiNh*^66_iA 0>p*x ipNTR*6O_pA}T*pihOi4O_Ri6p_uM*TihpxAx*ORRp60g*)OTp uxAxiOhRl*ggiXxT=0*hhxpOTN**Ngp.4A* ihOxMigNi*hgU__Ai0phTh*iRNp*96*_iAp s )hiixNUR_6i_ A:T*ROhpiTO*RN6p_Af*TiOhhPx*OiR 69g*eiThp  *xiOpRT6hgi9pT8is*Agx_0AR0h Th x_N* hxii*Ni*pTixAx6x6Rg6*_6Ai*TgO_iAp0:NA6RgOAT- phhpi NjO*66_UWARN6i_)f*TiiO*g_AJ Rh6*g*viTpi6*Rg6FxA ,g 6xiOpNR*hN OkN**igpC6A*0i pOGgiNi* gL_*Ai0x MxgO Np*T6*_*Ap0tp*iiOONMRg6i_hA?T_piipiiO*RN6p_TB*T6pphhx_OiR 6!_iMiT ps gxiOi>_**giupT*0* OxpNTOg*ig ?MAg0i pxGOTp0*pgA_*Tp0p Ah*iiNp*p0R_iAp0k ihii N(*g*N_pAAT*pNhpi!O*6i_p_A.6Tip h9x6OiRppAg*nOTppT *xOOpR=AggizpT:06 ixpOtN6*ggpn9A*0N ix+i*NieOpgxAi 0h ih*iiNp9i A 6 6OgR*66_iNT*i6i_pALxORx6O_0cA_NpOhpiFOxRTOAxgN Rp6/g* NiONg*m66+h/0p<p6xpOWNAR*xhONN**igpppi NRRx6__NAhTOp0xbANpA mh*ii_O00pAhN 6OgR*66_i_p0 pi OAAT*pihpiRO*Ri6p_TF_TipphfgN_6TR6T_AJiTppzR_gp_ A60*gikpT!0* ixpOqO*?xghd A*0i p* 6HAA0AAT_gTp0p -h**O2h00pRhpiONpRARRg6ANTA6i_pAeT*pihpijO*Ri6h_i?*TippRrgR!RA6pp  xxOTpT 6xiOpR;T gidpTD0* ixpO>i*GxghADA*0i pRAggAR00p*xAi*OON/6R_RG60pp hxiT0T ZhiipN#TO0OhixiT*pihpidRRRi6p_(Ag0Wp h{x*N0Rp6fg*Ti0RpH *xiOpRB*ggi/pT00* OxpOGN**igpT/0T0i  xZi6Ni**g<_*000p Th*iONp*V6*AiTO0;pghiihN4*h6iApTpT*pNhpiTO**=6p_HA6Tip hCx6OiRh6a_gAiTppT *xgOpRW**giTJTM0_ ix OFN**i7pO0A*0R px0i*N6*p<ei_Ai0x &h_iiN**I6* 0Ap01p*hRipNTR*6i0hAVT6pih i^O*Ri_pi0%*TOpphAx*O6Rp_Zx_(iT p) 6xiO*R#**_0= TV0* ixpOAN**iThGUA60i hxYi*Ni6h6T_*AN0p ph*iiNpgYh__iAh0wpghii Nv*gOT_pA0T* Ahpi9O**Nig_5AZTipNhSx*OiRp*xg*}6Tpp? *xiOp*Tihgi3NTepT ixpOlN*Apg yTA*0g pxTi*Ri60gv_6Ai0R DhgiiRp*06*_OAp00p*hiipNo*66i_ AvT_pihpi.O**A6p_Aw*T*pph%x*OiRh6ug6/iT p{ 6xiOp*p**gi4pTA0* ixpO=*p*igps=0*Op pxAi*Ni*pgh_*TNpe ehgiiN *;6*_i0p0Op*hNipNTR*6g_p0{p7pihhi-OgRi6x_:AT0 pphAx*N_Rp6Ag*7NTpppRRxiOpRHg0gio T:pgpNxpOAN**Ngp-KA*0gg_xri6Ni6Sgf_6Ai0p ZxDgxNp*K6*QpAp0Ap*xNxhNYR66i_hAlT*piipNVO6RO6p_AI*T6pph?g6OiR 6WggMiT pk *RNOpRA**giCpTl0* iRhOsNg*ig k+A*0ixp%0i*NN*pgT_*A*0p hi_iONx*Y6*_iA 0? Ahiip_xR66i_pATT*pihpi!_0RO6p_e7_Tipphbx*g_R 6ug*d*Tpp3 *xigRRA**gi1OTb0* ixpgxN6*igp7hA*0i pxDgxNi* gD__Ai0h Dxg RNp*A6*_NAp0Kp*hi6hNkR*6i_ AYT*pih i O*Ri6p_TAhTippha*}nATx00 RxhOTN R_g*OhRN**gi>ph0NR*pg0UT_ 0h px OL0NhrxZi*NiAAp_xAiROOOTgA_*AiT_pNTOAh06p*hiip_ T_06hh OONRi6O_p_r0App  !gT*pphQx*66TTp  OaiTpp# *ihOpR?**9ih+T?06 ixpO{RH*i_hA0A*0N px i*Ni*pIKehAi0h ohgiiNi*r_*AyAp0Tp*hNipN0R*6g_hAVT6pixAi9O6Ri6h_ZA)ixpph8x*N Rp6Ag*ANAhpC 6xiOhRq**gi:NO-0* OxpONN**Ogp<AA*0*R0x{i*Ni*ggv_6Ai0iN_h*iiNp*66*_OAppT0ghii NKRg6i_pAkp*hih iAO*RO6p_Au*TiR h:x6OiRh6Wg6uiTpOT *xiOpRA**giIpTA0* ixpO}N**igp?8A60i pxCi*_N*pg:_*AO0p =h*iiRi*{6*_iAh0hp*hiipg0Tg06  ipOApNhiiMO*RiT: OxNi6phhxx*OiRpTp Rh_iRN**A6*OpR%**gi<pTr0* ixpOTRX*igpl?hANh*O66i*Ni*pg/_*AiRpRTN*iNN6*m6*_ihiNxRA*6_TgOTN0gh0AT0Jpihpi&g6T60  p5gTOpph7x*6gRh6Rg*diTpi R6gR_6Ag000RxiOONiR6xhOpN**igp 0i RTROxTi_Ni*pgzhNx6NR TxRiiNp*4TA OixOORN*_*i&OTg06 xipO Rx6TioO*Ri6p_bt*TiixNXxgO_Rp6zg* gi6R0* 6NP7A **AR0x 0h_iRNx 0gR*Ngi<^A*0iNp6*g6TA*hg _*Ai0pN Rf_AAA_T6g_RAp0Ip*Rx_OApR*6i_pAGT*pihpxW6RRi6p_X:*hTpphux*OiRp6Ag*.iTppe *xiOpR0**gOypT<0* ixpR+*T*ig lwA60i xx(i**T*pgA_*AO0p Wh*OiNx*/6*_iAx0Wp6hiipTRR*6i_pAAT*pihpNXNeRi6p_nG*Tip hvx*N*Rp6Tg*4NTpp} *iNO*R+*_giURT?0* iOpO0N**Rgp40A*pp piTO0Ni*igZf*Ai0p =xgN Np* 6*_6Ap0lp*iiN N#*A6i_OA.0hpiipi0O*R66p_ l*0oppxTOOOiRN6,_A{iTpp/x*i OpRh**gg-pT60*xixhOqRT*igNewT_0i pxgi*NR*pgh_*AN0p qihiiNi*36*_iA 0:p*NNipN R*6i_pAkT*hi_xicNARi6O_yK_TipN_Rx*O6Rp_4g*QOTpp& *x*_0Rz**giTpT?06 iihiTN**6gpATA*0i pO9T_Ni*OgKHAAip{ LxgO_Np*h6*P*Ap0{p*xNOhNL*06i_iA>T*pixhiAO**76p_pL*TippxTOaOiR66t_TFiTppo *xROpR **_A=pTT0* ggpOHRA*i=RfjA60i  xQOl<x*pg=_*0_0p Ah*ONOh*%gA_iTh0op*hiNpp0R*66_pA T* phpOTN_Ri6N_cT-Tipph9igN0Rp6xg*o*TppQ *iNNhRY6pgiGiTl0* iihN*N*6AgpqgA*0i pxBO0Ni*Ogm; Ai0h dx*_hNp*p6*v0Ap0 p*hi6_NoR*6i_iAZTgpiipNuO6Ri6p_3L*0OpphCg6OiRp65gg%iT p, *RNOpRB**gRPpTF0* iRhOPN6*igp5dA*0ixp}0i*NO*pgA_*AR0phF6NiiNp*?gR_iA 0qp*NNipNfR*6*_pAwT*piNhi3O6Ri6p_nB*Tihp_0x*OORp6Ag*CRTp 5*NxiOpR+6Rgi. TY0*ONxpOJN**NgpQHA* igxxJi*Ni*pg>4 Ai pg0h*iiNp*&6*_NAp02ighii N{R*6i_pAap*6RhpiAO*RO6p_09*0iRThex*Oi*06Gg6{iTpOT *xiOpRA**giQpT!pp ixpO)Ng*ggp,PA*x_R 66_A_ATigT<0Ai0p l6T_NA0T6TppRhN0T *hiipN9_g0O xxRO0RN60_ BNA*Ax _xiOxRhO0xgORRp6}g* RiORp gxgOpR1**TRx0i*NR*NNxOoN**igpylA*0ippN_igRK*pgb_* RO R*6igNY T0px_NAi0#p*higRqATO06_pAsT*pii0iQO*Ri6p0Tk*Tipph.x*OiRpgT6g4iT pGhAxiOpR2g*xRPpTA0* OxpOTN**iTh=BAg0i  xbi*Ni*pTT_*AR0p Th*iiNp*1Ag_iAi0wp_hiipNHR*00_pAAT*p*hpiTO**ipT_e:*Tipxh,x6OiRpATg*(iTppp *xiOp*TRggi8 TkpA ixpO1** RgpoAA*0O pxTi*Ni6igA_gAi0  Wh*iiRh*T6*_RAp0hp*hiipRTRg6i_iA^0TpihpiVO***6p_AK*T*pphTx*Ni*06Bg*=iTxpH 6xiOpRN**giPpT 0* ixpRLR}*igpu3A*0i ixji*N_*pgT_*Ai0p Yh*NiR**t6g_iAh0%p_hiipR R*6i_pATT*pOhpi&6gRi6p_nATTipphIO*_6R 6Wg*biTppx *xiRARm*6gispT}0* iOpOON**Ogp}AA*0R pxVOONi*pg4_gAi0  jh*i6Np*H6*__Ap0Hp*xNixNcR66i_*ACT*piipO*O*RO6p_A9*TOpph8O0OiRp6;ggLiT pf *xNOpRL**gO}pTr0* i6pOTN**igNORA*0O px0i*NO*pg._*A*O0 ch*iiNx*t66_iAii_p*hiipN R*6O_pAP ppihhi&O*Ri6p_8d*A_pphAx*ONRp6Bg*TiRxp/ gxiO Ry_pgi3NRR0* NxpOON**OgpM+A*0*R0xGi*Ni*6g)_6Ai0iN_h*iiNp*N6*_OAppT2hhiihNQ_x6i_pA&0*RhhpiAO*gX6p_T2*pi6xh/xgOiR 6d0<.iTN6R *xNOpR_**gOLpTH0* *60O>N**i_0rUA60i i*_i*Ni*p_ _*AO0phT giiNh*CP__iAp0jh*LiipNTR*6N_ppgT* Nx6isO_RiIO_3o*Ti hx/x*O*Rp8 g*&iTp ThhxiOORbcAgiUpTv0*h0xpOTN**6gpKTA*pi*TxCi6Ni{igJ_gAi pg0h*iNNp*A6*AOAp0hR*hiihNj6h6i_ A,T6pihi6_O*Ri6p7NP*TOpphT6 OORh6-_A-iTppch*ghOpRA**COmpTT0*xioxO:Ng*ig lrTx0i Ngqi*NN*p___*AO0p Ah*i*u0*w6*_i000Mp6hiipOiR*6N_pATT*pihpO+yNRi6 _YAxTiphh7O*TRRp6Tg*/OTpig *xg/pRZ*ggiTiTM06 ix O-RXTxgpW)A* * pxAi*NiR6gG_gAi0p Qh*iiRpTg6*_OApxgp*hNipRTxh6i_hA-pCpihpibNgxT6p_0#*0*pphPx*NNhg6F_1mi0ipC *xiOp6i**g6.pT(0* *xpRS0_*igN1(A60iOix=O*Ah*pg _*A60p hh*Rix *SgA_iTx0k hhiRpxAR*66_pp_T*i0hpNeT_Ri6N_aV6TiOTh+i*UhRp6 g* hTpph *xiRTRQ6TgiYpTU0* iihOiN**_gp06A*0i pxrONNi**gY_*Ai0N &xgN;Np*O6*TTAp0up*iiO6N#* 6i_6A)i=pixhigO**T6pTh&*TippxTOxOiR_6qggGiTpp%hg0TOpR***AgupTM0*hNTgOHRO*ighMcA*0i p*Ri*RA*pg6_*AN0phK6NiiN**Pji_iA60t g NipNOR*&T_pA/T*hi_xi=N Ri66_khbTi h Tx*NTRp0 g*diTp TAhxiO_RPgAgi#pTVpgpNxpO*N*_RgpnlA* igxx<OiNi6WgzApAi pg0h*O Np* 6*_6Ap0q_RhiOuNm*O6i_pAWT*p*hpiNO*Ri6p_4;*Tip_h+i OiRp6uggMi0p T *ifOp*R**_A)p0TpO ix6O4Wh*igp%:0*pp pxOi*RA*p_x_*0ip0 mx iiN6*<g6_iTpphp*x<ipRxR*gA_pTT0ipih6iyRORi6p_fT*p pphOx*NARpTpg*AN6gpvhhxigpRX**giAh6N0*h0xpg.N**igp^(xx0i 6xDOxNi*hgz<*ih0p ih**TNp*O6*Tig 0q phiO?Nz6=6iTpgAT* +hpNTO**v6p_QhxTipNhIipOiRh6<g*ThTppx *xiOpR7**_NYiTjpp iRAOmN**igpAxA*pA pxFi*Ng*p_TA9Ai0g GOhiiNp*m_*zNAp0Np*xTip_pR*gN-pA?0xpiONi<O*RighkRU*0ppphTx*OiRpgTAAdO0Ap^OTxiOpRr6g_h:pTg0* NxpOUN**ikAVSTh0ihTxWigNi6p_A_*TA0px*h*OTNp6Tgx_iAg0CxhhiipN)6*gi_pANT* Thp6pO**Ng__7AxTiOph:x*Oi*hiNg*ApTpxh *xiOp*TRggiAAT<NA ixpO;RgiTgpfgA*p* px7i*RNRhgcIRAihx Ih*ii*p 06*=xAp0_p*iUip*>p_6i-pA%0ApihOiJO*6R6p__b*0ipphax*Oi0 6I_O^iTppS gxiNpiO**_ ;p0p0*h xpO}lx*igg38TO0i hxDO*_b*pgO_*000p Nh*ONNO*.gh_ihg0lp*hiNpNxR*gT_pANT* _hpNjRxRi6g_YAhTi  h2i*NhRp6Og*A_TppN *iNihRS6hgiTATF0* iOpT0N*6TgpPNA*i* piTphNi*_gqp*Ai0p ZxgpTNp**6*piAp0Qp*hi6_N4*h6i%vAYTgpixpggO**A6pTN%*0TppOSp6OiR66(_i(i0ipdi*pOOpRO**yN<pTi0* i*_O}R0*ig6zqAg0i pigi*RB*pg3_*Ai0phTihiiN6*)AO_iAp0up*hNipNNR*6i_pA0T* Nh*i!NxRi_g_{{*Tihph_x*N0Rp6Rg* *Tp ThNxiNVRBgngilpTupgxpxpO6N*AAgpbYA*pNg6xsONNi6igj_*Aiph hh*OxNp_h6*_iAp0j Nhii_Nm*R6i_hA^0* AhpiNO*gp6p_R{* ipghWihOi,06k_hJi p R *iTOp6T**_h9pTZ A ix_OoNg*igpfdA* h px*i*Ni*pgy_*TNp* 1xOii*_*v6*_iApp>p*xhipNaR*6O_pTT0Npix0ia6GRi6p_+T*0Rpph_x*NxRpTpg*AN0xpdh*xi*NRb**giAh0R0*hOxpg N**igp!Jpx0ih0xvO6Ni*hg8,*0p0p gh*6pNp*_6*_iTA0u ihiOTNHRg6i_pAAT*  hpihO*Ri6p_lApTip_hviOOiR 6Lg*h0Tppi *i0OpRT**giTTT3p  ixpO>N**i_hAAA*pT pRii*Ni*pgKqRAi0_ Wh*iiNx*BggA0Ap0*p*OTipN?R*_i&0Af0ipix9i9_VRighSOb*0 ppOhx*OiRpgT_hPi0TpnO xiOpR}6gf64 T_0*h*xpOqN*6N_O^LT*0iiNx:i*Ni*p_0_*Tp0ph2h*iNNp61_h_iA_0cxihiO5N}*gg*_pA*T*xThpifO*6i_A_aAiTi Jhb6-Oi*h6hg*A Tp p *xiOp*TOAgiATT%p* ixpOjRg**gpj_A*hg pxIi*RN**gkI*AihN Xh*iiNp*06*SpApp%p*hNipRUR66i__Aypxpixji5**iO6p_R<*xxpphNx*Oi6*6;_iFiTxpG *xiOp_T**_ zpTj0* ixpNThh*i_TtlxO0i px+i*6L*pg__*Ai0p Th*Ri6i*AgR_iAx0.N_hiOhRTR*gi_pA_T*pihpNPNpRigp_9A*TiOih8x*O6RpgAg*ZgTpp) *iNN*RL6ggi _T,0* iOpO6N*6NgpATA*i* piTORNi6xgH0TAi0p !xgNNN 6p6*TRAp0(p*iiOTN=696ioiA#hNpixhO O**66pT S*TippxTiNOi*N6/TTmiTppLhgi*Op*x**0R:pT40* ii*O%*^*i_R.QA*0i pxTi*RN*pg5_*AN0phTAxiiRx*f0x_iAp0?h*x ipR0R*gR_phpT* Nxpi:RjRigN_yS*Ti hhRx*N6Rp10g*^iTphaxOxiNOR:gAgipTTwpgxpxpNhN*_hgpn2A*pN xx%N0Ni_Ogj_*AiphPNh*NZNp_h6*_iAp0JhkhiOON86p6i_pA{T**OhpO0O*Ri6p_Tv*0Ng_hCO?OiU_6%g*!ipppi *i*Op*p**0*&p0Tp0 iiOOUg_*igpr^Tg   pihi*6R*pge_*0ip_ ViTiiRN*HAN_iThp6p*x_ipR_R*6i_pTTphpix*iJ6ARi6p_/AggTppxOx**gRp6:g*di0ipKxTxiN6Ry**gi)pNA0*h*xpOcN**NgpAT*x0ihOx{gxNi*pg<A*Tx0ph h*O6NpAp6*INTi0mhThigiNnR*6i!hTOT* _hpR0O*Ri6pAMTJTi RhwO0Oi_T6u_gAOTp i *NgOpRM**_NaiTt   iNOO>N**i_hRNA* T pN i*Ni*pg4AjAipR &ihiiNp*Q6*xOApp p*hiipNTR*gNO_A{pTpiR_iuO*Ri_p_*f*0gppxhx*g*RpgT_iei0RpoN6xiOpR;6g?AYp0i0*iRxpOoN*gi_0UK0p0ih*xz*NNi6h_x_*0A0pihh*iiNp6TgA_iTg02hNhiipN4*gOT_pTRT*x6hpikO*Rigi_KTpTi _hUx*OiRp Ag*AgTpp! *xNOp*TxxgiARTlOx ixpO5**6AgpAxA*p_ p*pi*RN*6gbApAixO 1h*iiRh6O6*AAAph0p*hiip*7*T6i<6A2p piNTiJNg* 6pYNz* 6pphvx*NN* 6Z^x?i NpP *xiNhhN**9psppx0* ixpOS*7*i_6!M0i0i pxIi*TO*p_x_*Ai0p Th*ONp_*B_p_ih_0<p*hiNpR*R*_P_pTiT*O*hpOTN6Rig6_lT1Tipph/igNxRpgNg*0RTppt *OiNgRXghgiAgT7xN iihOiN*g0gp0 A*0i piTN NigCgW0TAi0p axgpTNp666*pRAp02p*hiOiN!6h6iAAA3T*pihpRhO66{6p_qc*Tipphw*NOi* 6Bg*KiT pb *O6Op*8**gNDpTT0*higTO?RR*ipT()T*0i p*Ri*R *pg__*AN0p #iNiiRT*^6*_iAp0Z gx ipN_R*Y0_pA!T*pix_i2N*Ri6p_^v6Ti hxhx*NORpYpg*PiTph=xOxiN R>66gi iTopghTxpNTN*_ggpc/A*pNhhxjO_NiAOg?_*Ai0pxRh*OONp606*_NAppt *hiOpNQBi6i% A5T* phpigO**i6p_Tm*Ti ThIiROiRR6?g*DiTppA *ipOpR_**gO2pT,Ox ix6OsRi*igh={A* h pxNi*Ni*pgL_*TNph yxxiig**:6*_iAp0Np*xpipNfR*6*_pTT0{pixAiW*hRi6p_yT*pApph6x*N RpTpg*AN0MpdhNxi*NRj**giAhTx0*hxxp*hN**igpATpA0Ohpxv*TNi*pgFbgA60phAh**iNp*f6*_iTp0W OhiO N>Rg6iapAgT* phpORO** 6p?TATTi AhqNhOiRp6vQ*T0Tpp6 *i Opdp**_NqxT5pN iiiO=N**i_h* A*px pNhi*Ni*p_TapAipp ei!iiNp*wggATAppAp*ipipN1R*6i& A50Opix iDOgRigp_TS*0pppi*x*N Rpz?R6li07p#hixiNiR)_*ROKpT*0*i_xpNTN**iU*wQTO0i hxmi*Ni*p6x_*Th0p Oh*iiNp*I60_iT003 phiipNuR*_h_pTfT*pihpiBO**Ng__MA6Tii_hlx*OiRp6pg*ANTppy *x*Op*TgTgiAxTIxU ixpOo**6OgpA0A*pR p*pi*RN*6g7A#AihN Qh*iiRh6h6*G6Ap dp*hiipNUAx6iGxAfpApihhiIN*Th6pdT:*Tgppx0x*NN g6%__<i ip? *xiRpR0**_RVp000*N*xpNTRh*i_il/ T0i pxdOgR_*p_ _*0i0p =h*iiNg*.g__iTO0epghiOpNiR*gN_p hT* RhpOTRTRigx_BpCTipphcO*dRRpg0g*ARTpOp *iNNTR<gWgi0NTY0* iihO0N*66gp0sA*0i pxHORNi6xg}AAAi0h qx*O Np6T6*0_App0p*xNO Nw*_6iTiAqT*piipipO**R6pZ0z*x*ppxT0hOi*i6XTTziTppJhg0TOp* **4h#pT-0* i*_O.R_*i_O9PAg0ihp6gi*RN*p0__*TR0p kijiiRp*Ggg_iAp01p*RhipN6R*6i_pAAT*piR_iYNhRigA_Q{gTippNTx*N0Rp6Ag*ZiTppKOgxiN5Rb*ggilpT7pg_gxpO6N*jpgpc2A*0ixAxqOiNi*hg:_gAi0ph h*O Np*<6*_OAppT hhiOTNmgh6i_pA-p*pOhpigO**h6pppZ*0Np_h(iROi*i68g*ai0hpp *iiOpgh**giFp0Ti0 Oi OU*+*igp&4Tg0N piTi*6g*pgd_*Ai ^ HxNiiRh*=6g_iTp0xp*x ip**R*gh_pA3pxpih_iCNORi6h_}W*xgpph*x*ORRp6=g*qiThp:hOxiOiRI**giSpTT0*hhxpOAN**igp5l080ih0xGigNi*pg7tgTT0ph3h*6 Np*%6*}NTR02 6hiRxNBR*6iApA_T* OhpOAO*_h6pXT*hTi hhSRAOiRp6Y_g*TTp 0 *N6OpRU**_NRgTV } iNOO,N**igp RA*pO pipi*NN*p_TTiAOph wNTiiNp*=ggU_App0p*RRipN+R*6i_ AX0RpixxiBOgRi6p_6o*0ipphox*ORRpgTggBi0 peihxiOpRBg*qA/p0A0*hOxpgpN*6N_pWvTg0iiNx2i*Ni6h_A_*TR0p ph*iiNp6T_O_iTi0+iThiipN=*ggT_pT T*p*hpilO*Rig0_1A6Ti OhbxgOi*p6pg*AiTph* *iOOp*T6RgiA TGhh ixpO^***NgpAAA*pO p*pi*RN6jgm!gAipi -h*iiRh*g6*uRApxTp*hiipRT6O6iQiAux*pihpinNg*_6p+ :* gpphex*OiR_6)_6Xi0Opw gxiNp*6**_idp0R0*hOxpNTR *i_ Dn0O0i pxcN*p *p_A_*TO0pNph*ONN *=gg_iTi0Ip*hiOhN6R*gR_ph}T*pihpi8NORig _+A_Tiphhui*O6Rpgkg*pTTp A *xiNARf6NgiApTD0g ixpOpN*6xgpMZA*0i pxWOhNi6pg-__Ai0p Gh*ONNp6A6*_NAp0Gp*xNiON8*g6i_ AuT*pihpN O**O6p_Tz*TNppxT0hOi*h6#g6)iTpp1 *i*Op*/**_NIpT^0* i*TO>RR*igpeXA60i p*Ri*R *pg__*AN0phT6 iORT*Dg _iAp0!p*x ipN*R*gh_pATT*pix{iYNORi6x_k=*TippxCx*NhRp6pg*JiTpp8xixiN0R}*6girpTC0*hNxpNKN**NgpS>A*pNhRx(O6NiAAgP_*Aiph hh*ONNp_06*_iAp %  hiOhNa*g6i0TA90gpRhpO0O*g66p_Fj*0Np hJO>OigO6.g*Mi0hp_ *i6Opg **giGpTzpp iihO3*A*igh;qTgp  pi0i*6g*pgt_*TNg6 DiHii_O*X6*_iAp0Tp*xiipRpR*6N_pAHT_pix iMO*Ri6h_lAg0pppxTx**TRp6bg*Ti0OpDhgxiNhRyT3giAh0A0*hRxpNpN**igpATTT0ihixI*TNi*pgo4ggp0ph h*RgNp*B6*bNTg0ohThighN8R*6i_pART* NhpOhO*RN6p::T0Ti  h:NiOi*h6Dg*3_Tp T *x6OpR5**_i OTzp6 ii6OtRg*igp,RA*px piAi*NN*pgLApAipp HhgiiNp*f6*A0AppAp*hOipNaR*6iP6A80gpihii^O*Ri6p_0;*0RpphTx*OiRpgTg_4i0ip,R*xiOpR:**N0vp000* NxpOTN**i_ 9j0b0i xx?i*Ni*pg*_*T60p 0h*iiNp*#gO_iTN0Hp6hiipN&R*_0_pTxT*pNhpisO**NgR_}TpTi ghjx*Oi6p6_g*TATppA *NsOp*Ti giAgTz _ ixpOkN**RgpAxA* T pxTi*Ni6_g5ApAi0p 1xwiiRh666*AAAp Np*hiip*G606iH6APp piRiidNgRg6pvN^*0*pph!x*NN*h6)ax}ihhpK *xiNh6 *6bpIp0p0* ixpNTR_*i5AZm T0i pxki**T*p_O_*0 0p Th*OiNx*?_p_ip-0?h hiOhNiR*_A_p0NT*pihpNDR0Rig6_}T TiOihwigN RpgNg*0gTppL *iNN RHgxgi hT-0* iihOxN*gpgp0hA*0i piTORNigAg80TAi0p lh*ONNp6O6*A Ap0Tp*xii*Nl6p6i<_A7p pixhO0O*6A6ppNW*Tippi7OOOi*66Dm IipNpUx*VROp*O**;AvpT60*higTOJ*p*iHNn30 0iippAi**2*pni_*h_0p )*xiiRN*(_p_iAh0X gTTipRxR*0O_pA#T*piR_i8RARigR_KygTipp xx*NgRp6*g*diTppJ 0xiNRRM6xgiQpT;0*AOxpNiN**Rgp^LA*0ihgxCN Ni* gI_*Ai0p *h*NTNp*T6*_iAppT _hiO_NFnp6i_pA/T*  hpONO*RN6p_T8*TipxhsOxOiRp6{_Cwi0h * *OpOp6N**gi.ppG6_ iO?OI*i*i0ir3TgpO pi6i*R**pgU_*TNpx 9iNii6N*I6*_iTh00p*ixip6hR*6i_pTT0*piipirR3Ri6p_fD*06ppx*x*RiRp6Tg*AiTNpAxxxi*aR)gigiAhTx0*xpxpRNN**igpTJTT0ixlx%NiNiAig4MgAN0ph6h*RgNp*56*INTN0<hNhiRNNIR*6i?hATT*hxhpOpO*Ri6p4TT Tihph,6 OiRp61g*h0Tp * *OiOpRT**_ixTTl x ii_O>*i*iAp6AA* 0 pOii*N_*pA86OAip_ .RRiiNg*e6*PpAppOp*i0ipNTR*gN_RA,phpih iKO*Ri6p_O/*pMppxNx*OiRp6w_NLi0ipo *xiO Ra**p0Pp0T0*h*xpOTN**i__GUT_0i pxvi_Ni6h_h_*T*0pxNh*iiNpg{gh_iTi0khHhi6iNk*g6*_pT T* *hpi-O**N6g_KTTTixNh)x*Oi*h6Og*A_Tpxh *xiOp*T6ggiA*T.Og ixpO7N*T0gpApA* U pxTi*Ri0TgXl_Aih% 9i5ii6pOA6*URAphxp*xNip6-i66iHxA7 ppi*7iqO*A06p9Av*0RpphTx*OiNR6s_g^iTgpK *xiOp_T**_RXpT00* ixpOJgg*i_iI!Ag0i px:OghT*p_ _*AO0p ch*ii*O*1_z_iAh0rpghiOh NR*g6_pAAT*pihpiMRWRigx_:TATipph5x*ghRpgHg*9iTppA *xig_Ru6NgiApTm0g iihpNN*6xgp hA*0i pxPgxNi6Ag}GRAi0h <h**NNp*g6*_gAp02p*iiAxNW*R6i__A+ 6pihNN0O6*i6p_hY*TOpph x*OiNR6<g*PiTOpb *xiOpkx*6gi%pTx0* ixpO{N0*igpkPTO0i pxai*O_*pg}_*Td0p Uh*iiOR*z6*_iA60Ip*hiipi6R*gh_pTdT*pOhpihR_ROgT_oA0Tip hQipOiRp*xg*.iTpp* *xiOpRc*0gi2pT}0g ixpOIN*R_gpL:A*0R px#i*NiRRgB_*Ai0i }h*iiNpRx6*_iAp0ip*hiipNQR06i_pAt0ApihpiDO*N_6p_Z8*TOpph?x*OijR6Ag*3iT*p= *xiNhNT**_xSpp 0* ixpR80_*i_0b(TR0ii*xtN*0R*p_I_*A_0piTh*Ni0x*!g*_iTp0BxOhiNp_gR*gO_pAOT*xNhpN/RARig _^A6TixAh5x*N0Rpg1g*AiTp A *iNOORF66gi0NTz0* iOpOpN*6NgpPOA*hx pO7N7Ni6hg!GgAihA Wh*i6Np*_6*;NAp0Tp*iiAxNm**6i_6Az RpiipA0O**i6p81)*  pphaixOO*06!_Rki0ppyh* AOpRT**_*^pT_0*hNhhO7RR*iWOWDA*0ixpz0i*Rx*pg__* H0pxJ__iiRp*)gT_iph0nh*_RipR+R*gi_phiT*hi*Ti)N6Ri6*_r0gTihphhx*NORpgAg*hrTppSh}xiNpR=6*giA T)pgx8xpNAN*_ggpH2A* ihgx;OgNi**gMTRAi phhh*ONNp6T6* FAp0-huhiO0N^*g6i_hAdp*6RhpO(O**c6pA_e*pi6xh1i*Oi*p6WppDiTppR 6xROpR_**_i1p0TTg ii0O;6A*igpGw0**R px_i*Rx*pAi_*0i*x ^x*iiNN*rLg_i0p*0p*xiipRJR*{ _p0tiNpix iBNpRirh_lT*0rppxAx*NORp_6g*Ui0xpqh*xiNpR;66giAh000*hOxp*hN**igpTPTp0ihhxXOpNi_0gBA*A_0phTh*ONNpg66*_iT*0t RhiOhN^Rg6iAp6OT* ihpiiO*gx6pAbA=Ti phFi*OigA6bg*FgTpp_ *ixOp*j**_i?NTIpk iiiO+RR*igpAnA*px pxhi*Ni*pHrZhAipp dxpii*6*MgTARA pAp*hiipNAR*g7_pA>i0pOhpi3NTRi6p_U8*x_p hLx*NARp6{g*MixRpA *xiOgR,**giFpAx0* ixpOiN**igp(BA00i pxvOTNi*pgX_*c_0p ^h*iRNp*m6*_ikR0Sp*hiiiN?R*6i_pJxT*pihpigO*Ri6p_c_OTi 0hGi6OiR 6lg*pNTpp_ *xgOpR(**miOxT>p* ix*O<g6*igh OA6pO pxpi*Ni*pg%gOAip0 Vx6iiN *16*0NAp0_p*hgipN)R*_iixA)0*pih6if* Ri6NA0m60Opph0x*OORp6xg*?ixRpA *xiONRX**gi?pxx06 ixpOON**igpC-x00O px.OhNi*pg{_*Q_0p 1h*OANp*W6*_i2R09p*hiiRNDR*6i_pnxT*pihpiTO*Ri6p_Xe0Tipph>iNOiRp61g*_ Tpp_ *iOOpRA**giphTFpR ixNOrN**i!pO0A*pi pxOi*gO*pgT  AOp  zhgiiNp*/6*g Ap0_p*xOipNAR*6gAxAA0Rpih iXO6Ri6x_VD*A_pph,x*O6Rp6<g*diARpG *xiN:R-**gi8pAx0* ixpOAN**igpAliN0i OxZ6hNi60g8A*0i0  _h*i6NpMN6*AiNx0F 6hiiON+*A6i_p_6T* xhpOAO*RO6pA+O_Ti 0hCx6OiR_6<_TN0Tpp_ *6hOhRA**giGpTpOR ixpO//N*Ng dsA*xN px_i*R0*pgJ_*0i*x qxRiiR0*K7)_i0p*0p*xiipNAR*g0_pAlT9pix0iVN*Ri6O_v=*p_pph x*ONRp65g*:ixhpk *xiO R;**gi,h i0* ixpOTRq*igpQYxrRA*p6 igN**pg2_*h*OO*igviNNN*+6*_ihpOARg*6_TApRg6__pAHT*i**Ogh_6T6pWhpa*Tipphkx*OiRpg(T*PNTgp/ *xi66Ag0* 6xihTNAR_6 _gNg**gp%;A*xg*=6A_0NN*Ngb_*Aixh* gf_*A0Tg6*_iAp0mp*hiip*g_*6i_pA(T*pihpi+x*_x6p_Pe*TipphSx**:_p6T_HkiTpplNO6O_6Ag*gg_XpTD0*ORg0_gTPT6 TxpA*0i px%i*NiNpp_0*AN0i Bh*iig*T_pi *Ap0/p*hiipNeR*6i_pATT_pihpizg_A6pi_TAhTipphZ*0jxTi0ip6x hhN_*i6*OhRh**gi.px0NARRg0_gA%*NgRH8A*0iO_6 ^ gR00pphAAi0p Gh*iiNp*Q_D0iAh0 p*hiipghTi0O Ri0Tgp_hpi}O*D6pT RxNOxRR*gxgO_Rp6-g*hgOhN_*O*N6R_T*gg_upTD0*ON66_gA,0A ThxAgpG pxei*_i00 0h i*O6R_6NiNNx*v6*_iiTO *0hNiNN<R*6i0xx ONR**O_TOgRg6p_sJ*hRR0**gR4Ngx6T_h(iTppPNOgxaOT00A0phOiARTR6xhO N**igp hx6Np*O6 igN**pg/_*hhO R66AiNR**!6*_i RO *^Ri_h3_T*06hhipN iR**gA(NA_0O p _OANR*g661pRp6Zg*CiTppu *Np6pRT6Agi9pTzOAO*66_66g*NgiXkA*0iNx6ACT^6*xgG_gA*0p yh**gA0Tg v_iAp0Vp*hiipNCN*Ax_pAbT*pihpiQO*g1Op_Jy*TipphJx*Oi_xAQggu*Tpp3 *R68TT 0OgNogTq0* i*h__TA0hpiphigOO*A6 igN_*pgj_*hgOOR0go_xAh_T6g_*Ap0dp*RRg6ANTA6N_gA2T*piRAg_AATR0O0 xNO*NO6TxgN)Rp6bg*pRi N**i6N_ A00xgN&gT-0* iR6_gA*06 ip iNO*RO6pigRh*pg:_*h N0* 6_g6gh0  yh*i0Ogx6R6_pNT*;6i_pAIhgRA6TgpOg*h6p_Z<*x*NO6i_{_M_ 0*  h_OTN6*AghtiRT6xgi!pTzx6*h6x_iAR0N0ph_i Nh*ixVi*Ni*pgw_*Aih*O=hgOiNp*.6*p i0N R_*6*hA 0bp*h0xg 6i*60_x?NRN6O_u=*TiOj*A6g_6TG6T_TmiTppSN_g*qhA_0xp6}gTu0* ixOOvN**igh3 A*0i p*hg6Ap0Op __Ai0h ph*iiNpvg06h xO0T 0hiipN?_gpAhTxpO Rh*RiTN^Ri6p_(hGi6R*6px*OiRp6(V0tiTppQ *RNOpRT**giLpT#0*iip OjNg*igiX?Ag0i pRTi*NN*pg2_*Ai0p hi*iiNx*sg0_iA 0^p6hiii__R*6i_pAxT*pOhpiJ6gRi6x_;Q*TipphfO*TRRp60g*#RTppA *iisTRZ*ggiJ TL0_ ixp6TN**NgpdHA*0i pxG*gNi*xg}_*Ai0p Si*ARNp*06*_RAp0Ap*iiAxNmR_6i_xAGT_pihN_-O*RR6paU:*TOpphAx*O*A06Kg*9i0ppa 6xiOp_T**gRrpT+0* ixpR.0_*igxydA_0i  xGO*Ah*pgT_*AO0p 0h*iiOx*Z6g_iA 0=p*hiNpNAR*6N_pATT*pOhpibN0Ri6x_sv*TipphzO*NTRp60g*oRTppA *iiNiR<*ggi^OTY0_ ixpOpN**igpmAA*0i pxTOTNi*pgq_gT 0p jh*66AxT pgpAiTN4*A6*6iAOT*06_hApT*pihp*g_6T 0O_TA0TipphL*x_6T6A0 Rh*iOpThpxiOpRqD_pOxJi*OgRO6x_RNg**gp#PA*iM*06*_&NN*Ogb_*AiiNRA6i_6HO*a6*_iApp6p*hiip*oTh6i_ AWT*pihxiCR*6T6p_Ak*TOpphTx*OiRi6Lgg,iTpp9 *xiRp*A**gNapTT0* gxpOh*A*ig ,{T00i  xWigNi*i0__*Ai0p xh*iONp*p0R_iAp0t Ohii Nk6*hR_pAAT*pihpiAO*6ihx_Pj6Tip htxgOiRpATg*ZNTpp9 *xiOp6} _gi4hT-0g ixNOkRTg*g 4AA* p pxAi*NN*pgp RAi0p /iiiiN *46*0NAp0Ap*hOipNeR*_iixAmT6pih idNARi6Nh/}*TOppxTx*OORp6Ag*)*i0pU *xiNhR)*6gi;ix_0* ixpN*N**Ogpe{ g0i  xHigNi*pgVlTii0p Ah*OgNp*A6*_OAp0pNRhiipNP6T6i_ Ad0&NxhpisO*6p6p_Ar*Ti06h7x6OiRp6<g*ziTp i 6xOOpRT**gi3pTZpO ix OsN6*igp5V0* T pxAi*NO*pgp_*Aip* LhgiiNh*L6*_iApp6p*hOipNTR*6O_pAUxgpihpi,O6Ri6p_n-60upphcx*ONRi6Jg*(ixiN 6pg*OhR **giKpxhO6*pgO_ Ng**gp84A*x6*Tg _ONN*Rg:_*AixhRO6Ng*c6Tgp0_NTA0jp*hi6OA0TApN06xgO*R66i6pA Ti0O_0c6TN bhSx*Oi.A0_hAxRiOiT6Ag*}iA_0NAOvhT^0* ixpO5N**igpAAA*0i pO.giNi* g}_*Ai0O ?xgORNp*T6*_RAp09p*iii*N(Rg6i_hAv0ApiipiRO*RN6p_TC*T_pphhi6OiR 6I_*/iT pr gxiOi._**gisp0L0* OxpOtgg*ig PMA*0i pxUN*0R*pgA_*AO0p ph*ig0_*}66_iA_0.p6hiipNI*j0x_pAoT* 0hpiAO*RiTh_99*Tip hFx*OiRpATg*5OTppB *xiOpgkO6giM Tqp/ ixNOeN*+NgpnAA*0O px2i**i xgL_6Ai0  whgii6pOA6*_OAp0Ap*x8ipNJtg6i_pArT6pihpi4O6*66p_f{*TNpNh3x*Oi_xpT AhOOiN  giAOpR3**0*xRi NA*hR6_gAT0xgh+xA*0i p6h_gAx0A0Tp0 N0h ph*iiNpt pNh6iA0Tp6hiipN}#06N_xAUT*piR0_ A;RN6O_mj*TiO 6 g /hTi6T_T!iTpp%N_66_xA_0Np*ShTh0* ixpgpApT6 Ah i_0Nh0xLi*Ni^OpAh_iANTRxRB_AAhT 0_h*x6O_RNhiipNmR*6i_pA%_*ixhhiAO*Ri6ppTBg00pphcx*66A p0  xhiRO06&_AHqA *g_iepT;0*ON6 _0AxT_ hh_OANhRiR0_RAp00 TT_AN0x Gh*iiATT  0_iAp0vp*hiipNz6pAi_hAAT*pihp*TOg* 6p_%a*xRNO**gA_RTi0  o *i*N *O66OpR<**giopT7A**xRpOTRH*igpsLh*NpR gOigNg*pgv_* RN0R*6R_N6x*&6*_iAphAp*hiipNXpx6i_pA(T*pihpi^R**A6p_ID*TipphAx*OiRO6dgg!iT pK *xiNhRp**gRFpTT0* ixpR/*0*igxP+A_0ih0xjOg*p*pgp_*T00p Dh*ONN**KgA_iAi0lp*hiNp*AR*66_pA T*  hpNUR0Ri6O_ZAATipRh2igR Rp6hg*{*Tppz *OiN*R96TgiCNTXph iOpORN**ggp.hA*0g pxGNpNi*xg&JTAi0h Kh*OhNp*p6*_iAp0Ap*xNxhN.*A6iQOArT*piipA0O*R66p_ 3*TRpph;6hOiRN63ggJiTpp4x*xgOpRh**gg5pTO0* iiiOKR0*igh-kA*0ixpxpi*N_*pgx_*TN0p 3h_iiNN*&gT_iAR0Kh*i ipNhR*6g_pAiT*hix_ijNTRi6N_GAiTihpO6x*OgRp6hg*ARTph,h xiONRa6TgiApTB0*hAxpOxN**Ngp)8A* i  xBO0Ni*RgPI Ai0phTh*OWNp*T6*_iAp J  hii*Ne*p6i8hAJT*h2hpixO*R_6p_iP*pi6xhyi0OiRR6;_pZipp60 *x_OpRx**g6bppaxO ixRO?R0*i_xjG0*pR pxxi*N_*p_:_*Aip  yxpiiNh*n6*_i0p0 p*x9ipNiR*gA_pAe0*pih6iZOgRi6p_dT*0TpphOx*NARpgTg*ai0*pqhpxiO*Rv6 giTpR00*hbxpOiN*6SgpTU0T0i *x-OpNi6 gBA*T 0p ih*O-Np606*AiAO0! phii*NV**6i_pAhT*p6hpiiO*RN6pJJA_TipihPiNOiRO6bg*TATpp. *x*OpRT**KiLhTc0* ixpO5*3*igpxAA*0i pxTi*NO*pgrpgAi0p eh6iiNp*<6*=hAp0Bp*hNi_N+R*6i0OxAO_RA6Tgxg_T*p6 *xATNpNh?x*OiXi0i Ax iOR0 gx*OpRB**T6xTO NO NipOFN**iThhAx_N0RRgT_RA60Tpp0_ixNzR_6gRRNh*h6*_iApx0Rg*6g ApTA6N_xA=T*pi6Tg A0RNg0_wu*TiiO*Ag_3ATT0x0!xAOhN R_g*_6A_0NgNrOTn0* i* 3 A 0h iaTTT0i pxs6_+6Txp_hNx*0h ph*iiNpAXpi Oi60T OhiipNXr_06h!x i_R**Ogp_5TF0O 6xATNp6hlx*Oi}ipx Ah6OTiO*N6gD0RT*_gi/pTGiR*6giOkN**igpr:A*0iTpN_i*Ni*pgQA Ai0p Kh*A0Np*<6*_iAp0Mp*iiOgNeR*6i_pA30ApihpOTO*RN6p_At*TippxTiOOiRx6e_iziTppBx*OnOpR0**gRfpTh0*hNi6OcRo*i_Tv9A*0ihhiOi*N6*pg0_*Ai0pxai6iiNO*!gA_iA 0!h*x6ipN R*66_pAiT* NhxinNTRi6x_Pd*TihphAx*OgRp6hg*V_Tph, _xiONRB6TgiAATq0*hxxpO0N**ggpnTA*0ihix/O:Ni*pgK_6Ai0pgTh*i6Np*T6*_iAp f 0hiiON}*A6i_hA4T*h4hpihO*RN6p_dZ*pi *hUiTOiRN6a_xtiTppg *x6OpR **ggjppF i ixOOPRA*ig6sUT*pi pxpi*N**pg _*Ai0_ ah*iiNi*&6g_i0ppip*hiipNlR*gT_pA20*pihpiLOgRi6 _II*xNpph)x*OORp6Kg*+i0OpU *xiOpRw**gi-pT:0*TiR0OTN_*igp22iNO6*RxTO0Ni*pgXhTiNN0R6Rg*_gh*Tgx_iAp0vOA*O_xrOTN0_pxipN Rp*OiTNTRi6p_/ _i6Nx*_gN_*Rh6hg*miTpOp*p66KAA 0_gNo Td0* i*hOTRO*igp<!h_O6*X6 g_A*TOpp ;iJOOR66AiiNp*U6*_iAp0( pNiihNpR*6i_ph1OiNO66iTO6Ri6p_:pgTNpxhyx*OiZ0p h#{NT6pb *xigiTx0Ap6xThONNRgg0OTRT*igpdP _Nx*46__g6R*hg _*Ai0pNAgA_AAT0p6g_*Ap0Yp*N6_TA TO6Nc0AdT*piNOgAF_TApT x eOARh* 6_+*A60_ NIN0pps *xi6hAAT_ 0hROTNR*6gT_pg_0x rh_ighR hxhi*Ni*pT0hgx6O *p6AiiNp*Z6*_iApAuRRNiihNAR*6i_p xT*pihpia*6Ri6p_P5*R0pph/x*OiRp6Hg*Ti0*p< *xiOpR86_gi%p0x0* NxpOAN**igpAT0x0i xx)OONi*pgIA*AR0p 0h*iRNp*T6*fNTO04 .hii NUR*6iehA0T*p6hpOCO*Ri6pAzT6TipOhqiAOiRi6wk*ATTpp  *x6OpR_**_N7gTVpT iipO+N**i.prOA*0g pxhi*RO*p<?AAAi0N %xTiiR,*e6*_RAp00p*hgipNTR*6iBgAb0=pihpiDO6RighgTV*T6pphgx*OiRp_Ix_wiTOp)hAxiOxRz**pT.pTh0* NxpOdN*gigiLCTT0i NxGOTNi*pgN_*A_0p Th*iiNpgr6g_iAR0d 0hii*NzR*gA_pAhT*pghpixO*6i6i_9ATTipNh;iAOi6pgNg*9gTpph *x_Op6etOgi2NTvpT iiiOq**6OgpChA*0g pxOi*Ni6 g!q0Ai0h Zh*ii*p*i6*__Ap0xp*hgipNZ6i6i_*AuTgpihpisR**N6p_i(*0Bpphix*OiRi6&_0#iTRpuhpxiRpp0**g_zpTx0* 6xpR&0_*igRVKT00ihOxPN*g *pgx_*A_0phph*NiRx*%g0_iAR0t  hiipNAR*g._pATT*pihpNGO6Ri6*_1ApTipNhyx*N*Rp6Og*%NTpp- *OiNTRF6 giS6T&pp ixpNTN*6-gp1iA*pA pOPA_Ni**gvUpAi0O Ii*OgNp*i6*2^Ap0Rp*iiiRN1*p6i_*Ayp?piipO O**^6p_i;*0ApphBiNOiRO6:_p%iThpjh*x6OpRp**_N8pT 0* iihO1N**igiaaAg0ixpiGi*Ni*pgC_*TT0p m66iiNp*)6g_iA 0Qp*RNipNJR*6O_pAXT*pixJizO*Ri6h_6%*TippR g__6ThAO NxiOORpR3_ADpA *g_L.pTV0*OR6 _*AiTNp h0ix0N Oxdi*Ni0pp0 6ipNJ Tx0iiNp*^AghAiTOpR 6hgRNT*T6i_pA-x0NO6Ag g A*6h_p+*TippNg66> AO6T_0LiTppdNx6656_00Rp*hOTT0_ ixpOW__T6 i,TTA0i px}gT3O0m  hAANp  Lh*iigRT  %0gi0O0*A6RgOGpAf06h*iphgRx6*iTNURi6p_f pOxRz*pxgO*Rp68g*h_i N6*AxNOpRK**gO3pT<0* NxRObN**iT_h O xR*06p_ANi*pgu_*T00p Vh*ii_i*Q6*_iAp0Vp*hiipRRR*6O_pAAT*pihpieN6Ri6h_U^gTipphdO*RARp6Tg*INTppA *xiN?Rz**giehTH0g ixNOhN**igpnNA*0O pxAi*N*T0g5_*Ai0g ch6iiNpzT6*_iAp0Tp*hiip*bp_6i_pAYT*pih iVO* T6p_Sq*TRpph(x*Oi;h6Yg*siT p4 *xiOpRA**giVpTTpO ixpOzyA0RpOxTh Nh*pg 1M_*06 >hAAi0p bh*OiNp*?6*_ihi0)p*hiipN-R*6i_pART*pOhpiAO*Ri6p_bANTiphhdxgOiRp6Iw*AOTppT *xNOpRA**gi!RT<0* ixhO&Ng*igNA6A*0i pxii*NO*pgA_*A*O0 Wh*iiN**Q66_iAii_p*hiipN_R*6O_pA!hgpihpi5O_Ri6p_oAT*0pph;x*NpRp6Ag*^iTpppRRxiOpRw6igiF Tjp+RxxpO7N*6xgp-AA*0iOhxWi*Ni*hgu_*Ai pg0h*iiNp*)6*_OAp0QghhiipN5R_6i_pA,T*ONhpifO*RO6p_?Z*TiOAhox*OiRpATg*rOTppV *xiOp6og*gOP T.06 ixgO8N*g6gp:AA*0N pxTi*Ng0pgK_6Ai0N {h6iiN *yg2 xAp0Hp*hgipNAR*6* 0A3T*pihRiGO6Ri6ppT:*TipphAx*OiRp_Yx_ziT pW *xiORR}g*xRqpTA0* OxpOhN**iThCZAg0i  xXi*Nigpx0_*AN0p Th*OANp*h:Q_OA 0r Nhii NYRg6i_ih_T*pihpigO*RO6p_phRTipph5OAOiR 67+*ORTppA *xiOpRA**XiOxT706 ix O/RT*igppTA*0N pxAi*Ni*pyHi_Ai0h nhgiiN6*1gTpOAp0Ap*x6ipNAR*6N_pApiRpihpiPRARi6 _/A3ixpphDx**TRp6Ag*!ihhp} 6xiO R{**giTpR00* OxpOAN***gp)hRx0i  x{NhNi* gt_*Ai0iN_h*iiNp6N6*_OAp0pNRhiipNjgh6i_ AWT*iNhpiAO*RN6p_SS*pi6xh=x6OiR 6)_xLiTNRG *xOOp*_**gOJpTA0* *60O3N**il05&A60i i*_i*Ni*pXh_*AO0p #h iiN *Y66_iAp0qp*_iipNAR*6R_pAJT*piiAi.O6Ri6h_+)*TihphTx*OORp6Ag*1NTppFhRxiOhRW*_gi=pTX0* *xpOAN**Ngp)AA*0*hLx>i*NiA^g+_6Ai0pOTh*iONp*T6*_iAp e6_hii NJR66i_hA;T*6phpiAO*RO6p_Ay*T*N0hZx*OiYe6/g6liTpiT *xOOpRA**gifppZ*_ ix O2N6*igic+TTNi pxAi*6x*pgA_*AO0p p*RiiNp*Q1R_iA 0n M*xipNfR*Tp_pAAT*pi *i+O6Ri6 _z{*Ti h Tx*ONRp60g*qiTpphx_xOOxRz**gik T=pr ixpgxN6*igp%pA*0i pxug0NO*pg1;AAi0p Xh*x_Np*&6*_iAp0fp*hixRN8R*6i_ AKT*pihp_AO*RN6p_T&*TOppxThgOiRh6Wg_fiTpp1hTORO R0**gO:pTA0* *xpO^M0*OgpUuT;0i pxoi*__* gB_*Ag0p Qh*iiOR*Z6*_iAp0Qp*hiipOxR*6i_pAAT*pihpi(X6Ri6h_;mgTip hkiT00Rp6Ag*pOTppA *xiOpRpTRgimpTXx6 ix O<R%TxgpfvA*xR pxAi*NiDhgl_gAi0  dh*ii*p 06*_OAp0Tp*xAipN:_g6i_hAoT6pihpi7R*6i6 _TV*TNpphix*OiNR6#_o.iT pQ *xiOpO6**gNfpTp0* OxpO&gg*ighDtT00i pxCOgON*pg0_*Tp0p wh*Ni0x*j6__iAx0S AhiipAAR*6N_pATT*pOhpiI*xRO6 _cG*TipphFx*gNRp6tg*1OTpp/ *xONhR-**gi)pTq0* ixpOeN**igpLTTP0i px?6AAh0Op6_gA60p Dh*6OAOTOpNh*Ah0hp*hiipg0Tg06  ipOApNx0iwO*RiAO Ax_OART*x*UrATh0 p_x*i6N_*NxiOpRo**gi+pTe1*OxxhOON**igp pO0O6RO6g6 AhTNp__gT00p Lh**6m 00p hhxRi0*UgA_nv Rg66_pAuT*Og* g*AAA66h_p/*TippR5gi_OT66^g*PiTppV *xi*p_e*g_T&pT20*N*6O2iTX9N 0x iNO**xx:i*Ni*pgQ_*Aih*OuhgiRNp*=6*pxiONppgh6ipN&R*T60ixOOOxNhhi0O*Ri6p gxAO_phhAx*OiRpTigg5*TppW **R_6TN0Agi>pTH0*xhxpOtN**ih_Y?A*0i pxPi*NigpgT_*Ai0p #h*i*Np*L_i_iAh0Up6hiipNI*g_ _pA0T*p_hpi)O*6ig*_r9_Tipxh&i*Oi*hg g*X*Tpph *xiOp*T*_giFOT40g ixpO+**gOgpv A*06 pxii**i6RgX)AAi0O ch_iiRh6O6*_gAp0Tp*hiip*>R66i_NAG0TpihOiqR**N6p_h(*Tgpphgx*OiR*65g_kiTNpa gxiOpRO**g*<pTe0* OxpNT **igO!zTR0i px2N**T*pg _*A60phIh*ONNh*/gT_iA 02p*hiipN R*6__pAAT*pihpNzNTRi6R_cA0Tip6hkO*NARp6xg*D_Tpp* *OiN0Rr60giBRTsp6 iOpO N**_gpyxA*p0 piTORNi**g-_6Ai0p JxgO6Np*O6*a Ap0zp*hi6_N=*A6i_6ArTgpixp_OO*R*6p8Tm*T6pphmipOiRp6S_GZiThpSx*OzOpR#**giQpTN0* iOAOXN**ightJA60i pipi*Ni*pgA_*Ai0p aiAiiNp*86g(AAp07p*R*_Rs TAph06xgOTRxhhiRO*Ri6p0 h6ORN6*gg0gRTipO ih6Thp0 *xiOp__pA *)hT00* ixp_gAA0_ghHpA*0i p*M_inO06gTq0Ai0p 46T_NA0T6Tg0_ h0T OhiipNVC_06hSx i_R**Ogp_vTk0O 6xATipphjx*OiRp6!R*pxTh > *xiOp_TT6pRh_ixNg*xgO_gAI%R 0h*iRNNixxTORNi*pg4pAxONxRO6Ng_giTOpg 6xxNpR 6x_TNT*A6i_pAax6R6*6ggA>RN6N_m#*Tiix*_girxThm0gg1gTppW ***_*A 0Op6xxT(0* ixpO.N**ig*p:Ag0g pxei*_RTOp0hRihOi :h*iiNp*96*6ii0x3pghOipNYR*AN_hAhT*pihp*02gA60 hpxATNpihPx*Oi_O0ghAx ThpA *xiOpfT*ggOYpTB0*O_xpOdN**iA v.A*0i p_Ri*Ni*pg#_*Ai0px2h_iiNp*l6*_iTh08p*i ipNTR*6O_pAZT* NxRiMO_Ri6 _!M*TihphAx*ORRp60g*+*Tp TxhxiOiRj6pgi+pT{pg 6xpO N*6RgpVnA* ix xCOANi*Oge_gAi ph*h*i6Np* 6*M0AppTpghiiNN.*_6i_pAdp* phpihO*Rg6p_N8*pi BhLiTOiRN6Xg_jiTp N *xROpRh**gNupT(p0 ixiO?N**ig muTgTN px i*Rp*pgs_*0i*x vxAiiNO*3gT_iApiNp*hgipNTR*6i_p0J0xpihNiYNTRigA_1e*T*pphxx*ONRp6tg*Tip#p(h0xiORRq60giop0A0* gxpOhN**_gpTjTA0i NxbOTNi60gMA*0z0p hh*igNp6p6*Ai A0w ThiiNN%**6iApAiT*pghpihO**h6p_ZATTipRh)xgOiRp6q^*^OTppx *x_OpR6**gi;xTfpp ixhOkN**ibpAiA*pv pxii*N_*pg,}OAi0R /x0iiN**;_*iRAp0xp*h_ipN_R*_iixAs00pihRiPRARi_pT6Y*T_pphxx*NiRp_#_x!iTRpch0xiNTRu**_gbpTi0* NxpOLN*gigh,&Tp0i *xwOONi*pg0_*TA0p Th*iiNpgtgT_iA60}  hiiRNmR*66_pAiT* whpiOO*6ihx_<ApTip*h>iROi6pghg*A5Tppi *iOOp636Tgi8*TGpp iipO7***OgpHiA*pS pxgi*Ni6xg4jAAi0* uhgiiRp6Z6*_*Ap0Op*h6ipN%6 6i_pAu03pihhi1R***6p_w#*Tipph x*OiT 6%g*>iThp& 6xiOpST**gi&pTA0* ixpOGN**igplaA*0i pxri6Ni*pg,_*hN0p Dh*iONp*/6*_i000Ap*hiNp00R*6N_pAAT*hihpih0xRi6h_mA=Tip hkx*OiRiT_g*QiTppp *xOOpRpTRgi4pT/pA ix O%RgiTgp{TA*hN px^i*Ri0TgQ_6Ai p {hgii*p 06*_NAp0Ap*h*ipNhT*6i_hAf0ipih iVO6Ri6ip_7*Tipph*x*OORpgT6g1iThp+ihxiOpR!g*xR^pTT0* NxpNpN*gixx+qAg0i hx4N0Ni6ppg_*AO0p ph*iNNpg,h__iAh0Xp6hiO0Nu*Tx0_pATT* OhpiAO*Ri6p_phRTipphei6OiR 6d_fhxTppU *iNOpRA**gi_6T=0g ixpOkN**i_phgA*0O px_i*NN*p#Di_Ai0h 2h6ii60*kgTO0Ap0Tp*x_ipNAR*6i_pApiRpihpi=R0Ri6 _cAbixpphcx*RrRp6Ag*lNx6pA gxiO6Rl**giApig0* OxpR_N**NgpTlN_0i hxei6Ni*Rgz3TR00p Th*N Np*A6*_iAp0pNRhiipNP6O6i_ A.0MNxhpiHO*6h6p_AU*Ti0*hDxgOiRh6mg*ui0pNg *xOOpRx**gNIpp^*_ ixhOWN6*iyi3fTT60 pxTi**R*pgA_*Ai0p p*RiiNp*^___iA 0K d*xipN3R*_*_pAAT*pi 6iPOgRi6p_Lf*Ti p*gx*OORp_pg*jNTppQipxiOhRo*6giXxTbpgpNxpO0N*gxgpbGA*hiT xLigNi66g}TAAihpTAh*iNNp*A6*TNAp (6_hiiiN/R66iAiAd0*RhhpiTO*6*6p_pr*TixRhXxgOiRx6cg6GiTp0O *xROpR>**givpTXxg ixiOPN**igpnKA*xN px i*NO*pgP_*TN6N mxTiiN**e6*_iAp0hp*h6ipNTR*6N_pAzpipihNi5O*Ri6 _QAg0Opphxx*RRRp6?g*Ti0*p.h0xiORRygxgiAhTN0*hCxpRxN**igpAT0T0i 6x)O*Ni*pg^lg _0  Nh*N_Np*L6*UNT#08 xhiOpNoR*6i_pTxT*p_hpiRO*RN6p)BATTipNhDNOOiRR6>g*ZNTppp *xgOpRT**gi NT#pA ixhO-N**igpXOA*0g px0i*Ni*pgb.iAi0R bh*iiNp*C6*A Ap0ip*hOipN=R*gN2hA{0 pii_i!O*Righ>N(*0Tppx6x*OiRp_I_x3iTgpshhxiN*Re6gNT/pTR0*hhxpO<N*6NOgZeTi0ihTxUi*Ni6hON_*T 0p gh*iiNp*m0x_iAg0m OhiihN)*g8p_ ART* ihpi1O**N6x_fAiTipOhQx*OiRp6 g*ACTpp* *xNOpR?6 gi<6TG0* ixxO&Rg6xgpkNA* R pxUi**i**gQ3hAi0g +ixiiRh6T6*H0AppKp*hiipRT*66i((A-hApihpiPNg6T6p_6D*0ipphCx*NNR*6Q_N4i Op# *xiOp*6**_TBpTg0* NxpN}R0*ig6CdpO0i gxIOg*0*pgN_*0R0p Wh*NiNg*Wgh_iAg0ohxhiOhN*R*g0_p0xT*pihpOTRORigJ_=0pTipphbigO_Rp66g*ATTppb *iNNQRc6NgiApTt0* ixpNON*6Tgp/gA*0N pizi_Ni*6g3AhAi0g lxgONNp*N6*TpAp0Hp*iiTAN{*h6i_gA9pxpixhigO**06pAx4*TippxTOpOi*b68_hziTppC *x*OpRN**_pHpTT0*hiiiO>R *iAilWTh0i pixi*N_*pgO_*AN0p Fi0iiN**o66_iAp0Lp*xxipNOR*6N_pA:T*pihOi)NhRi6 _jf*Ti hhgx*N0Rpdig*/iTpp3iAxiOgRy*ggiIhT#pgNxxpORN*tegpbYA*0ih0xBO Ni*_gB_gAi0ph6h*OTNp*T6*_iAp0k phii_NZR*6i_pAtT*h hpi*O*RO6p_I2*0N _hFiOOigR6)g*fipppg *ihOpRA**uiep0T_  ii0O&*g*igp{sA* 0 px*i*Rx*pgT_*Ai0_ sxOiiNp*mg/_iTh0ip*xhip*0R*6i_p0ep0pixTi>NNRig__bAgp0pph_x*R_Rp6zg*AN0ppKh*xiNpR5**giAh6h0*hOxpRxN**igpATTh0ihhx!O*Ni*pgQ_*T00p gh*ONNp*T6*KiTB0S OhiRANw*N6iuhAxT* hhpNNO*Ri6pA.TTTi Th.iNOi6N6y-*o_Tppg *ihOp*T**_ip*T;pO iONO/RN*i_hnOA*ph pONi*Ni*p!InNAipT ;xNii6x*;_*_OAp0gp*xhipR*R*giA5Ae0OpiOxi2NNRiwp*6{*0 ppitx*RxRp6Ib0;iT_pUhOxiOhR76ggNcpT*0* NxpOeN**i_ t#Th0ih+x,i*Ni*pgT_*Tz0p ,h*iONp*B0x_iAN07 phiihNk*gpA_ AxT* phpiyO*Ri6 _FAATipRh2xgOiRp6Ng*7gTppT *xiOpRsgAgiSRTn0_ ixpOmN*6NgpWiA*0i px;i*Ni6hgzJ Ai0  ;h*iiRh**6*GTAp Rp*hiipRT*T6i__AnpOpihpibR**66p_R&*00ppxix*NNR66Q_iXi0Tp( *xiNhRh**_ ,pTg0* ixpNTRg*i_TIqTN0i pxLi*R_*pgR_*Th0p Th*ONR**7gi_iTp0/p*hiOh OR*g _pT T*pihpi#RiRi66_ZAOTiphh%x*O6Rp6Ng*wiTppT *iNN*RQ6xgiTxTd0* iOpOTN*60gp>RA* 0 piTNTNi6/g,T0Ai0p QxgO0Np*66*9iAp0/p*xN -N}*N6i:pAGT*pixhOOO**x6pAO2*Tipph7iOOiR_61_RSiThpth*izOpRN**A cpTR0* ixOOGRx*igiJKA*0ihp* i*RT*pg0_*T00p 4i iiN**kgh_iAh0dp*xiipNOR*6*_pA?T*pixgiUNhRi6h_L1*TippxAx*N0Rp6Lg*?iTpp+xOxiNXRd*6giHpT3pg 6xpO6N*__gpStA* igxxSONNi* g,A*AiphfOh*OxNp*O6*_iAp0;pghiOGN%*R6i_hA=T*p_hpi6O*Ri6p_pb*0NpNhYiNOi6x63g*Lipp i *ihOpRg**Y0Sp0T 0 ii0OG60*igpfuTg 0 piFi*6{*pgk_*TN O Ax6ii*R*C6*_iTh0Np*xNipRLR*6i_pAl0TpixTi,NgRi6h_DA*0gpph6x** Rp6gg*AN0ip/hNxiRxRc**giTpTR0*hhxpOgN*g0gpATTR0ih0xrO*Ni*pgu<gTO0ph!h*O0Np*L6*,NTp0; 6hiOpN;R*6i?hA T* NhpObO*Ri6p_dT0Ti ThHigOiRh6,_*ARTpp6 *OTOpRg**_NAATjpN iOgOmN**i>pkAA*ph pxgi**g*pQ1gAAipT JxNiiRh*{g*_6Ap06p*igipNgR*wiIhAW0OpiipiMNORi6pCh%*00pph6x*ONRpgT_T.i0Vpv gxiOpR1**_ VpTN0*hpxpOTN**i_TtoTx0i hxSi*Ni*pgp_*Tp0p Ah*iiNp6Tgg_iTA0ZiphiipNWR*_ _pA*T*pNhpiTO**Nig_!AOTix*hLx*OiRpTRg*A0Tpp6 *xNOpRJ*0giAYTZpA ixpO=N*R_gp{6A*0* px#i*Ni_Rg3< AipA ;h6iiNpAR6*__Ap0Op*hNipRTRA6i_*Ak0_pihpiFO**R6p_h;*0KpphTx*Oi*A6D_0kiTOpY *xiRpR0**_2?pT 0*xxxpRP*p*ig*2-Tp0ix xtOgRx*pgN_*AN0p 3h*iiN6*agp_iAg0cpghiiN*0R6gA_pAxT*pOhpiTO*RiTR_Ab*TipNhSx*OiRp*xg*viTpp  *xiOpR^ROgiXRT%p  ix OUN*KNgp#xA*06 pxYi**i xg8jpAi0i dO*iiNNg066DAAp0Tp*hOipNTR*6igRAKT*pihhiVO*Ri6pgx!*Tipph x*OiRp6&6OMiTRp8h xiO Rv**TNUpTx0* 6xpO7N**iTh<+Tp0i RxFi*Nigpx0_*T#0p ih*igNp*h___OA60. Thii NM*p6i_phxT6pihpixO*Ri6p_Cv0TipphmxgOiRp6sg*__TppI *xOOpRL**gi_RTf0* ixxOCN**igp xA60i pxii*Ni*pgy 0AO0p zx iiNp*U6*p_A 0qp*xTipNYR*6ipRAAT*pih_iSO*Ri6p66w*T_pphOx*OORp6rTgyiTRp?hAxiOpRq**TN:pTi0* _xpOzN*gixxqnTp0i *xzR*Ni*No0_6TA0p Ah*iONp*06*_i:R0#p*hiihNJR*6i_pWxT*pihpiAO*Ri6p_;40Tipph}x_OiRp6Kg*_ Tppx *iAOpRA**giphT(p0 ixOOkN**i7pO0A*pV pxpi*6h*pghA_AO06 ,xpiiN *(6__iApixp6hiipNhR*6i_pA8T0pihpilNTRi6p_2K*x_p hWx*NpRp6og*:iAAp>h0xiO6R=*6gi<phT0* _xpO N**igpT+N_0i *xHO}NigTg&:T0R0  Oh*i*Np*A6*_RAp0cN0hOipNK*T6i_pA:T*0_hpi7O*Rg6p_7P*TiORhAx*Oi*D6^g*oiTpT6 *x_OpRO**gOupTfxg ixRODRA*igpFZ0**R pxii*N**pAA_*Ag x Ax iiNO*v66_iAx05p*R_i NIR*6g_pAlT*pi Ri#O*Ri6N_2!*TippRxx6OiRp6*g*aiTppFpOxiORR.6 giq Tk0*ONxpOxN**6gp54A* igxxDOpNi*igV0TAi0Nx0h6OANp*06*_OAp00p*hi6RNAR*6i_NAQT*pihpxxO*Ri6p_ht*Tipph760OORp6H_iYiTpp? *h OpRx**_A9pTA0* gOxOAR0*igpD{A60i hxsi*O_*pgP_*AN0p Ih*iiOR*/6*_iAO0ap*hiOprgR*6N_pTAT*p_hpNZR*RO6R_bdgTi  hIO*TRRp6Og*}OTppp *xiiARf60gis6T,06 iOpT0N**_gp+AA*0_ pxhTxNi*RglAOAO0  3h*iiNiA_6*_iApp6p6hOipN<_g6i_RA30ipihpi.R*pR6p_x(*T_ppxhx*Ripx6W_pJiT peh0xiOpNp**g_JpTi0* NxpO%60*igh8LAg0i px3i*_N*pgr_*AO0p Ch*iNgp*.6*_iAp0{p*hiipNcR*gi0pADT*pihpiKO*Ri*pT_lgTipphKx*ONRO6jg*%ixPNARg66}%RG**gi?pTn0* iOi69Ng6pgpoaA*iA*TgsQAA*%xpi 6ihORR 67iiNp*X6*_iApx7O*NiihNpR*6i_p gi6R *Oi}*_gR.xT00_ RAxO_xgNzRp6kg* iO0R0* g*_6A_0NgRJ TTpA ixpO59TTO cx iA0N Oxqi*Ni(Np* 6x_Nx Tx iiNp*>0T OibN RARhg ,6TA6N_RAcT*piNxg_oNTh0O 0i;Ti6g_OA 0Ap6hO6 pxThp0 *xiOpAg0A _PpTV0* ixpOki*0xTpYTT<0i pxV6TAx0T p_gAg0p ,h*6RAQTOpe 6ih0T VhiipN-yAphhOx6TgpRhpi?O*! 0 hi}gT_pph}x*_gTh0_ O NhRiT *xiOpRl**gifppi_* NxgO!N**iT6hgi*N6*iRT_AF_T pg_gTT0p #h*6AAT0f Ah* OOgR!*6giNT*06i_pA?h_Rx6T_pbAThpi_TAKTipphX*T^pA 0xgg/gTpp1 *RRw0A*0R N0xTTp} ixpO8__TO Nh A*0i pxai*Ni*p_i0*AN0i <h*ii_xTO h 6Ahp9p*hiipg0TipAhpi0x(N66xg0tATh0i AxNO*Rxhwx*OiRp6ug*:ipgi> gxgOpR9**0ih OTNA*hgiO}N**igpy>A*6iRhRZigRA*pgn_*hANTR06gg6AAT pNh*Ah0ip*hiipg0A6pph<xTi6NR*_i4O*Ri6p_wB*TixZNXx*OiRp68g*oiNpOiO*xiOpR.**giJpT50* ixhO0N**igpp6i Nh hxNi*Ni*pTxhRi*O*RA6O*NA0T*pm_NTN02p*hi*huAA_p0 RiTORR66Tgp_ZTN0  gx_OiN 6TgAwhAxpOggAiTppK ***_OTip;0*xhiANN*Rgp_AAgT6 Th0O 0N xx8i*NiAxp xnAi0p /h*iiNp*%_40iAh0hp*hiip_0TA0Rh0xgO5pihpiwO*Ri6p_K  hipphDx*OiRp6;g*0rhpp= *xiOpRL**giThhU0g *xpO{N*A*pOxiOk0i px(i*Ni*pg^0h i0h Nh*iiNpATpRh6iTOpOT6Ng }6TA6i_pAYT*pihpik*N_i6p_Yl*TipphMx*6exp6T_TfiTpp9N_g*!hA_0xp6tpT%0* ixpOfN*TATp:cgOupT)0* ixpRlA__gA60p Fh*66giTOpOTNAh0 p*hiipg0TRpph0iTT*pihpieO*Ri6pTgp*TNpRh;x*Oi_i0  ThOOON*67xNOORJ**gixNiANi*66OO N**igp80A*0i pxTO4Ni*pg8pAihNOR6hgOpNp*46*p i0N R_*6*hA 08p*h0xg 6pNxAi2O*RiTOh0xAONi6*gg*D6TiTph xiiOpL *xiOpRO**gi%ppnOi ix O}N**igxj5TgpN pxTi*NO*pg^_*0i0R XhgiiNh*r6__i0pp p*hNipNTR*6N_pAh0ppih i8NpRi6 _Z%gTipiR_x*OiRp6ig*.OTppm  xiO Rc**gi)pTM0*_TxpOAN**igpyPA*0iNhxsi*Ni* gX_*Ai0 hCh*iiNp*TgT_iAp0CO0*O_AC + 0*_hA6T*pihp6 &_A6ph0OxNOiRO6p6#AATp0 gge*Tppm *R6wTT 0OgNX*T50* i*p__A_0A ihOiRNh hx0i*Ni*pT6h ih0hhkh*iiNpLA0ghRi0O**A6*gO_uTRpR 6ipO Rx6TiTNnRi6p_vxOiORi*ixgNpRp6mg*pOihR0*Rgp?OTp0A0Rh6ONNA NxiOfN**ipRhAiOO6 hx6i*Ni*pT6hRi6NxR RO_xANT pO 6iTNppghRipNYR*TR OipT*pihpiyO*Ri6p_7I*TNpOhKx*OiAx0*p6x Oppu *xiOpRw**gi_p _0g OxpOqN*T^gho0A*0i pR6g6Tn*pg-_*Ai 6 Dh*iiNp?T6*_OAp0,p*hiipNh x6i_ A- ppih i9O*Ri6ip_^*Tippiix*OORp_qx_UiT pe *xiOhRD6g6NlpTT0* RxpO2N*gixxWGAg0i hxLigNigpx0_*AN0p Th*OTNp*hQu_OA 0.xphii NYRg6i_ih_T*pihpNiO*RO6pdT_gTip hIi0OiRp6u=*ROTppA *xOOpR6**YiGNTt0g ixpOqRJ*iCp&gA*0N pxTi*Rx*pgnAxAi0x th6iiNp*^_*&AAp00p*hRipNhR*_i_6AYT_pihxiJNRRi6pJiz*TNpphTx*ORRp6dg_ZOTxpd 6xiOpRlg*_hqpT00* RxpOiN*gigN-,A_0i xx4ORNi*pg6_*AN0p Th*iRNp6T_0_iAx03 ihiipN,*ggO_pApT* hhpiMO*Rigi_M>6Tipih/xgOiRp6 g*+NTppT *xiOp686pgibhTb0g ix_O}N*6TgpLpA*0R pxfi**i xg<SGAi0i (xAiiNpi06*_6Ap00p*hiip*v*g6i_OAy0Apixpi4O***6p_hf*TRpphCx*Ri*069_T,iTNp}hAxiOpR6**g6-pT 0* gxpOXRp*igO(1TA0i  xli*Rg*pgp_*A*0p  h*iiNh*76g_iAi0:p6hiipRNR*6N_pApT*pihpOTNPRi6x_LA TipphwO*TRRp60g*rRTppA *xi) R.*ggi-hTF06 ixpgTN**igpQAA*0i pxAi_Ni*pgX_gTp0p mh*6 A00 p_ 6 hN *56*_0Vgg66N_iA3T*piNOggAAT 6h_64*TippR g__6ThAO NxiOORpRc_A2pA **gi?pTQp  ixpO+**TpgpCAA*0i px0i*RN*Ng#_gAi0h %h*ii*p6p6*_NAp0Tp*hRip*b6i6i_hA=Tgpih i!NT**6p_A(*04pphAx*ONRp6ppReiTpp<hpxiO R8**gAwpTA0* OxpOdN**ixg{2A60i px%i*Ni*p0T_*Ai0p Ah*iiNp*A_ _iAp0/pgxxipNWR*A6  i0O Rh*R*p! TN0O 0i}OAR0*gxgO*Rp6Pg* *iORi6SxNO*RZ**gipxiANi*p6h_AZ_00ghl0A*0i pR6g6T3*hgi_*Ai0p*p6R_RAi0Tp hhxR0Tp_hiipNd=OpAhTAT0/pihpidgAThpO 6/gT*pphfx*giT(0Ah aNT6ps *xigNAA0i 6hOhgO6* 6OOF6__RAx00p_hRAxN_igN**pg^_*hRO6*N6AiNNx*^6*_ih0N *ahNiNN9R*6i0xiTOANO6ig OgR66p_q/*iRRQ*AgOIiRh6Og*JiTpiO*N6RfhA 0Op6xTOp0g OxpO%N*gigh% A*0i p*hg6Ap0Op _gA*0p 2h*6OAOTApf_NA_0Hp*hi*OGAT_pAhTxxx_R*66g*:ARi6p_Hk*Tipph4h*6xRh6 g*fiTpO NegAeAgT*g_A/pTW0*Rggh__AOARpxhAiiO6 hxpi*Ni*pp6 6i*O* Tx iiNp*:0lh_xOO RNRA_T-hTR6N_xAwT*pi6Tg A0Ri6p_(a*hgpph:x*NNNh6FggQi0Rp2 *xiRpp0**gN5pTT0*hhxpOqgg*igxZ^A*0i pxBi*O_*pgp_*AO0p th*iigh*wgA_iA 07p*hiNp00R*66_pA T* xhpi,_xRi6x_jAATiphhLx*6NRp6pg*(OTppK *OiTxR!6ogidiTkpT ixp6TN**6gp7AA*0i pOjA_Ni*OgdDAAi0i Dh*g0Np*T6*_6Ap0Tp*xi_TNLR*6iV AwTgpihpGRO*RN6p_TG*Tippizx_OiRh6!gg.i0Ap& *O OpRp**gRypTF0*hNixOkRA*i_*PYA*0ixpxgi*N6*pg _*0A0phThgiiNN*zgh_iAp0/ gi ipNxR*6__pAHT*hii i-N0Ri6R_wA_TihpxTx*O_Rp6xg*ANTp TxpxiO*R560gitpTJ * NxpOiN*6>gprAA* ihix?OpNi**gq#iAi0phph*i6Np*i6*_NAp0Lh5hiiNN#R*6i_ Aa0g0NhpixO**66p_wQ*pi6xhUi0OiRR6S,TSipp60 *iqOpRS**_O&pTcxg ix6O1N6*igpIa0**R pxOi*RA*pgh_*Ai6o jxpiiN**lg _iApxTp*xAipNAR*6i_p0%R_pih6i,N Ri6i_YL*hNpphNx*OORp6ng*TiRxpehhxiOgRK6TgimpR*0*hAxpOON*6Tgp:^Tx0O *x:OpNi*6g=Wg6T0p Oh*O*Np*W6*_ih_0o 0hii6N{Rg6i{pxgT*pghpiRO*R_6p_}hxTiphhYiTOiRh6)3*TiT pT *xNOpRi**gix T)0g ixhObN6*igppTA*0N pxpi*Ni*pyQi_Ai0h khgiiR *zgggNAp00p*h6ipN?R*_iixAr05pihpiFN6Ri6p0_<6TRpphTx*ONRpgT_*YiTip{h*xiOpRq**gOHpT 0* OxpODN*gi_Ab<TA0i Ox:O Ni*p_x_*AR0p 0h*i6Np6#g _iAh04pghiixNXR*gO_pATT*pRhpiuO*6i6i_ZfgTiphhti6Oi*h6*g*cRTpp  *xiOp6q6Agi9iTF0* ii OWN*g6gp%0A*0N pxTi*RNxggWu<Aipp Gh*iiNpkT6*_6Ap0Ap*hiip*8p_6i_OAw0Apih6i/O*x(6p_0l*TRpph x*NiTT6>ggeiThp3 _xiOp_T**gNbpTA0* ixpRH0_*ighsVAg0i xxfN*0R*pg0_*Ai0phAh*iiA *P6g_iAh0.p6hiip_TR*6i_pAAT*pihpiTO*Ri6p_U>*Tipph:x6OiRp6yg* NTppr *xOOpRH**gi0iTA0* ixNw7N**Ogp;pA*0O pxAi*N*T0gF_*Ai0i 5h6iiNpgi6*_NAp0Up*hiipNeR06i_ ArTgpihpi2R*pR6p_TV*TOpphix*OgTp6ygg:iT*pz 6xiO Rd6&pxtpT80*h/xpOAN*6NOg!5Ag0ihixDi*Ni6ppg_*AO0p ih*iNNpg{h__iAh0Sp6hiNgN4*Tx0_pATT*  hpiAO*Ri6p_phRTipphYiOOiR 6(_7hxTppP *ihOpRA**_NRgTd0g iO6OLN**i_phgA*0O pONi*NN*po^i_Ai0h mh6iiRN*MgTO0Ap0Tp*xRipNAR*6i_pApiRpihpi.N_Ri6 _5A(ixpphox*N*Rp6Ag*AN6gpt gxi*gRW**giApig0* OxpNhN**NgpT1N_0i hx-i6NigOgv}Tii0p Th*NANp*A6*_OAp0pNRhiipNq6 6i_ AB0g.ThpiTO*RN6p_ue*0iRThdx6Oi6O6)ggripp60 *xNOpRA**TxUpThN* ixhO9*N*ig .lA60i i*_i*Ni*p_g_*AO0phTThiiNh*Y.6_iAp0w *6hipNAR*Ax_pATT*hi_xilOgRi6 _b0TTipN_Rx*ONRp_0g*XOTpp} *x*_0RL**giTxTW06 ixig_N**igpTpA*0O pxTg NO*hgWHXAi0p zx*_hNp*A6*AgAp0Tp*iiAxN!Rg6i_ Ac0NpihNARO*RN6pAO-*TOpphZx*O*A06fg*4ip6p! 6xiOiK_**gi^ppN0* OxpNThh*igh>+A_0i px}O*Ah*pgA_*Th0p Th*Ni0x*}6g_iA 0ziOhiiN0RR*6N_p0_T*pOhpi1O*R*00_V4*Tix0hfx6OiRiT_g*siTpx  *xOOp*TRggi^hTM O ixpOD**higp}TA*0N pixi*RN6hg8__Aihx .h*iiRh6h6*_*Ap pp*hiipRT*p6i_OA5 ppihpivO*RO6p_T;*T6pphTx*NiTT6-g6WihApV gxiRpp0**gNwpTA0*xpxpOhpx*ighd- h0i  xQi*Ni*i0__*Ai0piNh*iONp*p0R_iAp0<ixhii N:R*6J_pATT*pNhpitO**ipT_4o6Tih?h?xgOi6ph0g*2NTppA *OhOpRh0*givhTcx* ix OLN6*igi _A*0i pRdi*NO*pg}_ Ai0h )h*iiNp*bg*hhAp0Ap*ihipNTR*6iA*ArTgpihpikOgRi_pi0{*TRpphAx*6xRpgX NqiThpIhixiOxR%g*xRVpT00* OxpNgN*6i ToBAg0ixTx!i_Ni*p6O_*AR0p Vh*iiNp*dAg_iAi0kp*hiipNZR*AN_pA T*pOhpiFO*RiAh_1ATTiphh>x*Oi*hiNg*5_Tpxh *xiOp6M _giL*T806 iRAOkRg_pg KOA*hA px;i*RN6Og{-hAih0 ?h*iiNp**6*_gAp0Np*hNipND6p6i_RAHT*pihxi5NgRN6p_iq*hppph2x*Ri* 64_pPiT*p}h6xiNhR***_AnppO0* ixpNTxA*iggodp 0i pxWOgR_*pgR_*AN0p yh*ONRR*-gi_i060,p*hiipNhR*gv_pA*T*pNhpOIN0Ri6R_3T*Tip*hmN*hORp6xg*0pTppO *Ni_6R+60giT T^px ixpN N**6gp%xA*0N pxPNONi*Ngb_*Ai0p /h*OgNp*x6*_RAp0wp*hiO N}*p6i_ A7T*pihpigO**A6p_T1*TippxTiNOiRg6v_XliTppZhgNpO RR**Ti4pT70*hNiTOVRi*iShSCA*0i piii*RA*pg*_*AN0p lxRiiNg*^6*_iAO0^ gh_ipNRR*Ap_pAtT*hihgi%NxRi6__ZA6Ti hhxx*NpRp6Tg*SiTp Th6xiNARPgpgiXpTqpghgxpOgN*_Agp}3A*pNhOx.ORNigRgU_*Ai0p Nh*O0Np*_6*_NApp8 _hiigN:6*6i__A)0gp6hpiRO*_p6p_4B*pi xhaixOiR_6{_6ti0hp* *ipOp6O**giQp0Tp} iiAO36g*igpF4Tg0O pxgi*6A*pg(_*TNp0 exRii*0*&6*_iAppTp*x0ipN_R*6N_pTdpipihgi+NhRi6__}Ag0NpphRx*N6Rp6bg*TiRxprhxxiO_R26_giTpR00*h0xpORN*_0gpA;iN0i gxFO_Ni*_g!T*gO0p Nh*O^Np**6*Ti_A0t hhiRANZg 6i_pT6T* lhpiNO*RN6p.TTxTip6hqRaOiRp6Bg*AxTppx *iAOpR+**giAiTJpT ixpO7N6*igp RA*0* pxhi*NN*pgk0gAi0O Sh*iiNp*<6*0NAp0hp*hOipNfR*6i0hA+00pihhi5O*RighNNs*0}ppOhx*OiRp_ex_yiT6pG 6xi6AR/6gApc TN0*iAxpO=N*6N_g)qTx0ii0xri*Ni*p_A_*A_0p Rh*iNNp*Ggh_iA*0sp*hiixN5*g_ _pAOT*iphpi:O*6i6g_lA Tip6hai6Oi*hgOg*ATTppT *xiOp*T66gi<_Twxp ixpOkRg6hgp.*A*hA pxUi*RN6*g+MOAihO {h*iiNp6 6*fAAp06p*hNipRfR_6i_*A5p*pih6iKNg*x6p_OV*hppph)x*Ri6F6S_ 9iT6pMh6xiNhO***_TqppO0* ixpNTRO*ig_WKpg0i pxtOg*p*pg*_*pA0p bh*ONRi*fgO_i T0bp*hiipNgR*gA_pA6T*pNhpOqNORi6*_;AhTip6hrN*NpRp6ig*0pTpxR *xi pRq6TgiY*TU0g ixpO_N**_gp90A*0i px2OgNi**gd_6Ai0p ;h*OONp*O6*_NAp0ep*xNOpNL*h6iT6A9T*pihpiAO**A6p_T=*TNpph9OiOiRg6Wg*siT pfx*x_OpRR**gOKp 60*hii0OfRh*iTAarTx0i px*i*Rd*pgN_*AN0p GNgiiN6*.6__iAp0yp*NNipNNR*6O_pAvT*piNhi-NxRi6h_&&*Ti hANx*NpRp6pg*^iTp TiixONAR+,*giGpTcpgh0xpOgN*gNgp+KA*0ih x%OxNi6Tg)_gAi0ph6h*OpNp*/6*_6AppT 0hiOAN,_i6i_pALp*h hpi6O** 6pvA)*0N phWiNOiRh69g*;i0h A *ixOp*i**gi-p0Tp  iipO16 *igp1oTgpx piAi**_*pg#_*Aip_ -xOiiR *16g_iTpp6p*xpip*5R*g _pTT06pixAi,6iRi6p_BT*pppph6x*N RpgAg*AN0DprhNxiR6Rj**giAh0*0*hxxp*TN**igpATTO0ihpx9R Ni*pgkogTg0phAh*NxNp*L6*_i0A0l OhiO NbRg6iJpTxT* phpiNO** 6pJTTITi AhcOAOiRp6#K*YiTpp6 *i Op*0**?ia6T/pO iiAO&6x*i_pUpA*pp pi0i*R *pAq=6Aipu PxpiiR=*&H*ATAp0*p*O ipR=R*6i#xA,0hpixLinOgRigh__5*00ppOpx*OiRp6<_0DiT6pGhxxiOhRB**gR?pTN0* *xpOfN**igh-FT00i gx5i6Ni*p0R_*A60p xh*iNNp*H0T_iAN0Wp_hiipNvR*6R_pAxT*pihpiCO*RigA_8ApTip hBx*OiRpgRg*AATppT *xiOp*T*6giWgTwxT ixpOBRg6RgpkRA*   pxri**i*igoUxAi0_ si0iiRhxN6*4pAppTp*hiipRTxh6iDAAn0gpihpiQNgxT6p_g.*0Npphnx*OiI_6F_x3i0Tp8 gxiNh6**6_pfppO0* ixpNT*A*i_A:>A60i px{i*RT*pgO_*T 0p Th*iiRT*2gh_iAp0DpghiOhN0R*g0_pp*T*pihpNLNpRi6__<AxTi  h}igNRRp6*g*5NTppd *iNNpR+6OgiT6Tw0* iihNRN*6hgpTOA*0i piTORNi60gyM0Ai0p -h*iONp*R6*nxAp0Tp*xiOgN%*h6iApAf0xpihpiAO**06p_pk*Tippxo6AOiRg6=U_diT_pL *xOOpRi**_T8pTT0* ixgOaR *igx-#A*0i pixi*RT*pg0_*Ai0p yxxiiN_*G66_iAp0:p*xTipN*R*6N_pAmT* NxhijNORi6i_vq*Tihp_0x*NhRp6Ag*A%Tp TA xiN0RH90gi7pT!0*hTxpO*N*6xgplTA*0ih*xcOONi*pgm2dAiph 0h*OhNp_*6*_iAp UhihiOTNu*N6i! A80gh hpi_O*RN6p_;?*0N Thsi*Oi**6%g*}i0hh  6iOOp6O**giWp0Tp* iihOP60*igpZvA* p pxgi*RN*pgT_*TipT <xOii*p*fgN_iThp0p*xhip6*R*6i_p0CpTpixTi3NNRig _BAg0Opph_x**ARp6Ig*AN0 pah*xi*hRc**giAhTp0*hOxpRON**igpATAg0ihhx}OANi*pg(_*A_0p gh*ONNp*T6*GiAg08 OhiigN)*N6iChA*T* hhpO O*Ri6pAyTLTi Th:iNOi*x6I5*g6Tppg *ihOp6R**_iAOTjpO iixOoRN*iApS_A*p  pxii**0*pg9qNAi0_ (xOiiNh*ygg-iAp0*p*O*ipNVR*6iAZAb0hpix<iSOgRi6p_gw*00pph0x*OiRp6t_6ri0&p7 gxiOpRu6g_iVpT60*OAxpO>N**i_AM<Ti0i hxDigNi6hON_*T 0piOh*iiNp*b0x_iA_0e OhiihN;R**__pA*T*p6hpieO*Ri4R_9A Ti kh{x6OiRpTRg*._TppO *xNOp*TihgiW*Tch* ixpOeN*T0gpshA*pr pxTi**i xgKu0Ai0O Ii ii*pgZ66__Ap0xp*xxipNh6_6O_6AXTgpih i?O6Ri6pgxI*Tipph0x*OiRp6{6O,iTRp.h xiO RXg*xRPpTx0* 6xpNNN*ginpWAT00i Rx%ORNi*N(0_6TA0p wh*iONp*A6*_iGR0fp*hiixN2R*6i_p_6T*p_hpiOO*RO6p_!pgTipRh:iAOiRp6(4*ORTppx *x_OpRh**/iTpTAp0 ixROHRR*igNT0A6pA pxAi*NO*pg _*AiTR vh*iiNx*I6*_iApTxp*hiipN R*6i_pA;T0pihpirOgRi6p_%3*A_pph=x*OORp6Zg*JixRpA *xiONR;**giypf60* _xpOON**Ogp4h0_0O Rxoi_Ni* g9PAAi0pNxh6iiNp*x6*_iAp0yp0hiipN3R66i_pAPT*O_h iJO**M6p_(q*Ti0Rhqx*OiRi6dg*&iTp0x *xiOpR **gi-p0dNN ixhOW6N*igRHn0* i  xxi*NN*pQg_*0i*x )x iiNh*8gi_iApA6p*h_ipNOR*6O_p0zR_pihRi;O6Ri_#_&AT*0pphxx**NR 6Ag*tiTpppRRxiOpRS_ggOX T%0*ONxpOxN*6Agp#%A* igxxZO0Ni*Rg-KOAi pg0h*O5Np*A6*ApAp0#plhiiRN%*p6i_hA%T*h_hpiTO*RN6p_Jk*TiOhh-x*OiR 6Hg*ciThhx *xiOpRT6Agi-pT-iiRO6h_ Ai*igp;rA*0i pxHx*gx*pgy_*Ai0p :h*Rhgp*TgT_iAp0Di_6x_+Y_Tg,R_pA}T*pihpiqO*g*Ap_TD_TipphngN_6TR6T_-{iTpp#N 6R<0Ag*gg*>pTc0*Nh6 _6AA*NgNPWA*0iNp6A_gk60T p_gT/0p bh*6*yO0i %0*x NTRxhiipNSR*6i_pA{hNGihpioO*Ri6p_&Z* 3<phTipOiRp6tT_hOOWN*Rg6O_xAR*ggg8pTF0*NRgi>TAR00pOtTTN0i px}6OAx0O 0hA NNO*pgm_xAT_A0AhiAp0Hp*hiipNyR*&X0pAT0bpihpi>g_TApg  C*Tipphcx*Oi0pA>T*XNTip1 *xigiA pp *vh0Q0* ixp66AR06 xh  gN6*igp_RAh_ TphRi_NT TxpiiNp*!T*hxixOO*v6A_0rgR*6i_pA;T*pippg_6*RN6g_y:*TiiR*__}{!A 06TgxxO7Np gx*OpRI**Tgx0igRH NiROYN**i hhTOpOO*xg0_AA*T6pp0hpxh0i0N R*6i_xB*TRpOhii0hNigNWR*6ipAx_NARR*O* /NT*0OhTcgT_pph;x*_gTh0_ O NhRiT gxgOpRr**0RhOi0NR*h6iOSN**igp3BA*0ixSRDigNR*pgH_*hROO*ph*iiNp*n6*_iApppi*hNiONMR*6ipO pO R OhioO*Ri6p_ud*TipphexgO*Rp6Sg*p6OTR *OxNONRV**giphO RL**g0_gNg6TgpW7A*i *0g __>6AFp  6igOO TxAiiNp*?T h x OxRAhNigNuR*6iphx_NARh*i*h;gAOpA  LgT_pph)x*6RT00gh9h6OTRphTxiOpRdgTgi7pT<0g *xpOoN*o6 Tx iO0N OxHi*NiA   h ihNi Th_iiNp*GpN 6iR0Xp*hiipN=R*6i*pp_T*pihpi^O*RiRp _p*TNp hbx*Oi_h6T_T4iTpp+O_gxGQA_0gAR/hTh0* ixp60AgT6p xpiA0N ixji*NiApp* 6OA0hhXh*iiNpVT06 Rx_OxRg6x_OQgT<ARh0x*ORRNOxiTN Ri6p_}h}O_NO* gNgATT0h R.NTRpk *xi_NTT0R   hhxxg Nx_OcN**iTOhAi_NA*T6x6_A*06p*hAAN0N }h*ii_xT 0_hxiTOpp*hiipN+R*6i_pAih*pNx0ijO*RiAO Ax_OART*x*,ZATh0 p_x*i6N_*NxNNARL**gi xi NiR66x-pAAT*0ihiiAN ROxTOANi*pgPh_iiO *x6NiNN *d6*_i R0T ThiipNIAYpI Ox6OARRhhi0O*Ri6p0_iAO*phhAx*OiRpTTg61iTppC 6xiOpR!*g_P%pT<0*OR6 _*AiTNp h0ix0i pxqi*N**pgn_*Aixh ah*iiNp*c6*_i0p*0p*hiipNeR*6O_pA>Ripihpi<O6Ri6 _c=*xNpphnx*OORp6tg*Qi Opy *xiOp0R**gi:pT:0* ixpR-Ng*igpB/A*0i *xvi*R{*pgT_*AO0p qh*ON*A*-6__iA_0tp*hiNpN6R*6R_pA0T*pRhpOTNhRi6i_kAjTipph.igR0Rp6 g*zOTpp& *OiR RZ6Agi2OTMpO iOpNpN**6gpQ A*0N piTNANi*Ng8_6Ai0p .i*OxNp*h6*_gApp(p*iiiiN-*T6i_NA2pApihpi O*RR6p_hL*TNpphSOOOiRi6cg*2iT pjhghNOpR **g_VpTY0*xiaxO}RA*igOfUTi0i p*Ni*Ng*pgT_*Ai0pxPxpiiNN*egT_iTi0:p*hNipNxR*6N_pA>T*hihiiwN0Ri6R_{A6Tippx6x*OgRp6hg*/_TphkxTxiONRu6TgiATT7 *h0xpOhN**ggpAhA* iOAx7OTNi*NgyGAAi phAh*igNp*h6*exAp0? ihiiRN)Rg6i_pAMp* phpixO*R_6p^pa*TiphhlipOiRh6rg*qippph *i=OpRi**_OrpTyp_ ixRO2R0*ig*}=0**R pxxi*N_*pgg_*0i*x yx0iiNR*!g__i0ph6p*h_ipNxR*66_p0>0RpihRinN0Rig0_V-*0*pphix*ONRp6fg*Ti0hpIhpxiO*R3g%gidpTT0*hAxpOTN**igpTu0x0i 6xeO Ni6 gH_*Th0p ih*OXNp*O6*AiNx0. phii*NW*N6iApThT* mhpiiO*Rg6pA&TxTip*h-ipOiRO6J)*A_Tppi *i^OpR_**giA*TFpA ix*OJNg*i_p3 A*0* pxNi*N6*pgsApAi0p bxdiiNh*/_*?NAp0qp*hiipNOR*6ih A2T*pihhi.O6RighgT5*TippxTx*OiRp6hI_eOT pV *xiO RK*6giMpxx06 ixpO0N**igp-li60i px&igNi* g>_*hN0p Wh*iONp*96*_iTT08p*hiihNpR*6i_phDOiNO66iUO*Ri6p_#?*TiApO_xgORRp6&g*xhiORx gx*OpRl**T6xTO NO NipO1N**iThhAx_N0RRgT_RA60Tpp0_ixNdR_6gRRNh*h6*_iApi0RA*R_0vgT:6NzAA=T*piRxg ZiA60xhpxAi*Oi*igAH AO6T_R#iTpptNA6OoxAO0Np_piiONgR66x5pA 0x TtTTT0i pxy*_ANTOpAxyx60h Oh*iiNpAp 0 6xOOgO 6hgNP_Rgg0_pArT*i6* _0& Th0Rp0i+NAR}* xgO6Rp67g* OOONO*Ng*OhRh**gi;pxpNpR6gA_ A_*Ngxs4A*0iN0g )wNi*pgW_*0A0p <h*iiT_*?6*_iAp0#p*hiNpN0R*6i_pAnT* Ahpi8R0Ri6h_<}6Tipph1igNxRp60g*ATTppC *OiO RB*_giPxT/0_ iihNAN***gp)TA*0i piTNiNi*Og{e,Ai0p 4i*NONp* 6*_6Ap0Rp*iii NH*A6i_OA-0ipixhOiO*Rg6p_pk*Tippi>iNOiRN6#_T9iT*psx*i9OpRh**gg,pTg0* ixhO#N_*igNe1Ag0i pixi*N**pg:_*AO0p a_giiNO*e6g_iAp0uh*xOipN R*66_pA6T*pixpimNTRi6h_M)*TihphRx*OgRp6hg*;_Tpp%xhxiOORw6AgiwNTd * 6xpO N**6gpyhA*pih xKO/Ni*OgC;AAi0p hh*iiNp*p6*_NAp <h hiipN;R*6i_ A>T*hThpi2O*RN6p_Aj*TiOhhIx*OiR 6,g*}iTppT *xiOpRT60giKpT3x_*xgTSpAA0h iFTTd0i pxqg2!60* p_*Ai0p ;xViiNp*v6*0NAp0Tp*hiipNcR*_iixADTgpihhimO6Rigp gy*TNpphTx*OORp6s0g,iTppj 6xiOpRm*g_6!pT,0* ixpO?N**igpgviRxi hxAi*Ni*pTT_gAg0p dh*6*C*T pO 6ix0T RhiipNq3A0OhxxOONN_NigO>gA60xhpx OxRThTixOiRp6l0AhOOxNO*N6_gxTpp  phOTT06 ixpO;_0*Ngx?)A*0i*T6 t0NN* ga_*Aiih TxOiiNp*{T_ 6iCO N_6*gOopAmpI Ox6OApNhOi1O*RiT h x OhRihTiTOiRp69T_xNiONA6G66OhRp**giypx-NiROg6OTR0*igpWdiTNN*0666gg_bhgTL&Ai0p DRA_hAOT66g5iAp0;p*NNg 50Tx0_hhx_NARh*i*0lRTpp0hT0_TNpNh>x*Oi_x0_ ixxOhx0 *xiOpR/**giCp_sxR Nx6O<N**i0ixxiAO6*TRO_Ntg00gT8TAi0p 9R_g6PxT_pN *Ap01p*hiipN.R*gJ0pATT_pihpitgRT6pi_fK*TippOAx*OiRp6Kxx7iTppH *xiOpR&g*n SpTb0* ixpORN**i_KP=Ag0i  xci*Ni6hgp_*AR0phTh*iiNpg!gi_iAx0Lp_hiiRNq*g6N_pApT* OhpiZO**NgT_>AATi Th?x*Oi6p_Ag*+6Tpp  *x6Op6.6xginOT8pA ixgO;Rgg gp#hA*ph pxUi**i66gd>TAi0N 1x7ii*p*R6*_gAp0hp*x6ipNt*06i_xA#0Tpihhi#O*6A6p_pq*TipphAx*NNNh69_A;i0ppk *xiRpp0**g6LpT 0*h xpOPuh*igNVSAg0i pxKN*R_*pgh_*Ag0p 0h*iiRj*rg0_iAh0Up*hiNpRxR*6__pAxT* AhpiFNxRi6N_WATTipRhGO*NhRp6hg*:gTp 0 *OiNTR-6Tgi7NTlpp iOp*6N**ggp%hA*0O pOoO6Ni*Ng}WTAipi Jh*OTNp*x6*_NAp0tp*iiOgN8*06i_RAIT_pihpi6O**I6p_TD*Tippisi_OiR*6z_pFiT6p. *x6OpRx**g_opTi0*xiZxOKR0*igR-9T_0ixpQ0i*N_*pgx_*Ag0pxLNOiiNR*8g0_iA 0ah*x_ipNxR*6__pTpT*pih6i}NpRi6h_()*Tihph x*NWRp6ig*{RTpp-x xiO6Rz*ggi3pTu * *xpOON*6Agp9OA*0ihOxVOpNi**gq{ Ai pg0h*OoNp*i6*JRAp ?hThii*Nz*p6i_hAnp*h?hpiiO**t6p_A1*pipOhuipOiR*6<GLciTp h *x6OpRi**gN/p04p0 ixiO9RR*igO+CA*px px?i*N**pgT_*0ipN Bh*iiNp*#gi_iApNAp*hiipNTR*6O_pA;xgpihpiSO6Ri6p_M!*Tipphux*OiRp6Zg*eOTppG *xighR9**gil T>0* ixpN N**igp)TA_0i pxa_Nm60RgT_6Ai0p :RgiNNR*w6*_ixNNTRR6 6hgx_g6N_ A+T*piNhiTNxRi6p_2 AiORx*OgN__/xpph xpiOpTh#xiOpRsA* ph OO0g gxpOCN*A*p*h iOO6*xx{i*Ni*pgj_*Aip*O<hgigNp*J6*0Ri0O*RR6NRxN4R*6i_pAfT*Ti60*>OgRR6p_WY*xxRO6pxgNiRp6.g*pNi N0*x6_WhA_pA hhih0NR*pg0;T6_*Ngio<A*0iOO6g1AA *hg6_*Ai0pN06A_pSOT0 y 6xiipRp*6_A7 Rg6g_pA3T*iR6hg _6T*0O_TATTipphW*__6Ax0_ Nh*Tpp9 *xiOpRB**Rip0TTpR ixpOX_ATO xhOiNO_Oi6O_gV6Tx ph ixNT Tx iiNp*20nh_xOO RNRA_T5hTR6N_ A,T*piNRiTNARi6p_1 6O6N6*g_ZOiRp6>g*0OTpp% *xiA_RF**gizpT!0* iOpOTN**igpW&A*px pxVNONi*hgF_6Ai0p -xgN0Np*06*CRAp0Cp*iiO&N,R_6i_xAbT6pixhO6O*R*6pzAt*TippxTO OiRO64_OqiTppwx*OOOpR **g6(pT 0*xiiNO?RA*igO}}0A0ihhxNi*Ng*pg6_*Ai0pxHxpiiNN*ygT_iTh0Sh*xAipNhR*6g_pART*pixkiLO_Ri6N_XogTippx*x*O*Rp6.g*WOTp TpgxiOOR(6 gi2pTC *gRxpO N**6gpn0A*0iNgx{OTNi*hgy_*Ai phOh*igNp*h6*__Ap0G 6hiiRN(Rg6i_pAKp* 0hpixO*R_6p_gI*TipihriTOiRN6%_0YipppO *xgOpRh**_i#ppB   ixNOdRT*ighBo0*x  pxhi*Ng*pgN_*0i0  2xTiiNN*=gp_iAppNp*h_ipNTR*6i_p0-TgpihRi/N0Ri6R_u{*0?pphix*ONRp6&g*Ti0ppJhpxiO*R)6NgiKpTh0* _xpOxN*6egpT<N_0i RxXO0Ni6pg?A*NR0p xh*i_Np6p6*Ai A0u 0hiiRN,*h6iApAOT*p_hpixO**<6p_?AhTip*h<xgOiRp6f=*TATppi *iHOpRx**giTsTdp  ixhOoN**i?pAxA*pA pxOi*Rh*pg8__Ai0* 8xpiiN6*f_*iRAp0ip*x<ipR,R*_i)NAQ0ppih*iuN9Ri_p_*F*02pphix*NTRp_(_R%iT*pBhpxiO*R9**_RCpT 0*h!xpOTN*6igRfbTH0ihKx5OANi*p_x_*Ai0p ph*iNNpgl_i_iAp0.p*hiiNN^R*pO_pAGT*pNhpiAO*RiTh_^<*Tip hrx*OiRpxxg*fiTpph**xiO RJ6Lgi: Tt06 ixig_N**igpSpA*0O pxBRpNi*hgk_*Ai0p {h*x_Np*A6*_NAp0Gp*iiAxNsRg6i_ AL0ppihNARO*RN6p_iQ*TOpphDx*O*A06Zg*<iT*pq 6xiOi._**gikpTO0* OxpNThh*ightt0_0i px(O*Ah*pgA_*T20p Th*Ni0x*#6g_iA 0V OhiiN0RR*6N_pAgT*pOhpitO*R*00_2-*Ti Thax6OiRiT_g*yiTpp_ *xOOpRTT gOnhT8pI ixpO3R*0hgp)AA*p  pxTi**i xg3_gAi0  Lx0iiNN R6*_NApppp*hOipN)R*6* 0ADT*pixii5O6Ri6ip_Q*Tippx x*OORpgTNhniThp=x xiOpR?6* h5pTA0* _xpOTN**i3*8YAg0i pxDi*Ni*pTT_*AR0p 1h*iiNp*SAg_iAi0Sp6hiipNI*gxg_pA T*hRhpi+O*Righ_:AYTiphhLxgOiRpgDg*d6Tpp; *xOOp*T*_giFNT( * ixpO>**6igpMhA*0g pxhi*RN6Tgro0Ai0h 3h*iiRh* 6*b%Ap Ap*hiipRTF06O_6AQTgpihpifNg6T6p_Nc*pOpphyx*Oi*T6^_T%iTgp: gxiNpRg**g6sp0A0* gxpO=Ri*igxX7TA0i hxHi*_g*pgp_*AN0p kh*iiRa*GgA_iAx0%p*hiipR0R*6g_pADT*pihpi?NxRi6R_5v6TipphKigRTRp6ig*TgTpp# *iNOxRJ6 giDiTU0* iOpO0N*6AgpDOA* 0 piTphNi*ggIATAi0p wxgpTNp*R6*JgAp0)p*xN0gN1*i6i?NABT*pihp6RO**A6p_*2*TNppxTNiOORg6Fz6jiTppdhgiTOpRR**1xypTU0* ii OyR0*ig_+CAg0i piNi*R#*pg3_*AN0phTi iiN6*H_*_iAp0Dh*ipipNOR*gA_pAhT* Nx6iqNhRi6h_nS*Ti hxsx*N0Rp_Ag*aiTp ThAxiNmR5g6giKpT^pg OxpO6N*6Ngp^!A*0ihixeO Ni6Agd_gAipph h*O=Np6A6*+AAp01 xhii6NX*v6i_pA}0*O6hpiiO**A6p_Ol*Ti Rh^iTOiR*6lggLiTp 6 *x_OpRp**gispT? - ix*O{Ng*igpaeA* p pxOi*Ni*pg}_*Aipx MxhiiN *W6*_iTh06p*x0ipNAR*6i_p03R_pix}i1O6Ri6*_eAggApph6x*ORRp6og*BiTxpbhhxiNARf*ggi,p000*h0xpO4N***gpAT0O0ihFxLN*Ni*pgHA*Tg0p *h*OpNp*h6*-NTi0{ OhiihNZR*6iWhATT* hhpi*O*Ri6p+T0ATO 0h2xgOiRp6K_gT Tp e *OOOpRa**gi-NT{pi iipO}Ng*i_pANA*p0 piAi*Rp*p_TAOAips Di*iiNp*Y_*LNAp0*p*xpipNhR*gN!xAb0Opii i}O*Righ4Ad*0hppx9x*OiRpgTQh)i00pSx6xiOpR&6gg_.p0:0*xOxpODN**ig6fBTi0ihpxXigNi6pg _*T00ph h*OpNp6Tg _iT;0^hghiipN=6*_p_pA*T* phpOiO*6iAg_AAiTi :hkO0Oi*pgAg*A0Tp i *ipOpg{66gib_T=pp iOROrN**NgpfOA*p0 pxTi*RN*hg?1hAipx qh*iiNp6A6*j#Ap0Np*hNipN86h6i_6A<Tgpihpi+O**_6p_No*TipphVx*Oi*?6U_xjiT p+ *xiNhhN**_pUpp 0* ixpR/0_*i_A(:A60i Rx5i*px*pgR_*T 0p Th*iiRp*Jgi_iAp0JpghiOhNTR*g _p03T*pihpNtN_RigA_kAOTipNh{igRARp6gg*TOTppH *iNORR^6RgiIOTk0* iihO6N*6igpTAA*0i piTNANO6 g);AAi0p 2h*OONp*66*{OAp0Tp*xiOAN1*i6ib Am0OpixhOTO** 6pA?z*Tippi}O Oi*A6=_O4iTNp=hgigOpRg**gN5pT10*hNipO>RR*ig_KIA*0ihhRxi6Ri*p8A_*Ai0phTxxiiR *L_O_iAp0Yp*iAipN6R*gO_pATT* ixAi5NiRigO_mAOTipphNx*NTRp6*g*%NTp TAhxiO_RS6hgi!pTB0*R0xpOON*60gp)TA*0iOhx-OhNi*hgb_*Ai0pOTh*O0Np*A6*_iAppTchhiOcNW*N6i_pAPT*h6hpiRO*RN6p_Tb*0N_ghBiiOi*T6Mg*GiTpOR *iTOpR***gNjpTv00 ix_O4N_*igp7UA*h_ pxxi*R0*pgA_*Aii_ 8xAiiNR*o6g_iThgNp*hgipR*R*6i_pAPixpihiiMNTRi6h_:r*hNpph x*O6Rp6ag*TiRxpchTxiOxR7ghgiXNp006 _xpO0N**Ogp:0A*0iNRxAi*Ni*Ng/_*Ai0ppxh*iiNp*p6*_iAp0%N0hOipNG*06i_pAlT*0 hpi O*R_6p_Af*TiihhjiAOiRO6Bg*Fipp60 *xgOpR0**=*,pTh _ OxROLN6*ig PDA_0i p*xi6Ni*pgh_*Ai0p zh0iiNp*Vgs_iAp0up*R_i N.R*6__pAoT*pi Ai?NARi6R_Yv6TippNTx*O6Rp6 g*DiTphag_xiONRH*_giA0TqpTxRx OxN**igp3AA*0* px?g0NO*pgCJTAi0p 2h*x_Np*f6*_*Ap0Mp*hi6RNAR*6i_RAUT*pihpxxO*Ri6p_AM*TipphShOOiRO6q_0UiT pd *RNOpR **g6;pTV0*xiUxOlRT*igxPF0?0i NO0i6N_*pg _*AO0p 0h*ii_R*A6*_iAN0{p*hiipOxR*6i_pApT*pihpiv_0RO6p_dA0Tipph=x*i Rp6 g*q_TppA *xgRxRA6AgimhT-06 ix O<N*R_gpLQA*0* pxti*Ri0Tgk_gAi T VxAiiNpgx6*_NAp0Tp*hiipNrlg6i_pA:T6pihpi>Oggg6p_s.*Tipphox*OiRp6/g*wiThpx *xiOpAh0g xxAxTi0ONxhNXN**igpp6iRN6*x6 *gA60i phRihh Op6R__AT*46*_iAp0yp*hi*xg!Rg6__pACT*i**Ogh_6T6pohp4g0Tpph;x*g T0p  _h6hONg6w668hR!**gi)pTo0* iNi6VN**igpm(A*0i pim**NN*NgD_*Aixh* gQ_*A0Tg6g%hAp0.p*R _0A T_060hi NjR*60gg*6W6pp_}/*Tipphwx*OiOp+_g*MiTppJ *xiOp6T>*gNHOTc0* i*>_A^gT6 ?lTTh0i pxC6OAx0O 0hAhpOORAgTg6Np*b6*_iAp0+T*6x*pNT*A6i_pAZiTNO6}_ KARi6p_d7*TipphLRp6iRp6)g*<iTppH *NH6pRT6pgi9pT{x_ROgz_*&gTOpxhRAg0_ px2i*_gTOp0xtixNhiThgOTNp*v6*pNi0N RN***NATA6p  OAT0ipihpiS_aTN0  gx_OiN 6TgA<hAxpOggA_TppL *gN_hTiT6 Rxxi RY*A6i*N6R_xAx0O ch*iNNiR*6i_6A _gA*0p Yh**gA0Tg u_NAi0Kp*hi6iv 0pp*_hApT*pihp60_6Tg0O_TATTipph>R_IxT.0_ g0RThp0 *xiOpAg0A _rpTe0* ixpO3N*_hTp=TTx0i px&*6AhTxpihRiNipR_6 _hAi*Tgx_iAp0{O 6 g QxTAARh0x*ORRNOxi:O*Ri6p_cc*giO*N,xgORRp6ug* RiORp gx6OpRu**06piiONOiNxhO N**igppOiOOORR6 igRT*pgw_* _N0*p6pgOAAWTpRhpxi0T 3hiipNuHTpp  xxTgp6hpi#O*_Rp0 *xRONphhpx*OiRpA  Nx6OApTh0xiOpRHc_ xxTOpNA*hgiOTRT*igpZaxWNxRR6x_il6*pgt_*Ai0p Kh*xig0*TgT_iAp07O_*6gx7_TN0*_hA0T*pihp*O__Tx6p_Hw*Tipph>x*N*_p6Yg*SiTppn *6i_*_.*ggg-pTI0*NRgi1TAR00pOwTTT0i px+6*nO0hp hNi*0p kh*iiNp*,6*0,6p0T shiipNku_pAhgx Tg 1hpitO*aip0h0x O*N6*_gNOiRp6/g*2iTpp>ip0iOhRp**giDphgO6* 6OOTRA*igpJ)hTNpR 6x__Ng*pgF_*Th0p Sh*iNN_*S6*_i OOAR_6A_Tcxc_p*h6x*OApNxAi#O*RiTx  xii6Nx6pgA_*/i0i Ax iOpT _xiOpRu0Np6xRT40* ixpO+N**iRp0_Ag0g pxFi*_RTOp0hRihOi TxTiiNp*!A_hNxOOA*I*6ihNpR*6i_phrOiNO66iTN*Ri6p_?pgiONx*Rg0HNT0p  Nh*hxN_*igx%hg0*gg6/pT,0*NOgO_OAN0*ghv0A*0i pR_vAA**hgp_*Ai0pO 6N_6AA*TgT_iAp0IN<6<gOs6TApR_hA_T*pihp* _6TR06 gx0h*N66TgA_RTi0O RxhThpO *xiOp5pp0p6hOigi *h6N__N**igp{l0 0i pxzi*00*pg#_*Ai0p Kh*NiNi*26*_iAp0- ThiipRiR*6N_pAAT*pihpOTNNRi6x_qANTipphjO*NRRp60g*}RTpp0 *iNN*Rb6%gimiTI0* iihONN**6gpYRA*0i pO^N6Ni*Og#JAAi0  Ci*iNNp* 6*_6Ap0Op*xNi6NI*T6i__AKT*piipOAO*Rg6p_h1*0 ppiDihOiRN6k_TkiTgpq *iTOpR0**ggXpTT0* ix OrRY*igp9VA60i pVTi*N6*pgT_*Ai0px4iAiiNO*fgA_iT10Gp*x*ipNhR*6N_pA}T*hix*ieNTRi6N_oGgTippxxx*O6Rp6 g*}gTphvxixiOOR#6Agi=OTrp*hhxpOpN*6;gpb A*0ihRxUi*Ni*ig>_gAi p hh*iiNp*S6*__Ap0GhOhiipNbRg6i_ AjT*ONhpi)O*RO6p_J{*Ti OhZx*OiRh6Ag*8iTpix gixOpRX**T6h O0N *h6R6pA 0NpOh0OmNA*06gigRA*pgb_*h*NRR 6A_hg6TgpThxAh06p*hiip_0TApp Ox0NBN6*i6pCpA6pA  rgT_pphux*_gTh0_ O NhRiT gx*OpRM**0ix!iAR  NxOOqN**i0 x i Nh*ixTOxNi*pgIpAxONxRO6Ng__x0p  hpxO0T ThiipN}A}p+ Ox6OARRhpiaO*Ri6p_7D*priphTi9OiRp6^0AxhOON6 gxOOpR7**0NkpT!0* ixpOrN*OiT0lTTT0i px=*_ANTOpAxKx60h hh*iiNpA0pA Ri0OgRfhNixNmR*6ihTx N0pNxpiuO*RiAh Ah_O0NR6TgR^6TT0pT_xxO9N_*gNROhRh**gi<ph0NR*pg0&T6_*Ng P(A*0iOhxTi_Ni*pgypRi6Ni yh*iiNp*M6*6ii0x!p*hiipNZg66i_pAUT*60hpijO*Ri6p_j:*pi hh3x*OiRp6^_N(iTp 6 *xNOpRA**gi5p0TpO ixxOyN_*igplv0*p  px0i*NR*p_%_*TN0  {x1iiRA*n6*_iTh0Op*h6ipNRR*6i_p0Vp6pihOiuNARi6*_YT*0ipph x*O6Rp6xg*ANThp(hTxiO_RX**giTpTg0* gxpOhN**NgpT>A_0i NxdOTNi6igL_*Tp0p 0h*igNp*T6*_iTR0v bhiipN.R66i8hkTT*p6hpOTO*Ri6pALO_TipOh{iAOiRO6mg*hTTpph *xNOpRY**biATTqpT ixNOSR *igp:xA*0_ pxTi*Ni*pUyAxAi0R yx0iiNi*96*_RAp0hp*hgipNxR*_i_hA?0TpihNioNRRi_p_hu*Tgpphhx*NpRp_,TOviTNpzhTxiNOR4g*_N%pTh0* gxpONN**ig*9wT00i hx;i*Nigp_O_*A_0p xh*OANp*!_i_iA*0}pghiipN86*gO_pAiT* ?hpipO*Ri6__rA0TipRh+ipOi6ph0g*{_Tppx *ixOp6D _gi8RTXp0 ix OH**J gpsxA*0_ pi i**i6Og)>0Ai0R nxhiiNp6+6*nmAp0Tp*hiip*u*06i_*A10ppih6ikO**_6p_O?*TNpph>x*RiRO6B_ 7iT6pJh;xiOpRi**_3#pTi0*hAxpRs0_*ig*ebTp0ih0x{N*Rg*pgi_*TV0ph0h*NiRN*Fgp_iA*0fhAhiNpRRR*gn_pAiT* ThpiWN Ri6O_oApTiphhGi*RpRp6pg*AOTpp  *xiNFR9**giYiTe0g iOpOON**igpB#A*0g pxw_6Ni*pgY_gAi0  <h*6NNp*f6*_OAp0vp*hiOONBR*6i_pA>T*pihpi:x*TxAp_TU6Tipphr*0ON*p6rg*2ihhNAR_g0_RTT0R 6xTipx_*xg7__Ag_Rghu_A*0i pR g6ART6pgh0 *O6*T6AgRAiTOpRhhAh0 p*hiip_A0ApAhTipTgpRhpi{O*HxpOhptgT*pphzx*giTm0Ah rNT_pm *xi6OAA0_ AxTixi_**g6_*AA*Ng ezA*0iNhxTOTNi*pg9 ci.OOR66A_RNh*x6*_iApOhRg6x_A_Ty0AN_hAhT*pihp*0ZgA60 hpxATNpihmx*Oi_O0ghAx Thp6 *xiOpe00A phOi0RjR66igpApT6 Ah Ag0g px+i*_RTOp0hRihOi TxTiiNp*1A_hxitO_RgORihN0R*6i_pxgOAR_hhiOO*Ri6pppi0i6NO*g* mhAN0_g*JiTpp9 *xiOpiS.RgiUpTY0* ixpO>RpyighmAA*0i pRTi*Ni*pgqT6Ai0p bh*A0Np*v6*_iAp02p*iiiONBR*6i_pA30ipihpO O*RN6p_A>*TippxTiiOiRx69_g^iTppLx*iiOpR0**gRPp0A0*hNxNO:Rq*i_x(>A*0ihhxNi*N6*pg6_*Ai0pxmi6iiNO*IgA_iA*0dh*xhipN R*66_pA T* NhiiHNTRigA_a#*Tihph6x*OgRp6hg*m*Tph1 6xiONR#6Tgi/NTc0*x0xpO0N**ggpYTA*0ih*xGOnNi*pg<_6AiphpTh*i6Np6?6*_iAp I6_hiiON,*A6i__A>T*NThpihO*RN6p_;:*pi _hFiTOiRN6t_h.iTppi *x_OpRT**gibppopx ixROeR0*i_T1IA*06 pxhi*Ng*pgx_*0ip  VxTiiNN*QgR_i0p0*p*hgipNhR*gA_p0mhOpihNifNTRi6 _MT*0gpphhx*OgRpgpg*Ki0Np:h0xiOhRe**giTpTh0* _xpOxN*6Tgpv-0O0i *xLigNi*pgMA*Ti0p ih*OvNp*g6*_iA60U 0hiiRNo*p6iApN0T*p_hpixO**x6pAaO_TipRhFi0OiRh6c?*p Tppx *x_OpRA**(i/OT1p0 ixRO2*u*igp)RA*p. pxTi*Ni*p)szTAi0* rxpiiNg*96*^iAp0Op*hNipNnR*_iKiAo0 pih6ivNNRi6p_6.*0rpphix*NARp_}x_-iT*p,hpxiN0RHg*_gqpTi0*h8xpN N*gi_RnfTp0i *xDi6NigpgT_*Tq0p ih*O*Np*.gg_iAO0Z phiihN/**gR_pApT*pRhpi O*Rigi_-Q*TipihyxgOi6p6hg*ViTppC *x_OpRm06giupTY0g ix O+N*ANgpBCA*0O px/i*Ni6ggy_*Ai0h  h*iiNpAA AhAiTNppgh*ipN^R*TR 6iNOApNhOi%O*RiTN AxiO6NOhsN_*Rgx=0A_0R_xx_ gxgOpRl**0RxiOTNR*06OO=N**igpbmA*0ippN_igRO*pgI_*hANARA60g6_i0T06hhixN=N66NgO=gA_ A_pAkT*pihpi{O*6iAp_TA>Tipph/**JpA pOggAiTppz *RN_ A00xp_xhi_RA*h6i60AR0p 0xTp_0N Nx?i*Nicx ThAxONiR hgiRNp*?6*pxiONppgxAipNvR*T*hRx OARhN6gglTTx6h_xa*TippNpg ugA60p AxNThp0 *xiOp_OT_ x=hTi0* ixp60G60p ,hTx6ORR_x!i*Ni*pg?_*AihiOqhgigNp*r6*p*x*O RO*6_xNT*d6i_pA^xARh6Og6OgR66p_<z*x6ii*OgO*NRh60g*ZiTpNg*Ag_OhR **gi:ph0NR*pg0+TNg6xgp}9A*x6R g0_ AhTRTph iNOOR0gl_AA0Tg6gb0Ap0bp*N6g A0T ph Rh0NG*A6zg OgR_6p_Q%*h*NO*h66I6Tnppg*>iTppm *xiOpR:**gidpT80**_xpO(N**iThLWAg0i px8i*Ni6ppg_*AN0p 0h*iONp*;hx_iAh0Vp6hiipN{6*g*_pATT*pNhpiRO*Rig0_XAMTiphhvx*Oi*hg6g*V6Tpp6 *xiOp6J66giLOT.pA iiOOGRg6hgpthA*0* pxHi*RN6xgG)0Aipx kh*ii*pgA6*__Ap0xp*iUip*;6O6i_RA-00pih i^Ng*R6p_i-*0RpphQx*Ri*p6&_pUiT*pzx0xiRpRp**_&MpTi0*hpxpOyN_*igO;CTp0i hx9i*Rh*pgh_*Ai0p Ah*iigh*)g0_iAp0tp*hiNp00R*6__pAxT*pRhpih0xRi6R_}T Tip h+x*OiRiT_g*uiTp O *xOOpRuDggiVRT10_ ixpO{** Rgp/xA*0_ pihi*Ng _g#(0Aip6 >h6iiNp*ugv xAp0=p*iAipNAR*6* 0AeT*piiAi4O6Ri6p0TS*T_pphpx*OiRp_(x_XiTRpMh0xiNhRlg*xRGpTx0* _xpNON*gixx}QT00i RxsONNi6ppg_*Ag0p Nh*i_Np*>0x_iAh0V ThiihNI6*_i_ ATT*pNhpiOO*Rip _J-gTiphh)x6OiRpATg*!NTppA *xiOp6;g*gOVhT/0g ix_OSN*4Ngp}pA*0N pxai**iOig==5Ai0i LxAiiRh*A6*_6Ap06p*hiip*,6x6i_OAJ0ApixOiqNg*h6p_hQ*T*pph=x*NN*36._04i0xpd *xiRp*N**g_ypTx0*xIxpRXRh*igRyzT00i  x&OgON*pgi_*TR0p dh*Ni0x*^gp_iA*0zh0hiNp00R*gn_pAiT* phpik_xRi6O_4ApTiphh;x**tRp6hg*oiTppA *xi6hRB60gi3pTJ0* iOpT0N**_gp1xA*0R pxh_*Ni*Rg!0AAi0  Ph6iiNiA_6*_iAph p*hOipNpAR6i_pA/h pih i=O*_N6p_xt*TRpph4x*Ripx6#_0}iTRptxTxiONTI**g_(p 60* OxpOAN***p0YDA*0iOAx/i6Ni*pTT_*A_0p ph*iiNpgJh__iAR0J 0hiOhNL6*hR_pAxT*p_hpOOO*6ihx_3A0TipRhSiAOi*p0gg*fgTp h *x_OpRkTxgiGhTGpT ixhOP**gig WTA*0N pxOi*Ni0 g(_gAi0h Uh6iiNp:T6*_NAp0Ap*hiip*v6*6O_hA#Tgpih_i!O*_N6p_p(*TNpphPx*Riii6._s/iTipbhRxiNhR6**g6XpT60* ixpRYRA*igOwQTA0ihOx#Og*9*pgh_*A*0p jh*ONN *Kg0_iTx0.p*hiNpNTR*6__pAxT*hXhpNlN0Ri6R_WA0Tip hZigiNRp6ig*ARTpp? *OiTxRC6pgim*Tj 0 iOpT0N*6^gpeiA*pp px>gxNi*OgdnpAi0h vh*RFNp*h6*_iAp0Tp*hi*hN<*06i_pALT*piipA0O*R_6p_xf*TRpphhAxOiRR6^p0;iT p. *xiOiX_**giPpxx0* OxpNThh*igR^e0h0i px-OTAi*pgx_*xG0p Ah*iONp*p0R_iAp0UNphii N=*gOT_pAxT*pghpicO**ipT_UATTipRhsi0OiRpATg*:_TppP *xiOp6r _gioRTJp0 ixxO!RTh0gpyxA*Og pxAi*Ni*pgp RAi0p 56TiiN *ngggNAp0xp*x*ipNlR*_iOxAu00pihRieRARigh_i}*08ppxNx*OiRpgT_NkiT6p7h6xiOpRH6g_OPpTN0*xTxpObN*6N_h)LTx0ih xKi*Ni*p_i_*A_0p Rh*iNNp*hp*_iAR01ROhii N1R66i_ih_T*pihpg6O*RO6p^T_gTipRhMOIOiRp6=8*NRTppx *x_Op* **_N<6Tmpp iigObN**i_hA0A*pA pxii*Ni*p_TAAAi0g BihiiNp*SggA0Ap0Rp*xsipN#R*6iuOAc00pih_inOgRigp g&*TgpphTx*O_Rp68pxViThpFhTxiOhR?g*Qiz TT0* NxpOON**i  -4Ag0i hxSi6Ni*pTT_*AN0p 0h*iiNpgIh__iAh0>pghiOpNzR*AN_pA0T*pihpi,O*6ihx_Z&_TipxhWx_OiRppAg*INTppT *xOOpReAggiIpT)06 ixpOkNggAgpc:A*0N NxYi*Ni(RpAhOx6x6Rphgi6Np*)6*pOiOOORN6*ihNOR*6i_phpN0N6*Oggg Th0N _UgTOpphjx*6_Rh6_g*%iTpi R6gR_6Ag00T*h6OTNARRgi_OAR0hgpz}A*0i pxui*xi90gTD^Ai0p )R*_p< 0O6gd Ap0Gp*RRgOn*TA0Rhix O=O***g QOA66h_po*Tipp*x66D AO62g*7iTppm *xiO*_4*ggg(pT-0*N*6*_ AOT6 xmTTA0i px4gT-O0H  hAAN0  Jh*ii_h*T6__iAp0^OR66_iNT**6i_pABhgNO*xgRq0TNp0h xNi*ix*_gi{xThD0gg}gTppF *RRf0A*0R N0xTT0_ ixpOj__T6 iSTTT0i pxM*_ANTOpAxlx60h Ah*iiNpvT6g{0Ap0.p*N6g A0T ph Rh0NL*A6yg OgR_6p_F8*igRh*_gOgN_RATgg;RTpp( *gh_OTx**giqpTb0* i p__g**NgNW^A*0iNx6 g_Ax0Tpp_gA*0p mh**6AT0 pO_iAp0mp*N0ipNWR*6ix_A#T*pihpi<O*Ri_p(6c*TipphHx*NNRp65_T;iThpe 6xiOpR/6g_OnpT00* RxpO,N*gi_iLkA_0i xxeNTNi6hgT_*A*0p hh*iiNp6T_T_iAO0.h hiipN:6*_O_pA T*p6hpOpO*6igN_sAATipOh)xgOi*h6xg*4gTp O *xiOp6r6Ngi}NTcpT ixOOu***_gpUhA*0g pxgi*Ni*_g+__Ai0N GhgiiNp*O6*_*Ap0?p*hOipRTNg6i_OAS0*pihpisR*pR6p_ B*T6ppx x*Oieg6y_TUiThpw *xiRpRh**ggvpTh0*h0xpOz*T*igR/cAg0i pxBN*Ri*pgx_*A_0p ih*iiRg*dgT_iAN0# 0hiNpNxR*6g_pAhT*h/hpNMN_Ri6N_/ATTi AhSO*6 Rp6hg*GgTp x *OiN_R!6TgiVNTtph ixpNhN**_gpnTA*0i pOqOhNi*Rg#c0Ai0_ kh*OgNp*i6*_NAp0Gp*iiNHN?*p6i_*Ac0ppihpO O*R_6p_xF*0:ppizb_OiRR6)_0qi0*pkx*%ROpRx**g_4pTp0*xiRAOqR0*igR&S000ixpx0i*N_*pgx_*TT0p tx_iiN**,6g_iAp0eh*hgipNiR*g^_pART*pih_ijN Ri6h_5C*Tihph6x*NARp6Og*AmTpp-xTxiO*Rt6pgi=6T3 *gRxpOiN*6WgpAiA* ihNx#OpNi**gGl_Ai phOh*O)Np*i6*o_Ap Gp6hii*N/*p6i_gAST*h hpi O**Y6p_T%*0i xhMi.Oi*06L_A,iTpp6 *xiOpRp**gNFppHpN ixpO=N**igRKSA*0p px{i*NN*pgA_*Ai0h Hh*iiNx*o6*_iTh0pp*hOipNOR*6i_p0r0_pih i^O6Ri6 _S;*0_pphPx*ONRp6Ag*{i0 ps *xiOiRI**giTp0T0* ixpOnN*6OgpwsA60i hx<O<Ni*pgJA*AR0p Th*iNNp**6*_iAh01pghiihN<R*6i_p_6T*pihpiTO*RO6p_) gTipphJx6OiRp6:g*;iTpp! *xiOpRy**gOYpT&0* i*hO^N**ig 95A*0i pxhi6Ni*pghh*Ai0  -x1iiN *C66_iAii_p*hiipNpR*6O_pAo ppihhieO*Ri6p_}B*A_pphAx*ONRp6ng*TiRxpI gxiO RooAgi5NO>0* NxpOiN**OgpdAA*0*R0x,i*Ni**gv_6AiphHNh*iNNpgO6*_iAppXRNhii NF_A6i_hA3p*6RhpiTO*RO6p_ 3*TgRphJxgOi*A6#g6MiT p5h>6xOpRG**_ IpTA0* ih6O:Ng*igpd(A*0ihp6gi*NO*pg _*AN0pxk__iiNh*n66_iTx0) T6iipNTR*gN_pAAT*pOhpip_RRi6p_YAgTip hIxg_AR 6Tg*^6Tpp# *iirTR4*6giAxTl0g iOpT0N**NgpwAA* g pxhTxNi*hgKA0Ai0  Mh*iiNiA_6*_iAppxp*hOipNpAR6i_pADpOpih iINgNN6p_T5*p0pphBx*Ri p6%gg(iThp{ gxiNhRN**gRepT*0* ixpNTRx*igie50*0i px3OgRg*pg _*ph0p ah*iiR0*96g_iAO0,pghiOprgR*6O_p0hT*pNhpNoT_Ri6h_sy6TihOhQiTyiRp6Tg*TNTppA *xOOpRpTRgimpT: g ix OVN**7gp=TA*0N pxUi*Ri0TgS_6Ai O Chgii*p 06*_NAp0Ap*iTipNhT*6i_hAI 0pih iKO6Ri6ip_/*Tippixx*OORp6{g 1iThpu *xiOpR86* hFpTA0*xTxpOTN**i-*}MAg0i pxeigNigpx0_*AR0p Ah*i6Np6mpN_iAh0V *hiixN86*hR_pA0T*pOhpONO**ipT_z&gTi ghwx_OiRpATg*bRTpp& *xiOpR^<ggi^iT306 ixpO?Rghggpz A*pA pxdi*Ni**gS(:Ai0h )hgiiNp*T6*_6Ap0dp*hOipRT*T6i_NAypgpihpilR** 6p_hC*Tgppx*x*NNR 6S_0jipgpw *xiNhR_**_s#pTA0* ixpNThh*ig6-Gph0i pxcOghT*pgN_*AO0p Qh*iiRh*AgT_iAg0PpghiOpNxR*66_ppTT*pghpifO6Ri6x_%AATiphh^x*O*Rp6pg*{NTppa *xiNgRd6Agi?pT80* ixpO N**ggp)AA*0i piTOONi*Rg#AAAi0p Ji*ARNp*i6*_OAp hp*xNR&NA* 6i_ A+T*pixhigO**T6p_it*TipphViNOiRN6#_hIiThp% *xOOpRx**gi{pT00*hNiAO3Rp*imh.rA*0ixpxRi*R1*pgi_*0p0phTxgiiN6*U66_iAp07 gxOipNNR*gO_pACT* NiAi(NxRi6 _U<*Ti hhgx*NpRpgAg*riTppG _xiO*Rs6igiJhTQp*h6xpOxN*_NgpHiA*pNh_xHOpNighg!_*Ai phIh*OBNp*i6*ApAppT ihii6Nqgh6i_pAy0g  hpiNO*gO6p_vz*0N ih9ixOiR_6)g*Pi0h , *ipOpRA**giZpT;p  ix*ObRi*igh/UT*pg pxxi*6R*pgi_*TN A nxpiiRi*76*_i0p*6p*xaipNiR*_p_pTT0ppih6iSNxRi6p_!Ag0RpphNx*N0Rp6mg*ki0ApZhpxiOgR{*ggiApTA0* _xpNgN*6Sgp#!TT0i Ox,O0Ni*hgU_*T*0p hh*iONp*u6*_iTN0^ 0hiipNqR*6i_pTiT* chpiAO*Ri6p^TA Tip6hdNROiRp6ug*T6Tppi *xNOpRT**giApTAp  ixpO>N_*iupFOA*pT pxAi**g*p_)__Ai06 {OTiiNg*ZG*ATAp0Op*O6ip*_R*Miy*AI0 pixNiHNxRi6p_6v*T_pphOx*ONRp69gg>iT*pY *xiOpR8**TN.pTO0* OxpO(N*6NAsoATh0ixxx4i*Ni6hg__*T00phxh*iiNp*og _iA60G xhiihNUR*gN_pANT*pihpi O**Ng0_DAxTihhhex*Oi6pgxg*A0TppR *OpOp*T6vgiAdTu06 ixpOLRg6OgpX6A*0_ pxZi*RN*6gLjNAi0  Uh*iiRh*O6*}xAp0xp*hiipN^6i6i__A%0Rpihhi)N**p6p_N%* NpphRx*NN*g6B_x<i0ipM *xiRp*p**_0wpTR0*xpxpNT6A*O_cc-Tx0i pxJOgRO*pg6_*T00p ^h*iiNi*Cgx_iTA0rpghiOpRhR*gT_pTgT* 0hpOTNKRi6__WTgTipph5O*R Rp6Rg*A0Tp * *iNN6Rr6igiB_TZ0* iihNAN*6 gp9AA*0i piTOxNi6Tgl^xAi0p jxgOONp*_6*_OAp0fp*hiO NI*x6iV0A=Tgpixpi*O**T6pT0>*00ppxTiNOiR_6-)xWiTppFx*i6OpRR**_0cpTT0*hN0OOrRi*i_0:KA*0ihhiii*R *pg__*Ai0phTiOiiRT*JgR_iAp09p*ipipNRR*gh_pATT* ihgiKNhRi_0_WAxTixp0Ax*NTRpq g*0pTpplxfxiO*R(6hgiJpTH0*NhxpOhN**igpzAA*0iN_x9OtNi*NgY_gAi0pNhh*i6Np*06*_iAp09 ihiiNN&Rg6i_pAlT*p6hpixO*Ri6p_ZJ*Ti hh8ipOiR 6Lg*mi0h R *iAOp* **giWp0Tp6 ixgO3*x*igpfQ0*   pxNi*RT*pgT_*TNgg PxxiiR0*26*_iThgNp*xpipN_R*6i_pTTghpixAi8NRRi6p_ed*i0pphNx*N Rp6Tg*AN 1pAhxxiO RJ**giAhTh0*hpxpR6N**igp#LTN0i *x4OiNi*hge_*A_0p Oh*iiNp*T6*yNAO0; hhiNhN;R*6iApA*T* ThpiNO*6p6pUTAiTip_hYNhOiRp6!_gAiTpp* *xOOpR<**_NaxT^pO ix O^N**i_hmiA*ph pxpi*Ni*pg!COAi0g zxNiiNh*?g*_RAp0Op*ONipNNR*6iZiA{0hpihii2O*Rigpp w*0AppOCx*NTRp6P_xeiTRpBh xiOhR^**_NkpTi0* *xpO?N**i__bkT 0i xxzi*Ni*p_N_*TT0p Hh*iiNp*fgh_iA_0<p6hiipN4*ggR_pA*T*  hpiZO*6ihx_4AOTip hZRAOi*hiOg*AhTp 6 *xiOpRHgigiS_T4pN ixhOVN**6gpL*A*0i pxpi*RN6OgMJOAi h Bh*ii*p*g6*8 Ap06p*ipipRT*T6ifTAW hpihpi(NgRR6p__F* *pphvx*NN6O6A_*Xipgp{ *xiNh* **_ObpTA0* ixpOnNg*i_AC3T60i hxdO*NR*pg*_*pN0p 6h*ONNg*lgO_i0h0up*hiNpN*R*g _pA6T*hphpOTNhRigT_^z6TipphBigNORp6_g*ANTpp: *iNOORt6*giY TU0* iihONN*6OgpBAA*0i px2ONNi6Agd76Ai0h 5x*OANp**6*TRAp06p*xNOONf*O6iARA,T*piipOiO** 6p_6Y*peppi&hAOi*A6D_O1ipipXh*xNOpR***,jGpT60*iixiOCRi*iAO:#pp0i piii*RT*pg*_*AN0phTxOiiN_*b_ _iAp0Hp*xRipNOR*g0_pATT*pixxiXNhRi6x_:1*Tippxxx*N0Rp6Ag*aiTp Th6xiNsRn_RgispTz0*h_xpORN**Ngp(TA*pN?gxvOiNi_0go_*Ai0pNRh*OTNp**6*_NAp0Sp0hii_ND*Q6i_pALT*0_hpi*O*RR6p_Pd*TixRhvipOi*>6>g6liTpOR *xgOpRi**gN-p0T_h ixROW6x*igpdFA*O0 px i*N_*pgT_*Ag x AxTiiNx*k66_iAO0Up* _ipN+R*6N_pA2T*piRRiAO*Ri6O_1j*Tipp xx*OiRp6pg*7iTpp> 0xiOpR3*6gi3pTf0*N_x O^N**ggp+}A*pi*TxXigNig gqaTAi px7h6igNp*T6*AOAp l6_hii*N&Rg6i3pAvT*0 hpihO**=6p_A5*TiihheiTOiRR6Vg*Jipp60 *x_OpR0**ggYpTh _ Ox*OZNg*ig nqA_0i p*xi6Ni*pg _*Ai0p Gh0iiNp*3gA_iAp0?p*R_i NeR*6g_pA)T*pi AiGNTRi6*_/?6TippNTx*OgRp6xg*9iTphwg_xiORRM*_giATTHpTxRx OiN**igpbAA*0R pxog0NO*pg+JAAi0p Ph*x_Np*f6*_6Ap0/p*hi6RNAR*6i_NA>T*pihph6O*Rg6p_i&*TOpphyRgOiRN6P_0HiTpp}x*ZROpRx**gRMpTN0* gOxOARp*igi-zA60i Ox!i*__* gS_*A60p fh*iiOR*Z6*_iAO0>p*hiip_xR66i_pAhT*pihpi?_0RO6p_?ApTipph4x*i_Rp6?g*(NTppJ *xiiARK6Tgic*Tw06 ixp6TN**ggpXxA*0i pOzA_Ni*Rg(__Ai0x UxTNRN *i6*_OAp0Ap*hRipN)A06O_pAn0ApihpiwO*N_6p_4t*T6pph)x*OiIR6Ag*aiTNpv *xiOpO6**ggKpTi0* OxpRe0_*igNjuA60ixOx}OTAi*pgh_*Ai0  Ah*iONp*p0R_iAp0<p*hOi Nb*b0x_pAKT*p*h iAO*RiAh_mATTipNh>x*Oi6ph0g*YgTpph *NgOp6L _gi4RTI06 iOOO%N*R*gpUhA*0_ pxTi*NigRgj_gAi0h nh*iiNpAT6*_iAp0Ap*hiipNTTT6i_pAQT*x5hpiAO*Ri6p_-o*TghxhAxgOiR 65g6riTOp} **_O RU**giupTV0* i*ROAN**ig WWA*0i p*xi6Ni*pgT_*Ai0p e*0iONp*D6__iAp0zp* _ipNtR*6i_pA{T* i6TiWO6Ri6O_DCgTipNi0x6ONRp6Tg*FOTpph *xigRRA**gi:pT+0* ixpgxN6*igpqAA*0i px>g0NO*pg#_gAi0p 1h*6_N *s6*_RAp0cp*hixRNXR*6i_pAjT*pihp6xO6Ri6p_p?*TippxGgNOiR 68g_{iThpshTORO RT**g_VpTA0*h<xpOu40*Ogp1UAg0i pxri*__* gM_*AR0p 8h*ii_R*A6*_iAp0,p*hiip_xR66i_pAAT*pihpi+O0Ri6p_-t*Tipph}x*g_R 6Dg*a*Tpp- *xigRRA**giDOT/0* ixpgxN6*igpWhA*0i pis_NNi* g!dpAi0h exTNRN *T6*eHAp0Ap*xAipN9A06O_pAHTgpihpimO*?_6 _}5*TRpphMx*Oi2R6Ag*PiT p. *xiOplx*6giHpTC0* ixpOqN0*igp/4A*0i px2i*__* g._*A60p wh*ii_R*A6*_iAN0ep*hiip_xR66i_pApT*pihpiw_0RO6p_IA0Tipph3i*.hRp6Ag*=*TppT *xgRxRA*ggi,NTf06 ixgOYN*A_g 1<A*0O pxZi*NiARgA_*Ai0h 4h*iiNpAx66_iAp00p*hiipN{A06O_pAYT*pihpicO*N_6p_Sd*Tipphvx*Oi8R6Ag*MiT*pe *xiOpex*6givpTx0* ixpOX80*Ogps.T 0i pxBi*__* gX_*A60p kh*ii_R*A6*_iAN0?p*hiOpcgR*6O_pAhT*pNhpihR_RO6h_2;*Tip hQi OiRpTxg6ZiTpp0 *xiOpRKT0gOYpT-0* ixpO>N*A_g %kA*0N px2i*NiARgA_*Ai0  Hh*iiNpRx6*_iAp0ap*hiipNtA06O_pAC0ypihpi+O*y_6 _+X*T_pph-x*OiWR6Ag*;iTOp: *xiOp9x*6ginpTh0* ixpN=AN*ig J1Ag0i hxDOT*R* gT_*A60p Ah*O Np*/00_OAp0+pghiipNoR*T__ AfT*pRhpi3O*RiTR_A{*Tipph3x*OiRpTxg6!iTppA *xiOpR7*0gi)pTL0* ixpOtN*A_g >#A*0* pxwi*NiARgA_*Ai0O (h*iiNpAx66_iAp0ip*hiipNaA06O_pA>0hpihpiCO*^_6 _<W*00pphIx*Oi5R6Ag*Ii0Fp1 *xiOpWx*6giLpTx0* ixpOqS0*Ogps#TT0i pxtO*Ah*pgA_*TA0p Th*ig*x*A6g_iAx0Wp6hii6NjR*T__ AaT*pNhpi4O*RiTR_Ae*Tipxh+x*OiRpTxg6riTpp3 *xiOpR9T0gO<pTwpO ixpOBN*A_g L8A*0O px=i*NiRRgf_*Ai0p 7h*iiNpAx66_iAp0pp*hiipN<A06O_pA{0ApihpijO*V_6 _vj*Tgpphrx*NiTT6&g6WiTRp{ gxiON60*6gNFpTp0* OxpO*N**i0RuAA*0ihAx.i*Ni*p0x_6Ai0p Th*iiNp*o00_OAp0yp_hiipNfR*T__ A^T*pihpiUO*RiTR_A}*Tip hPx*OiRp*xg*fiTpp% *xiOpR{T0gOGpT#pa ixpOHN*A_g >/A*06 px7i*NiARgA_*Ai0R #h*iiNpAx66_iAp0gp*hiipNDA06O_pAo0Rpihpi4O*V_6 _QZ*TgpphLx*NiTT65g6;iT pe gxiOp6x**gOkpTT0* ixpOM_g*igp-FA60i px(i6Re*pg?_*AN0x <h*iiATT  0_NA 0mp*hi66NT*h6i_pA+h_NO6T_h_6TRTx Oihi6pphZx*OiRp6:g*&iTppThAxiOpR&TAT*h6i6hg ixpOrN**igp;B Nxi hi0i*Ni*pTA giRN0R*gA_*%O40pRhhiiO RN6*6x?O0h06_hA*T*pihp6 g lp06h0i:xpN 6OgRv6Ti6:g*;iTppg *xiOpR:xggi{pTH0* ixpO+Rg6ggpXAA*06 pxoi**i*xgn_6Ai0  }h6iiRh6*6*_NAp0pp*hiipRT6T6i_xAz02pihpi5Ng*p6p_p2*T*pph;x*Oi*067_AriTpp= *xiRpT **g6:pT 0*hnxpRsRO*igOfZTA0i RxWN*RT*pg _*A60p Th*NiRh*kgA_iAO0P ThiipNiR*6O_pA T*pNhpOQRARi6p_.^_Tip h2x*NxRp6fg*#OTppj *xiR0Ra**gi}hTp0* ixp6hAR0h iFT0p0i px)60k60i0rhgixNpR 6g_*A6t0pp OiTOxRA**6x+OT0ph  x*TgpghpiJO*l8p0 *xWi6RhhTx_OiRp6% Nh6ORp8 *xiOpR,**giB*hB0gh}xpO}N*A*pOxiOjx*R gT_xNN*RgF_*AiiNR *__*A00T5g_NAO0Mp*hi6OgpT p ThAT0cpihpiJXNA6p*hp4gT*pphax*ghA 06 ABN0xpI *xi6 AT0_ xxvO RDR6Rx__AN0*pOhgOQiRR6gN_ANi*pg^_*Ai0p ^h*iiNh*h6*_iApieN66NgOng0l6i_pA#T*pihpiB*i_i6h_p/*TippN*g ZRTi6T_p%iTpp4N*gxKxAOp; Ax0ig0g 6xpOIN*App hTiANp hxxi*Ni*p00hAxRNiRO6R_hNp*m6*_iAp0Up*NjppN4R*6i_pAeT*pi pR_O*Ri6p_nX*TippONR*ONR_6Bg*jih NgR_gto0TTA* xh6igRd NxiOSN**iTOhgOAN  px9i*Ni*pg=_*p_xp TxTiiNp*7040gihOARO*6ipN-R*6i_pAPT*xiNpiTN2Ri6p_2 _OARg* xgNhRp6cg*p_O0Rp*p6O(Af00A  h6iTNR*p6iOTRi*igpW,xAiANy6O__A*AYpAx ixNO*ph*iiNp*.6*_iAppii*hiipNdR*6i_pAC p)ih iJO*Ri6g_eZ*Tipph-x*OiRp6Qg*_ih0pThAxiOpRQTAT*h6i6hg NiuOyN**i0OpOhiNA*xgp6i%O06p_xAi*0h hh*iiNp5ipRhpxiO RghNi NUR*6ip6A,T*pihpirO*RiA00.f*TipphGx*OiRp6,g*HNTip? *xigxAOphp6th000* ixp6A2g0R 0h*OAN*ROR0_RAh0ip hNi*ixROghg6Nh*06*_iApOgRA6_ipN:R*6iAAAYT*pihp0TO*Ri6p_4X*TippxTixOiR 6:ggSiTpptx*x_OpRA**gOupTN0*hNiAOyNg*ig !:A*0ihhiAi*NR*pgx_*Ai0phTihiiNi*Lg0_iAp0np*h6ipN R*6i_pA^T*hi_xiUNARi6O_IA:Tihp_0x*O6Rp6 g*XRTphZg_xiOORC6Agis6Tl *gRxpO N**6gp, A* i RxAOANi*Og}=TAi0pNRh*iONp* 6*_NApp9RNhiipNP*p6i_ ABT*TOhpiZO*Ri6p_In*pi 6hGx*OiRp6I_/Gi0h * *xOOpRT**giBppFp6 ix OoN6*iggW(Tg0O pxTi*NO*pg3_*TNpR ;h_iiNR*F6*_iThpTp*h*ipNxR*6i_pAapxpihOiPO*Ri6p_YT*p%pph x*O6Rp6pg*TiTNpyhAxiOOR(*_giTpR00* 6xpO N*6AgpT8N_0i Ox;OANi*Og#_*x00p Ah*i6Np*T6*8iiT0Kp*hii*N?R66i_phTT*pihpiAO*Ri6p_!x_TipphPO*TRRp6Tg*tOTppN *xgT_R&*ggi}iTq06 ixpOPRGTxgpMzA*0* pxAi*N*T0gn_*Ai0O 3h6iiRhxN6*_NAppTp*hiipRFTN6i_ At0hpihhi%O*xO6p_T{*Tipph+x*OiR_6yg_/iT pS *xiOp****g*spTT0* ixpNTRT*igOXZ0 0i pxvi*N**pgp_*AN0p Th*iiNg*ngA_iAp0zpghiOhR6R*6g_pAiT*pihpNd0_Ri6N_-ATTipihJigNgRp6xg*A*TppP *iNNORI6pgiAIT,0* iihNxN*6Agp8*A*0i piTNhNi*gg)AAAi0p yh*iRNp*h6*nTAp0Tp*xi_TNQ*A6iG_AB0Tpihp*TO*Rg6p_0K*Tippxm6AOiRO6}_O:iTNp9 *i OpR0**g6mpTT0* iitO2R3*ig yoA*0i pipi*N6*pgp_*Ai0p Mx*iiNN*f66_iAp0#p*h6ipNxR*6N_pAnT* Nxpi8NpRig _-/*Tihp_0x*NARp6Ag*ATTp TA xiOgRn6NgiJpT(0* 6xpOxN*6TgpZTA*0ihNx3OpNi*pgu__Aiphhhh*OANp*i6*_iAp -pghii6N#* 6i_iA70g ThpiNO***6p_Pz*0N 6hGixOi606Pg*zi0hh  6ipOpR***giZp0TpN iiAO9*h*igp8{A*pR pxOi*R *pgT_*Tip0 %xpiiR_*Cg _iThppp*xAipNiR*6i_p0j0ipih6i:N Ri6i_eAg00pphNx*NpRp6fg*AN0 p(hxxiNcRj**giAhT_0*hpxpO*N**igpATT 0ihAx%OANi*pgu_*TN0p Oh*O Np*T6*5iT00B phiOpN^* 6izhT T* AhpOxO*Ri6pADT2Tip6h3i OiR 6}#*ORTppO *iAOp****_ixbTVpp ix OqR *igpy6A*0g pxii*NN*p_TAxAi0R axTiiNp*V6*VOAp0 p*h_ipNTR*6iUOAM0Tpihpi{O*Ri6p7Or*T_pphAx*OiRp6/_xLiT*ps gxiOpRu6gigKpTO0*xAxpOmN**igibJTp0i hx/igNi*pg6_*TA0p Bh*i*Np6T6g_iAg0< 0hiipN76*6*_pANT* ThpipO**Ng0_MAxTi 2h(x*Oi*h6xg*ApTpp* *xiOpRD0ggilgT{pi ixhOsR*6RgpDOA*pg pxNi*RN*NglthAi0* Lh*ii*p*p6*9TAp0Np*h*ipRT606i__AKp5pihpiXNg*h6p_*I*0ppphDx*NNRx6c_OCi0ipb *xiNh* *6_hMp000* ixpO3N_*iggktTN0i hxQO*N_*pgO_*000p Nh*ONNx*wgh_iA*05p*hiNpNgR*gT_pANT*p*hpOTRARi6__DAiTipphXigO*Rp6*g*ApTppz *iNpgR86OgiAMT!0* iihpNN*6hgpAiA*0i px4gxNi*ggPsNAi0h =x*_hNp*O6*7iAp0Np*OihpNl* 6i_gA/T_pihpipO*R_6p_OG*TNpphIx_OiR*6>g*SiTpp; *xOOpRO**gNupTV0*hNiAOURh*i_0+#A*0ihhiOi*R0*pg*_*Ai0phTi<iiRY*2_N_iAp0Hp*x*ipNOR*gp_pAvT*piRTiCNpRi6p_%X6Tippxpx*OgRp6ig*riTpp8NNxiOiR(**giM T.0*R0xpOTN***gp#TA*0i ixAi_Ni*Og8_*Ai phih*i*Np*T6*_RAp / ThiiiNb*U6iAAAHp* ThpipO*R*6p_Tz*0N ThZiTOiR_6Kg*qiTppg *x*OpRh**gN=pTh _ OxOO/N**ig oqA60i phxi*Ni*pgT_*Ai0p Z tiiNx*ogA_iA 0Yp*xhipN0R*6i_pADT* Nx6i=N^Ri66_nX*Tipphgx*O6Rp6hg*ViTphrxixiONRV*ggi=xTJ0*hhxpO N**NgpuhA*0* 6x>i*Ni00gw_6Ai0ppph*iRNp*x6*;}Ap0h 0hiiiNKTN6i_ A2Tgpihi6_O*Ri6p gK*TOpphyN0OiRx6)gguiTpp# **NOpRQ**gOfpTm0* NOaOtN**igh+ A*0i p*p_ A*0ep _gTh0p Jh**_A00ppp OiAi0RA6 g6wTTRpp iAT0xpihpiUgAAOpx OxNi_Ox6p_ .pAO6T_XoiTpp-NN6OuAA *gg*PpTW0**h6OqiTu*NgR&?A*0iNN6O__AAThp*hAAi0p /h*iiNp*mN*0xAh00p*hiipgOA_px_hA6T*pihp*OASA6pA00xROhRi*Ag :hAOpTgg=RTpp< **ABx_A**gi8pT80* ixpO:N**RgpbTT 0i pxkgBA_TOp hNhANTRh6RiNNi*Q6*_i OOg*A6 ihNhR*6i_p 0OgN6* _pYARN6x_;s*TiO06 _PONRO6mg*Kix R * ghdiRT*_ginpT!NNR6gROTR**igp,Px%O6**gpg1ANT pgh_iiO *T6A_hsx0O6g_*Ap0Kp*Ri_75A0 6NS AmT*piN6g6_6A_0OppxgiORT60g*_OTh0  NhRO6pThhxiOpRtTZp6x*Opxg*6gi-pAR0hgx/AAgp0 pxzi*g_TO p0_iaO6R*6)_NYOTg6gWxAp03p*N6g A0T ph R pO RN*Og0AITAp0 gHgT*pphnx*6gT00ghKWNT_p^ *xi6RA_pP qh i6xg*p6 _0Ax*ixgOOR 6Ag6ZOh gx*pg/_*AiN  jh*iiRhp06*_iAp0 p*hiipNm* 6i_ AnT*pihpiVR*6A6p_AX*TOppxix*Oi*g6Ig67iThp> gxiOi****gibp p0* OxpRG***OgO2>T%0i gx)OghT*pgx_*Tg0p Ph*ii__*/gA_iAR0DpghiiNAyR*66_pART*pOhpiAO*R*00_:r*Tip_hFx6OiRiT_g*5iTpxp *xOOp6= _gicOTkpm ix O9RgNhgplhA*ph pxGi**i*RgG2TAi0N .ihii*p6N6*_gAp0hp*hNipRQ*x6i_OA(phpihNiwO**A6p_ +*TOpphox*Ri*i6t_AeiTOp-hRxiRpip**g_kpTp0*h#xpNTR0*ig*7}TO0i px2N*Rx*pgi_*TG0phTh*ONR_*&g _iAR0Hp*hiOhNpR*gT_pAgT*pihpN2NRRi6g_XAhTipxheO*NsRp6Ng*ATTp A *iNpiRe6xgiATTU0* iOpN0N*60gpoRA* A pOyOiNi*_gG3xAipp Qh*iNNp*i6*o0Ap0Tp*hiO6Nb* 6i_pA)T6piOpiiO**A6pc /*pppphJiROiRO65_ IiThp.x*xROpR **g6Bp0p0* iiOO!RA*ighGmA60i piOi*N6*pgA_*Ai0px3i*iONO*qgA_iT00>h*0*ipNxR*6*_pAAT* NhNiVNpRigA_;:*TihpxRx*NzRp6ig*ANTp ThixiO6RV60giZpTJpgh6xpONN*6hgpo<A* ihpxmOhNi*ggM__Ai p Ah*OTNp*N6*&OAppTiRhii_N,*N6i_pAFp* ghpiRO**06p.Oy*pi RhyixOiR_6^_*<iTpp0 *iUOpRR**gNmpTH A ix6OjN**ig a,p*p* pxOi*RR*p_*_*Ai0* 8xAiiN6*)6g_i0pp}p*h6ipN R*g*_pAf0TpihOi5OgRi6 _^ATT_pphfx*O6Rp6Ag*3NTpppRRxiOpRH6AgiJ TupgpNxpOFN**6gpM^A*0iOhxDi6Ni*hg)_*Ai pxSh6iONp*A6*AmAp0nxOhOi N=Rg6i_hAj0LNxhpivO*_i6p_A^*pi6xhKiAOiRi6v_C9ipN_0 *x6Opg_**gOXpTO0* *60OPN**iT0q?A60i i*_i*Ni*pTX_*AO0pib06iiNi*FgT_iT/0V Th_ipN<R*A0_pAAT*pNhpip_RRi6p_-pxTip hVx*6NRp6mg*^OTppm *OiRpRA**gi3pT!pR ixp6TN**NgpS0A*0i pOIh;Ni*hga_gAi0* Xxgi_Np*06*& Ap0wp*iiOgN-R_6i_xAI0gpixhO0O*R*6p_xB*TippxTOTOiRO6G_NUiTppqx*i OpR **g6^pT00*xixiOBRA*igO7tT60ihhTpi*Ng*pgg_*Ai0pxnixiiNN*4gT_iT60Qh*xIipNhR*6g_pT.T*pix*iaO_Ri6N_r&gTipph6x*O*Rp6rg*VOTpxJh6xiOiR!gAgiQ_TL0*h*xpO9N***gpaTA* ihNx1i*Ni*pg>A{Ai0p Nh*iiNp*T6*_OAp0C  hiipN%R66i_pA1p*hih i?O*Ri6p__:*Tiihh-xgOiRx6eg*BippAp *xNOpRT**gO2p0Tph ixxOzRO*igpJy0*0* px0i*NR*p_T_*TNpN rxFiiNR*l6*_iTh0Ap*h6ipNgR*6i_p0cpcpihOiSNARi6x_kT*TNpph x*O6RpgAg*AN6ipChTxiNTRr**giTpT 0* gxpOhN*gAgpT)TA0i NxJOTNi6pgU_*AO0p 0h*igNp*T6*_iTA09 FhiipNwR66iTpANT*p*hpO0O**06p_5AxTipphriYOiRh6wq*ANTpp( *xiOp*p**giAOT/0* ixhOmN6*igpAAA*0i px0i*Ni*pmni_Ai0p zh*iiN *YgggNAp0Ap*xhipNZR*_iixA&T6pih iZRhRi_pi0w*TOpphAx*R0RpgY NSiTppIxhxiO Rb**TNepTt0* *xpOrN*_iR ^?A*0i Nx+N0Ni*p0T_*Ai0p Ah*iiNp*j6*_iAp0?p*hiipN)R66i_pAoT*ONhpiKO*RO6p_Db*TigOhAx*OiRNhRg*!OTpp0 *xOOpR8**g*h0TK0* ixxOGN6*igi _A*0i px i*NO*pgyTpAi0h Qh*iiNp*v6*g_Ap0Ap*hNipNvR*_iixArTgpih i)**Ri6Nh.2*TNpphOx*OORp6Ag*r*i0pZ *xiO6R-*6giAh6N0* NxpRTN**igpAKiN0i  xBR*Ni*hg7A*NR0p Th*iONp_R6*_gip0-pghiOTNZR66i_ Au0;Nxhpi}O**h6p_A1*0N_ghMxgOi*p6Qg*ci0pNg *xOOpgR**gNHpp8*_ ixhOFN6*iA0t}TTNi pxTi*RR*pgA_*AO0p p*RiiNp*!g__iA 05p*hAipNTR*6i_pA#T* i6TiMO6Ri90_GkgTippTAx*ONRp6tg*qiTpp2 _xiOxR:*6gicpTu0*h!xpOpN**NgpJwA*pN xxnOANi6xgt_*Ai0p Nh*i*Np*T6*_NAp0w  hiiONeR*6i_hAC0g hhpihO*:i6p_t!*pigxhoiTOiRN6L00-i0hp6 *x_Op6h**gi+p0Tpp ix*O7***igp/jTg F pxOi**i*pgX_*TNpi 7xhii6g*d6*_iApp0p*hgipNNR*6N_pT8ONpihOi?gTRi6N_rQ*hNpphhx*ORRp6qg*AixOp)hAxiRgRB6TgiPpT*0* RxpO N**Ngpy2T60i ixLi6Ni*pg&_*Th0p  h*i*Np*:6*_iT*0} Thii NoR*6i_pTpT*p_hpiTO*Ri6peTAATip*h#O0OiRp6W3*ORTppO *xOOpgR**gi _Tup0 ix6O+Ng*igpTiA*p{ pxri*N6*p_TNhAi06 URiiiNp*F_*M*Ap0Op*xAipgxR*gN_RAP0hpiipi9O*Righ_6s*00ppN x*OiRp6^_AbiT6pMhxxiOhRq6*_QYpTi0*NAxpOON*6N_NmlT 0iNpx+i*Nigpi0_*TA0p Oh**_Np6Tgx_iAg02h*hiipNa*ggT_pART*i*hpi:O**Ngi_UAiTihph:x*Oi*h6gg*A Tpip *xiOpR?60giM6T!pO ixhO{R**gg }iA*xg pxOi*RN6_g=C Aiip ch*ii*p6e6*SAAp0Op*N_ipRT*p6i_gA}p*pihpiKNg*A6p_Ru*h pphHx*NNR66B_i)ihOpm *xiNhRg**_ zppF0* ixpOtYx*ig6Z/TO0i hxVO*Ah*pgi_*TJ0p Oh*Rix *Qgp_i0 0(i hiRpxAR*g#_ppeT*x_hpiQ_xRi6N_MApTiphhliggxRp6xg*pOTppd *xiNRR#6AgiWRT+0g ixpNTN**ggp-pA*0i px(NONi*RgS_6Ai0p kh*NTNp*i6*_NAp0Cp*xNOTNb* 6il_A7T*piipiTO**T6p_Ak* ippxT0 OiR_6#0RliTpp= *i0OpRi**_0HpTT0* ix O>R *igpS;TA0ihhiOi*RT*p0b_*Ai0pxfiKiiNg*7gh_i R0# gi0ipNRR*_g_pA4T* NxziYNiRi6N_3^*Ti hi x6N Rp_hg*uiTp T 6xiNTR!g*gi>pTZ0* gxpONN*6hgplTA*pihTxsO Ni9Ng>:hAiphhTh*OTNpAD6*_iAp ?hOhiigNa*h6i0RAK0g phpiRO*6i6p_5n*0N  h!iiOi**6mg*Xi0hp6 *i Op6t**gi,p0T h iiTOc***igpl/A* A pxNi*Rh*pgT_*Ti ? -x iiN**1gh_iTh0Tp*xTipN6R*6i_p0v0*pihgicNhRi-i_/T*RRpphNx*NTRp6_g*AiOTpUh xi*iRe6hgi0p_A0*hAxp* N*oAgp0#_O0i 6xtR*NigxgL_*Tg0p xh*OANp*T6*rNAx0Z phi* NVR*6i_pTTT*pghpiiO*Ri6p_<AhTipih^x*OiR 6Zg*h0TppT *x*OpRT**giphT<0_ ixOO1N**ijpO0A*0* pxAi*g0*pg4TAAi0x ^hgiiNh*YBTNRAp00p*66ipNAR*_A_pApiRpihpirAARi6 _XT*RRpph0x*ONRpMxg*fihhp5hnxiOOR:**giTpR00* 6xpOAN*>0gpy%pA0i ixoigNi*hg<^*ih0p 0h*O_Np*p6*_i h04p_hiiiNrR*6i_pRTT*p*hpiqO*Ri6p_GARTipOh9x6OiRp6Zg*ARTpph *xNOpR{**_NAgT{p0 ixxOHN**i_h&NA*p, pOOi*Ni*plo?AAi0* dxpii6A*/ggYxAp0Op*iTipN/R*gNNgAk0hpixgi#O*RighNNV*00ppxNx*OiRp6BpxeiT*p+hxxiOhR}6gNAepTO0*x xpOLN**i_NyDTT0i 6x:igNi*p_N_*A_0p -h*i6Np6Tg__iA*0WO*hiipN16*gp_pAiT* ;hp*xO**NgR_FA TihNh+x*Oi*h6xg*ATTpxg *xiOp*T_AgO{_TBhT ixpO<Rg6Tgpq*A*xG px/i*Ni*NgS-pAip! 3hgiiRp*h6*__Apxhp*x=ipRT6 6i_*AVx*pihpiVR*RR6p_iq*0!ppNxx*NN*06,_ ,ippp2 *xiNhph**_T7p *0* ixpNTR6*ig_c10*0i pxvOgR6*pg*_*pO0p Bh*iiRO*,gp_iTq0BpghiOpNTR*6__pAiT* dhpiGRiRi6*_>ATTipphKi*NiRp6xg*0TTppi *NiORRo60gi0hTl i iNpxwN**_gp0KA*hh px#i_Ni*Og+-0Ai0h wh*OhNp*h6*_OAp0zp*hiOiN}*06i_hA7T*pixhi6O**d6p0T2*TippxTixOiR66=s*)iTppKhgiUOpRN**_AlpT{0* i*_OUR0*igg;#Ag0i poAi*R+*pgT_*Ai0phTxAiiN6*Lgg_iAp0; gxNipNNR*:R_pA;T* Ni}iPNxRiAA_3<*Ti hhix*NpRpu6g*/iTp ThhxiNARS__giKpTe0*hhxpOiN*6 gpu:A*0iNTx9OTNi*pg)_6Ai0pNRh*i*Np*h6*_NAppTpAhiiONV6N6i_pAuT*h hpi0O*R66p_Tf*Tip6h?izOiRR6=g*Cippph *x6OpR0**_Ofppr   ixOO(RA*igOz3Tgpx pxxi*6g*pg5_*Aiph lxAiiNR*a6g_iAN 0p6hgipNAR*6O_pAAT*pi Ri>O*Ri6x_%n*Tippp6x*O*Rp6hg*+OTpp}OgxiOiRw6pgiYpTvpT_0xpOpN*iigp3AA*0i pxpgRNi*pgvR*Ai0  (h*iANp*p6*_iAp03p*hiAgNM*d6i_*AvT*piipA0O*R*6p_Tj* _ppOjp6OiRi6&Z6sipppMx*<ROpRp**gN3pp00*iip OrRw*iAOa?0*0ixpM0i*N**pgT_*0R0phT giiNO*BgO_iAp0Mh*_RipN R*66_pppT*hi_xi{NARi6O_wAHTi p*gx*O*Rpfpg*S6TpxvT6xiOxR/_ggiTiTu0*ONxpOpN**_gpoMA* igxxuOANi*hg)T0Ai0Nx0h6igNp*06*_OAp0 p*hi6RNAR*6i_xAlT*pihp6xO6Ri6p_Oc*TipphK60OORp6(_T,iTpp: *h_OpR&**gNJpT70* ihROlN**igxQ<A*0i p 6i*N**pgh_*AO0p hi_iONi*Z6*_iA 0: *hiip_xR66i_pApT*pihpi!_0RO6p_oS*TipphHx*g_R 6Qg*+OTppV *xigRRA**gizhTU0* ixpgxN6*igpVxA*0i pxUg0NO*pgmB Ai0p ;h*6_N *U6*5TAp0Gp*hi6RNAR*6i__A<T*pihp6xO6Ri6p_*8*Tipph-60OORp6M_OBiTppX **_O Ra**_hvpT!0* i*ROAN**i_0>eA*0i p*xi6Ni*p_Z_*Ai0p C*0iONp*?g6_iAp0Zp*R_i NXR*gN_pAXT*piRRiAO*Rigx_XG*Tippiix*O6Rp6Fg*CiTpphx_xOONRf*ggiY Tep0 ixpgxN6*igp#}A*0i px-g0NO*pgz_6Ai0p Jh*6_N *d6*_NAp0&p*hixRN7R*6i_xA2T*pihp6xO6Ri6p_pV*TipphI60OORp6=_0+iTppf *h_OpR3**g*FpTd0*higTOyRA*iT_B)TT0ihhhTi*Ng*pK _*Ai0p ?h0iiNR*(g._iAp0=p* _ipNiR*6R_pA+T*piOAiAN0Ri6h_4ApTipiR_x*OiRpRNg*cOTpp{ UxiOOR#6 giCgTZpT _xpOhN*RAgpMAA*0N pxpgRNi*pg&g Ai0  /i*ARNp*h6*_OAp _p*hg_pN&*T6igpA:T6pih i)NWAx6p_q7*AipphAx*O*A06Dg*:i*xpA 6xiNhNT**ggopp 0* ixpO&N0*igR}cTA0i pxDi*N;*pgi_*Tf0p Uh*i*F0*Z6*_iZN0yp6hiih_OR6g0_pApT*pihpi5O#Ri6O_PA Tip_h%iTO_Rp6hg*_*TppA *xNOpRpTRgilpTW0t ix OJ**gig +hA*0R pxTi*RNT0gA)pAip  uh*iiNp6i6*_gAp0ip*hNip*5*A6i_NAI0Tpii0ioO*6A6p_h/*TNpphAx*RiRg6s_TviTxpk gxiNhRp**_?Yp _0* ixpO9*0*igN)!Tp0i hx4N**i* gh_*Ag0ph_h*iiA *}gT_iAh0Bp6hiiphAR*6g_pA+T*pihpi{NTRi6R_tW6Tipph7x*R1Rp6ig*7NTppD *iNNTR^6 giANT}0* ixpOTN*6Igp4TA*0N pxyNANi*6gB_*Ai0h {xgigNp*N6*piAp05p*iiTxNu*h6i_gAnx0pixhiTO**06pAhG*TippxTi6Oi*(6-v*yiTpp:hgx_OpR6**9gapT#0*hNi0OrRN*i7porA*0i piOi*RT*pgg_*AN0phW6NiiN6*{TT_iAg0H g NipNNR*Vp_pAdT* iROicN Ri_g_aAhTipph6x*O_Rp6Og*+NTppuhAxiO*R:6{giIpT>0* gxpOON***gp)sA*0ih_x5OhNi* g3_*Ai0phih*O0Np*T6*_iAppT phiOGN3606i_pAZ0gzAhpi6O*_i6p_I5*Ti  h(ixOi*A6bggMiTppi *ipOpRu**gRap0T A iiAO^_**igp8>0*0* px6i*R *pTx_*TNpT LxNii*p*L6*_iThphp*xxipgpR*6i_pTT ApOxpi?R*Ri6p_4Ag0ippxAx*6*Rp6rg*ZiThp1hOxiN RF*ggiApTN0*hpxp6hN*6 gpATT*0ihAxM6*Ni*pg}A*0p0p 6h*O NpZx6*vNTN0) NhiNpN:R*6i{h*NT* xhpR0O*Ri6pjTO0Ti pheO*OiRp6/_gTTTp A *NROpRj**giAiT}pO ii OFNg*i_p4hA*pp pxii*R *pAD)xAip, )i6ii66*!6*dRAp0Np*xpipNTR*gN_xAF0xpiN ieO*Ri6p_i1*0ApphRx*ONRp62_*9iTgp5hbxiOpR,**_AupTR0* OxpO&N**igheQTi0i hx2i*Ni6hg__*T 0phRh*iiNp6T:i_OTT0zOhhiipN^*g6*_pA_T*OxhpiMO*Ri6h_qAiTi 0hoxgOiRpg g*A Tpp= *xROp*TgTgiATTPi* ixpOW**6hgp4gA*ph pRxi*RN6ggKURAi N uh*iiRh6A6*aiAp ip*hiipRT*_6iU A>p*pihpi}Ng6 6p8Ta*xxpph#x*Oi6?61_NJi0hp} gxiNpR_**_ Sphh0*hhxpNT*h*i_Tk%h*0i pxFN*R *pgg_*Th0pOxh*ONO>*5gR_i0p0vp*hiOhR*R*gi_pA*T*pihpOTO_Rig _XT*Tipph=igNTRpgTg*p*Tpp= *xiNhRD6NgiAhTM0g iipN6N*6 gp-iA*ph pNwOTNi6Ag)0AAih6 Dh*g0Np*R6*{ Ap0Tp*xN0gN&*i6i0 AeT*pihp6RO**T6p_*8*TNpphURgOiR_6J_{!iTpp> *RNOpR***gO4pTa0* iRhOMRO*igh(KA*0ihhO*i6Rh*p_x_*Ai0phTh6iiR0*s_A_iAp0:p*h_ipN6R*gx_pATT*pixii&NNRi6p_-7gTi hxAx*NxRpT-g*YiTphkhFxiN0Rv6RgipRTBpghhxpN}N*gigpZvA*pNh x!O6Ni* g+_*Aiph _h*ONNpg56*_iAppThOhiOxN^R66i_pAkT* ihpi_O**R6p_T!*0ipNh2iNOi_N6>_R-i0hp  *ixOpWm**gi7ppcp_ ii0O3RR*iTRV}TgO*  i!i**i*pgV_*TN0R )x6iiNg*s6*_iTh0Ap*xNip*JR*6i_pTT0ipixxiZR>Ri6p_;5*p pph_x*NRRp6Tg*Ai0gp:hNxiO*Re6RgiZp0u0*hpxpOgN**NgpAT6h0ihAx%*6Ni*pgm_*TF0p Rh*O Np*T6*_iAi0# ihiiiNKR*6i_pA_T*  hpiAO*Ri6p_1TOTi ThrxgOiRp6:_gFOTpp_ *O0OpRW**_N07TAp* iiTOPN**i_hb0A*pO pR_i*Ni*pgqzxAipT Wx6iiNh*;6*_NAp0_p*hiipN0R*gN_xAL0*piRpimO*Ri_p_OG*0ippxMx*6_RpgTg_Xi0 p2iTxiOpR46g_Osp0T0*OhxpO(N*6N_ 8)T_0ixpx5i*Ni6h_N_*T*0pO_h*iiNp*B_T_iTp0jhFhiihNb**gR_pA_T*ighpO?O**Ngg_7A*TiOph3x*Oi6pg6g*AiTp ( *R_Op*T6igiA Tr * ixpO(Rgg3gpATA*xp pxLi*RN* g{e_Ai p oh*iiRh*h6*^*Apx6p*hiipN/*x6iepAPpFpihhiJN**p6p__5*0Yppx!x*NN*_64_*Pi0Apq *xiRpp0**_inp0J0*i*xpRD0_*i_pM#T*0iNTxaO*Ap*pg__*p*0ph>h*ii*A*#gO_iT00rpghiOhN6R*gh_p AT*pihpiPN Rigq_VANTiphh3x*N6Rp66g*d*TppZ *xiNRR)6NgiB Tb0* ixpNTN*6xgp5TA*0i piTphNi6pg(AxAi0p PxgRpN 6A6*p&Ap0sp*xNixNP*g6i0xAVT*pihpO*O**x6pFTk*TNpphLi_Oi*p6Sg*(iTip=hgx*Op*A**0iapTo0*xiixO,R6*i_ Xfh00ihhiii*RN*pGh_*Ai0phTx6iiRx*9qx_iAp0y giTipRpR*_i_pA:T* NxxilRARiT0_4l*Tipphgx*NORpg g*BNTp IxpxiNpRUATgiA Tfpgh0xpNAN*Aigp>lA* ihhx+O6Ni6 gcp0Aiph0*h*ONNpg;6*_iAppT VhiOxNZ_i6i_pAD0g _hpOpO*6i6p_o8*0N ph3OAOiR_6sg*7iTppi *iOOp* **gNnp0f c iipOCRp*i_ &Wp*p0 pi7i*N_*pCp_*piAA zx*ii6O*kA _iApp6p*xhipRFR*6N_pTT0Tpix0ij66Ri6p_-=*0Npph6x*NxRp6kg*^i0Tp5hpxiOpR(*6giypq60* gxpOiN**Ogp:Dp00i OxbigNi*pg4_*hN0p Ih*iONp*z6*_NAO0Jp*hiihNxR*6i_phhO RR*6gTaiA66x_A3gT_pph4x*g0AOpOT_xxiiN  gx*OpRI**T6xTO NO NxgO7N**i0hhOi0N/*i*0_pAATN p_*Ai0p qxiiiNp*G_* pAp0Ap*hiipN0R*gN.gABTgpihiiGO*Ri_p#O3*TNpphTx*ORRp_n__SiThpF gxiOOR:6TgOtpTA0*h0xpOAN**Ngp8pxR0i pxqOxNi* g)_* N0p Ah*iiNp*v6*_gN_0-p6hii_NeR66i_pAj0)NxhpiyO**06p_A8*Tiihh/x6OiR 6#g*si pAA *xOOpRA**gNrpTYig ixpO#N6*igp^SA6pf px%i*NN*ggP_*AixxRA6N_gY 00T_hAigO pgxRipN^R*AO hi0ORRp6O_pjA_Rp0 gisi6RT6p*_4ATg0 ggPOTpp> *6AOhR***girpx i Np66!0TcApp xOiRN6*ix2i*Ni*pgn_*AihpO-hgi6Np*n6*p6 iOOROONipNuR*6i_pA?T*pihpiTO_Ri6p_,xNi6RRhtx*OiRp6gg*{iTppulgxiOpRD**gi2pT%pghAxpOAN**ggp4bA* ihTxni6Ni* gWwpAiph _h*iNNp*x6*_iAppThihiixNX*06i_pA;0g ghpipO*R_6p_du*TiphhViAOiRp6Zg*bippR  *x6OpR **g*Hpp5 A ixOO/RA*ighCc0*pV px i*N6*pg0_*0i0R YxAiiNO*^gA_iAp0Ap*hOipN R*6N_pT&06pihpiLO6Ri6 _W%*0Npphlx*OORp6tg*&ipTpW *xiOhR **gibpx iH*AgA*TN**igpj=A*0i px!i*NN*igP_*AiixROghg6Np*j6*_iAp0V**66*pN8R*6i_pAUT**i* *3Og*A6p_8c*x*RR* gA?h_60g TxxTpRRxyTh6ROAphx*p0TTpx ixpOy_ATO xhOiNO_Nxgp+ ApTOgT__Ai0p )6Ng6AR*exhOAN6*Og {A066_Rg6g_pAbT*iR6hg _6T*0O_TA0Tipphl6T=ATx0OpgxpiOpThhxiOpRGTep6x*Opxg*xgO_gAj0Rgh;pA*0i pR _NA60AgTKAAi0p <R6_6Z6Tg y_NAi0.p*hi_R=AT p*_xAHT*pihpi#O*Ri6p0Op*TNp hXx*Oim*6T_%XiTpp5N*gp_ TO*_gO/hT00* ixp6Oq_0xghAGA*0i pR0_iAA0p 0p{x6NxR06A_hXiTApNh*ix0T RhiipNvbA0OhxxOONN_NigO5gA60xhpx OxRThax*OiRp6kg*p1Nxim gi_OpR3** NhhOiO6*Rgx_ T{0Api0NpRhxiRN5*06N_RATT* ehRiMhgO_Np*B6*hNxhNiN66R_xM 0YpA ipN RxxORRL60gN!RTAp  RxxOixgORRp6^g* xOORp gx6OpRY**0AxAiAN0R6xpOjN**igp7lA*AiO0x/i*Ni*p0 _*Ai0p /NgiiNp*J6*_iAp0% T;0ipNtR*7A_pAAT*pihpip_RRi6p_80 Tip hkx*6NRp6Cg*,OTpp< *OiRpRA**gi%pT{px ixp6TN**Ngp>TA*0i piTxhNi*xguVTAi0p Si*O&Np*06*_RAp0Op*xNiNN#*,6iATAPT*pixhi0O*R66p_g+*Tippi<i*OiRO6!_A5iT*ptx*O0OpR **g6HpT_0*hNihO5RT*i_Tb9A*0ixp6hi*Ng*pgh_*0S0pxHx_iiNN*wgT_i0F0kp*x6ipN0R*6g_pATT*pixpi%NURi6p_2l6Ti hxhx*O6Rp6Ag*,iTph/hOxiOOR/6AgiI6T^pghxxpOhN**Ngp^<A*pNAOxGO0Ni66gF_*AiphhLh*O5Np*T6*_iAppThihii6N=*I6i_pArT* *hpi O**A6p_Tj*0ipxhdi4OiRx6D_A4iTpOR *xiOpRp**gN>pp; * OxpOKN**i_i2}A*NO pxJi*NN*pgA_*Aixh ch*iiNx*b6*_i0p*0p*hiipNZR*gg_ppd_6pihpiVRORig__WAgThpphux*NiRp6Dg*AN0RpJ 6xiORR.**girp0O0* ixpOTN**OgpMj0 0i pxyigNi*pg:T*0w0p Sh*O_Np6A6*_iA*0,p*hiiiNHR*6iTpT0T*pihpi*O**66p_sA TipphjiAOiRp6qA*AgTppb *ipOp* **g*AOT}0* i* OfN6*igppTA*0i pxTi*Ni*pAyAiAi0p ri0iiRO*Q6*8OAp0lp*h6ipNWR*%i_hA<T*pix<ibN6Ri6pvps*Tipph0x*OiRp_f>A7iTpp- *xiNNRl_*_ <pTo0*x xpNNN**ih_9DA*0i  x&i*Nigp_x_*Ai0p nh*O0Np*5_&_iAh0bpghiipNH*gg0_pA0T*pghpiUO*6i6N_Hf_Tipxhoi Oi*hgxg*;*Tp g *xiOp*T6xgi+OT1pN ixpOU**gOgpj A*06 pxii**i*Rg%LAAi0O dxRiiRh6i6*_gAp0gp*hiip*L6 6i_NAb0Tpix*i%R**g6p_ha*Tgppx*x*Oi*h6(g_DiTNp) gxiOp*O**g*apT40* OxpNTOg*igOUYA60i px3N*0R*pg _*A60p Oh*ON g*tgT_iAh0ep*hiipgTR*6__pAhT*pihpN+T_Ri6R_BA0Ti AhmO*TRRp6xg*%_Tp 0 *OiORRA60gicRTspA iih6xN66-gp{TA*0i piTOTNi*6gsvgAi0p Ch*iRNp* 6*rAAp0Tp*xiO_Nb*J6i_xAj0ApihpigO*Ri6p_pW*TNppi(O*OORp67g*?i0ipZ *gOOpR?**gN?pTA0*hNhhO)N**i_pYFA*0ihhTNi*NO*pgN_*Ai0p Y66iiNp*,6g_iA 04p*NNipNPR*6*_pA;T*xi0 i8O*Rigl_3A6TippNTx*OiRp6)g*;iTppaO*xiOpR4**giPpTm0*_TxpOuN**igpWSA*0iNhx7i*Ni* gn_*Ai0p*Oh_iiNp*C66_iAh0Cp6hiipNoR*g _pA0T*pihpifO*Rig5_DACTipphvx*OiRpg*g*s6TppH *xiOpRh66giW T4pp ix O=N6*igi _A*0i pxii*NO*pg,TpAi0N th*iiNp*{6*g_Ap0Ap*hgipNzR*_iixA(0Tpih ib_ORi6NiRs*Tgpph*x*OORp6fg*m*i0pq *xiNJRH*6gi.ix_0* ixpO6N**OgpAT6h0i Nxb6gNi*pgaV*ih0p Ah*g Np*h6*AiNx0L Thii Ny*T6i_NNRT*pghpOTO*RO6p_8Z*T*N0hWx*Oi*h6&g6<iTiO_ *xiOp*0**gOlppV*_ ixNO;N6*ipA{zT*Nh pxAi*Ng*pgh_*0i*x !xTiiN *<I _iAN*Rp*hgipRiR*6O_pAnT*p**0i<O*Rig*_U86TipiR_x*OiRpgOg*sOTppL  xiONR-**giZpTlp**hxpOAN*_Agp%hA* igxxqOTNi* gkAAAi0NgRh*igNp6g6*_OAp0Kp*h*g0NBR*6iATA?T6pihi6_O*Ri6p9_u*TOpphax OiRN6Mg*&iTppch*ghOpRA**_6zpTh0*ximxOmRT*ig rlh*0ixNAii*Ng*pCp_*AO0pRVh*i*(0*I6*_i0i0,p6hiRpxAR*6O_phHT*NThpNIT_Ri6N_Ze6Ti ghSiTIiRp6hg*0dTppA *xOOpRpTRgi1pTehp ix OCRgiTgpHhA*iN px-i*Ri0Tg=_6Aipg axTii*p 06*_gAp0Ap*ixipNhT*6i_NAJ Opih inO6Ri6ip_H*Tippi6x*OORp6Tp .OTNp{ gxiOpRV6* h1pTA0*xxxpOhN*gixx2wTT0i  xqNONi*NxR_*Ag0piTh*iONp*56*_*x00Kp*hiRhN4R66i_ih_T*pihpR0O*RO6p_<7 TipNh=x*OiRp6y_*xhTppA *O OpRh**/iOxT^pT ix O/Rh*igNxHA*0g pNii*NO*pgA_*A*O0 +h*ii6**{66_iThgNp*hgipNAR*6i_pTJONpih i9NhRi6N_ST*RRpphhx*OORp6xg*>gOppshTxi6ARJ*6giw T&pIRxxpOHN*8 gpSAA*pN)gx9OTNi* g?_*AippRgh*iONp*x6*_gAp0<ighiiNN/R*6i_pA,p*6RhpixO*RO6p_hK*0iRThciTOiAN6L_07iTpiT *xgOpR8**giQppc*_ ixRO<N6*id6U^T*Nh pxhi*g6*pgx_*0i*x 9xTiiN *4+ _iANN%p*hgipgiR*6O_pAAT*p**0iLO*RiA*_2=6TipiR_x*OiRpTAg*jOTp TpgxiONR+TpgiMpTI *gRxpOxN**Ogp1hA*0ixOxaOTNi*hgF_gAi0NgRh*igNp,g6*_OAp0,p*h*g0NsR*6ipTAlT6pihi6_O*Ri6ppA^*TOppxThgOiRN6U0O}iTpp.x*=ROpRx**gO3pTh0* ig OmRT*ighbYA60i pRTi*Ng*pgA_*Ai0p 2tgiiNR*G6g_iAp0bp*x_ipNiR*6R_pAlT*pixgiCN Ri6i_4v*Ti hhAx*NTRp_gg*LiTp ThTxiO_Rz6Agi)pTa *x0xpORN*60gpp0A*pN  x8OiNi-*gV_*Aiph4Nh*O Npji6*_iAppT4hhiOTNztp6i_pAPT*N0hpiRO**h6p_Tw*0N_6hUiiOi*i64g*BiTppi *iAOpR***gNHpT;pi ixgO}N**ig ryTg 0 pxRi*6R*pg?_*0ip6 vxxiiN_*qAp_iTh0Ap*xpipghR*6i_pTTTgpixAiG_xRi6p_)Agh_p hgx*6gRp67g*AN0hpthRxi*iRs**gilpTT0*h0xpO_N**NgpAz0T0i gxf*RNi*_gu_*0A0p ih*OTNp*T6*_i0*0W  hii NZR*6i_p TT* ThpipO*Ri6pUT*hTip_h>6AOiRp6Xg*T6TppN *xNOpRT**giO TSpx ixiOyN**i_h{AA*pp piOi*Ni*p_TFiAipA ;iTiiNp*5gg_*Ap0gp**0ipNuR*gN_*A.0RpiR_i}O*RighMLB*0ippxhx*OiRp6Bg_CiT_prh*xiOpRu**0hspTO0* ixpOAN**i0_SUT00i 6xuigNi6h6 _*TK0pxRh*iiNp*3gA_iAN0F phiihN-R*6O_pAxT*p6hpi.O*6ig _/ApTipNh;N{Oi6pg0g*AdTppi *iROp*T6igiBgT=px ixpOGN**_gp%iA*pT pxTi*NggxgA# Ai0O bh6iiN *V6*g_Ap0jp*hgipNSR*6igAA!00pih6idO6Ri6pRA#*T_pphTx*OiRp6S.iviT*pV _xiOpRS**_0HpTO0* *xpOBN*6Ng_q1Th0iRqx1i*Ni*pgx_*TA0p Th*iNNp*;g _iAg0?p*hiixNq*g_ _pART*xRhpiFO*6ixx_SAxTip_h2RpOi*hgTg*ApTpiA *xiOp*T6AgiAATXOx ixpOtRg66gp5gA*xg pxai*RN*hgXtRAii_ -h*iiNp*O6*<0Ap0_p*hNipR>*T6O_gA%hRpih_ifNg*p6p_RI* Rpph<x*Ri*_6M_x{iT_prOpxiNhRi**_pdphA0* ixpNT*T*i_A#7xx0i pxoOg*0*pgg_*x00p yh*ONR0*agR_ih_0kp*hiip_RR*g0_pA_T*pNhpOs+NRi6g_d GTip_h)N*FARp6Ng*p0Tpih *xiNRR56pgi&gT/0g ixpO*N*6Agp5lA*0i px:NTNi*ggJ_6Ai0p oh*N Np*R6*_RAp0Gp*hiOxN:*i6i_iA%T*pixhO O** 6p_iL*TippxT0 Oi*T6!_RMiTpp% *xROpR***_hmpTT0* ixNOXRO*igp5mAg0ihhxNi*Rh*pA0_*Ai0pxqxAiiRT*)gN_ip*0m gxpipN_R*00_pAuT* NxTiPN*RiAT_n)*Ti hi x6NORpTRg*siTp Tx xiNhR>g0gi+pTH0*hxxpOgN*6NgpcTA*pihixSOONi2igc-NAiphh6h*OhNp_06*_iAp ; ghiOTNU*N6iT*Am0gpOhpi_O*A06p_B!*0NAhhzi*Oi**6<g*?i0hpi *iOOp<R**gisp0Tpi iihOM*p*igpUZA*0O pxgi*RN*pgT_*Ti0* IxOiig0*#gN_iAp00p*x0ipN6R*6N_pTTT_pixqioRNRi6p_e?*0OpphNx*NpRp6^g*Xi0RpGh xiOpRd*6giVpxR0* _xpOON**NgpmC660i *xSigNi*pgU_*T*0p Oh*iRNp*26*_iAR0S hhiiiNeR*6iIhAhT* 0hp6*O*Ri6p_vT0Tipgh)xgOiRh6%g*AgTppR *xiOpRT**_N<_Topi iNxOvN**iBpN0A*pp px*i*g&*p_T{BAipA fN6iiNp*ygg_6Ap0gp**0ipNBR*gN__Ac0RpiNNiBO*Righ_NW*0ippRRx*OiRp6=ggWi0qpYh*xiOhRd6* hSpTR0*OxxpO*N*_ip6uQTx0ii_xt6TNi*p_ _*TA0p Rh*iNNp*^g6_iAg0fp*hiipN5R*gN_pART*pOhpi?O*RigU_MAiTipxhsx*OiRpgTg*A Tppp *xiOp*T6ggiATTepp ixpOoRgiAgp8_A*xi px&i*Ni*igM:OAip0 #hgiiNp*66*=hAp0Up*hRipRT6 6i<0A- _pihpi.R**O6p__f*0xppOix*NN*i68_*;ix_p4 *xiNh*i**_O:p g0* ixpNT6A*O_hrSxx0i pxGOgRO*p_0_*T_0p Ph*iiRM*tgR_iTx0+pghiOpRTR*gh_p pT* xhpOTR0Rig0_Z0_TipphcO*NTRp6_g*AxTpxi *iNN0R+6*gi _TI0* iihpNN*6OgpAiA*0i piTA0Ni6hg8 xAi0p Sxgi*Np606*A5Ap0Qp*hiiON;*R6i:xA4TgpixpOAO**h6pT_U*0xppOkiTOi*T6{pO^iiOp} *OTOpR***_hJpTT0*hNxgOjRO*i;Tv^A*0i pipi*R0*pg6_*Ai0p jRNiiNg*w6*_iA 07p**0ipNiR*gT_pATT*piNhi^N Ri6x_o8*TippNTx*NTRp6pg*JiTp T=TxiO_RqTNgi/pTY0*x xpONN**Ngp3TA*0i hxzOxNi*pgr_6Aiphh*h*OpNp_06*_iAp zh hiOoNQ*i6iT*A^0g 0hpi6O*_g6p_=}*0Np hWiNOi,_6sg*4i0hix 6ixOpKR**gi&p0T A iipO7*_*igpQ!A*pT px*i*Ri*pgT_*Ti0* 3xxiig0*ogi_iAp0Rp*xAipNRR*6N_pAMiTpihgi(O6Ri6p_1c*0ApphRx*ONRp6ug*Vi0_p!hixiOxR}**giKpTi0*h xpOpN**igpATTi0ihTxL6_Ni*pgG-gAO0p _h*i6Np*r6*AiA_0D RhiO0NQ__6i>h*NT* ihp*iO*Ri6p!T*hTi  hm*pOiRp6C_g*TTp T **qOpRL**gi _TepR iihOPNg*i_hT*A6pi p*Ri*Ni*p_Ts0Aip  sRRiiNp*)6*2pAp06p*xOipNTR*6ioxAQ0Npihpi1OgRigh_pq*0xppO0x*OiRp_q8xFi00p^hRxi**Ro6g_hzp0/0*R0xpOqN*6N_ JBT60i ix}i*Ni6h_ _*TN0pOhh*iiNp6Tg*_iTx0aichiipN}R*gN_pA_T* RhpiTO**i6 _8ANTii0hwiROi*hgAg*AxTpx0 *xiOp6Y68giA0T}pR iN*OcRgT*g A2A*O0 px7i*RN6>gMH6Aii_ sh*iiRh*T6*BNApiRp*hiipRT*T6i4xAvp_pihpiXO**66p__P*0RpphTx*NiR66W_NLihipnhRxiOp*6**_pWpTg0* NxpO%6p*i_AG=Tu0i pxGi*hO*pgg_*AO0p >h*iiN_*fgR_iAx0qp*hiipRNR*gi_pApT*pihpOTRTRig _QT*TipphXx*NARpg(g*wNTppT *xiN*RW66giupTM0g iihNON*6Ngp00A*0i pOGT_Ni6hgwHgAih* XxgOxNp606*0gAp09p*xNigN36r6ip_A{T*pixhi*O**66ppRy*TippxTi Oi*N6#0RXiTpp^ *x*Op*T**_g^pTT0*hixNOAR6*iT0{yTg0ihhiNi*RN*pA0_*Ai0pxWi0iiRh*/gg_ip*0, gi0ipR0R*00_pAQT* NhxiaRHRiT__D}*Ti hx*x*N6RpTRg*diTp Tx xiNNRWTxgi!pT,0*R0xpNTN*6ggpPTA*pi*5x!O6Nitigk=gAi0p Oh*OxNp6A6*_NAppT RhiOpNVgT6i_pA7T* 0hpigO**i6p_Tc*Ti 6h{iROiR 6}g*fiTp x *iiOpR0**ginpTD h ii OBRC*igps<Tg6g piTi**i*pgr_*Aip_ Kx6iiNh*o6g_iAppOp*xNipNoR*6N_pTTTgpixxiu*_Ri6p_2T*0*ppx0x*NRRptig*AN0Np2x}xig_Rw**giAhTR0*h6xp6_N**igpATpA0OhNx:6TNi*pgjkg0A0phxh*g0Np*u6*_iT00v _hiORN7Rg6iVpTRT* NhpR_O**R6p)TTpTi xhYN_OiRp6?n*#*Tp 0 *iROpgi**_NAhT7 ( iRNO)N**i_hRNA*p6 pR*i*Ni*p_TRhAipN H*xiiNp*<ggRTAppxp**0ipNVR*6ip_A20_pixRi!OgRigp *}*0NppNpx*NRRp6<_THi0ppvhgxiOhRj6gg_up0A0*xgxpO!N**igNj=TR0ih x?igNi*p_ _*Ti0p Ah*iiNp*;gN_iT 0lp_hiipN,R*_0_pTTT*p*hpiKO**NxN_8A_Tihph8x*OiRpg0g*ANTppT *xNOpRZ6CgiAxT>0* ixhOaRg**gpApA*hR px>i**i6Ng-AyAipi FNpiiRh*66*K6ApiRp*hiipRT*R6ijNAYxTpihpimNg666 nxC*hgpph8x*NN*g6P;peix_pj *xiOp*4**_*Mp0i0* NxpN{*x*i_x.r R0ihixcOgRi*p_p_*pR0p mh*NiR_*:_^_iTi0!iphiOhN*R*g6_p hT*pihpOThARigN_rpgTipph<igR0Rpgxg*h0TppJ *iNO6R!gpgi _T!0* ixpNpN*6*gpAiA*0N pi>NhNi6xgjp+Aipi Mh*g0Np6A6*/RAp0Tp*xN0gN1*g6i!pA,T*pihp6RO**i6p)T1*TNpph+x0Oi* 6a_T}iTppy *0OOp*T**gNSpTI0* iixOlR_*igx(jA*0i pxOi*R**pgp_*Ai0phTiAiiRO*40N_iAp0bp*xOipRpR*6N_pATT*pixNi^RARi6p_?^gTi hhxx*NgRp,0g*LiTph{__xiNNRYgTgi0*T-pghAxpNxN*vggpa#A*pN  xBNpNiA_gC_*Aiph ih*NANpAR6*_iAppTh hiOgN!6_6i_pA(T*p_hpOhO*6T6p_T^*0ipNhAOAOi_06dcTki0hp0 *igOpg0**gispp^pp iiNO4*T*iA*<mTg06 pixi*20*pgK_*TN0i %ipii__*q6*_iTh0Np*iAipghR*6i_pTTpOpixgil6<Ri6p_qf*i0ppxhx*RTRp6Tg*AixOpVxAxi6iRzgTgitpTO0*hRxpN N**NgpH10T0ihix!OfNi*pgq_*000ph h*iONp*f6*_iT_09hThiixNUR*6i_pAOT* _hpipO*Ri6pVTThTi *h=O*OiRp6Xg*T6Tp x *xNOpRT**giA_Tu p ixpOUN6*i_hA6A* A pN0i*Ni*p/^AiAip6 .i ii6**Ygg_OAppNp*NgipN1R*gN_6A!pxpiR_iXO*Righ_hM*ppppRRx*OiRpgT_0%ipApzNTxiOpR<**p0;p0O0*x xpOTN*6i 9aZ0p0iO0xWN Ni*p_A_*Tg0phih*iNNp6T_x_iTR0y *hiipNZR*gx_pT T* _hpiTO*Ri6i_1TTTip hsx*OiRpg g*A_TppT *xiOpRJgAgiA*Tj0_ ixpO!N*HNgpAOA*0* px5i*RNhNgwAhAi p 3h*iiNp*N6*AAAp0Tp*hNipNXR_6iGgAjT*pihxiHNg6A6pbRs*x_pphdx*Ri*_6aIx:i0_pCOpxiNhRh**jp<pxR0* ixpNT*x*iMAI% 60i pxCi*AN*p_R_*0 0p Th*OiRh*/_h_ip 0dhxhiOhNRR*_0_pp0T*pihpN1R0Rig__.TxTix*hIigOgRpg*g*h0Tpp3 *iNN_RUgOgih To0* iihNTN*ghgp RA*0i piTNANOg0gX 6Ai0p #h*N0Np6R6*AxAp0Tp*xii_N>6h6i00AKpxpixhOiO*606pT01*TippinipOi*_6n}xMi *p1hgOTOp****p0qpTL0*hNxxO&*O*i00HVA*0ihhTNi**h*pTA_*Ai0phTThii*0*(0x_iAp01p**0ipRRR*_x_pATT* igTiwRhRiAi_YTxTipphNx*RKRpgNg*cNTpp5 6xiN6RS*ggi5pTI0*x xpNNN**Rgp5^A*0ihxx%NxNi*igq_*Aiph Ah*NpNp*i6*_iAppTpghiNAN7AR6i_pAeT*iNhpOgO*Rg6p_K&*pi6xhaONOi6T6^TOmi0h_N *OxOp****gibpT&_p iOAOU*O*iF0jnA*6x piRi** *pgT_*Ai0g oiiiiNp*B66_iThppp*i ip60R*6i_p0cT6piiAijRORi}*_kAg0Nppxgx*6gRp6Zg*ANT6pyxRxig_R.**giAhTp0*xixp6hN**igpAT6h0ix xzgxNi*pgF_*TN0 h6h*NONp*T6*<iTx0-hihi*0NG6O6i_pA0T*hThpO*O*RN6p_d=6Ti _h4x6OiRp6.g*X*Tp * *xROpRS**giT^TZ O ixiO=N**i_hDNA* h pxii*Ni*p_TR Ai 0 ?OhiiNp*Y6*/NApp6p*ixipNTR*6i_RAjpNpihpiQO6Righ_0u*pxppO0x*OiRp_C_p}ip0pjxRxi**R,6g_N)pp<0*OgxpO?N*6N_Toy060iN_xPi*Ni6hTx_60N0pOhh*iiNp6T66_i0x0eNxhiipN<R*gx_pT_T*hRhpiTO**igp_qTNTii0h(OROiRpghg*TpTp g *xNOp*TihgiTAT<hT ixpO=N*T0gpARA*   pxTi*NiUhgrAiAi0i 9h*iiRhxN6*A ApxOp*hiipRTxh6iATAKxTpihpi^O***6pK*.*phpphXx*OiCT6D) ^iTppH 6xiOpmR**__Wp0O0* NxpNThh*i_*c+px0i px^i*RR*p_h_*0B0p Th*iiR *?_0_iAh0Vp*hiipRpR*_#_pA0T*pihpi^R Rig6_vAwTipph(igRARpgNg*hhTpp^ *xiNhRwg giUhT(0g ixpNTN*gTgpP3A*0R piT0hNi6_gC 0Ai0p -i*iNNp6R6*A0Aphip*xNOgN;6i6ip_AZT*pixhiiO*6 6p0Ae*Tipph#iTOi*_6YqO<iThpSh*OTOp*N**AOdp0R0*hNx6Ol*x*iAx8,A*0ixpA0i**0*p_R_* V0phTi%ii*5*&0x_iAp0r gx_ipR6R*0O_pAbT* NxhiqRNRiT__ot*Ti hx0x*RxRp0Ag*HiTppQhRxiN_R^gRgibhT>p* gx NNN*%xgpARA*pN *x/NxNi_xgt_*Ai p Oh*N0Np6R6*0)AppTh0hiN8N&Ax6i_pA80gp6hpO6O*Bx6p_Q/*0N _huONOi_ 6-g*fi0h h *OxOpHR**gi&pT4Dp ii_OP*R*ighjtT*0N piNi*g**p_R_*Ai0i eipiiRg*:6g_iAp0gp*iAipNAR*6i_pA70*pixgiBO6Ri6p_Cq*pTppxRx*O*Rp6#g*ANpQpBxixiNpRQ**giyp0 0*x0xpOTN**NgpATTi0ixnxLO*Ni*pgK_*Tp0phNh*NpNp*T6*_i h0zhxhiiiNqR*6iWh*NT*hphp*OO*Ri6pUT*hTihAhw*TOiRp6dg*A*Tp R *O OpR}**gi TT:   ixpOzN6*igp RA*p_ piOi*NN*pgkONAip* Fh6iiNp*s6*A0AppOp*hRipN9R*6i_NAHphpihiiWO*Righ__q*p0pphgx*OiRp6,_N>ipUpuhTxiOpR%g*gg/p0*0*xpxpR*N*gi_x!I0O0i  xtNANi*N_A_*0 0p ihgiONp*:6*_*x00}p*hii*NTR66iCh*NT*h hpN O*Ri6p_hx*TihAh1i ONR 61g6DiTiO_ *xiOpRO*ggO/p0T_h iOAOz_0*igp^oA*O0 piNi** *pgT_*Aip_ CixiiNp*Sgw_iThp p*ipip60R*6i_p0vpppii:isRiRir*_ZAgp0ppx6x*6gRp6)g*AN08pcxNxig6R2**giAhT*0*xxxpgRN**igpATT60ixpxc60Ni*pg;_*x00ph*h*NiNp*T6*HiiT0Uhxhi*0Nf6i6iApN0T*hphpiAO**66p_hNxTih<hsO*ONR 6+g*JiTiO_ *xiOp6n*ggO.p0TTg iOfOr6_*igpmu0*6R pi*i**p*pAi_*TNpR :iOii__*z6*_iThp6p*ihip*0R*6i_pTT0Apii0iX_xRi6p_&Ag0_ppi,x*6TRp6cg*zi0ip%xixiRpRP*ggi(NRR0*xpxpRHNg*OgpP#A*0*R0xDi*NigpgT_6Ai0iN_h*iiNpgx6g_OAppT0ghiNrN#g_6i_pAbp*gRhpO*O*6p6pTi)*0N _h,OOOiK_6Cg*Wi0h A *OhOp60**giKp0TpT iO0Oa}x*igp3:Tgpg pOVi*6_*pgj_*Ai C -iiii*p*u6g_iTpOgp*i0ipgpR*_p_pTTTTpiiHi8NiRi6p_yT*0*ppx*x*RpRpARg*Ti0gpdxixiRtRsTTgiAp0h0*x0xp6RN*gpgp0bTR0ih_xCNxNiAgg1_*Tx0phOh*N0Np*T6*oNTh04hhhiNTNXR*6i_pAiT*h?hpONO*RN6p_QTTTi 6hmx6OiRp6rg*TTTp N *xROpRb**giphTI x ixiOHN**i_hRNA* p pxgi*Ni*p_TTiAO A W*_iiNp*ugg_NAppgp*O_ipN}R*6i_xAJpxpiiTiKOgRi6p/Rs*pppph#x*ORRpgT_N<ipApvi_xiOpRVg*_xPp060*x xp*iN*6N_x=,0N0iONxci*Ni6h_A_*0x0pNOh*iiNp6Tgh_i0p0.NxhiipN/*gg0_p0AT*x_hpinO*Ri66_}TOTih h?xgOi*pgRg*TpTpx_ *O Op*TgAgiTAT5h_ ixpOY**g0gpA6A*   pNii*RNxggdANAii_ Kh*iiRhi 6*AxAp 0p*hiipRT*A6iApAWxTpihpinNgR_6pAA}*pOpphDx*Oi*66WZO(ip pd gxiNp* **%p8php0*x xpRm0_*i1AVJA60ihOxVi*gi*p_6_*0 0p Ih*OiAT*}_i_ixi0nhOhiip_RR*_T_pT*T*pNhpOT hRig__YAOTipphdx*N*RpgOg*T0Tppz *xigTR?gugiBpTv06 ixpNpN*6NgpApA*0i pxU6NNi6AgD_*Ai0  +h*g0Np*R6*L Ap0Tp*xN60N%*i6iANAPT*pihpOxO**T6p_*;*TNpph#i0OiR_6cg69iTppw *OpOpR***gR>pTM0* iihOURO*igisHA*0ihhxAi*Rh*pgg_*Ai0pxvihiiR0*?66_ixA0^ gTAipRJR*_6_pAzT*pixgifNORigp_j!gTipphOx*NhRp6bg*=*Tp ThpxiN0RC__gi;pT1 *xpxpO_N*6xgp0iA*pNhgxtO*Ni?Ngt_*Aiphhxh*OONp*T6*_iAppTxAhOOhNyg06i_pAo0g phpO0O*A06p_,2*Ti 0h4iROi*x6&gg1i0p p *ihOpg_**_xDp0Tpg ii0Om6_*igp8s0* A px_i*Rx*pAi_*TN W Jx*ii__*G6*_iThpAp*xOip6rR*6i_pTT00pixhi<_xRi6p_eAg06ppx0x**NRp6^g*,iTxp1hRxiNxRY*ggiApTT0*hhxp6pN*6xgpATT00ih0xwOiNi*pg3A*0A0p _h*OxNpyR6*AiNx0z RhiO0N3gR6iqpxgT* hhp*RO**x6pT>66Ti Th)i Oi_;6#g*h0Tpp* *ihOpRT**_NRgTrpO iOTObN**igpA0A*p0 px6i*NN*pg.!_AipU Ph6iiNp*f6*P_Ap06p*hRipNFR*6i_gAM0NpihiiwO*Righ_6w*0xppikx*OiRp6,(Tti0Tp/ gxiOhRB**_T!pT_0* ixpOTN*6NpA=AT*0iixxki*Nigpg__*Ti0phuh**?Np6TgN_iT 0!OThiipN4*g6R_pTTT*N0hpiyO**NgA_%A_TiO_hBx*Oi*hgOg*A*Tpih *xiOpR2gpgiApTC 7 ixhO%R**gg m_A*xx piti*RN6hgw4*Aihx Dh*ii*p*N6*)iAppBp*NWipRT*06i- AlixpihpibNg6A6pdTa*i0pph1x*NNRO6%__oihNpL *xiNh*x**_*=phT0* ixpOalx*i_p8e0X0i hx.O*Ap*pg__* *0phVh*iiR *ogO_iT00BpghiOhNxR*gh_pTfT*pihpi?R RigF_IANTiphh>x*N*Rp66g*SOTppv *xiNiR?6Ngi5hT(0* ixpO0N*6xgp%0A*0i pxF*gNi6pg:;fAi0p :xgpTNp6A6*pRAp02p*xNiNN)*g6i_OAQT*piipOpO**N6pnT3*hRppxTi0Oi*x6Q0pJiTppthgOAOp*p**0rzpT=0*hNiTOV*A*iT*jJA*0i pxTi*RN*p_ _*AN0phTx0iiRx*t0x_iAp0b gTTipRpR*Tx_pAbT*piR_ieN*Rigi_m?gTipp*xx6NORp6jg*+*TppUhRxiNhRV60gi.pTdp*xpxpNAN*AhgpATA*pNhpx?OgNi_xgm_*Ai p ph*ONNp6T6*0!AppT NhiOxNk_66i_pAz0gpRhpOpO*6N6p_l(*0NhOhAOAOi_ 6rg*Zi0hpT *igOpgO**giqpTlpg iihO(*T*ighX=T*0g piAi*g**p_T_*TN A txgii6x*m6*_i0p0 p*xNipRTR*As_pTT0xpixxiF_xRi6p_%Agg6ppxpx**6Rp6Bg*ANpApYxAxig_RK**giAh0R0*hgxpRiN**igpXn0 0ihhxuNTNi*hg(F*Th0phAh**xNp6T6*Tix60G 6hiO_NMAh6i_pA*T* xhpOAO*RN6p_kT Ti phvx_OiRp6+g*YgTp A *xNOpR^**giMhTwpg ixxOWN**igp#0A*pR pxpi*Ni*p_T_6Aipi ;*NiiNp*D6*A6App0p*hNipNTR*6i-_A8p#pihpi5OgRighwGP*06ppO0x*OiRp_H_RKi0Op-xAxi**RW6g__}p0h0*OgxpO{N*6Nghk)000iN_xti*Ni6hgx_*0+0pNRh*iiNp6T6__iT60zh_hiipN4R*6 _pT T*hAhpiTO**igO_LTXTii0hlOAOigpgig*A*TpO6 *6_OpRY6TgiAhTv + ixhOIN*66gpA0A*0N pxvi*Ni6hg#AeAi0_ 4h*iiNp*66*:6Ap0*p*hiipNnAT6iFNArT6pihpi)O**c6pSxF*TNpphjx*OiRR6Xap3iTxp3 *xiOp*6**=A/pTp0* ixpNT*0*i_gI-h_0i pxyOgRO*p_R_*A60p #h*NiRL*v_x_iT_09i_hiOh NR*_p_p iT*pihpOT hRi_A_- pTipphUig TRpggg* ,TppZ *xig_RZgxgiTTTJ0g iihR*N6gpgp RA*0i piTOxNigAgd XAi0p uh*O6Np6O6*A Ap0Tp*hiOOND6h6i_pAmTgpixhO O*606pT0I*Tippi{O4Oi*_6d!xQi *pIhgigOp****p0GpTt0*hNi O7*O*iAAnyA*0ihhi0i**h*p0R_*Ai0phTiSii*0*ygg_iAp0Sp*x*ipRRR*_x_pATT* ixpiHRhRiA0_fTxTi hxhx*R0RpZ0g*riTph;h*xiN_RZgxgi0*TVpgR*x N*N*-ggpJ9A*pNhuxuNONiThg?_*Aiphhph*NhNpAR6*_iAppT OhiN0N7fR6i_pAST*h hpORO*6x6p_TW*0ipNh?OhOi_i6ZHx,iTpp  *O+Op*N**gNypTwhp ii6O+RQ*igp.tA*xN piNi*NO*pg3_*Aixh YixiiNi*f6*_iThgNp*ipipRzR*6i_pAQ Apix_i2OgRi6h_:AggTppx*x*NiRp62g*2i0xp3xhxiRSR%*ggi/pT60*x0xpOAN**igp2P000ixtxLi_Ni*pgo_*AN0ph6h*i*Np*+6*INAR0#hNhiNpNYR*6i_pT6T*h hpiTO*RN6p_,IgTihTh:x*OiRh6X_gh T  _ *NROpRX**&i7_TP R iO0Omgp*i_hHhA* i p*Ri*Ni*p_TVTAi   PRTiiNp*)gg7OAp Tp*NgipN)R*gNAAA-p_piR_i&O*Ri6p__M*pxppi0x*ONRpg9_TkOpTpDORxiR0Rm6gg*8p0_0*iRxpO=N*gi_T^<0R0ix0xj*pNi6hgN_*0i0pOAh*iiNp6TgO_i0 01NxhiipNS*ggJ_p0TT*N0hpiCO**Ng _UT_TiO_hjx*OiRpTRg*TxTph0 *xNOp*G0NgiTTTIi& iO0OvN*T0gpA*A* h pxTi*RNxgg%AOAipp vh*iiNpAR6*A0App6p*hNipNtR06iA<AK00pihpiZO*N_6p469*0dpphtx*OigR6mz XipApW 6xiOp5R**__vp0O0* NxpNThh*i_*X-pT0i pxHi*R**p_h_*0b0p qh*ii_T*{g__iAp0?p6hiip_RR*gO_pT0T*pNhpiKO0Righ_7A Tipph}x*i_Rpg0g*ATTpp} *xi*RR#6*giAxTy06 ixpgRN*6hgpAoA*0N piTphNi60gk0TAi0p Dh*g0Np*66*3xAp0Tp*iiAxNP*N6i_ A1pOpihNARO**h6pTha_TOpph>x*O*A06ag*7i Np0 6xiNhNT**_h&p 00* ixpR4p_*i_T!WTN0ii*x^Og*=*pg__*x00p Ch*ONNx*:g*_i0x08p*hiOhRDR*gO_phRT*pihpOTNNRigh_80gTipphZx*NORp6gg*ANTppT *ii66R?6xgipiT<pN ixpNON*6hgpm0A*0i pxlN Ni60g{CXAi0p -xgOxNp6X6*^eAp0>p*iiO N7*66i_ A<0hpihpA_O**x6p(As*TNpphwO Oi*p6Wg*^iThpYhgiOOp*A**ARspT&0*xiipO%R6*i_ zn p0ihhiii*RN*p0R_*Ai0phTxiiiRx*WAi_iAp0, gh_ipRpR*00_pABT* NxOiARARiAm_{%*Tippx*x*NORpg g*dNTp 8xxxiNpRDJRgiA TCpghRxpNAN*_RgpZjA* ihTxqO6Ni6 gC0pAiphhph*ONNpAR6*_iAppThjhiOxNUg*6i_pAQ0gi_h OpO*A06p_3{*0N gh(OAOiRx6vg*(iTppO *iOOp* **gN2p0cpA iipO)_C*i_ -XA*0N pxgi*Ri*pgT_*0i*x sxRiiRA*<p0_iTpOgp*xhipggR*gx_pAehgpixTi5NpRi6p_=W*AApph_x*NARp6Mg*,iT*pWh*xiNAR+**gi:pT 0*hhxpN=N**Ogp(IAg0ihTxbOANi*pgeA*A_0p _h*i_NpVN6*_g0x0A *hiipN}R66i_iAaT*0_hpi7O** 6p_t=*Ti0Rhcx*OiRO6^g*WiTpOx 6xiOpRG**gi7pTw00 ixpOCN6*igp44A*T  pxgi*Ri*pgA_*Aixh 9xNiiNO*W6*_iApxTp*xxipNOR*6i_p0YR_pix0ifNRRig _SATpRp xLx*O*Rp6Ag*HNTppQ 0xiOpRV6Agi,pTs0*p_xpO2N*6 gpV4A*0ipAx4ONNi6pg1_6Ai0pOTh*OhNp* 6*_iAp {6_hiO0NW*p6i0gA-0ThRh OBO*Rg6p_A,*T_pphzx0OiRp6&g_UiTppY **_O RG**_TmpTZ0* ihROjN**i_AvGA*0i phxi*Ni*pgi_*Ai0p dh0iiNp*bgh_iAp0Mp* _ipN}R*gp_pAmT*pi RivO*Ri6__y%*Tippp6x*NhRpgXg*9OTpphx_xONTRW*6giX T9pT ixpixN**igp-6A*0i px(g0NO*pgB__Ai0p Mh*6_N *n6*_*Ap0Hp*hixRNyR*6i_ AMT*pihp6xO6Ri6p_x/*Tipphv60OORp68_h+iTppCx*:ROpR_**gO(px30* g9_O<RR*ippe0A60i pxsOb1x*pgX_*xi0x Ah*iiOR*:gR_iTT0rp*hiipT*R*gx_pAAT*pOhpiZ*pRig0_XB*TipphCiTRRR gog*GRTppA *i*OpRLT0gOMpTV0g ixpODN*A_g Z{A*0R px?i*NiARgA_*Ai0i lh*iiNpRx6*_iAp0hp*hiipN?A06O_pAtT6pihpi}O*P_6 _2D*00pph9x*OiNR6+g*bi0Apv *xiOp!x*6giJpT 0* ixpOtN0*igpdaAg0i px!i*__* g-_*TT0p th*ii_R*A6*_iAp0Mp*hiip_xR66i_pA*T*pihpiK_0RO6p_+A Tipph>x*g_R 6Pg*A Tpp3 *xigRRA**giATTG0* ixpgxN6*igp&_A*0i pxFg0NO*pg5;*Ai0p vh*6_N *t6*eOAp0np*hi6RNAR*6iBhAWT*pihp6xO6Ri6pw0L*TippxLgNOi*06S06vi0pp5 *O_OpR_**gN}pTk0* i*hOsN**ig >VA*0i hxAi*Ni*pgTnpAi0p uRA_pvOT6pAhhiiN0p6hiipN.R*6i_pA^T*pihpiWNARi6p_tt*hNpphAx*OiRp6Ig*&iN*pV gxiOpR=**gi>pT_0* OxpOoN**igp24pg0i  x%i*Ni*pg1_*hN0p th*iONp*F6*_iAN0ep*hiipgTR*6N_pAIT*pihpN-T_Ri6h_tugTip hciTRRR 60g*HiTppA *xOOpRa*0giUpT}06 ixpOVN*R*gptTA*0i px0i*NiAhg9_*Ai0  #h*iiNh*h6*_iAp0np*hiipNvR*6i_pABTgpRhpi4O*Th0OhxZg0ppph!x*6RT0pT Nh6OhOTR66*_6T 0_gN,*Tu0* i*O6Og_0x hhgiANN pxui*Ni*pgX_*0*xp TxUiiNp*V0A0*x6O6p*hiipNF**6i_pAnT*xxh iTO*Ri6p_c1*0N Rh9x_OiRi6lg*wiTp O *x*OpRa**gOKp0T > ixOOcRT*igpt!0*pA px i*N6*pgT_*Agp0 bxTiiN**{66_iAp0= ?*xipNDR*gq_pAAT* NAgiPNTRi6 _!2*TipNi)x*O_Rp6Rg*COTppA *x*_0Rc**gi!_Tv06 iihpNN**_gpW A*0i pxZgxNi*Og<j0Ai0h ox*_hNp*p6*_RAp0 p*hi6_N?Rg6i_iAJTgpihpNxO*RN6p_T+*Tipphr*gOiRp6:g6YiTpp+ gxOOpRQ**gN4*T%0* iRO_*AA0 pOhgOvNR pxUi*Ni*Rg1_*Ai0pP h*iNNp*s6*_iAp kh0hiihN=Rg6i_ A9T*h hpiTO*RN6p_ID*Tip_hKx_OiRp6,g*.iTp i *xNOpRG**gNGpTM i ixhOXNg*igpb-A*p  pxBi*NO*pgM_*AO0h Fh*iiNh* 6*_iApNpN6*N_Xw Rg6__pAYT*Ng60_TtAAO0x iS6Tipph?x*OiRp6}g*jiTpp= _xiOpRB**TNWpTT0* ixpO.N**i6iXcAg0i pxXi6Ni*p0T_*Ai0p Ah*iiNp*Tgp_iAp0- g NipNTR*6O_pAmT*hi_xiqOgRi6h_FLgTipp xx*ORRp6Ag*YiTpphx_xOOiRV**giM T+06 ixpixN**igpDyA*0i pxDxONi*hgf/bAi0  Gh*N_Np*c6*_NAp07p*hi6hN%R*6i_ A)T*pihhigO*Ri6p_TApTipph}63qxTpAO OhOiRN  giZOpRw**0 h6ipi * 6 _xAA*Ng_loA*0iOh6_+)A*00p6p i O Rx6AiNRR*L6*_iihOT*p*O_xA0TAp* 6xphhxxO0Rx6;g*>OT pu RxNOhR0ONRO64g*&ixOip* g *hRT6Rgi:pT!xg*xgh_pAA0N0xhOOhO6Np6O8pt60wgT:hAi0p WN_gOAT0h06hRhxOO*h*6ipNMR*6i_pAFT*pihpiTRTRi6p_mpgiONx*Rg0qNT0p  Nh*xiRTR6ghFxTYT6 NhOigO_6AxhNpN**igp 0x_NN*06*_igNT  Tp i O Rx6A*RA0T*pRhNpx0T ghiipNYq_0Rhhx_OiRpNhgA8g-*0* Oh_O0RT* g_}RRp6Lg*+iTpp( *hi60RT*_gifpTPNNR6gROTRN*igpYfh_OR*h6__iApT6pgh0 gNhRA6Og6Np*o6*_iTO0#p*hiipgTR*6N_pA-T*pihpOT hRi6x_lANTipphDx**fRp6pg*biTppi *Nih Ro61gin6T)pi iNphAN***gpjTA*0* pN# 6Ni*igX__Ai0i -O* ONp*p6*_OAp0pp*xi_TNW*z6i_gAJT*piOpiTO6R*6p_hu*01ppxCipOiRi6+_xdiT pMhgOpOpR **g6QpTq0*xix O3RA*igOBdTO0ihhxNi*Ng*pgi_*Ai0phTh_iiNR*:gp_iAp0M gi ipNiR*gl_pAXT* NxRiAN Ri6*_##*TipphRx*O6Rp6Og*5NTp GhUxiOiR:60giqOT^0* NxpOTN***gpcTA*0ihNxYigNi*hg5_*Ai0p Rh*iiNp*A6*_iAp0T xhiipNfRggx_pA(T*iN60_T,oA6php0x NTNORCg AaAO0*ggI*Tpp! **66iAO0OgNfNTW0* iRx__Ai0x h00Agpp pxSi*gR00 ThNx6NhNT*6g*U60 p__iAp0Dp*hiipNeR*6i_hAiT*pihp6 g _Rp0hTxNi6Rhh/x*OiRp6Ig*giO0il gxROpRB** hhOOx0ghixpO<N*3Np h0ixO_*h6_MAAhTiT0hRipN0*TO_iNNR*F6*_ixNNTRR6 6hgx_g6N_OAZT*piNN_T_6T 0O_;!*Tippx*x*OiRp6/Tg}iTxp- *xiOpRH6gNT7pTp0*h0xpOjN**id*slTA0i pxmigNi*NDe_*Ag0p Rh*iONp*(6*_*x003p*hii_N,R66iPh,TT*pghpi0O*Ri6pA,N*TipNhyiTOiRg6f_gA6Tppx *x_OpRQ**_NY*Tmpp ixROVN**i_hP0A*pA pxxi*Ni*pg{4OAi0N Qx iiNh*mg*hhAp0 p*xAipNhR*ci6MAy0Apih i:NARi6p_NI*Tgpph-x*OiRp6Y_0SiTRpt *xiOpRy6g_0tpTi0* gxpOaN**i_grvT 0i px!i6Ni6h_O_*TT0p Th*iiNpgygh_iAg0a hhii*NQR*gC_pART*pOhpi,O*Ri6__JAiTiphh^x*OiRpg*g*ATTpp* *xNOp*Z0NgiQ6TMpd ixgOzN*6*gpYxA*pA pxyi*NiATg5yTAi0p oh6iiNpAR6*_RAp0hp*hNipN-g06i_xA{Tgpihpi{O*?N6p_mt*TOpphax*ORR*6tg*LiTpp} *xiOpR&**gi%pTT0_ ixpO1ANT6 R.TT00i pxj6*8OTipph ihOR Tx iiNp*VT_hxihNpOR6NgiI Tg6N_iAtT*piRO*pY T 6h_*n*TippR * gpA6p0hY pi RO*Rg6-iRT6Dgi7pT+iA*hgO_6Ng60gpjtA*ipR gO_RA60iT_hgx*OO*Th*iiNp*L_;_iAp0Qp*NNipNTR*6i_pA9T* NAgi;O_Ri6N_,U*Tippiix*O*Rp6jg*INTp TpgxiOOR260gi&pTw *gRxpO N**6gp9pA* igxxUOANi*OgWVpAippRgh*i*Np*p6*_6AppT0ghiiON,*A6i_pA=p*6Rhpi O*R66p_TQ*Tghph+iTOi*36kg6%iTpp?h{6xOpR^**_p(pTA0*hNTgOnRT*ig 2fA*0i NOXi*N_*pg__*AO0p Ah*i*X0*#6*_iT00wp6hiOh NR*6__pAAT*pihpiC_xRi6O_LA0TiphhWi*VhRp6pg*&RTpp  *xig_R4*ggiIiT10g ixpRxN**NgpDTA*0i pxC6gNi*pgM_6Ai0p 3hgi*Np*c6*_NA 0>p*hi6hNTR66i_pA1x0pihpiyO*Ri6p6XxRhiphhAx*OiRpATg*oiTppzhixiOpRL**AekpTA0* ixpO0N*gixxo?Ag0i pxoi6NigpTh_6AN0p Th*iRNp6lpN_iA 0wp6hiihN56*hR_pATT*pihpiTO*6iAN_AlgTiphhux_Oi*p0gg*vOTppT *xNOp6w _giohT,0* ixiO/**<gg oTA*0N px0i*Ri0Tgf_6Ai0i 5hgiiNpgx6*_OAp0Tp*hiipNvjg6i_pA2T6pihpiCO6R66p_92*TN =hnx*Oi{i0i Ax iOi_RggT_OA0pn R)hT 0* ixpZpm6TN dh Ag0g pxni*_*T*p hOx6Nx TxOiiNp*:T_ 6imO N_6*gOdpA!pW Ox6OApNhNiJO*Ri06 gx_i6Rh6px*OiRp6#Qi%iTppn *RNOpRT**gifpTH0*xi/xObNg*igh97A60i pOOi6NN*pgT_*AO0p h6*iiNh*:g _iA 0cp6hiii__R*6i_pAOT*pOhpir6gRi6h_,k*TipphwO*TRRp6Tg*DNTppA *xiR*R9*_giMpTv0* ixpipN**Ngp=AA*0R piTxgNi*hgl_gAi0p Vi*ARNp*T6*_NAp0 p*hi*hNmR_6i_pAGT*piipA0O*RR6p_0,*TOpph=N OORx6)g_:iT pn *h_OpRp**giZpTP0* ihAO=Ng*igiKUA60i pRTi*NN*pgA_*Ai0p )h0iiNx*k6*_iAp0kp*i6ipNTR*6N_pATT*piNhi(O_Ri6p_Y4*Tihp_0x*ORRp60g*1RTpp&OgxiOiRs**gi=pTj *gRxpOpN***gpkpA*0ix6xAi_Ni*xgae=Ai0pxOh6iRNp*06*_OAp0/pthiipN2Rg6i_xA7T*h_hpiBO*RN6p_C+*TiOhhvx*OiR 6(g*aiThpT *xiOpRT6Agi?pT,RnRO6h_*AA*NgR?YA*0iRN6__gI6T p0hpAO0p Lh*iONp*X6*_NAN0Pp*hi6pmATg06hTipT*pihpi{O_Ri6p_cd*hNpphTx*OiRp6lg*AiOTpa 6xiO R=*ggiYpxT0* ixpOAN**igpcTTp0i pxHOgON*pgT_*AO0p dh*Ni0x*?6g_iAh0LpghiipOxR*6R_pAAT*pihpihR_RO6i_Bw*Tip hFx6OiRp*xg*YiTppU *xiOpR%ROgi)hT/p5 ix O}N*g_gpQPA*0N px^i*NiAhg7_*Ai0  Dh*iiNh* 6*_iAp0T hhiipN5= p   xxOAOp* gTvATp6h^hS*TippNT66_RA_0x gxxOONg*(**!hAA0N RxpiANgR6gT_0T *NgO.YA*0iO666g6{_TOgA_*Ai0p &h*iiNpR^AR_iAp0=p*xOipNyR*6i0hAnT6pihpi(O*RighNNL*TNpphAx*OiRp6SApyiTxpf *xiOhRj6* hqpT00* RxpO1N*_iR 1^A_0i hx/OANi*p0R_*AO0p 0h*iNNp*MAg_iAh0cp6hiipN1R**__pA0T*pihpi>O*Ri_O_/PgTiphhlxgOi6Ni0g*lNTpp_ *xOOpRp**g*h0Tn0* ii0OLN6*igppTA*0N pxAi*Ni*pgt_0Ai0x Hh*iiNp*86*A6Ap0Tp*hNipNTR*gihTABT6pihxi.OgRi6pAxt*TOpphTx*OiRp6w0gHiTppB 6xiOpR2*6gR:pTD0* NiNOCN**iThhAx_N0RRgT_RA60Tpp 5iNO Rg6__i# 0TpAhhxxNOp*hiipN}R*6i_pJ&hRpNhOizO*RiANhTh6O NOh.x*OiRp6xg*=iTppcR_xiOpR1**gi/pTqpgx xpOAN**Rgpb.A*0i gxJigNi*pg8_6Aihphhh*iNNp*A6*_NAp0f RhiipNPRg6i_hAST*p6hpi/O*RN6p_{Z*TipOh,x*OiR 6Lg*LiTpp  *xiOpRT6TgiapT7N0R6gi_iTA0Agh;xA*0i pR0_RANTOTxxAiA0h Nh*iiNpWxpAh*hxO Rg6gg6a0TA6N_iA!T*pi*RgA(OA66h_h8*TippRB66<NAO0gh1>iTpp. *OAOpRW**_N_hT#06 ix OWN**igNORA*0O px6i*NO*pgC_*A*O0 (h*iiRA*J66_iApxTp*hOipNdR*6i_p0GR_pih iGO6Ri6O_lAgANpphTx*OORp6Fg*UigNpn gxiO RL*ggivNxA0* OxpONN**Ogp/TA*0*R0x%i*Ni*ggQ_6Ai0p_ h*iONp*.6*_iAp0cp hii N3R66i_pAUT*h_hpiAO*RN6p_k.*T*N0hmx*Oi**62g6jiTpiT *xOOpR:**gi2ppMg0 ix O1N6*igOKrTgp0 pxTi*N**pgz_*0ipi 5hgiiNh*?6__iTh0Rp*h*ipNTR*6i_pAcpOpihhilN(Ri6h_mAT0hpphAx*NgRp6Ag*oNTpppRRxiOpR.gTgi+ T=0*_6xpOAN**igpn,A*0ip6x<i6Ni* go_*Ai0pxxh*iONp*T6*_iAp0YOghiipNdR66i_pA#T6pOhpiPO*RN6O_5H*TiRp*066>pT:6Ag*XiTppT *xiOpRT6hgiPpTli *hgp& TfsNpOhxx6Nh hx*i*Ni*pTOhNiiNO*pN__J} Tgp0 6xi00p*hiipNhR*6i_pAT0opihpi4gAThpO 6dgT_pph5x*6RT00g Nh6ixRp gi OpRY**06xxi NgNAgTCWTA0*0ixOi*O6 hxii*Ni*p0KhRiRO6*p6 _xAT*Tgi_iAp0SOO6x_OA0TAANhOipNKRx6TRAOgR_6p_w8*hRN**AgN__AO0pg6MiTppm _xiOpRH*g_hYpT80*N6gx_ AgAA Tx4OAN*Nxgpg6A*TOgT__Ai0p KRA_h!i*Tg&_iAp0POA6h_OU6R*6i_pAS0xpihpimO*_N6p_77*Tipph-x*RiNp61g*3iTppw 6xiNh*O**gO>pT00* ixpRn*p*ig {SA60i  xzN** *pgA_*AO0p Th*igNx*C6*_iA*0}p6hii N+*/0x_pA-T* bhpiAO*R*00_{K*TipghQx6OiRp*Og*)iTppj *xiOpRohhgi<pT&06 ixpOMN*ANgpo%A*0O px(i*Ni6Og8_*Ai pp?h*iONp*F6*_RAppT hhiihNBR66i_pAXp* *hpiTO*RN6p_0v*pi OhFxgOiRh6G_AKiTN p *xOOpRx**gOFpTT0* *60ObN**igRuBA60i i*_i*Ni*p_p_*AO0p (h iiN *&66_iAp0up*i&ipNAR*6i_pAuT*hih6ifO6Ri6p_?A-TippxOx*OORp6Ag*niTppShpxiO R<*_giypTF *h_xpOAN**Ogp/pA*0ihTx=i6Ni*hg<_*Ai phhh*iONp*u6*_gAp ahhhii N#R66i_hAw0ThRh i0O*Ri6p_AF*TNpph&x0OiRp6{g*+iTpp: **_O Rl**ginpTo0* ihAOfN6*igx-sA60i p*Ti*Ni*pgA_*Ai0p Ax0iiNp*e6g_OAp0up**AihNiR*6i_pheORRR*6_pW TxpT_TAATipphW6A6*A606Ag?NTxp; *xiITA p0gN<NT50* i*0_hAT0RpOxpAg06 px.i*_RTxpAhix60h Ah*iiNpAi6*_iAp0Bh*hiipN9R*AN_pAAT*pihpiXO*RgT _I5*TipihHx6OiR 6!_XhxTpps *x*OpRA**g*h0Tk0* iO0OUN6*igppTA*0O pxAi*Ni*pghOxAi0  7iRiiN *86*_iAii_p*hiipR_R*6O_p02R_pih i{O*Ri6h_Y(*hNpphTx*ONRp6:g*{i*PpG 6xiO RJ*ggidphT0* NxpO0N**igpAT&g0i xx;i_Ni*pgWA*NR0p 0h*iRNp*p6*_i h0v nhiiiNuR*6iApN0T*p*hpipO*R_6pAoO_Tipih)i,OiRN67g*pNTpp  *x*OpRX**9iOxT%pA ixOO9R0*iIpO0A*06 px i*N6*pr)i_Ai0N Ih6iiNR*X6*0OA 0 p*h6ipNhR*6i0hAJ0Tpihii4O*Ri_pi0V*Tgpphhx*OORp_qx_4iTNpQhTxiONRJ**TNjpTx0* *xpOtN*gixxL4T00i RxHi6Nigpx0_*A_0p xh*i6Npgvh__iA*0wp6hii N(R*AO_ AxT*p_hpiiO*RiT__-P_TipRhSxgOi*p0gg*yNTppT *xROpRzAggiWpT806 ixpOmN6*RgpP1A*0NhAxYi*NiAO 0hAiNx6Rg6*_6AiAp  hixO0T OhiipN>qOpxhOi0OAO 60_hcAT 0O giaTNpih/x*Oi_O0ghAx Tpp4 *xiO*R1**giTpx*0* OxpO<N**OgpATTh0i hx;i_Ni*pgkA*A*0p Th*iNNp*A6*AiTO0qpghiihN-Rg6i_NA*T*pOhpixO*RO6p_Tb*T*N0h<x*OiRR6-g6<iTp6N *xiOpR3**giapT>ig ixpOLN6*igpj,A6 p px,i*NiN_gl_*Ai0p ;h*iiNp6N6*_OAp00p*hiipNJ6i6i_iAXT*pihpieO*606p_ y*TOpphYx*Ri6Z6r_AqiTOpD 6xiON60*6ggPpTQ0* OxpOpN**i6R#-A*0i pxMi*Ni*p6x_*Ai0p Th*iiNp*160_iAp0Jp_hiipNQR*T__ AwT*pNhpiGO*Ri*A_^AZTipNhlx6OiRpATg*k*TppU *xiOpRP4ggi8OTF06 ixpOI** Rgpt A*06 pxTi*NggxgA.TAi0h eh6iiN *96*g_Ap0zp*hOipNkR*6igAAm0-pihNi!O6Ri6p0TJ*T*pphSx*OiRp6,Tg^iTOp& _xiOpRWg*xRQpT 0* 6xpOTN**g2xtATT0i  xSi6Ni*Og>_*,_0p =h*iONp*)6*_inR0Pp*hiipNcR*6i_psxT*pihpiTO*Ri6p_bh0TOpphVxgOiRp6Mg*__Tppn *xROpRJ**gi_ATGpZ ixNOQN6*igp TA*0i pxAi*Ni*pgHfpAi0p /xgxNNp*T6*_OAp0Kp*hgNxNAR_6i_pAYT6pihiiFO*B_6 _BD*Tipph.x*OiNR6%g*{iTppW *xiOpNx**gi(pTA0* ixpO3U0*Ogp}UA60i pxVi*AO*pgT_*AN0p Ah*ii_h*L6*_iA 0zp*hiihNOR*6i_pAT0Opihpiqg*AO0i px OhNRNTgR^*Ti0_ ODN0:p< *xigpAA02p*h6igN0NN66_xAp0*ghypA*0i p* 63AA0Agw_*Ai0p 5h*iiRpb96*_iAp0cp*hiipN{R*6N__AeT*piRpgAoXA*06 gx0xpNO*h_rONRg6ag*fixpNA*e6*_6Ag000*x0Oo0ghAxpOWN*A6T6 ?x6O*Ri6O_NU_*hg0_*Ai0pRg6A__Np*}6*_i0N0Gp*hiipNOR*6*_pAZT*pihpOTNRRi6O_oApTipphKx*N6Rp6hg*7iTppp *iNOxR#60giqxT80* iOpOAN**_gpQxA*pA piTONNi**gKyAAi0p JxTO Np*O6*LAAp0Ap*hiipNpAR6i_pAG0 pih iPNgxT6p_OC*T*pphYx*Oi{_6n_0%iT6p7 gxiNpAg**gg<pTA0* _xpNTOg*igR{kA_0i pxoN*0R*pgx_*A_0p Oh*ON g*dgp_iAO0zp*hiiN*lR*gA_pTAT*pOhpiAO*R*00_y{*Ti  hdx6Oi*hiNg*AATppp *xiOpR{TxgiLRT5p  ixhOYR*0hgpHhA*0g pxxi*RNRhg(S0Ai0x ;h*ii*p 06*__Ap0xp*xAipRTxh6i_*AI0Apihpi;NT6i6p_Oj*pApphAx*ONRp6ppRYiTppZx xiO R36gNT8pTO0* *xpOCN**i0_^&T00i 6xPigNi6ppg_*Ag0p Th*i_Np6T*g_iAR0+p_hiipNH6*hR_pAxT*p_hpiOO**Nig_aApTipOhBx*OiRN_&g*AATphA *xOOpR0**g*h0TX0* iO O^N6*i_hRNA*pA pxpi*Ni*pg: xAi0R dx iiNh*%g*hhAp0hp*h_ipNxR*6ip_AH0}pihNi{OgRi6pAxJ*T*pphTx*OiRp6o0gsiTpp3 6xiOpRW6q_p<pT)0* Nx_O=N**iTxh_iiNx*hg{_ >RT_p hgAN0  &h*ii60*Tg/_iAp0INkgA_po Rg66_pAqT*Ri* gOXgTR6h_ F*TippRh66YpTO0 ggM*Tppq *Nh^iTipHgN(*Tf0* igi__A_0* hhOiNO_ hxpi*Ni*p00 6igOO TxTiiNp*/TThxi/OpRA6NihNNR*6i_p Nx_OxRT* =NARp0 pxATNpOhsx*Oi_N0*p6h_OxpTh xiOpRop0 Nh6OpNARg66_*AA*igp>9A* 6 pxvi*Nig*g#_6Ai0p mh*iiRhRT6*_NAp0pp*hiipN?_g6i_xA5T*pihpiuR*pR6p_0Z*TRpphRx*OigA6Agg=iThpCh#xiOiV_**gimp0p0* OxpR#0_*igR:rTT0i *xPOTAi*pgx_*TT0p Ah*iONp*p0R_iAp0^ hhii Nt*q0x_pA,T* *hpiAO*6ihx_QA0TipNhyx_Oi6Nxig*m_Tp T *xOOpRA**g*h0TI0* iihO^N6*igppTA*0_ pxAi*Ni*pori_Ai0* sxTiiNO*q6*A6Ap0xp*hNipNTR*6igiA:T6pihOiJN0Ri6ip_C*Tippxpx*OORp_;x_ViTRpWhTxiOORG**6*=pTA0* 6xpOxN**ggRP5Ag0i NxQi6Ni*hg,D3xx0p oh*igNp*A6*5Neh0#pghiOsNXR*6i_p TT*pRhpisO*Ri6pA8O_Tipxhwx_OiR668_g*TTppp *xNOpR,**gi_RTBpA ixpOtN**i_hRNA*0g pxhi*Ni*pgPRpAi0x >h_iiNN*,gggNAp0pp*h_ipN)R*6i0hA40ApihhisO*Ri_pA?V6T6pph x*NTRp6vg01iTRpQ 6xiOpRo**_*JpT 0* _xpODN**iANXATk0i px9i*Ni*pBN_6AN0p 1h*iONp*)Tg_iAp0rp6hiipNyR666_pAmT*pNhgiDO*RiAi Ox_iRR0*ggN_6Axppggs*Tpp- *g__ AOpVgN(6T{0* iR6m0_g06 Thgi NhRRxTOxNi*pgG0_ixNTRg6AgRAiTOpRhhix0T 2hiipN;TN06h*ipT*pihpijN_Ri6p_5>*hNpphKx*OiRp6og*TipppA *xiOpRb*_giXpp 0* ixpOTN**Ngp}hi*0i pxcOTNi* g-_6Ai0iN_h*iiNp*h6*_OAp0pNRhiipN5* 6i_ A!0g0NhpiBO*RN6p_+4*Ti6Vh=x*OiR 62g6miTiO_ *xiOpR,**gO=p0TTg ixpO1RA*igpsPA*xN pxAi*Ni*pgv_*0i*x Kh6iiN *ygX_iApTip*hNipNTR*6i_pApiRpihpi#N*Ri6 _&T*pip h x*O*Rp6Ag*.iO pWhAxiOhRn*6gilNTx0* ixpOgN**OgpfTA*0*R0xKi*Ni6Tg?_6Ai0pNTh*iiNp*A6*_iAp0?gRhOipN}R*6A_pAsT*pOhpicO**NNx_./*TihOhax*Oi*h*Tg*ciTpiA *xiOp6hx_gi}pTZpT ix O8_i*igi _A*0i pxhi*NO*pgSpgAi0p eh6iiNp*3gggNAp0bp*OxipNeR*_iApAAT*pihpi5RARighNNw*TNpp*ix*OiRp6kpx+iTppQ gxiOhRe6g6NMpTA0*ixxpOtN*gi;p:AA60i  xGNANi6hON_*AR0p 6h*iiNp*#0x_iA 0Zp_hiihNa*g*N_pATT*xxhpiWO*6i_p_AIgTiphhKOAOi*hiNg*.*TpO0 *xiOpRwTxgiwhT8pD ixhO#RgRNgpu0A*hx px:i**igpgA__Ai0x eiAiiRhxN6*_6ApOpp*hiipNPAx6i_xA{0Apihhi9R*pR6p_02*TRppNix*Ri6p6A_++iTxpHOhxiOp6 **g*fpTT0* NxpNTOg*igOa9pR0i px2N**i* g _*A60ph h*ON g*%g0_i d0Hp*hiip_RR*66_pAxT*pNhpit*pRi6N_qc*Tip*h,x**lRp6xg*QiTpp! *iiJTRt6Tgi NTDp0 ixpRiN**_gp8yA*0i pi#_NNi*NgkT_Ai0R 5h*RUNp*x6*_iAp0lp*xi_TN4*T6iATA%00pihpNiO*R_6p_fC*Tippx/gNOiRN670T,iTRpo *N/OpRx**gizpTA0* iO*OzRp*igp1zTT0ihhhTi*RA*pgA_*Ai0pxYO^iiN6*Cg _iT_0G gxiipNNR*gO_pA,T* Nx i:NxRig _k<*Ti hxNx*NpRpgAg*,iTppHhpxiO6Rm6igi,hTMp* gxpOiN*gRgpPOA*pNh0x<O Ni* gH_*Ai pxph*OANp*O6*A0AppThxhiigN=Ap6i_pAs0ghThpiRO*Ao6p_--*0Nphh:iiOi;*62g*#iTp   *iAOpR***gNvp03 p ix*ObR^*ig6Q7Tg0O pxOi*NO*pgb_*0i i Kx iiN6*=_x_iTh06p*xTipR6R*6i_pTT0xpih_iwRORi6p_zAg00pph*x*R Rp6Jg*zi0 pfh xiN7Ro*ggiApTg0*hdxpgTN*6AgpAT000i 6x7i6Ni*pgoA*0*0p Oh*OANp6R6*-NTR0B hhiggN8R*6iFhTAT* 0hpgNO*Ri6p3TA0Ti Ch,ghOiRp63g*AgTppO *ipOpRT**_iqOTwpp i*AOUR *i_hI A*pA pxAi*Ni*p+XTCAi06 Fx iiR_*<gg-gAp0Np*xgipNtR*gN_6AJ0xpii6iUO*Righ3Q-*0pppOgx*OiRp6c_gFiT6p2hixiOhRL6*g63pTi0*ONxpOON*6NgxwXT 0i  xGi*Nigpi{_*TA0p Oh*N0Np6T_x_iAg0+p_hiipNe*g_0_pART* ihpiuO**NgR_fAiTiiThYx*OiRp6_g*AATpp* *xNOp*zpggi8*TUOh ix6O4R*gAgpjxA* g pxii*Ri*xgbbTAi p Cx0ii6p*g6*_gAph p*igip6F6A6i_NA#hppi*_iV***M6p_he*0RppNpx*Oi* 6c_09iTppJ *xiNh*R**_+)phN0* ixpOh*_*Og6jlTh0i  xoigNi*p6x_*Ai0p xh*iiNp*W60_iAp0Z AhiipNWR*; _ AiT*pNhpiOO*Rgh__:ApTiNphPx6OiRp6#_FhxTpp1 *6iOpRA**g*h0TI0* i6NOYN6*i_h_TA*pT px_i*Ni*p_TRhAi0_ s*giiNp*U6*g_Ap0*p*xAipNLR*gNNgA80OpiR_i5O*Ri6pNim*00pphRx*N Rp6+ 63iTgpI gxiO RM6T1R9 TN0*hixpOAN**Ogp=zA00i px;O0Ni*pgfYg p0p Rh*_ Np*c6*AiTi01 xhii_Na*A6i.hTpT* phpRAO*Ri6p_4l6Tip_h#xgOiRh6YA*TTTppR *i_OpgR**_NA T2pi iO0O4N**igNfRA*pp pgAi*NO*pgA_*A*O0 {h*iiA *U66_iAii_p*hiipAOR*6O_pTTAgpix5iFRRRi6p_QT**upph*x*NpRpgNg*bi00pVhOxiO_R=**gi2pT 0*hpxpOTN**OgpATTp0ihUxzRRNi*pg5A*TA0p *h*OpNpgT6*oiT*0^ xhiN*NL*i6i_iANT*pihpWAO*RO6pKT_gTi FhC6_OiRp6;g**gTpp* *xOOpRT**ggO_Tupi i_TOWN6*igpl;TrOx pxLi*Th*pgA_*A*O0 jh*iiTp*l66_iThTTp*xpip*_R*6i_p0SR_pixZi4NiRi_h_vA*OhpphRx**URp6*g*ANAhpehixi_xR1**giXNOQ0*hpxpA N**OgpBAA*0*R0xZi*NipOg._6Ai0iN_h*iiNp x6*_OAppT0ghiOaNW__6i_pAQ0gA_hpi6O*AR6p_}C*Ti ihkiOOiR 6?ggdipppg *i OpR6**p !pTYp0 iiAO<RN*igpQnA*06 px*i*Ni*pgg_*A*0* dh*ii0i*V66_i0p*0p*xOipR3R*g__p0(R_pixhiFNxRigR_kATp*p xAx*T*Rp6Ag*ANTpppRRxiOpRMhqgiW TopTNOxpNnN* *gpQAA*p0 pxpgRNi*pg:OFAi0  5i*NiN 6A6*^iAphOp*hi_ N}*66i_hA1T6pihNixO**p6px*)*TOpphTx*O*A06,g*?iRCp% 6xiOi1_**givp*i0* OxpNTOg*i_z#& _0i px:OgOO*pg6_*px0p Lh*NiN**egO_iTA0BhghiNpRhR*g _pA6T*N hpiSO6RigA_:ANTipphrx*NRRp6*g*IiTppg *x*N0R,**giNNT(06 iOpT0N*6OgpA=A*p_ pOQA_Ni6hg<)xAipR }xTN*N 6A6*OgAp0Ap*xNipNpAR6i_pAo6Tpih i3NTWO6pBCX**gpphAx*N0Rp6ppRJiTpp=WTxiO R9g*UiV 0A0*hixp*ON**i  X#T60i hx2i6Ni*Ngx_*Tp0pggh*iONp*T6*_*x00Yp*hiTTNlR66i_N00T6 phpO_O*RO6p_Ac*Ti0Rh#x*OiR_6eg*<i0pNg *xgOp5A**_pMpTh _ Oi(O1RT*ig QFA60i phxi*Ni*pgh_*Ai0phT giiRA*%p0_iAp05h*_RipN6R*g _phgT*pgixiANNRi_x_rn6Tip h2x*i_Rp6{g*%gTppJ *xi: R<6OgiChTl06 ixNR0N66 gpTwA*0O pxTi*NiRRgW_*AipC Mh*iiNpRx6*_iAp0Fp*hiipNTA 6OwTAd00pihpiKNT6R6 __G*0RpphAx*OORp6.g0ciTppDhTxiOpR76T2RB 0.0*h6xpOAN**OgpeaA00i pxSOTNi*pgV_gxA0 hAh*OgNp*l6*_Nh60A ghiN5N+R*6i_hhOT6 RhpiiO*Ri6p_Th TO ih&x*OiRp6f_TTRT    *O0OpRA**gNMpTY00 ixpO&RT*igp-cA*T_ px3i*R**pgK_*Ag x AiTiiRT*F66_iAh0qp* _ipN%R*6g_pA?T*pi RijO*Rigi_v9*TiphROx6N_RpgNg*ViTppTR xON*R?*_gi{pT2pTxRx NON*6 gp)AA*0R pxMi0Ni*pgHaAAi0p ;h*x_Np*y6*_gAp0)p*hixRNnR*6iX*AsT*pihNN0O66T6pAT:*TOpph0x*OiNR61g*7iTNpV *xiOpNx**gi}p0x0* ixpOQN0*igp}BTA0i pxPi*6O* _R_*AR0p Vh*ONN *o_i_i 00#p*hiNpNRR*_p_pT*T*OihpN)O6Ri_2_,TiTiNphkigN*Rpg6g*pxTpp: *OiNxRVgOgiTAT&i* iOpNAN*g gpA6A*OO piTNpNigTgo0RAi0p .i*N,Np6g6*AhApizp*iiNAN46N6iATA<OipihpRxO*606p7g?*TOpphbNpOi6Y6F_O2iTpp,hgiOO *6**TxbpTo0*xix6OD*O*iqAB3Tg0ixpi6i** *p_6_*TT0phTxnii*T*.AR_iAp0oh*xhipRgR*_h_pTTT*hix6i;RNRi_T_oATTi hxxx*RxRpo_g*&iTph>h*xiR0R}gRgiAhTJ *hNxpN_N*gxgp pA*pNh xvN*Ni^0go_*Ai pg0h*NiNpge6*SNAp Q ghiNpNv6*6iA A20gpRhpNAO*_x6p_C3*pip h^O6Oi6 6&_gMipp T *OOOp6A** APp0Tp  iOhOlgR*igp#X0*0g pOTi**N*p_T_*0i06 kigii*h*KSm_iThphp*iRip6_R*6i_p0)0xpiixiHR_Righ_<T*T6ppi0x*RRRpjpg*AN0 pAi=xi60R;**giTpT00*x*xpRpN*6NgpT.Th0ixix^RqNi*6gk2gA_0px h**xNp*y6*AiA 0txAhiNON2*g6iApART*h6hpN O*MA6pcTThTihNh}RROiRp6z.*A Tphh *OgOp*T**=iAgTFhT iONOYRp*i_hCxA* _ pN_i*Ni*pdSi_Ai R lO0iiRh*!_*iRAp xp*i_ip_OR*gNghA+ ppiN0isO*Ri_pi0G* Kppiix*NNRp_bx_jip*pqipxi_0RK6g6NyppO0*OxxpOdN*gixx}%p 0ix6xWOgNigpx0_*pA0pxOh*O0Np*mA0_i0f0Kx hii N&Rg0A_ T6T*pOhpi!O*Ri*R_FTNTi 0hLx*Oi*hiNg*TxTp * *xiOpRhg_gOTpTU K ix OJN6*igp_xA*0i pxgi*Ni*pg%TNAO T >i*iiN *G6*+TAppgp*xxipN)R*gNbRA{pRpiRhiXO*Ri6NA0C6pipphTx*OORp6Ag*DiARpk *xiNTRy**giQppg06xhxpRHN**Ogp?ZT60ixTx<ORNi*pg4PgTi0ph_h*ggNp*P6*_g0x0Ah*hiO6N5R66i_ A;T*0_hpiGO**h6p_LW*TixThAONOi6p6dg6<iTp p *OhOpR_**gi}p0T x iO0OG20*igp!kTT R  Ooi**O*pgA_*AO0p %h0iiNp*&gN_iAp0Sp*Ohi RgR*_i_pAAT*pixpi(RNRig0_Lf*Ti hhgx*RxRpehg*diTpphx_xORpRCgNgio Tt06 ixpixN**igptgA*0i pxuRNNOgTg=A*Ai0  ,h*iRNp6g6*5xAp08p*xNihNC6R6ipOAYT*pihNN0O66i6p_ :*TOpphAx*OiNR62g*Ii0Tp& *xiOp6g*6zh5pps0* OxpOJR**iWT25TR0i pxZOgRg*p___*h00p -h*ig*x*A_*_iT*01p6hii N:R**__pACT* hhpi+O*Ri8T_ATNTihph(x6OiRpg0g*ThTpp_ *xiOp*T6igiT0Tmh* ixpO+RTgRg TzA*pA pxAi*NO*pgu_0Ai0p nxNiiNp*%6*ThA pgp*iiipNAR*6iniAapNpix0ioO*Righ_TW*pxppxpx*OiRp6h:_/OpppUx0xiO Rv*6gijpAx0* ixpOgN**igpjypN0OxTxfN*Ni* g1_*AO0phgh*OxNp*f6*^NTO0yhRhiO6N^R*6i_N00T6hihpO6O*RO6p_TM*Ti0Rhfx*Oi*T6Fg*FiTp0x *xiOpRN**gispTrhN OOTOl***ig yyA*p* pigi*Rx*pg:_*TNp* fiRii*g*l6*_iAN 0p6iiipN_R*6O_pAAT*pi RiBO*RigT_Z(*Tippigx6RhRp_7g*1OTpp<xhxiRTR!6Rgi8pT8pghUxpN_N*uigpDjA*0gxxxAN*Ni*igD_6Ai0  !h*x_Np*%6*vhAp0+p*hixAN/6N6iApA5T6pihpxxO*6h6puA2*TipphZx0Oi606>_g(iTppt *h_Op68**_iepT:0*hNTgOk*6*iAN%)A*0i pO i**i*pgT_*AN0p tOpii* *q6*_iAp0Gp* _ip*TR*gO_pAZT*pi RivR_Rigp_u;*Ti hANx*R*Rp0hg*ziTpp2iAxiRxR9*ggiChTl0*6gxpRpN**igp5pA*pNhAx;RANis0gM_*Ai p Ah*N6Npg 6*phAp Q YhiNON(gA6iWTAr0* RhpNpO*oh6pA 3*0N Vh;NAOi_06{g*jipppi *O6Op6 **_p)pp=pN iOOOG6A*iAA9)T*p  pOpi*Rp*pB _*TNp0 bOAiig0*m6*_i0p*0p*i6ip* R*ep_p02OApiiOi9*ARig*_mA*ppppipx**pRp_ g*AN0xpeiAxi6AR+**giTp0A0*x6xpR N**6gpATTx0ixNxU*NNi*pg38g0T0pxxh*RNNp*c6*_iA 0nxAhiNRN=Rg6i(pThT*h*hp6xO*666p_-TATihhhbN?OiRp6Kg*AhTphA *xiOpRA**gi _TW R iO OzNg*igpARA* i pxCi*N**p_T,OAi   8hgiiNp*{_*_RAp Ap*iOipN R*gNZ_AUpgpii_i.O*Righ__r*pRppN x*OiRpgT_NPipipWixxiOpR16g_T)pp 0*O6xpOJN**i hBF060ixOxrigNi6p_p_*0i0pOxh*NONp6TgR_i0 0VpghiipNa6*gO_p0AT*hOhpi O**Ngh_4TgTiiThCx*Oi*hgxg*TRTppx *xiOp*TgTgiTiTVhx ixpOMRg66g T A*x6 pxyi*Ni**g<A6Ai O ahgiiRp*R6*AiApO p*iOipRT6T6iA AD 0pihpi4R*RO6pAAW*pOpph x*NNR66,Yg=ip_pF *xiNhRA**nRcppR0* ixpO?Yx*i4 wU0_0i hx<O*Ah*puF_*xp0pxAh*OiAT*,_*_i0*0F xhiip_RR*_h_p08T*pNhpihR_RO_0_LAiTip h=iAOiRp*xg*riTp A *xiOpRo*0giBpT?p* ixpOnN*R_gpU%A* h pxCi*NiRRg,_*Aiph %h*iiNpRx6*_iAp0Ap*hiipReTN6i_NAG Npii0i2NT6R6 Q_P*0OpphAx*ONRp6ug04iTppDhTxiOpRQ**6_WpTy0*xAxpO:N*6i Tw9TT0iN0xJNRNi*N-0_60x0phTh*iONp6p6*_iqR0Yp*hiiNN7R*6i_p!xT*pihpO O*Ri6p_D=0Tipph/igOiRp6+g*__Tpp} *iOOpRo**gi_RTj0* iipO^N**igp_xA*0i px*i*Ni*pgY_0Ai0p 9h_iiNp*S6*g_Ap0Mp*x0ipN^R*6igRAVT*pixAi{O*Ri6pgxH*TipphWx*OiRp6Pg0MiTppb 6xiOpR>**6_;pTC0*hTxpO7N**i6RCyA*0ihgx8i*Ni*p6x_*Ai0ph0h*iiNp*F60_iAp0rhOhiipNJR**__pAcT*hphpisO*Ri*R_Gl*Ti _hrx*OiRp*xg*siTppg *xiOpR+*0gijpTH0g ixpOfN*R_gp<sA*0* pxwi*Ri0Tgs(TAihR IiRiiNNg066AxAp0Rp*hOipNAR*6igRAoT*pih_iYO*Rigp gu*TgppOOx*RxRp6;A0miTNpS gxiOpR+**0NMpT(0* OxpOSN**i");local h=0;o.JGPBgrog(function()o.RgZsEWgD()h=h+1 end)local function p(p,e)if e then return h end;h=p+h;end local e,h,l=t(0,t,p,r,o.zUrxcTTn);local function n()local e,h=o.zUrxcTTn(r,p(1,3),p(5,6)+2);p(2);return(h*256)+e;end;local u=true;local u=0 local function c()local p=h();local h=h();local _=1;local g=(e(h,1,20)*(2^32))+p;local p=e(h,21,31);local h=((-1)^e(h,32));if(p==0)then if(g==u)then return h*0;else p=1;_=0;end;elseif(p==2047)then return(g==0)and(h*(1/0))or(h*(0/0));end;return o.HuxoLRdq(h,p-1023)*(_+(g/(2^52)));end;local b=h;local function k(h)local e;if(not h)then h=b();if(h==0)then return'';end;end;e=o.FIlTeDwI(r,p(1,3),p(5,6)+h-1);p(h)local p=""for h=(1+u),#e do p=p..o.FIlTeDwI(e,h,h)end return p;end;local u=#o._EKOKn_Y(s('\49.\48'))~=1 local p=h;local function _p(...)return{...},o.etmFErP_('#',...)end local function hp()local p={};local f={};local r={};local s={r,f,nil,p};local p=h()local t={}for g=1,p do local e=l();local p;if(e==3)then p=(l()~=#{});elseif(e==0)then local h=c();if u and o.wgRlzhte(o._EKOKn_Y(h),'.(\48+)$')then h=o.MkCmLAik(h);end p=h;elseif(e==2)then p=k();end;t[g]=p;end;for p=1,h()do f[p-(#{1})]=hp();end;for s=1,h()do local p=l();if(e(p,1,1)==0)then local l=e(p,2,3);local f=e(p,4,6);local p={n(),n(),nil,nil};if(l==0)then p[_]=n();p[d]=n();elseif(l==#{1})then p[_]=h();elseif(l==a[2])then p[_]=h()-(2^16)elseif(l==a[3])then p[_]=h()-(2^16)p[d]=n();end;if(e(f,1,1)==1)then p[g]=t[p[g]]end if(e(f,2,2)==1)then p[_]=t[p[_]]end if(e(f,3,3)==1)then p[d]=t[p[d]]end r[s]=p;end end;s[3]=l();return s;end;local function ep(e,h,p)local g=h;local g=p;return s(o.wgRlzhte(o.wgRlzhte(({o.JGPBgrog(e)})[2],h),p))end local function c(z,l,r)local function ep(...)local n,b,y,hp,a,h,s,k,j,pp,u,e;local p=0;while-1<p do if p>=3 then if p>=5 then if p>=3 then repeat if 5<p then p=-2;break;end;e=t(7);until true;else p=-2;end else if p>3 then pp=o.etmFErP_('#',...)-1;u={};else k={};j={...};end end else if 0<p then if 2>p then y=t(6,34,3,7,z);a=_p hp=0;else h=-41;s=-1;end else n=t(6,16,1,97,z);b=t(6,94,2,91,z);end end p=p+1;end;for p=0,pp do if(p>=y)then k[p-y]=j[p+1];else e[p]=j[p+1];end;end;local y=pp-y+1 local p;local t;local function z(...)while true do end end while true do if h<-40 then h=h+42 end p=n[h];t=p[m];if t>181 then if t>272 then if 318>=t then if 295<t then if 307>t then if 300<t then if t>303 then if t<=304 then e[p[g]]();else if t~=306 then for t=0,9 do if t<5 then if t<2 then if 1==t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]={};h=h+1;p=n[h];end else if 2>=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t>=2 then repeat if 4~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end else if 7>t then if t~=2 then repeat if t>5 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 8>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if 8==t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];end end end end end else for t=0,6 do if 3>t then if 0<t then if 0<t then for l=33,84 do if 1~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if 4<t then if t>=4 then repeat if 5~=t then e(p[g],p[_]);break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);end else if t>3 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end end end end end end else if 301>=t then local h=p[g]local _={e[h](e[h+1])};local g=0;for p=h,p[d]do g=g+1;e[p]=_[g];end else if 300~=t then for s=43,64 do if 302<t then local f;for t=0,5 do if t>2 then if 4<=t then if t==4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else f=e[p[d]];if not f then h=h+1;else e[p[g]]=f;h=p[_];end;end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t>=1 then if-2~=t then repeat if 2~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end break;end;local d;for t=0,2 do if t>0 then if t~=1 then e(p[g],p[_]);else e[p[g]]=e[p[_]];h=h+1;p=n[h];end else d=p[g]e[d](f(e,d+1,p[_]))h=h+1;p=n[h];end end break;end;else local f;for t=0,5 do if t>2 then if 4<=t then if t==4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else f=e[p[d]];if not f then h=h+1;else e[p[g]]=f;h=p[_];end;end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t>=1 then if-2~=t then repeat if 2~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end end end else if t<=297 then if 295~=t then repeat if 296<t then e[p[g]]=e[p[_]][e[p[d]]];break;end;local g=p[g];local h=e[p[_]];e[g+1]=h;e[g]=h[p[d]];until true;else e[p[g]]=e[p[_]][e[p[d]]];end else if 299>t then local p=p[g]e[p](f(e,p+1,s))else if 299==t then local n=p[g];local g={};for p=1,#u do local p=u[p];for h=0,#p do local p=p[h];local _=p[1];local h=p[2];if _==e and h>=n then g[h]=_[h];p[1]=g;end;end;end;else local l;for t=0,6 do if 2>=t then if t<1 then e(p[g],p[_]);h=h+1;p=n[h];else if-3~=t then repeat if t>1 then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end end else if 5>t then if 2<t then for d=36,58 do if t>3 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 3~=t then for l=16,60 do if 6~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e(p[g],p[_]);break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end end end end else if t<313 then if 310<=t then if t>=311 then if t==311 then for t=0,5 do if 3>t then if 0>=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if t~=-3 then for f=31,81 do if t~=2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if t>=4 then if 3~=t then for l=39,82 do if t<5 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;if(e[p[g]]~=p[d])then h=h+1;else h=p[_];end;break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];end end end else local l,t;l=p[g];t=e[p[_]];e[l+1]=t;e[l]=t[p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local p=p[g]local g,h=a(e[p](f(e,p+1,s)))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;end else if t>=308 then if 309==t then local d,u,o,r;for t=0,9 do if t<=4 then if 2<=t then if t>2 then if 3~=t then e[p[g]]={};h=h+1;p=n[h];else d=p[g]e[d]=e[d](f(e,d+1,s))h=h+1;p=n[h];end else d=p[g]u,o=a(e[d](f(e,d+1,p[_])))s=o+d-1 r=0;for p=d,s do r=r+1;e[p]=u[r];end;h=h+1;p=n[h];end else if-4~=t then for d=36,85 do if 0~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end end else if 6<t then if t<8 then e(p[g],p[_]);h=h+1;p=n[h];else if 5<=t then for l=30,95 do if 9~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;d=p[g]e[d]=e[d](f(e,d+1,p[_]))break;end;else d=p[g]e[d]=e[d](f(e,d+1,p[_]))end end else if t==6 then e(p[g],p[_]);h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);end else local l;for t=0,6 do if 3>t then if 1<=t then if t~=0 then repeat if 1~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t<=4 then if t>=0 then repeat if t~=3 then e[p[g]]={};h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else if 1<t then for l=26,64 do if t~=6 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];break;end;else e[p[g]]=e[p[_]][p[d]];end end end end end end else if t<316 then if 314>t then e[p[g]]=e[p[_]]/p[d];else if 312<t then repeat if t<315 then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]];break;end;local s,t,a,u,k,f,r,l,o;local n=0;while n>-1 do if n<=2 then if 0>=n then s=e;else if n==1 then t=p;a=h;else u=t[g];k=t[d];f=_;end end else if 4<n then if 2<=n then repeat if n~=5 then n=-2;break;end;h=o;until true;else n=-2;end else if-1<n then for p=35,60 do if 3<n then o=r==l and t[f]or 1+a;break;end;r=s[u];l=s[k];break;end;else o=r==l and t[f]or 1+a;end end end n=n+1 end until true;else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]];end end else if t<=316 then for t=0,6 do if t<3 then if 0<t then if 2~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t<5 then if t~=1 then repeat if t>3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 6==t then e(p[g],p[_]);else e(p[g],p[_]);h=h+1;p=n[h];end end end end else if 318==t then e[p[g]]=e[p[_]][e[p[d]]];else local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end end end end end else if 284>t then if 278>t then if 274>=t then if 271~=t then for s=47,80 do if 273~=t then local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);break;end;for t=0,9 do if 4<t then if 6>=t then if 6~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t>7 then if t>=4 then repeat if 8~=t then e[p[g]]=r[p[_]];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 1<t then if 2>=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t~=4 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if-2<t then for l=12,61 do if t<1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end end break;end;else local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);end else if t>=276 then if t>=273 then repeat if t>276 then local l;for t=0,6 do if 2<t then if t<5 then if t>-1 then for l=46,91 do if 3~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 2<t then repeat if 5<t then e(p[g],p[_]);break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);end end else if t<=0 then e(p[g],p[_]);h=h+1;p=n[h];else if t>=-1 then for r=28,74 do if t~=1 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end end break;end;local s,k,o,a,b,t,r,u;e[p[g]]=l[p[_]];h=h+1;p=n[h];t=0;while t>-1 do if t>=3 then if 4>=t then if t>=2 then repeat if t~=3 then b=s[k];break;end;a=s[o];until true;else a=s[o];end else if 5~=t then t=-2;else e(b,a);end end else if t>0 then if-3<t then for p=14,57 do if 1<t then o=_;break;end;k=g;break;end;else o=_;end else s=p;end end t=t+1 end h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];r=p[g];u=e[p[_]];e[r+1]=u;e[r]=u[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];r=p[g]e[r](f(e,r+1,p[_]))until true;else local o,k,s,u,b,t,r,a;e[p[g]]=l[p[_]];h=h+1;p=n[h];t=0;while t>-1 do if t>=3 then if 4>=t then if t>=2 then repeat if t~=3 then b=o[k];break;end;u=o[s];until true;else u=o[s];end else if 5~=t then t=-2;else e(b,u);end end else if t>0 then if-3<t then for p=14,57 do if 1<t then s=_;break;end;k=g;break;end;else s=_;end else o=p;end end t=t+1 end h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];r=p[g];a=e[p[_]];e[r+1]=a;e[r]=a[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];r=p[g]e[r](f(e,r+1,p[_]))end else local t,r;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end else if t<281 then if 278<t then if 278<=t then repeat if t<280 then local r,s,u,a,o,t,l;t=0;while t>-1 do if t>=3 then if 5>t then if 4>t then a=r[u];else o=r[s];end else if 5==t then e(o,a);else t=-2;end end else if 1>t then r=p;else if 0~=t then for p=16,89 do if t>1 then u=_;break;end;s=g;break;end;else s=g;end end end t=t+1 end h=h+1;p=n[h];l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;break;end;local f;for t=0,4 do if 1>=t then if t>0 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else l[p[_]]=e[p[g]];h=h+1;p=n[h];end else if t<3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t==3 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else f=p[g]e[f](e[f+1])end end end end until true;else local r,s,o,u,a,t,l;t=0;while t>-1 do if t>=3 then if 5>t then if 4>t then u=r[o];else a=r[s];end else if 5==t then e(a,u);else t=-2;end end else if 1>t then r=p;else if 0~=t then for p=16,89 do if t>1 then o=_;break;end;s=g;break;end;else s=g;end end end t=t+1 end h=h+1;p=n[h];l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;end else local t;for r=0,9 do if r>=5 then if 7>r then if r~=4 then for d=26,66 do if 6>r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if r<8 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if r>=7 then for d=48,71 do if 9~=r then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](e[t+1])break;end;else e(p[g],p[_]);h=h+1;p=n[h];end end end else if 2>r then if-2~=r then repeat if r~=1 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if r<=2 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else if r>1 then repeat if 3~=r then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end end end else if 282<=t then if 279<=t then repeat if t<283 then e[p[g]]={};break;end;local p=p[g]e[p]=e[p](f(e,p+1,s))until true;else e[p[g]]={};end else local p=p[g];do return f(e,p,s)end;end end end else if t<290 then if 287>t then if 285<=t then if 282~=t then for l=28,76 do if 286~=t then local l;for t=0,6 do if 2>=t then if t<=0 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t>=0 then repeat if t~=2 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 5<=t then if 4<=t then repeat if 6~=t then e[p[g]]={};h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]]={};h=h+1;p=n[h];end else if t~=1 then for r=33,92 do if t>3 then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end end break;end;local t;for l=0,6 do if l<=2 then if l>=1 then if l==1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end else if l>4 then if 4~=l then repeat if 5<l then if not e[p[g]]then h=h+1;else h=p[_];end;break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else if-1~=l then repeat if l~=3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end break;end;else local l;for t=0,6 do if t<=2 then if t>=1 then if t==1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end else if t>4 then if 4~=t then repeat if 5<t then if not e[p[g]]then h=h+1;else h=p[_];end;break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];until true;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if-1~=t then repeat if t~=3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end else local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else if t>=288 then if 286~=t then repeat if t~=288 then if(e[p[g]]<e[p[d]])then h=p[_];else h=h+1;end;break;end;local g=p[g];local h=e[p[_]];e[g+1]=h;e[g]=h[p[d]];until true;else local g=p[g];local h=e[p[_]];e[g+1]=h;e[g]=h[p[d]];end else local t;for r=0,4 do if r<2 then if r>-4 then repeat if 1>r then t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else if r>=3 then if 2~=r then for t=31,98 do if r~=4 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end end else if 293>t then if 290>=t then local t,o,u,l;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]o,u=a(e[t](f(e,t+1,p[_])))s=u+t-1 l=0;for p=t,s do l=l+1;e[p]=o[l];end;h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,s))else if t>291 then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;else local s=b[p[_]];local f;local t={};f=o.cejOLMkW({},{__index=function(h,p)local p=t[p];return p[1][p[2]];end,__newindex=function(e,p,h)local p=t[p]p[1][p[2]]=h;end;});for g=1,p[d]do h=h+1;local p=n[h];if p[m]==247 then t[g-1]={e,p[_]};else t[g-1]={l,p[_]};end;u[#u+1]=t;end;e[p[g]]=c(s,f,r);end end else if 293>=t then local l;for t=0,6 do if 2<t then if 4>=t then if-1~=t then repeat if t~=3 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t>=2 then for l=15,83 do if t<6 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e(p[g],p[_]);break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>0 then if t<2 then e(p[g],p[_]);h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end else if 292<=t then for s=21,71 do if 294~=t then e[p[g]]=r[p[_]];break;end;local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;break;end;else local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;end end end end end end else if t>=342 then if 352>=t then if 347<=t then if 350<=t then if t<=350 then local h=p[g];do return e[h](f(e,h+1,p[_]))end;else if t~=352 then local t,l;for r=0,6 do if r<=2 then if r<1 then e(p[g],p[_]);h=h+1;p=n[h];else if-2<r then for s=29,86 do if r>1 then t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];end end else if 4>=r then if 2<r then for f=10,54 do if r~=4 then t=p[g]e[t](e[t+1])h=h+1;p=n[h];break;end;t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];break;end;else t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];end else if r~=4 then repeat if 6>r then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end end end else local t;for d=0,2 do if d>0 then if d~=-2 then repeat if d<2 then e[p[g]]=e[p[_]];h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e[p[g]]=e[p[_]];h=h+1;p=n[h];end else t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end else if 347>=t then e[p[g]]=(p[_]~=0);else if 349==t then local l,o,u,a,s,t,k;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=0;while t>-1 do if t<=2 then if 0>=t then l=p;else if 2>t then o=g;else u=_;end end else if 4>=t then if t>0 then repeat if 4>t then a=l[u];break;end;s=l[o];until true;else s=l[o];end else if t>1 then for p=46,64 do if 6~=t then e(s,a);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end h=h+1;p=n[h];t=0;while t>-1 do if t>2 then if 5<=t then if t>=2 then for p=20,57 do if t~=6 then e(s,a);break;end;t=-2;break;end;else t=-2;end else if 4==t then s=l[o];else a=l[u];end end else if t<1 then l=p;else if-2<t then repeat if 1~=t then u=_;break;end;o=g;until true;else u=_;end end end t=t+1 end h=h+1;p=n[h];t=0;while t>-1 do if 2<t then if t<=4 then if 4==t then s=l[o];else a=l[u];end else if t>=3 then for p=20,84 do if 5<t then t=-2;break;end;e(s,a);break;end;else e(s,a);end end else if 1>t then l=p;else if t>=-1 then repeat if 1~=t then u=_;break;end;o=g;until true;else o=g;end end end t=t+1 end h=h+1;p=n[h];t=0;while t>-1 do if 3>t then if t>=1 then if 2>t then o=g;else u=_;end else l=p;end else if 5>t then if t>1 then repeat if t>3 then s=l[o];break;end;a=l[u];until true;else a=l[u];end else if t>=3 then repeat if 5<t then t=-2;break;end;e(s,a);until true;else t=-2;end end end t=t+1 end h=h+1;p=n[h];k=p[g]e[k]=e[k](f(e,k+1,p[_]))else local g=p[g]local _={e[g](f(e,g+1,s))};local h=0;for p=g,p[d]do h=h+1;e[p]=_[h];end end end end else if t>343 then if t<=344 then local g=p[g]local _={e[g](f(e,g+1,s))};local h=0;for p=g,p[d]do h=h+1;e[p]=_[h];end else if t>=342 then for l=45,52 do if 346~=t then e[p[g]]=c(b[p[_]],nil,r);break;end;local t,s;for l=0,9 do if 5>l then if 1>=l then if-1<=l then for t=27,62 do if l>0 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 2>=l then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if l<4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end else if 6>=l then if l>2 then for t=43,69 do if l~=5 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];break;end;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if l>=8 then if 5~=l then repeat if 9>l then t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t](e[t+1])until true;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end break;end;else local t,s;for l=0,9 do if 5>l then if 1>=l then if-1<=l then for t=27,62 do if l>0 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 2>=l then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if l<4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end else if 6>=l then if l>2 then for t=43,69 do if l~=5 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];break;end;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if l>=8 then if 5~=l then repeat if 9>l then t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t](e[t+1])until true;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end end end else if 339<=t then repeat if t<343 then local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];do return e[t](f(e,t+1,p[_]))end;h=h+1;p=n[h];t=p[g];do return f(e,t,s)end;h=h+1;p=n[h];do return end;break;end;e[p[g]]=l[p[_]];until true;else e[p[g]]=l[p[_]];end end end else if 359<=t then if 361<t then if 362>=t then e[p[g]]=(p[_]~=0);h=h+1;else if t==364 then e[p[g]]=p[_]+e[p[d]];else local t,f;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]-p[d];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];f=e[p[_]];e[t+1]=f;e[t]=f[p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];end end else if t>=360 then if t>358 then repeat if t>360 then local s,r,t,u,a,o,d;e(p[g],p[_]);h=h+1;p=n[h];s=p[g]e[s]=e[s](f(e,s+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];d=0;while d>-1 do if d>2 then if d<=4 then if d>=1 then for p=11,57 do if d>3 then o=r[t];break;end;a=r[u];break;end;else o=r[t];end else if d<6 then e(o,a);else d=-2;end end else if d>0 then if d~=-2 then repeat if d<2 then t=g;break;end;u=_;until true;else t=g;end else r=p;end end d=d+1 end break;end;local f,u,o,s,k,b,a,t;for t=0,6 do if 3>t then if t>0 then if t~=-2 then for r=21,90 do if 2~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;f=p[g];u=e[p[_]];e[f+1]=u;e[f]=u[p[d]];h=h+1;p=n[h];break;end;else f=p[g];u=e[p[_]];e[f+1]=u;e[f]=u[p[d]];h=h+1;p=n[h];end else f=p[g]e[f](e[f+1])h=h+1;p=n[h];end else if 5<=t then if t>3 then repeat if t~=5 then t=0;while t>-1 do if 2<t then if t<5 then if t~=-1 then for p=21,91 do if t>3 then a=o[s];break;end;b=o[k];break;end;else a=o[s];end else if t>1 then repeat if t<6 then e(a,b);break;end;t=-2;until true;else t=-2;end end else if 0>=t then o=p;else if-3~=t then repeat if 1<t then k=_;break;end;s=g;until true;else s=g;end end end t=t+1 end break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else t=0;while t>-1 do if 2<t then if t<5 then if t~=-1 then for p=21,91 do if t>3 then a=o[s];break;end;b=o[k];break;end;else a=o[s];end else if t>1 then repeat if t<6 then e(a,b);break;end;t=-2;until true;else t=-2;end end else if 0>=t then o=p;else if-3~=t then repeat if 1<t then k=_;break;end;s=g;until true;else s=g;end end end t=t+1 end end else if-1<t then repeat if 3<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end end until true;else local f,a,s,o,b,k,u,t;for t=0,6 do if 3>t then if t>0 then if t~=-2 then for r=21,90 do if 2~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;f=p[g];a=e[p[_]];e[f+1]=a;e[f]=a[p[d]];h=h+1;p=n[h];break;end;else f=p[g];a=e[p[_]];e[f+1]=a;e[f]=a[p[d]];h=h+1;p=n[h];end else f=p[g]e[f](e[f+1])h=h+1;p=n[h];end else if 5<=t then if t>3 then repeat if t~=5 then t=0;while t>-1 do if 2<t then if t<5 then if t~=-1 then for p=21,91 do if t>3 then u=s[o];break;end;k=s[b];break;end;else u=s[o];end else if t>1 then repeat if t<6 then e(u,k);break;end;t=-2;until true;else t=-2;end end else if 0>=t then s=p;else if-3~=t then repeat if 1<t then b=_;break;end;o=g;until true;else o=g;end end end t=t+1 end break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else t=0;while t>-1 do if 2<t then if t<5 then if t~=-1 then for p=21,91 do if t>3 then u=s[o];break;end;k=s[b];break;end;else u=s[o];end else if t>1 then repeat if t<6 then e(u,k);break;end;t=-2;until true;else t=-2;end end else if 0>=t then s=p;else if-3~=t then repeat if 1<t then b=_;break;end;o=g;until true;else o=g;end end end t=t+1 end end else if-1<t then repeat if 3<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end end end else for t=0,6 do if t<=2 then if 1>t then e[p[g]]={};h=h+1;p=n[h];else if t==1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if 5>t then if t>=2 then for l=17,74 do if 3<t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t==5 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);end end end end end end else if t>=356 then if t<=356 then local l,r,s,o,a,t,u;for t=0,6 do if 2>=t then if t<1 then e(p[g],p[_]);h=h+1;p=n[h];else if t~=-3 then for d=41,52 do if 2>t then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=0;while t>-1 do if 2<t then if t<5 then if t>2 then repeat if t>3 then a=l[r];break;end;o=l[s];until true;else a=l[r];end else if 4<=t then for p=21,59 do if 6>t then e(a,o);break;end;t=-2;break;end;else t=-2;end end else if 0<t then if t>-3 then repeat if 2~=t then r=g;break;end;s=_;until true;else r=g;end else l=p;end end t=t+1 end h=h+1;p=n[h];break;end;else t=0;while t>-1 do if 2<t then if t<5 then if t>2 then repeat if t>3 then a=l[r];break;end;o=l[s];until true;else a=l[r];end else if 4<=t then for p=21,59 do if 6>t then e(a,o);break;end;t=-2;break;end;else t=-2;end end else if 0<t then if t>-3 then repeat if 2~=t then r=g;break;end;s=_;until true;else r=g;end else l=p;end end t=t+1 end h=h+1;p=n[h];end end else if t<=4 then if t>0 then for d=39,60 do if t~=3 then u=p[g]e[u]=e[u](f(e,u+1,p[_]))h=h+1;p=n[h];break;end;t=0;while t>-1 do if t<3 then if t>=1 then if t~=1 then s=_;else r=g;end else l=p;end else if 5>t then if 1<=t then repeat if t~=4 then o=l[s];break;end;a=l[r];until true;else o=l[s];end else if t<6 then e(a,o);else t=-2;end end end t=t+1 end h=h+1;p=n[h];break;end;else t=0;while t>-1 do if t<3 then if t>=1 then if t~=1 then s=_;else r=g;end else l=p;end else if 5>t then if 1<=t then repeat if t~=4 then o=l[s];break;end;a=l[r];until true;else o=l[s];end else if t<6 then e(a,o);else t=-2;end end end t=t+1 end h=h+1;p=n[h];end else if 6>t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else u=p[g]e[u]=e[u](f(e,u+1,p[_]))end end end end else if 354<t then for f=36,71 do if 357~=t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];do return end;break;end;else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];do return end;end end else if t>=354 then if 351<=t then repeat if 354<t then local t,r;for l=0,4 do if 2>l then if l<1 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if l<3 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else if 0<l then for d=19,65 do if l<4 then e[p[g]]=e[p[_]];h=h+1;p=n[h];break;end;t=p[g];r=e[t];for p=t+1,p[_]do o.gwTxiYhr(r,e[p])end;break;end;else t=p[g];r=e[t];for p=t+1,p[_]do o.gwTxiYhr(r,e[p])end;end end end end break;end;local h=p[g];local g=e[h];for p=h+1,p[_]do o.gwTxiYhr(g,e[p])end;until true;else local h=p[g];local g=e[h];for p=h+1,p[_]do o.gwTxiYhr(g,e[p])end;end else for t=0,6 do if 3<=t then if 5>t then if t<4 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 5==t then e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];end end else if t>0 then if-1<=t then repeat if 2>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];end end end end end end end else if t>=330 then if 336>t then if 332>=t then if 330>=t then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];else if t>330 then for s=47,56 do if t~=331 then local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=p[_]-e[p[d]];h=h+1;p=n[h];l[p[_]]=e[p[g]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]();h=h+1;p=n[h];do return end;break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];break;end;else local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=p[_]-e[p[d]];h=h+1;p=n[h];l[p[_]]=e[p[g]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]();h=h+1;p=n[h];do return end;end end else if t>=334 then if 333~=t then for f=21,92 do if t>334 then local f,b,u,c,a,o,t,k,s;for t=0,9 do if t>4 then if 7<=t then if 8>t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 7~=t then repeat if 8~=t then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];end end else if 4~=t then repeat if t<6 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if 2<=t then if t>2 then if t~=4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else k=p[_];s=e[k]for p=k+1,p[d]do s=s..e[p];end;e[p[g]]=s;h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t>-1 then repeat if t~=0 then t=0;while t>-1 do if t>=3 then if t>4 then if t~=3 then for p=39,89 do if t<6 then e(o,a);break;end;t=-2;break;end;else e(o,a);end else if t==3 then a=b[c];else o=b[u];end end else if 0<t then if t~=0 then for p=13,96 do if t<2 then u=g;break;end;c=_;break;end;else u=g;end else b=p;end end t=t+1 end h=h+1;p=n[h];break;end;f=p[g]e[f]=e[f](e[f+1])h=h+1;p=n[h];until true;else f=p[g]e[f]=e[f](e[f+1])h=h+1;p=n[h];end end end end break;end;e[p[g]]=e[p[_]][p[d]];break;end;else e[p[g]]=e[p[_]][p[d]];end else e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=r[p[_]];end end else if 339>t then if 337<=t then if 337==t then e[p[g]]=e[p[_]]+p[d];else local l,f,s,a,o,t;for t=0,6 do if t<3 then if 0>=t then e[p[g]]={};h=h+1;p=n[h];else if 1~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end else if 5>t then if 1<=t then repeat if 3~=t then t=0;while t>-1 do if t<3 then if 1>t then l=p;else if 0~=t then repeat if t~=1 then s=_;break;end;f=g;until true;else f=g;end end else if 4>=t then if t<4 then a=l[s];else o=l[f];end else if 5<t then t=-2;else e(o,a);end end end t=t+1 end h=h+1;p=n[h];break;end;t=0;while t>-1 do if t<3 then if 0>=t then l=p;else if-3<t then for p=23,85 do if 2~=t then f=g;break;end;s=_;break;end;else f=g;end end else if 4<t then if 6==t then t=-2;else e(o,a);end else if 1<=t then for p=13,61 do if t<4 then a=l[s];break;end;o=l[f];break;end;else o=l[f];end end end t=t+1 end h=h+1;p=n[h];until true;else t=0;while t>-1 do if t<3 then if 1>t then l=p;else if 0~=t then repeat if t~=1 then s=_;break;end;f=g;until true;else f=g;end end else if 4>=t then if t<4 then a=l[s];else o=l[f];end else if 5<t then t=-2;else e(o,a);end end end t=t+1 end h=h+1;p=n[h];end else if t>=2 then repeat if 6~=t then t=0;while t>-1 do if t<3 then if 1>t then l=p;else if-3~=t then for p=32,66 do if 2>t then f=g;break;end;s=_;break;end;else s=_;end end else if 5<=t then if t~=5 then t=-2;else e(o,a);end else if t==3 then a=l[s];else o=l[f];end end end t=t+1 end h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end end end end end else local s=b[p[_]];local f;local t={};f=o.cejOLMkW({},{__index=function(h,p)local p=t[p];return p[1][p[2]];end,__newindex=function(e,p,h)local p=t[p]p[1][p[2]]=h;end;});for g=1,p[d]do h=h+1;local p=n[h];if p[m]==247 then t[g-1]={e,p[_]};else t[g-1]={l,p[_]};end;u[#u+1]=t;end;e[p[g]]=c(s,f,r);end else if t>=340 then if 340<t then local g=p[g];local d=p[d];local n=g+2 local g={e[g](e[g+1],e[n])};for p=1,d do e[n+p]=g[p];end;local g=g[1]if g then e[n]=g h=p[_];else h=h+1;end;else r[p[_]]=e[p[g]];end else local d;for t=0,2 do if t>=1 then if-1~=t then repeat if t~=2 then e[p[g]]=e[p[_]];h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e[p[g]]=e[p[_]];h=h+1;p=n[h];end else d=p[g]e[d](f(e,d+1,p[_]))h=h+1;p=n[h];end end end end end else if 323>=t then if t<321 then if 318<t then repeat if 320~=t then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if e[p[g]]then h=h+1;else h=p[_];end;break;end;local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);until true;else local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else if t>321 then if 323~=t then local t;for l=0,5 do if l>2 then if l>=4 then if 0~=l then repeat if 5>l then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]]=r[p[_]];end else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if l>0 then if l~=-2 then repeat if l>1 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end else local r;for t=0,9 do if 5<=t then if t>6 then if t>7 then if 4<=t then for l=19,63 do if t<9 then r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]][p[_]]=e[p[d]];break;end;else r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 4~=t then for l=34,84 do if t>5 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t<=1 then if-4<t then repeat if 1~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if t>=3 then if 2<=t then for f=26,57 do if 3~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end end end else e[p[g]]=e[p[_]]+e[p[d]];end end else if t>=327 then if 327<t then if t>328 then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;else e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local r,u,s,o,a,t,l;for t=0,4 do if 2>t then if t==0 then t=0;while t>-1 do if t>2 then if 4<t then if t>=4 then repeat if 5~=t then t=-2;break;end;e(a,o);until true;else t=-2;end else if 3==t then o=r[s];else a=r[u];end end else if t>=1 then if 1==t then u=g;else s=_;end else r=p;end end t=t+1 end h=h+1;p=n[h];else t=0;while t>-1 do if 2<t then if t<5 then if 4~=t then o=r[s];else a=r[u];end else if t>3 then for p=44,90 do if t~=6 then e(a,o);break;end;t=-2;break;end;else e(a,o);end end else if t<=0 then r=p;else if t~=-3 then repeat if t~=1 then s=_;break;end;u=g;until true;else s=_;end end end t=t+1 end h=h+1;p=n[h];end else if 3>t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];else if 3~=t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end end else if 325>t then local t,l;t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];do return end;else if 324<t then for h=14,78 do if 326>t then e[p[g]][e[p[_]]]=e[p[d]];break;end;e[p[g]]=e[p[_]]*p[d];break;end;else e[p[g]]=e[p[_]]*p[d];end end end end end end end else if t<227 then if 204>t then if 193<=t then if 197>=t then if 194<t then if 195<t then if 194<=t then repeat if t<197 then for t=0,9 do if 4>=t then if 1>=t then if 0<t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if t>2 then if t~=0 then for f=45,73 do if 3~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t<7 then if 4~=t then for l=14,63 do if 5<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if t<=7 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if 7~=t then repeat if t~=8 then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];end end end end end break;end;local t;for l=0,4 do if 1>=l then if l~=1 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else if l<3 then e(p[g],p[_]);h=h+1;p=n[h];else if l~=3 then e[p[g]][p[_]]=e[p[d]];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end until true;else for t=0,9 do if 4>=t then if 1>=t then if 0<t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if t>2 then if t~=0 then for f=45,73 do if 3~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t<7 then if 4~=t then for l=14,63 do if 5<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if t<=7 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if 7~=t then repeat if t~=8 then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];end end end end end end else local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]-e[p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]*e[p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]+e[p[d]];h=h+1;p=n[h];t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];end else if t>189 then repeat if t>193 then local l;for t=0,6 do if t<=2 then if t<1 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 1<t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end else if t<=4 then if t>3 then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 4~=t then repeat if t~=5 then e[p[g]]=r[p[_]];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];end end end end break;end;local d;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];d=p[g]e[d]=e[d](e[d+1])h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];until true;else local d;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];d=p[g]e[d]=e[d](e[d+1])h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];end end else if t<=200 then if 198>=t then local p=p[g]e[p]=e[p]()else if 196<t then repeat if 199<t then local t;for r=0,9 do if r>=5 then if 6>=r then if r>4 then repeat if r<6 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if r>=8 then if r~=5 then for d=16,63 do if 9>r then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end else t=p[g]e[t]=e[t](e[t+1])h=h+1;p=n[h];end end else if r>=2 then if r>2 then if r~=0 then repeat if 3<r then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else if r>-4 then for l=49,72 do if 0<r then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end break;end;local g=p[g]local _={e[g](e[g+1])};local h=0;for p=g,p[d]do h=h+1;e[p]=_[h];end until true;else local g=p[g]local _={e[g](e[g+1])};local h=0;for p=g,p[d]do h=h+1;e[p]=_[h];end end end else if 202>t then for t=0,5 do if 2>=t then if t<1 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if-1~=t then repeat if t~=1 then e[p[g]]=e[p[_]]/e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>3 then if t>3 then repeat if t~=4 then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e[p[g]]=p[_]-e[p[d]];h=h+1;p=n[h];end end end else if 198<=t then for r=49,94 do if 203~=t then local h=p[g];do return e[h](f(e,h+1,p[_]))end;break;end;local t,s;for r=0,5 do if r>2 then if r<4 then t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];else if 4~=r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))else e(p[g],p[_]);h=h+1;p=n[h];end end else if 0<r then if-3~=r then repeat if 1<r then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end break;end;else local h=p[g];do return e[h](f(e,h+1,p[_]))end;end end end end else if 186<t then if t<190 then if 188>t then local t;t=p[g]e[t]=e[t](e[t+1])h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else if 185<t then repeat if 189~=t then local t,s;for r=0,6 do if r<=2 then if 1<=r then if r>=-2 then for d=28,83 do if r~=1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end else if r<=4 then if 2<=r then for l=45,84 do if r<4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];break;end;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else if 3~=r then repeat if 5~=r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end end end break;end;local t;for r=0,9 do if r<5 then if r<2 then if r~=-3 then for d=13,86 do if r>0 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end else if r<=2 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else if r==3 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end else if 7<=r then if r<8 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if 5<r then repeat if 8~=r then e(p[g],p[_]);break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);end end else if 6>r then e(p[g],p[_]);h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end until true;else local t,s;for r=0,6 do if r<=2 then if 1<=r then if r>=-2 then for d=28,83 do if r~=1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end else if r<=4 then if 2<=r then for l=45,84 do if r<4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];break;end;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else if 3~=r then repeat if 5~=r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end end end end end else if 190<t then if t~=192 then local r;for t=0,6 do if t<=2 then if 0>=t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else if t~=2 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if t>=5 then if 2<=t then repeat if 6>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];until true;else e[p[g]]=l[p[_]];end else if 3==t then r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end else local t;for r=0,9 do if 5<=r then if r>6 then if 7<r then if r~=8 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if r>3 then repeat if r~=5 then e[p[g]]={};h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](e[t+1])h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end end else if r<2 then if r>-3 then repeat if r~=1 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else if r<3 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if r>2 then repeat if 3<r then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end end end end end end else e[p[g]]=e[p[_]]/p[d];end end else if t>=184 then if t>=185 then if t>185 then e(p[g],p[_]);else local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else local s,r,o,n,l,f,t;local h=0;while h>-1 do if h>2 then if 4<h then if 3<=h then repeat if h<6 then e[f]=t;break;end;h=-2;until true;else h=-2;end else if 3~=h then t=e[l];for p=1+l,n[o]do t=t..e[p];end;else f=n[s];end end else if 0>=h then s=g;r=_;o=d;else if-1<=h then for e=28,78 do if 1<h then l=n[r];break;end;n=p;break;end;else n=p;end end end h=h+1 end end else if t==182 then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else e[p[g]]=c(b[p[_]],nil,r);end end end end else if 214>=t then if 209>t then if t<=205 then if t~=200 then repeat if t~=205 then local r;for t=0,4 do if 2>t then if-2<=t then repeat if 1~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if t>2 then if t>2 then repeat if t>3 then e[p[g]]=l[p[_]];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end end end break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];until true;else local r;for t=0,4 do if 2>t then if-2<=t then repeat if 1~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if t>2 then if t>2 then repeat if t>3 then e[p[g]]=l[p[_]];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end end end end else if t<=206 then do return e[p[g]]end else if t<208 then e[p[g]]=(not e[p[_]]);else local t,o,b,k,u;e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]b,k=a(e[t](f(e,t+1,p[_])))s=k+t-1 u=0;for p=t,s do u=u+1;e[p]=b[u];end;h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,s))h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];l[p[_]]=e[p[g]];h=h+1;p=n[h];do return end;end end end else if 211>=t then if t<210 then e[p[g]][p[_]]=p[d];else if 210~=t then r[p[_]]=e[p[g]];else local t,u,r,l,k;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]u,r=a(e[t](f(e,t+1,p[_])))s=r+t-1 l=0;for p=t,s do l=l+1;e[p]=u[l];end;h=h+1;p=n[h];t=p[g];k=e[t];for p=t+1,s do o.gwTxiYhr(k,e[p])end;end end else if t<=212 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else if t==213 then local l;for t=0,6 do if 2<t then if 4<t then if 2<=t then repeat if 6>t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end else if 3~=t then e(p[g],p[_]);h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 0<t then if-2~=t then repeat if t~=1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end else for t=0,4 do if 1>=t then if 0==t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 2<t then if t>=1 then repeat if t>3 then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end end end else if t<221 then if 218>t then if t<=215 then local t,u,b,k,l,o;e[p[g]]=r[p[_]];h=h+1;p=n[h];t=p[g]e[t]=e[t]()h=h+1;p=n[h];t=p[g];u=e[p[_]];e[t+1]=u;e[t]=u[p[d]];h=h+1;p=n[h];t=p[g]o,k=a(e[t](e[t+1]))s=k+t-1 l=0;for p=t,s do l=l+1;e[p]=o[l];end;h=h+1;p=n[h];t=p[g]o={e[t](f(e,t+1,s))};l=0;for p=t,p[d]do l=l+1;e[p]=o[l];end h=h+1;p=n[h];h=p[_];else if 213~=t then repeat if 217>t then for t=0,6 do if 2<t then if 5<=t then if t>2 then repeat if t~=6 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end else if t>3 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end end else if t>0 then if t==1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end break;end;e[p[g]]=p[_]-e[p[d]];until true;else e[p[g]]=p[_]-e[p[d]];end end else if 219<=t then if 218~=t then for s=18,53 do if t<220 then for t=0,4 do if 1>=t then if t~=0 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 3<=t then if t>=-1 then repeat if 3~=t then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end break;end;local t;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;else for t=0,4 do if 1>=t then if t~=0 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 3<=t then if t>=-1 then repeat if 3~=t then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end else local r;for t=0,6 do if 3<=t then if 5<=t then if t>2 then repeat if t>5 then e[p[g]]=l[p[_]];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if t>2 then for d=20,67 do if 4~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end end else if 0<t then if-3~=t then repeat if t<2 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end end end else if t<224 then if 222>t then local t,u,k,l,b;for r=0,4 do if 1<r then if 3>r then e(p[g],p[_]);h=h+1;p=n[h];else if 4==r then t=p[g];b=e[t];for p=t+1,s do o.gwTxiYhr(b,e[p])end;else t=p[g]u,k=a(e[t](f(e,t+1,p[_])))s=k+t-1 l=0;for p=t,s do l=l+1;e[p]=u[l];end;h=h+1;p=n[h];end end else if 1==r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end end end else if 222<t then local t;for d=0,4 do if 2>d then if 1~=d then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if d>=3 then if d~=4 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e(p[g],p[_]);end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end else local t,f;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];f=e[p[_]];e[t+1]=f;e[t]=f[p[d]];end end else if 224<t then if t~=225 then h=p[_];else local f,s,a,u,o,t;for t=0,9 do if t<=4 then if 1<t then if 3>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if t>=1 then repeat if t<4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;t=0;while t>-1 do if 2>=t then if t>=1 then if-3<=t then repeat if t<2 then s=g;break;end;a=_;until true;else s=g;end else f=p;end else if t>=5 then if t~=5 then t=-2;else e(o,u);end else if 1~=t then repeat if 3~=t then o=f[s];break;end;u=f[a];until true;else o=f[s];end end end t=t+1 end h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>=-1 then repeat if 1>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 6<t then if t>7 then if t~=4 then for l=49,62 do if 8<t then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t>=2 then repeat if t~=5 then t=0;while t>-1 do if t<=2 then if t>0 then if t==1 then s=g;else a=_;end else f=p;end else if t>=5 then if 6~=t then e(o,u);else t=-2;end else if t==3 then u=f[a];else o=f[s];end end end t=t+1 end h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=0;while t>-1 do if t<=2 then if t>0 then if t==1 then s=g;else a=_;end else f=p;end else if t>=5 then if 6~=t then e(o,u);else t=-2;end else if t==3 then u=f[a];else o=f[s];end end end t=t+1 end h=h+1;p=n[h];end end end end end else local s,r,o,u,k,a,t;for t=0,6 do if t<=2 then if t>=1 then if t>=-1 then repeat if 2~=t then s=p[g]e[s]=e[s](f(e,s+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if 5>t then if t>1 then for d=11,63 do if 3<t then t=0;while t>-1 do if 2<t then if t<5 then if t>-1 then for p=48,98 do if 3~=t then a=r[o];break;end;k=r[u];break;end;else a=r[o];end else if t==5 then e(a,k);else t=-2;end end else if t>=1 then if t==2 then u=_;else o=g;end else r=p;end end t=t+1 end h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t~=2 then repeat if t<6 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end end end end end end end end end else if t>=250 then if 260<t then if 266>=t then if t>=264 then if t>=265 then if 266==t then e[p[g]][p[_]]=p[d];else local p=p[g]e[p](f(e,p+1,s))end else local s,f,a,u,o,t;for t=0,9 do if 5<=t then if 7>t then if t>4 then repeat if 6~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t<=7 then e[p[g]]=e[p[_]]-e[p[d]];h=h+1;p=n[h];else if t~=5 then repeat if t~=9 then t=0;while t>-1 do if t>2 then if 5>t then if 4==t then o=s[f];else u=s[a];end else if t==6 then t=-2;else e(o,u);end end else if t<1 then s=p;else if t>=-3 then for p=43,71 do if 1<t then a=_;break;end;f=g;break;end;else f=g;end end end t=t+1 end h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];until true;else t=0;while t>-1 do if t>2 then if 5>t then if 4==t then o=s[f];else u=s[a];end else if t==6 then t=-2;else e(o,u);end end else if t<1 then s=p;else if t>=-3 then for p=43,71 do if 1<t then a=_;break;end;f=g;break;end;else f=g;end end end t=t+1 end h=h+1;p=n[h];end end end else if 1>=t then if t>-2 then for l=35,52 do if 0~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 3<=t then if-1<=t then for f=27,63 do if 3<t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end end else if t<=261 then local t;for r=0,6 do if r<=2 then if 0<r then if 2==r then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end else if 4<r then if r>1 then repeat if 5<r then e[p[g]]=l[p[_]];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];end else if r==4 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end else if t>=258 then repeat if t~=263 then for t=0,6 do if 3>t then if t<=0 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else if 2>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 5>t then if t~=3 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else if t>4 then repeat if 6>t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);h=h+1;p=n[h];end end end end break;end;e[p[g]]=e[p[_]]+p[d];until true;else e[p[g]]=e[p[_]]+p[d];end end end else if 270<=t then if t>=271 then if 267<=t then for r=21,94 do if t<272 then local r;for t=0,7 do if 4>t then if 1>=t then if t>=-3 then repeat if 1~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if 2<t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if t<=5 then if 4==t then e(p[g],p[_]);h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t>=3 then repeat if t~=7 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;r=p[g]e[r]=e[r](f(e,r+1,p[_]))until true;else r=p[g]e[r]=e[r](f(e,r+1,p[_]))end end end end break;end;local t;for r=0,6 do if r<=2 then if 0>=r then e[p[g]]={};h=h+1;p=n[h];else if r<2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if r<5 then if 0<=r then repeat if r>3 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if r>=2 then repeat if 5<r then e[p[g]]=l[p[_]];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end break;end;else local r;for t=0,7 do if 4>t then if 1>=t then if t>=-3 then repeat if 1~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if 2<t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if t<=5 then if 4==t then e(p[g],p[_]);h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t>=3 then repeat if t~=7 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;r=p[g]e[r]=e[r](f(e,r+1,p[_]))until true;else r=p[g]e[r]=e[r](f(e,r+1,p[_]))end end end end end else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else if t<268 then e[p[g]]=e[p[_]]/e[p[d]];else if t>266 then for f=45,58 do if t<269 then if(e[p[g]]==p[d])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];break;end;else e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];end end end end else if t>=255 then if t<=257 then if t<=255 then if(e[p[g]]~=p[d])then h=h+1;else h=p[_];end;else if t>255 then repeat if 256~=t then local h=p[g]e[h]=e[h](f(e,h+1,p[_]))break;end;for t=0,4 do if t<2 then if t~=-2 then for d=26,79 do if t~=1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 2<t then if 4==t then e[p[g]][p[_]]=e[p[d]];else e[p[g]]=(not e[p[_]]);h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end until true;else local h=p[g]e[h]=e[h](f(e,h+1,p[_]))end end else if 259<=t then if t~=256 then for r=13,53 do if 260~=t then local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]/e[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;else local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]/e[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];end else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end end else if 252>t then if 246<=t then repeat if t>250 then e[p[g]]=e[p[_]]-e[p[d]];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else if t>=253 then if 250<=t then repeat if t~=253 then local f;for t=0,9 do if 4<t then if t>6 then if t>7 then if 6<t then repeat if 8<t then h=p[_];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else h=p[_];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 5~=t then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 2>t then if t>=-2 then repeat if t~=0 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t<3 then f=p[g]e[f](e[f+1])h=h+1;p=n[h];else if t~=0 then repeat if t>3 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end end end end end break;end;local l,s,k,r,a,u,o,t;for t=0,6 do if 3>t then if 1>t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];else if t>-3 then repeat if t<2 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if t>=5 then if t~=5 then t=0;while t>-1 do if t>3 then if t<=5 then if 5==t then o=s[k];else u=a[s[r]];end else if 5~=t then for p=32,68 do if t>6 then t=-2;break;end;e[o]=u;break;end;else t=-2;end end else if 2<=t then if t~=-1 then for p=30,79 do if 3>t then r=_;break;end;a=e;break;end;else r=_;end else if t~=0 then k=g;else s=p;end end end t=t+1 end else e[p[g]]=e[p[_]];h=h+1;p=n[h];end else if t~=0 then repeat if 3<t then e[p[g]]={};h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];until true;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end end until true;else local f;for t=0,9 do if 4<t then if t>6 then if t>7 then if 6<t then repeat if 8<t then h=p[_];break;end;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];until true;else h=p[_];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 5~=t then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 2>t then if t>=-2 then repeat if t~=0 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if t<3 then f=p[g]e[f](e[f+1])h=h+1;p=n[h];else if t~=0 then repeat if t>3 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end end end end end end else local t,s;for f=0,9 do if 4>=f then if 1>=f then if f~=-3 then repeat if 0~=f then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;t=p[g]e[t](e[t+1])h=h+1;p=n[h];until true;else t=p[g]e[t](e[t+1])h=h+1;p=n[h];end else if 2>=f then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if 0~=f then for l=44,64 do if f~=3 then t=p[g]e[t](e[t+1])h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else t=p[g]e[t](e[t+1])h=h+1;p=n[h];end end end else if f<=6 then if 5<f then t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if f>7 then if f>=5 then repeat if f~=8 then e[p[g]]=(not e[p[_]]);break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=(not e[p[_]]);end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end end end end end else if 237>=t then if 231<t then if t<=234 then if t>=233 then if 234~=t then local r;for t=0,4 do if 2<=t then if 2<t then if t>=1 then for f=12,90 do if t>3 then e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else r=p[g]e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end else if-1~=t then repeat if t~=1 then e[p[g]]=e[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]];h=h+1;p=n[h];end end end else local l,f,s,a,o,t;for t=0,6 do if 3<=t then if t<=4 then if 4~=t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 1<=t then repeat if 6~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 1>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if-3<=t then for r=46,71 do if 1<t then t=0;while t>-1 do if 2>=t then if 0<t then if t~=0 then repeat if t>1 then s=_;break;end;f=g;until true;else s=_;end else l=p;end else if 4>=t then if t>0 then for p=43,94 do if 3~=t then o=l[f];break;end;a=l[s];break;end;else o=l[f];end else if t==5 then e(o,a);else t=-2;end end end t=t+1 end h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end else e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];end else if t<236 then for t=0,4 do if 2>t then if-1<=t then for d=38,85 do if t~=1 then e[p[g]]=(p[_]~=0);h=h+1;p=n[h];break;end;for p=p[g],p[_]do e[p]=nil;end;h=h+1;p=n[h];break;end;else e[p[g]]=(p[_]~=0);h=h+1;p=n[h];end else if 3<=t then if 3==t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end else if 232<t then repeat if 236<t then local h=p[g]e[h](f(e,h+1,p[_]))break;end;local l;for t=0,6 do if 3>t then if 0>=t then e(p[g],p[_]);h=h+1;p=n[h];else if 0~=t then repeat if t<2 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end end else if 4>=t then if 0~=t then for d=42,82 do if t~=4 then e(p[g],p[_]);h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if 5~=t then e[p[g]][p[_]]=p[d];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end until true;else local l;for t=0,6 do if 3>t then if 0>=t then e(p[g],p[_]);h=h+1;p=n[h];else if 0~=t then repeat if t<2 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end end else if 4>=t then if 0~=t then for d=42,82 do if t~=4 then e(p[g],p[_]);h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if 5~=t then e[p[g]][p[_]]=p[d];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end end end end else if t>228 then if 230<=t then if 228<t then repeat if 231>t then local t;for r=0,5 do if r>=3 then if r<=3 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else if r>=2 then for d=34,89 do if 5>r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];break;end;else e[p[g]]=l[p[_]];end end else if r>=1 then if-1<r then repeat if r~=2 then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end break;end;if e[p[g]]then h=h+1;else h=p[_];end;until true;else local t;for r=0,5 do if r>=3 then if r<=3 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else if r>=2 then for d=34,89 do if 5>r then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];break;end;else e[p[g]]=l[p[_]];end end else if r>=1 then if-1<r then repeat if r~=2 then e(p[g],p[_]);h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end end else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](e[t+1])end else if t>=223 then for s=18,64 do if t~=227 then local t,o,s;t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]o={e[t](e[t+1])};s=0;for p=t,p[d]do s=s+1;e[p]=o[s];end h=h+1;p=n[h];h=p[_];break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];end end end else if t>243 then if t<247 then if 245>t then e[p[g]][e[p[_]]]=e[p[d]];else if t>243 then for s=48,69 do if t>245 then local s;for t=0,9 do if t>4 then if 7<=t then if t>=8 then if t~=4 then for d=17,73 do if 9>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];break;end;else e[p[g]]=l[p[_]];end else s=p[g]e[s]=e[s](f(e,s+1,p[_]))h=h+1;p=n[h];end else if t~=6 then s=p[g]e[s]=e[s](f(e,s+1,p[_]))h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end end else if 2<=t then if t>2 then if t>3 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>0 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end end break;end;local t,r;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;else local t,r;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end else if 247<t then if 246~=t then for h=32,56 do if t<249 then for p=p[g],p[_]do e[p]=nil;end;break;end;e[p[g]]=(p[_]~=0);break;end;else e[p[g]]=(p[_]~=0);end else e[p[g]]=e[p[_]];end end else if 241>t then if t<=238 then local t;for d=0,2 do if d<1 then t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else if 0~=d then for t=45,56 do if 1<d then e(p[g],p[_]);break;end;e[p[g]]=e[p[_]];h=h+1;p=n[h];break;end;else e(p[g],p[_]);end end end else if 238<=t then for s=10,86 do if t<240 then local u,c,a,k,b,s,t,o;s=0;while s>-1 do if s>=3 then if 5<=s then if 6>s then e(b,k);else s=-2;end else if s==4 then b=u[c];else k=u[a];end end else if 0<s then if s~=-1 then repeat if 1~=s then a=_;break;end;c=g;until true;else a=_;end else u=p;end end s=s+1 end h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;for t=0,4 do if 1<t then if t<=2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t~=1 then repeat if 4>t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;if(e[p[g]]~=e[p[d]])then h=h+1;else h=p[_];end;until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if-2<t then for l=36,94 do if 0<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end break;end;else local a,c,o,k,b,s,t,u;s=0;while s>-1 do if s>=3 then if 5<=s then if 6>s then e(b,k);else s=-2;end else if s==4 then b=a[c];else k=a[o];end end else if 0<s then if s~=-1 then repeat if 1~=s then o=_;break;end;c=g;until true;else o=_;end else a=p;end end s=s+1 end h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];u=e[p[_]];e[t+1]=u;e[t]=u[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];end end else if 241<t then if 239~=t then for f=14,52 do if t~=242 then e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];do return end;break;end;e[p[g]]=r[p[_]];break;end;else e[p[g]]=r[p[_]];end else local t,u,b,k,l,o;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];u=e[p[_]];e[t+1]=u;e[t]=u[p[d]];h=h+1;p=n[h];t=p[g]o,k=a(e[t](e[t+1]))s=k+t-1 l=0;for p=t,s do l=l+1;e[p]=o[l];end;h=h+1;p=n[h];t=p[g]o={e[t](f(e,t+1,s))};l=0;for p=t,p[d]do l=l+1;e[p]=o[l];end h=h+1;p=n[h];h=p[_];end end end end end end end else if 90<t then if 135<t then if t<159 then if t<=146 then if 141>t then if t<=137 then if t~=132 then for l=41,83 do if 136~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];break;end;local p=p[g];s=p+y-1;for h=p,s do local p=k[h-p];e[h]=p;end;break;end;else local p=p[g];s=p+y-1;for h=p,s do local p=k[h-p];e[h]=p;end;end else if t>138 then if 140==t then e[p[g]]();else local u,o,f,s,b,k,a,t;e[p[g]]=l[p[_]];h=h+1;p=n[h];u=p[g];o=e[p[_]];e[u+1]=o;e[u]=o[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=0;while t>-1 do if t>2 then if t>=5 then if 1<=t then repeat if 5~=t then t=-2;break;end;e(a,k);until true;else t=-2;end else if t~=1 then repeat if 3~=t then a=f[s];break;end;k=f[b];until true;else a=f[s];end end else if t>0 then if-2~=t then repeat if 2>t then s=g;break;end;b=_;until true;else s=g;end else f=p;end end t=t+1 end h=h+1;p=n[h];e[p[g]]=r[p[_]];end else local t;for l=0,4 do if l<2 then if l<1 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else if l>=3 then if l>-1 then repeat if l~=4 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end end else if 144>t then if 142<=t then if t<143 then local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;else local f,s;for t=0,6 do if 3<=t then if 5<=t then if t~=3 then repeat if t~=6 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]]=r[p[_]];end else if 1<t then for l=36,98 do if t~=3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end else if 1<=t then if-3~=t then for r=48,62 do if 1~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;f=p[g];s=e[p[_]];e[f+1]=s;e[f]=s[p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end else for t=0,6 do if t>2 then if 5<=t then if t>5 then e(p[g],p[_]);else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 3==t then e(p[g],p[_]);h=h+1;p=n[h];else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end else if t>=1 then if t~=-3 then for f=42,94 do if 1~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end end end end else if t<145 then local f;for t=0,5 do if 2<t then if 4>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if 3<=t then for d=26,64 do if 4<t then h=p[_];break;end;f=p[g]e[f](e[f+1])h=h+1;p=n[h];break;end;else h=p[_];end end else if t<1 then l[p[_]]=e[p[g]];h=h+1;p=n[h];else if t>=-2 then for f=35,71 do if t<2 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end else if t>143 then repeat if t~=145 then local t,s;for r=0,9 do if 5<=r then if 6>=r then if r>=1 then repeat if r~=5 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if r>7 then if r~=6 then repeat if r~=8 then t=p[g]e[t](e[t+1])break;end;t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];until true;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end else if 2>r then if 0==r then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if r<3 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if 0~=r then for t=46,60 do if r>3 then e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end break;end;local d,u,o,t;for r=0,6 do if r>2 then if r>=5 then if 4~=r then repeat if 6>r then e(p[g],p[_]);h=h+1;p=n[h];break;end;d=p[g]u,o=a(e[d](f(e,d+1,p[_])))s=o+d-1 t=0;for p=d,s do t=t+1;e[p]=u[t];end;until true;else d=p[g]u,o=a(e[d](f(e,d+1,p[_])))s=o+d-1 t=0;for p=d,s do t=t+1;e[p]=u[t];end;end else if-1<r then repeat if r~=4 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end end else if r<1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if r<2 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end end end end until true;else local t,s;for r=0,9 do if 5<=r then if 6>=r then if r>=1 then repeat if r~=5 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else if r>7 then if r~=6 then repeat if r~=8 then t=p[g]e[t](e[t+1])break;end;t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];until true;else t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end else if 2>r then if 0==r then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if r<3 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if 0~=r then for t=46,60 do if r>3 then e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end end end end end else if t>152 then if t<=155 then if 153>=t then local l,r,s,o,a,t,u;t=0;while t>-1 do if t<=2 then if t<1 then l=p;else if t~=1 then s=_;else r=g;end end else if 5>t then if-1<t then repeat if 3~=t then a=l[r];break;end;o=l[s];until true;else a=l[r];end else if 3<t then repeat if t~=5 then t=-2;break;end;e(a,o);until true;else t=-2;end end end t=t+1 end h=h+1;p=n[h];t=0;while t>-1 do if 2>=t then if t<1 then l=p;else if t>1 then s=_;else r=g;end end else if 5<=t then if 2~=t then repeat if 6~=t then e(a,o);break;end;t=-2;until true;else t=-2;end else if 1~=t then for p=10,97 do if t~=3 then a=l[r];break;end;o=l[s];break;end;else o=l[s];end end end t=t+1 end h=h+1;p=n[h];u=p[g]e[u]=e[u](f(e,u+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]={};else if 153<=t then for n=35,82 do if t<155 then l[p[_]]=e[p[g]];break;end;if e[p[g]]then h=h+1;else h=p[_];end;break;end;else if e[p[g]]then h=h+1;else h=p[_];end;end end else if 157>t then e[p[g]]=e[p[_]]-e[p[d]];else if t>=155 then for r=40,85 do if t~=157 then for t=0,7 do if t>=4 then if 5>=t then if 3<t then repeat if 4~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 5<=t then for l=11,96 do if t<7 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;if e[p[g]]then h=h+1;else h=p[_];end;break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>1 then if t>-1 then repeat if 2~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if-4<=t then repeat if t~=1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end break;end;local o,s,a,u,k,t,r;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=0;while t>-1 do if t<=2 then if t<1 then o=p;else if 0<t then for p=34,72 do if t>1 then a=_;break;end;s=g;break;end;else s=g;end end else if 5>t then if t<4 then u=o[a];else k=o[s];end else if t~=6 then e(k,u);else t=-2;end end end t=t+1 end h=h+1;p=n[h];r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);break;end;else for t=0,7 do if t>=4 then if 5>=t then if 3<t then repeat if 4~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 5<=t then for l=11,96 do if t<7 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;if e[p[g]]then h=h+1;else h=p[_];end;break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>1 then if t>-1 then repeat if 2~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if-4<=t then repeat if t~=1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end end end end end else if 149<t then if 151>t then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];else if t>=147 then for s=47,84 do if t~=151 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];h=p[_];break;end;local t;for r=0,6 do if 2>=r then if 1>r then e(p[g],p[_]);h=h+1;p=n[h];else if r==2 then e(p[g],p[_]);h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end end else if r>=5 then if r>=3 then for d=45,85 do if 5<r then e[p[g]]=l[p[_]];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];end else if 4==r then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end end break;end;else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];h=p[_];end end else if t<=147 then e[p[g]]=e[p[_]][p[d]];else if 144~=t then for h=37,72 do if 149~=t then local p=p[g]e[p](e[p+1])break;end;local h=p[g]e[h](f(e,h+1,p[_]))break;end;else local p=p[g]e[p](e[p+1])end end end end end else if t<=169 then if 163>=t then if t<161 then if 159<t then local l;for t=0,4 do if 2<=t then if t<=2 then e(p[g],p[_]);h=h+1;p=n[h];else if 4~=t then e(p[g],p[_]);h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))end end else if-4<=t then for l=39,87 do if t~=0 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end else local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else if 162<=t then if 158<t then repeat if t<163 then for t=0,6 do if t<=2 then if 1>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if t>1 then e[p[g]]=l[p[_]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 4>=t then if 0<t then for d=41,93 do if t>3 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end else if 5~=t then e(p[g],p[_]);else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end break;end;local t;for l=0,5 do if l>=3 then if l>3 then if 3<=l then repeat if 4<l then t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end else e(p[g],p[_]);h=h+1;p=n[h];end else if l>=1 then if l>=-2 then for d=35,62 do if l~=1 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end until true;else local t;for l=0,5 do if l>=3 then if l>3 then if 3<=l then repeat if 4<l then t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else t=p[g]e[t]=e[t](f(e,t+1,p[_]))end else e(p[g],p[_]);h=h+1;p=n[h];end else if l>=1 then if l>=-2 then for d=35,62 do if l~=1 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end else for t=0,4 do if 2>t then if t==1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>2 then if t~=0 then for l=26,67 do if 3~=t then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end else if t>=167 then if 168>t then local t,l;for s=0,5 do if s>2 then if s>3 then if s~=5 then t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];else if(e[p[g]]~=e[p[d]])then h=h+1;else h=p[_];end;end else e(p[g],p[_]);h=h+1;p=n[h];end else if 1<=s then if-1~=s then repeat if 1~=s then t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end else if 168<t then e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);else if(e[p[g]]==p[d])then h=h+1;else h=p[_];end;end end else if 164<t then if 161~=t then repeat if t>165 then local l;for t=0,6 do if t>=3 then if t<=4 then if t>=-1 then repeat if t>3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t~=5 then e(p[g],p[_]);else e(p[g],p[_]);h=h+1;p=n[h];end end else if 1<=t then if-3<t then repeat if 1<t then e[p[g]]={};h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](e[l+1])h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end break;end;e[p[g]]=(p[_]~=0);h=h+1;until true;else local l;for t=0,6 do if t>=3 then if t<=4 then if t>=-1 then repeat if t>3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t~=5 then e(p[g],p[_]);else e(p[g],p[_]);h=h+1;p=n[h];end end else if 1<=t then if-3<t then repeat if 1<t then e[p[g]]={};h=h+1;p=n[h];break;end;l=p[g]e[l]=e[l](e[l+1])h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end end else local n=p[g];local _={};for p=1,#u do local p=u[p];for h=0,#p do local p=p[h];local g=p[1];local h=p[2];if g==e and h>=n then _[h]=g[h];p[1]=_;end;end;end;end end end else if 176>t then if t<173 then if 170<t then if t~=169 then repeat if t<172 then local l,o,a,s,f,t;for t=0,6 do if t<=2 then if 0<t then if t>=-2 then repeat if t<2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;t=0;while t>-1 do if 2<t then if 5<=t then if t>=1 then for p=26,88 do if t~=5 then t=-2;break;end;e(f,s);break;end;else e(f,s);end else if t>-1 then repeat if 4~=t then s=l[a];break;end;f=l[o];until true;else f=l[o];end end else if t>=1 then if t~=0 then repeat if t>1 then a=_;break;end;o=g;until true;else a=_;end else l=p;end end t=t+1 end h=h+1;p=n[h];until true;else t=0;while t>-1 do if 2<t then if 5<=t then if t>=1 then for p=26,88 do if t~=5 then t=-2;break;end;e(f,s);break;end;else e(f,s);end else if t>-1 then repeat if 4~=t then s=l[a];break;end;f=l[o];until true;else f=l[o];end end else if t>=1 then if t~=0 then repeat if t>1 then a=_;break;end;o=g;until true;else a=_;end else l=p;end end t=t+1 end h=h+1;p=n[h];end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 5>t then if 4>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 4<=t then repeat if 6~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end end end end break;end;local h=p[g]local g,p=a(e[h](f(e,h+1,p[_])))s=p+h-1 local p=0;for h=h,s do p=p+1;e[h]=g[p];end;until true;else local f,a,s,o,l,t;for t=0,6 do if t<=2 then if 0<t then if t>=-2 then repeat if t<2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;t=0;while t>-1 do if 2<t then if 5<=t then if t>=1 then for p=26,88 do if t~=5 then t=-2;break;end;e(l,o);break;end;else e(l,o);end else if t>-1 then repeat if 4~=t then o=f[s];break;end;l=f[a];until true;else l=f[a];end end else if t>=1 then if t~=0 then repeat if t>1 then s=_;break;end;a=g;until true;else s=_;end else f=p;end end t=t+1 end h=h+1;p=n[h];until true;else t=0;while t>-1 do if 2<t then if 5<=t then if t>=1 then for p=26,88 do if t~=5 then t=-2;break;end;e(l,o);break;end;else e(l,o);end else if t>-1 then repeat if 4~=t then o=f[s];break;end;l=f[a];until true;else l=f[a];end end else if t>=1 then if t~=0 then repeat if t>1 then s=_;break;end;a=g;until true;else s=_;end else f=p;end end t=t+1 end h=h+1;p=n[h];end else e[p[g]]=r[p[_]];h=h+1;p=n[h];end else if 5>t then if 4>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 4<=t then repeat if 6~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);until true;else e(p[g],p[_]);end end end end end else local l;for t=0,6 do if 2<t then if t<=4 then if 4>t then e(p[g],p[_]);h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if 2~=t then repeat if 5~=t then e[p[g]]=r[p[_]];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end else if t<1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else if 0<=t then repeat if 1~=t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end else if 173>=t then local t,o;for s=0,7 do if 4<=s then if s>5 then if s>=5 then for t=14,93 do if s~=7 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]][p[_]]=p[d];break;end;else e[p[g]][p[_]]=p[d];end else if 4==s then e(p[g],p[_]);h=h+1;p=n[h];else t=p[g]e[t](e[t+1])h=h+1;p=n[h];end end else if 2<=s then if s==3 then e[p[g]]=r[p[_]];h=h+1;p=n[h];else t=p[g]e[t](e[t+1])h=h+1;p=n[h];end else if s~=-2 then for l=37,98 do if s>0 then t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];break;end;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;else t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];end end end end else if t>174 then local t,u,o,l;t=p[g]u,o=a(e[t](e[t+1]))s=o+t-1 l=0;for p=t,s do l=l+1;e[p]=u[l];end;h=h+1;p=n[h];t=p[g]u,o=a(e[t](f(e,t+1,s)))s=o+t-1 l=0;for p=t,s do l=l+1;e[p]=u[l];end;h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,s))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else local t;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]/e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t]=e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](e[t+1])end end end else if t>178 then if t>179 then if 179<=t then for o=26,64 do if 181~=t then local t,s;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];t=p[g];s=t+y-1;for p=t,s do r=k[p-t];e[p]=r;end;h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,s))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;break;end;else local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];t=p[g];s=t+y-1;for p=t,s do r=k[p-t];e[p]=r;end;h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,s))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;end else if(e[p[g]]~=p[d])then h=h+1;else h=p[_];end;end else if 176<t then if 174<=t then repeat if t~=177 then local o,u,a,s,f,t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=0;while t>-1 do if 2<t then if t>=5 then if 1<t then for p=30,64 do if t>5 then t=-2;break;end;e(f,s);break;end;else e(f,s);end else if t<4 then s=o[a];else f=o[u];end end else if 0<t then if 2~=t then u=g;else a=_;end else o=p;end end t=t+1 end h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;for t=0,6 do if 3<=t then if t>=5 then if 2<=t then for l=25,69 do if 5<t then e[p[g]]=e[p[_]]-e[p[d]];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 0<t then if 0<=t then repeat if 2~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end until true;else for t=0,6 do if 3<=t then if t>=5 then if 2<=t then for l=25,69 do if 5<t then e[p[g]]=e[p[_]]-e[p[d]];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 0<t then if 0<=t then repeat if 2~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end else e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end end end end end else if t>112 then if t<=123 then if 117>=t then if 114>=t then if 114>t then local p=p[g]e[p](e[p+1])else local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else if 115>=t then local s,u,k,o,a,t,l;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=0;while t>-1 do if 2<t then if 4>=t then if 4==t then a=s[u];else o=s[k];end else if t~=6 then e(a,o);else t=-2;end end else if 0>=t then s=p;else if 2>t then u=g;else k=_;end end end t=t+1 end h=h+1;p=n[h];l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else if t~=116 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];do return end;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end end end else if 120>=t then if t>118 then if t>117 then repeat if 120>t then local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end break;end;l[p[_]]=e[p[g]];until true;else l[p[_]]=e[p[g]];end else e(p[g],p[_]);end else if t>=122 then if t~=123 then local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);else local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local t,l;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];do return end;end end end else if t<=129 then if t>126 then if 127<t then if 125<=t then for h=46,93 do if t<129 then do return end;break;end;local p=p[g]e[p]=e[p](f(e,p+1,s))break;end;else do return end;end else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;end else if 124>=t then e[p[g]]=-e[p[_]];else if 122~=t then repeat if t<126 then local l;for t=0,6 do if 2<t then if 5<=t then if 5~=t then e(p[g],p[_]);else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>=-1 then repeat if 3<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end end else if t>=1 then if-2<=t then repeat if 1~=t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=e[p[_]];h=h+1;p=n[h];end end end break;end;local r;for t=0,6 do if 2<t then if t>4 then if 4<t then for d=32,96 do if t~=5 then e(p[g],p[_]);break;end;e(p[g],p[_]);h=h+1;p=n[h];break;end;else e(p[g],p[_]);h=h+1;p=n[h];end else if t>0 then for d=39,58 do if t<4 then e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end else if 1>t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else if t>=-1 then repeat if 2~=t then r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end end end end until true;else local l;for t=0,6 do if 2<t then if 5<=t then if 5~=t then e(p[g],p[_]);else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>=-1 then repeat if 3<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]={};h=h+1;p=n[h];until true;else e[p[g]]={};h=h+1;p=n[h];end end else if t>=1 then if-2<=t then repeat if 1~=t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else e[p[g]]=e[p[_]];h=h+1;p=n[h];end end end end end end else if t<133 then if t>=131 then if t~=128 then repeat if t<132 then local t,o,a,s;for f=0,4 do if f>=2 then if 3>f then t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];else if f==4 then h=p[_];else t=p[g]a={e[t](e[t+1])};s=0;for p=t,p[d]do s=s+1;e[p]=a[s];end h=h+1;p=n[h];end end else if f>=-4 then repeat if f~=1 then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];until true;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end break;end;local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];until true;else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];end else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];end else if t<134 then for t=0,6 do if t>2 then if 5>t then if t~=4 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];end else if 3~=t then for l=12,89 do if t~=6 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if 1<=t then if t~=-3 then for f=47,73 do if t<2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end else if t~=131 then for l=48,74 do if 135>t then for t=0,9 do if 4>=t then if 1<t then if t<=2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 2<=t then repeat if 3<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>-3 then for d=37,94 do if t~=1 then e[p[g]]={};h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]={};h=h+1;p=n[h];end end else if t>6 then if t>7 then if t>6 then repeat if 9~=t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 2<=t then repeat if 6>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end break;end;local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);break;end;else for t=0,9 do if 4>=t then if 1<t then if t<=2 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 2<=t then repeat if 3<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end else if t>-3 then for d=37,94 do if t~=1 then e[p[g]]={};h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]={};h=h+1;p=n[h];end end else if t>6 then if t>7 then if t>6 then repeat if 9~=t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 2<=t then repeat if 6>t then e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end end end end end end end else if t>=102 then if 106>=t then if t<104 then if t>=101 then repeat if t~=102 then local p=p[g]local g,h=a(e[p](f(e,p+1,s)))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);until true;else local p=p[g]local g,h=a(e[p](f(e,p+1,s)))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;end else if 105>t then if(e[p[g]]<p[d])then h=h+1;else h=p[_];end;else if 104~=t then for r=43,90 do if t>105 then for t=0,4 do if 1>=t then if 0~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if t>2 then if-1<t then for l=13,64 do if t>3 then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end end end break;end;local t;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);break;end;else local t;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);end end end else if t<110 then if 108<=t then if 104~=t then for s=38,87 do if 108~=t then local t;t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);break;end;local t;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];break;end;else local t;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];end else if not e[p[g]]then h=h+1;else h=p[_];end;end else if t>110 then if t~=107 then repeat if t>111 then if not e[p[g]]then h=h+1;else h=p[_];end;break;end;local l,r,s,o,u,a,t;for t=0,6 do if t>2 then if 5>t then if t~=3 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else e[p[g]][p[_]]=p[d];h=h+1;p=n[h];end else if 1<=t then repeat if 5~=t then t=0;while t>-1 do if 3>t then if 1>t then r=p;else if 2==t then o=_;else s=g;end end else if t>=5 then if 5<t then t=-2;else e(a,u);end else if 4>t then u=r[o];else a=r[s];end end end t=t+1 end break;end;l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];until true;else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end else if t<1 then e(p[g],p[_]);h=h+1;p=n[h];else if t>=-1 then repeat if 2>t then l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];until true;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end until true;else if not e[p[g]]then h=h+1;else h=p[_];end;end else e[p[g]][p[_]]=e[p[d]];end end end else if 96<=t then if t<99 then if t<=96 then e[p[g]]=e[p[_]]-p[d];else if 93~=t then repeat if 98>t then local p=p[g]local g,h=a(e[p](e[p+1]))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;break;end;local p=p[g];do return e[p](f(e,p+1,s))end;until true;else local p=p[g]local g,h=a(e[p](e[p+1]))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;end end else if t<=99 then local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];do return e[p[g]]end h=h+1;p=n[h];do return end;else if t~=97 then repeat if 101>t then local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])break;end;local t,b,u,l,k;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]b,u=a(e[t](f(e,t+1,p[_])))s=u+t-1 l=0;for p=t,s do l=l+1;e[p]=b[l];end;h=h+1;p=n[h];t=p[g];k=e[t];for p=t+1,s do o.gwTxiYhr(k,e[p])end;until true;else local t,b,k,l,u;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]b,k=a(e[t](f(e,t+1,p[_])))s=k+t-1 l=0;for p=t,s do l=l+1;e[p]=b[l];end;h=h+1;p=n[h];t=p[g];u=e[t];for p=t+1,s do o.gwTxiYhr(u,e[p])end;end end end else if t>=93 then if 93<t then if 93~=t then for l=48,87 do if 95~=t then local l;for t=0,6 do if t<=2 then if 1>t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t>=0 then repeat if t~=1 then e[p[g]]=e[p[_]]-e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];until true;else e[p[g]]=e[p[_]]-e[p[d]];h=h+1;p=n[h];end end else if 5>t then if 4==t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e(p[g],p[_]);h=h+1;p=n[h];end else if t<6 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))end end end end break;end;h=p[_];break;end;else h=p[_];end else local r;for t=0,9 do if 4<t then if t<7 then if t>5 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if t<8 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];else if t<9 then r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];else e[p[g]]={};end end end else if t<2 then if t>=-1 then repeat if t>0 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if t>2 then if t==4 then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];end else e(p[g],p[_]);h=h+1;p=n[h];end end end end end else if t>88 then repeat if 91~=t then for t=0,4 do if t<2 then if t>-2 then for l=33,78 do if 1>t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end else if 2>=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if t>-1 then for l=16,93 do if 3~=t then if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];break;end;else if(e[p[g]]==e[p[d]])then h=h+1;else h=p[_];end;end end end end break;end;local h=p[g]e[h]=e[h](f(e,h+1,p[_]))until true;else local h=p[g]e[h]=e[h](f(e,h+1,p[_]))end end end end end end else if t>44 then if t<68 then if t>=56 then if t<62 then if 58<t then if t<60 then local p=p[g];local h=e[p];for p=p+1,s do o.gwTxiYhr(h,e[p])end;else if t~=58 then repeat if t~=60 then e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];break;end;local t;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](e[t+1])h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;until true;else e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];end end else if t>56 then if 53~=t then for s=13,55 do if 58>t then local t;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;break;end;local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];break;end;else local t;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;end else local t,r;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g]e[t](f(e,t+1,p[_]))end end else if t<=64 then if t<63 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]/p[d];h=h+1;p=n[h];e[p[g]]=-e[p[_]];h=h+1;p=n[h];e(p[g],p[_]);else if 62<=t then for l=20,70 do if t~=64 then local t,l;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])break;end;e[p[g]]=(not e[p[_]]);break;end;else local t,l;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])end end else if t>65 then if 62<=t then for r=24,67 do if t~=66 then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);break;end;e[p[g]]=l[p[_]];break;end;else e[p[g]]=l[p[_]];end else if(e[p[g]]<p[d])then h=h+1;else h=p[_];end;end end end else if t>49 then if t>52 then if t<54 then e[p[g]]=e[p[_]]*p[d];else if 50~=t then for l=38,67 do if 54<t then local h=p[g];local g=e[h];for p=h+1,p[_]do o.gwTxiYhr(g,e[p])end;break;end;local t,l;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])break;end;else local t,l;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])end end else if t<51 then local p=p[g];do return f(e,p,s)end;else if t~=52 then local f,t;e[p[g]]=l[p[_]];h=h+1;p=n[h];f=p[g];t=e[p[_]];e[f+1]=t;e[f]=t[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];else local t,l;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e(p[g],p[_]);end end end else if 47<=t then if t>47 then if 48~=t then local t,r;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];r=e[p[_]];e[t+1]=r;e[t]=r[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])else e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);end else if t>41 then for l=41,55 do if t<46 then e[p[g]]=e[p[_]]-p[d];break;end;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);break;end;else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end end end end else if 78<t then if t>=85 then if 87>=t then if t>=86 then if t>=82 then for s=27,73 do if 86~=t then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local t;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);end else if 89>t then for p=p[g],p[_]do e[p]=nil;end;else if 90>t then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);else e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][e[p[d]]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end end end else if 82>t then if 80>t then local t;e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];else if 78<t then repeat if t>80 then if(e[p[g]]~=e[p[d]])then h=h+1;else h=p[_];end;break;end;local t,l;e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e(p[g],p[_]);until true;else if(e[p[g]]~=e[p[d]])then h=h+1;else h=p[_];end;end end else if 82<t then if t~=83 then local t;e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if not e[p[g]]then h=h+1;else h=p[_];end;else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]-e[p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else do return end;end end end else if 73>t then if 70>t then if t<69 then local t,f;e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];f=e[p[_]];e[t+1]=f;e[t]=f[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];else local o,u,t,b,c,k;o=p[_];u=e[o]for p=o+1,p[d]do u=u..e[p];end;e[p[g]]=u;h=h+1;p=n[h];t=p[g]b,c=a(e[t](e[t+1]))s=c+t-1 k=0;for p=t,s do k=k+1;e[p]=b[k];end;h=h+1;p=n[h];t=p[g]e[t](f(e,t+1,s))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];t=p[g];o=e[p[_]];e[t+1]=o;e[t]=o[p[d]];h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else if t>=71 then if 70<=t then for l=15,86 do if t~=71 then for t=0,4 do if 2<=t then if t<3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 4~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];end end else if 0<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end break;end;local p=p[g]e[p]=e[p](e[p+1])break;end;else for t=0,4 do if 2<=t then if t<3 then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else if 4~=t then e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];end end else if 0<t then e[p[g]]=r[p[_]];h=h+1;p=n[h];else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end end end end else local t;e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];do return end;end end else if t<76 then if 74>t then for t=0,4 do if 2>t then if 1~=t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 3>t then e[p[g]]=l[p[_]];h=h+1;p=n[h];else if 0<=t then repeat if 4>t then e(p[g],p[_]);h=h+1;p=n[h];break;end;e[p[g]]=e[p[_]][p[d]];until true;else e[p[g]]=e[p[_]][p[d]];end end end end else if 75==t then e[p[g]]=e[p[_]]+e[p[d]];else local n=e[p[d]];if not n then h=h+1;else e[p[g]]=n;h=p[_];end;end end else if t<77 then e[p[g]][p[_]]=e[p[d]];else if 78~=t then e[p[g]]=-e[p[_]];else local p=p[g];local h=e[p];for p=p+1,s do o.gwTxiYhr(h,e[p])end;end end end end end end else if t<=21 then if t<=10 then if t<5 then if t<=1 then if t<1 then local t,l;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];t=p[g];l=e[t];for p=t+1,p[_]do o.gwTxiYhr(l,e[p])end;else for d=0,4 do if 1<d then if d<3 then e[p[g]]=(p[_]~=0);h=h+1;p=n[h];else if 1<d then repeat if 4~=d then e[p[g]]=(p[_]~=0);h=h+1;p=n[h];break;end;if not e[p[g]]then h=h+1;else h=p[_];end;until true;else e[p[g]]=(p[_]~=0);h=h+1;p=n[h];end end else if d>=-2 then repeat if 1>d then e[p[g]]=(p[_]~=0);h=h+1;p=n[h];break;end;e[p[g]]=(p[_]~=0);h=h+1;p=n[h];until true;else e[p[g]]=(p[_]~=0);h=h+1;p=n[h];end end end end else if 3>t then local t;for l=0,4 do if 2>l then if-4<=l then repeat if l~=1 then e(p[g],p[_]);h=h+1;p=n[h];break;end;e(p[g],p[_]);h=h+1;p=n[h];until true;else e(p[g],p[_]);h=h+1;p=n[h];end else if l>2 then if 4==l then t=p[g]e[t]=e[t](f(e,t+1,p[_]))else e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];end else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end else if 2~=t then for h=12,76 do if 4>t then e[p[g]]=e[p[_]]*e[p[d]];break;end;e[p[g]]=e[p[_]]*e[p[d]];break;end;else e[p[g]]=e[p[_]]*e[p[d]];end end end else if t<8 then if t<6 then local o,k,s,a,u,t,r;for t=0,4 do if t<2 then if t==1 then e(p[g],p[_]);h=h+1;p=n[h];else t=0;while t>-1 do if t<=2 then if 0<t then if t~=-1 then for p=18,72 do if t<2 then k=g;break;end;s=_;break;end;else s=_;end else o=p;end else if 4>=t then if 0<t then repeat if t>3 then u=o[k];break;end;a=o[s];until true;else a=o[s];end else if 2<t then for p=47,72 do if t~=5 then t=-2;break;end;e(u,a);break;end;else t=-2;end end end t=t+1 end h=h+1;p=n[h];end else if t<3 then r=p[g]e[r]=e[r](f(e,r+1,p[_]))h=h+1;p=n[h];else if 0~=t then for f=11,80 do if 4>t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];break;end;else e[p[g]]=l[p[_]];end end end end else if 7>t then local t;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e(p[g],p[_]);else local n=p[g];local d=p[d];local g=n+2 local n={e[n](e[n+1],e[g])};for p=1,d do e[g+p]=n[p];end;local n=n[1]if n then e[g]=n h=p[_];else h=h+1;end;end end else if t<=8 then local t;for d=0,4 do if d>=2 then if 2<d then if-1~=d then for t=15,63 do if 3<d then e(p[g],p[_]);break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else e[p[g]]=l[p[_]];h=h+1;p=n[h];end else if 0~=d then e[p[g]]=l[p[_]];h=h+1;p=n[h];else t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end end end else if 7~=t then repeat if t<10 then local s,a,o,u,f,t,k;e[p[g]]=l[p[_]];h=h+1;p=n[h];t=0;while t>-1 do if t<=2 then if t<=0 then s=p;else if-3<t then for p=49,52 do if 2~=t then a=g;break;end;o=_;break;end;else o=_;end end else if t<5 then if t>2 then for p=46,97 do if 4>t then u=s[o];break;end;f=s[a];break;end;else f=s[a];end else if t~=3 then for p=47,56 do if 6~=t then e(f,u);break;end;t=-2;break;end;else e(f,u);end end end t=t+1 end h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];k=e[p[d]];if not k then h=h+1;else e[p[g]]=k;h=p[_];end;break;end;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);until true;else e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);end end end end else if t>15 then if 18<t then if 19>=t then local d;d=p[g]e[d]=e[d](f(e,d+1,p[_]))h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];d=p[g]e[d]=e[d](e[d+1])h=h+1;p=n[h];e[p[g]]={};else if t~=16 then for r=16,53 do if 21~=t then local h=p[g]local g,p=a(e[h](f(e,h+1,p[_])))s=p+h-1 local p=0;for h=h,s do p=p+1;e[h]=g[p];end;break;end;local t,k,b,s,a,o;for r=0,4 do if r<=1 then if r>-4 then for d=30,68 do if r~=1 then t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];break;end;e[p[g]]=l[p[_]];h=h+1;p=n[h];break;end;else t=p[g]e[t](f(e,t+1,p[_]))h=h+1;p=n[h];end else if r>2 then if-1~=r then for l=35,56 do if r~=3 then t=p[g];k={};for p=1,#u do b=u[p];for p=0,#b do s=b[p];a=s[1];o=s[2];if a==e and o>=t then k[o]=a[o];s[1]=k;end;end;end;break;end;e[p[g]][e[p[_]]]=e[p[d]];h=h+1;p=n[h];break;end;else e[p[g]][e[p[_]]]=e[p[d]];h=h+1;p=n[h];end else e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];end end end break;end;else local h=p[g]local g,p=a(e[h](f(e,h+1,p[_])))s=p+h-1 local p=0;for h=h,s do p=p+1;e[h]=g[p];end;end end else if t>=17 then if t>16 then for l=48,56 do if t~=18 then local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];break;end;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];break;end;else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];end else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];end end else if 12>=t then if 8<t then repeat if t<12 then e[p[g]]=#e[p[_]];break;end;local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];until true;else local t;e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];end else if t>13 then if 15>t then if(e[p[g]]<e[p[d]])then h=p[_];else h=h+1;end;else local p=p[g];do return e[p](f(e,p+1,s))end;end else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=p[_]+e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];if e[p[g]]then h=h+1;else h=p[_];end;end end end end else if 33<=t then if t>38 then if t<42 then if 39>=t then do return e[p[g]]end else if t>37 then repeat if 40~=t then e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);break;end;e[p[g]]={};until true;else e[p[g]]={};end end else if 42>=t then e[p[g]]=p[_]+e[p[d]];else if t>42 then repeat if t>43 then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];break;end;local l,r,b,k,a,s,u,t,c;for t=0,4 do if 1>=t then if 0<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if 3<=t then if t>=2 then repeat if 3~=t then l=p[g];c=e[l];for p=l+1,p[_]do o.gwTxiYhr(c,e[p])end;break;end;t=0;while t>-1 do if 4>t then if 2<=t then if t>1 then repeat if t~=3 then k=_;break;end;a=e;until true;else a=e;end else if-4<=t then repeat if t<1 then r=p;break;end;b=g;until true;else r=p;end end else if 5>=t then if 3<t then for p=20,71 do if 4~=t then u=r[b];break;end;s=a[r[k]];break;end;else s=a[r[k]];end else if 5<=t then repeat if 6~=t then t=-2;break;end;e[u]=s;until true;else e[u]=s;end end end t=t+1 end h=h+1;p=n[h];until true;else t=0;while t>-1 do if 4>t then if 2<=t then if t>1 then repeat if t~=3 then k=_;break;end;a=e;until true;else a=e;end else if-4<=t then repeat if t<1 then r=p;break;end;b=g;until true;else r=p;end end else if 5>=t then if 3<t then for p=20,71 do if 4~=t then u=r[b];break;end;s=a[r[k]];break;end;else s=a[r[k]];end else if 5<=t then repeat if 6~=t then t=-2;break;end;e[u]=s;until true;else e[u]=s;end end end t=t+1 end h=h+1;p=n[h];end else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end until true;else local l,r,b,k,s,a,u,t,c;for t=0,4 do if 1>=t then if 0<t then e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end else if 3<=t then if t>=2 then repeat if 3~=t then l=p[g];c=e[l];for p=l+1,p[_]do o.gwTxiYhr(c,e[p])end;break;end;t=0;while t>-1 do if 4>t then if 2<=t then if t>1 then repeat if t~=3 then k=_;break;end;s=e;until true;else s=e;end else if-4<=t then repeat if t<1 then r=p;break;end;b=g;until true;else r=p;end end else if 5>=t then if 3<t then for p=20,71 do if 4~=t then u=r[b];break;end;a=s[r[k]];break;end;else a=s[r[k]];end else if 5<=t then repeat if 6~=t then t=-2;break;end;e[u]=a;until true;else e[u]=a;end end end t=t+1 end h=h+1;p=n[h];until true;else t=0;while t>-1 do if 4>t then if 2<=t then if t>1 then repeat if t~=3 then k=_;break;end;s=e;until true;else s=e;end else if-4<=t then repeat if t<1 then r=p;break;end;b=g;until true;else r=p;end end else if 5>=t then if 3<t then for p=20,71 do if 4~=t then u=r[b];break;end;a=s[r[k]];break;end;else a=s[r[k]];end else if 5<=t then repeat if 6~=t then t=-2;break;end;e[u]=a;until true;else e[u]=a;end end end t=t+1 end h=h+1;p=n[h];end else l=p[g]e[l]=e[l](f(e,l+1,p[_]))h=h+1;p=n[h];end end end end end end else if t>=36 then if t<=36 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];else if 33<t then repeat if t<38 then local p=p[g]e[p]=e[p](e[p+1])break;end;local t,l,r,u,s,d,a,k;d=0;while d>-1 do if d>2 then if d<5 then if d>=1 then for p=24,96 do if 4~=d then u=t[r];break;end;s=t[l];break;end;else s=t[l];end else if d>=2 then repeat if d~=5 then d=-2;break;end;e(s,u);until true;else e(s,u);end end else if 0>=d then t=p;else if-2<=d then for p=11,74 do if d~=2 then l=g;break;end;r=_;break;end;else r=_;end end end d=d+1 end h=h+1;p=n[h];d=0;while d>-1 do if d<=2 then if d>=1 then if d~=-2 then for p=42,64 do if 1<d then r=_;break;end;l=g;break;end;else l=g;end else t=p;end else if d<5 then if d~=-1 then for p=28,84 do if 4~=d then u=t[r];break;end;s=t[l];break;end;else u=t[r];end else if d>5 then d=-2;else e(s,u);end end end d=d+1 end h=h+1;p=n[h];d=0;while d>-1 do if d>2 then if d<5 then if 1<d then repeat if d>3 then s=t[l];break;end;u=t[r];until true;else s=t[l];end else if 2<=d then repeat if d~=6 then e(s,u);break;end;d=-2;until true;else d=-2;end end else if 0>=d then t=p;else if d~=2 then l=g;else r=_;end end end d=d+1 end h=h+1;p=n[h];a=p[g]e[a]=e[a](f(e,a+1,p[_]))h=h+1;p=n[h];d=0;while d>-1 do if 3<=d then if 4>=d then if d==3 then u=t[r];else s=t[l];end else if d>3 then repeat if 5~=d then d=-2;break;end;e(s,u);until true;else d=-2;end end else if 0>=d then t=p;else if-3<d then repeat if d~=1 then r=_;break;end;l=g;until true;else r=_;end end end d=d+1 end h=h+1;p=n[h];a=p[g]e[a]=e[a](f(e,a+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=e[p[_]];h=h+1;p=n[h];a=p[g];k=e[a];for p=a+1,p[_]do o.gwTxiYhr(k,e[p])end;until true;else local p=p[g]e[p]=e[p](e[p+1])end end else if t<=33 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};else if 32<=t then repeat if t<35 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))break;end;local p=p[g]local g,h=a(e[p](e[p+1]))s=h+p-1 local h=0;for p=p,s do h=h+1;e[p]=g[h];end;until true;else local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))end end end end else if t>26 then if t>29 then if t>=31 then if 31<t then local n=e[p[d]];if not n then h=h+1;else e[p[g]]=n;h=p[_];end;else local k,l,s,o,a,u,t;e(p[g],p[_]);h=h+1;p=n[h];k=p[g]e[k]=e[k](f(e,k+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=0;while t>-1 do if 2<t then if 4<t then if 6>t then e(u,a);else t=-2;end else if 1<=t then repeat if t<4 then a=l[o];break;end;u=l[s];until true;else a=l[o];end end else if t<=0 then l=p;else if t>=-3 then for p=20,60 do if 1~=t then o=_;break;end;s=g;break;end;else s=g;end end end t=t+1 end h=h+1;p=n[h];t=0;while t>-1 do if 2<t then if 5<=t then if t==5 then e(u,a);else t=-2;end else if t~=1 then for p=27,95 do if 4>t then a=l[o];break;end;u=l[s];break;end;else u=l[s];end end else if t>0 then if 0<t then for p=38,71 do if t~=1 then o=_;break;end;s=g;break;end;else s=g;end else l=p;end end t=t+1 end end else e[p[g]]=l[p[_]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);end else if 28>t then e[p[g]]={};h=h+1;p=n[h];e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);else if 28==t then e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]][p[_]]=p[d];else local t,s;e[p[g]]=r[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]]={};h=h+1;p=n[h];e[p[g]][p[_]]=p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];s=e[p[_]];e[t+1]=s;e[t]=s[p[d]];h=h+1;p=n[h];t=p[g]e[t](e[t+1])h=h+1;p=n[h];e[p[g]]=l[p[_]];end end end else if t>23 then if t>=25 then if t>=22 then for l=41,72 do if t~=25 then local t;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];e(p[g],p[_]);h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];break;end;e[p[g]]=e[p[_]]/e[p[d]];break;end;else e[p[g]]=e[p[_]]/e[p[d]];end else local t,f;l[p[_]]=e[p[g]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];l[p[_]]=e[p[g]];h=h+1;p=n[h];e[p[g]]=l[p[_]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];l[p[_]]=e[p[g]];h=h+1;p=n[h];e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];t=p[g];f=e[p[_]];e[t+1]=f;e[t]=f[p[d]];end else if t~=23 then local t,l;e[p[g]]=e[p[_]][p[d]];h=h+1;p=n[h];e[p[g]]=e[p[_]]*p[d];h=h+1;p=n[h];e[p[g]]=e[p[_]]+p[d];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];e[p[g]][p[_]]=e[p[d]];h=h+1;p=n[h];t=p[g]e[t]=e[t](f(e,t+1,p[_]))h=h+1;p=n[h];t=p[g];l=e[p[_]];e[t+1]=l;e[t]=l[p[d]];else e[p[g]]=#e[p[_]];end end end end end end end end h=1+h;end;end;return ep end;local _=0xff;local l={};local n=(1);local g='';(function(h)local e=h local d=0x00 local p=0x00 e={(function(g)if d>0x2c then return g end d=d+1 p=(p+0xcaa-g)%0x26 return(p%0x03==0x1 and(function(e)if not h[e]then p=p+0x01 h[e]=(0xdd);end return true end)'QARBT'and e[0x2](0x327+g))or(p%0x03==0x2 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x79);end return true end)'Lnoer'and e[0x3](g+0x1f1))or(p%0x03==0x0 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x70);l[n]=gp();n=n+_;end return true end)'RXqYM'and e[0x1](g+0xc4))or g end),(function(t)if d>0x31 then return t end d=d+1 p=(p+0x898-t)%0x2a return(p%0x03==0x2 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x29);g='\37';_={function()_()end};g=g..'\100\43';end return true end)'YEfwk'and e[0x2](0x1b5+t))or(p%0x03==0x1 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x4e);end return true end)'kqmeP'and e[0x1](t+0x1b8))or(p%0x03==0x0 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x24);g={g..'\58 a',g};l[n]=hp();n=n+((not o.DaCTVEAg)and 1 or 0);g[1]='\58'..g[1];_[2]=0xff;end return true end)'PnCeC'and e[0x3](t+0x86))or t end),(function(t)if d>0x22 then return t end d=d+1 p=(p+0xd23-t)%0x2b return(p%0x03==0x0 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x41);_[2]=(_[2]*(ep(function()l()end,f(g))-ep(_[1],f(g))))+1;l[n]={};_=_[2];n=n+_;end return true end)'dewoL'and e[0x1](0x151+t))or(p%0x03==0x1 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x2b);end return true end)'cnSEt'and e[0x2](t+0x301))or(p%0x03==0x2 and(function(e)if not h[e]then p=p+0x01 h[e]=(0x6a);end return true end)'VQrja'and e[0x3](t+0x33c))or t end)}e[0x2](0xbba)end){};local p=c(f(l));return p(...);end return ep((function()local h={}local p=0x01;local e;if o.DaCTVEAg then e=o.DaCTVEAg(ep)else e=''end if o.wgRlzhte(e,o.nSd_TkUk)then p=p+0;else p=p+1;end h[p]=0x02;h[h[p]+0x01]=0x03;return h;end)(),...)end)((function(e,p,h,_,g,n)local n;if 4>e then if 1>=e then if e~=-3 then repeat if e~=1 then do return p(1),p(4,g,_,h,p),p(5,g,_,h)end;break;end;do return function(e,p,h)if h then local p=(e/2^(p-1))%2^((h-1)-(p-1)+1);return p-p%1;else local p=2^(p-1);return(e%(p+p)>=p)and 1 or 0;end;end;end;until true;else do return p(1),p(4,g,_,h,p),p(5,g,_,h)end;end else if 0~=e then for n=27,77 do if 2<e then do return p(1),p(4,g,_,h,p),p(5,g,_,h)end;break;end;do return 16777216,65536,256 end;break;end;else do return p(1),p(4,g,_,h,p),p(5,g,_,h)end;end end else if e>5 then if 6<e then if e~=7 then do return h(e,nil,h);end else do return setmetatable({},{['__\99\97\108\108']=function(p,e,_,g,h)if h then return p[h]elseif g then return p else p[e]=_ end end})end end else do return g[h]end;end else if e~=5 then local e=_;local t,g,_=g(2);do return function()local d,n,h,p=p(h,e(e,e),e(e,e)+3);e(4);return(p*t)+(h*g)+(n*_)+d;end;end;else local e=_;do return function()local p=p(h,e(e,e),e(e,e));e(1);return p;end;end;end end end end),...)
-            
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local HttpService = game:GetService("HttpService")
+
+local OrionLib = {
+    Elements = {},
+    ThemeObjects = {},
+    Connections = {},
+    Flags = {},
+    Themes = {
+        Default = {
+            Main = Color3.fromRGB(8, 8, 8),
+            Second = Color3.fromRGB(13, 13, 13),
+            Stroke = Color3.fromRGB(25, 25, 25),
+            Divider = Color3.fromRGB(32, 32, 32),
+            Text = Color3.fromRGB(190, 190, 190),
+            TextDark = Color3.fromRGB(120, 120, 120)
+        }
+    },
+    SelectedTheme = "Default",
+    Folder = nil,
+    SaveCfg = false
+}
+
+--Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
+local Icons = {}
+
+local Success, Response =
+    pcall(
+    function()
+        Icons =
+            HttpService:JSONDecode(
+            game:HttpGetAsync(
+                "https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json"
+            )
+        ).icons
+    end
+)
+
+if not Success then
+    warn("\nQuantum - Failed to load Feather Icons. Error code: " .. Response .. "\n")
+end
+
+local function GetIcon(IconName)
+    if Icons[IconName] ~= nil then
+        return Icons[IconName]
+    else
+        return nil
+    end
+end
+
+local Orion = Instance.new("ScreenGui")
+Orion.Name = "Orion"
+if syn then
+    syn.protect_gui(Orion)
+    Orion.Parent = game.CoreGui
+else
+    Orion.Parent = gethui() or game.CoreGui
+end
+
+if gethui then
+    for _, Interface in ipairs(gethui():GetChildren()) do
+        if Interface.Name == Orion.Name and Interface ~= Orion then
+            Interface:Destroy()
+        end
+    end
+else
+    for _, Interface in ipairs(game.CoreGui:GetChildren()) do
+        if Interface.Name == Orion.Name and Interface ~= Orion then
+            Interface:Destroy()
+        end
+    end
+end
+
+function OrionLib:IsRunning()
+    if gethui then
+        return Orion.Parent == gethui()
+    else
+        return Orion.Parent == game:GetService("CoreGui")
+    end
+end
+
+local function AddConnection(Signal, Function)
+    if (not OrionLib:IsRunning()) then
+        return
+    end
+    local SignalConnect = Signal:Connect(Function)
+    table.insert(OrionLib.Connections, SignalConnect)
+    return SignalConnect
+end
+
+task.spawn(
+    function()
+        while (OrionLib:IsRunning()) do
+            wait()
+        end
+
+        for _, Connection in next, OrionLib.Connections do
+            Connection:Disconnect()
+        end
+    end
+)
+
+local function AddDraggingFunctionality(DragPoint, Main)
+    pcall(
+        function()
+            local Dragging, DragInput, MousePos, FramePos = false
+            DragPoint.InputBegan:Connect(
+                function(Input)
+                    if
+                        Input.UserInputType == Enum.UserInputType.MouseButton1 or
+                            Input.UserInputType == Enum.UserInputType.Touch
+                     then
+                        Dragging = true
+                        MousePos = Input.Position
+                        FramePos = Main.Position
+
+                        Input.Changed:Connect(
+                            function()
+                                if Input.UserInputState == Enum.UserInputState.End then
+                                    Dragging = false
+                                end
+                            end
+                        )
+                    end
+                end
+            )
+
+            DragPoint.InputChanged:Connect(
+                function(Input)
+                    if
+                        Input.UserInputType == Enum.UserInputType.MouseMovement or
+                            Input.UserInputType == Enum.UserInputType.Touch
+                     then
+                        DragInput = Input
+                    end
+                end
+            )
+
+            UserInputService.InputChanged:Connect(
+                function(Input)
+                    if Input == DragInput and Dragging then
+                        local Delta = Input.Position - MousePos
+                        TweenService:Create(
+                            Main,
+                            TweenInfo.new(0.45, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                Position = UDim2.new(
+                                    FramePos.X.Scale,
+                                    FramePos.X.Offset + Delta.X,
+                                    FramePos.Y.Scale,
+                                    FramePos.Y.Offset + Delta.Y
+                                )
+                            }
+                        ):Play()
+                    end
+                end
+            )
+        end
+    )
+end
+
+local function Create(Name, Properties, Children)
+    local Object = Instance.new(Name)
+    for i, v in next, Properties or {} do
+        Object[i] = v
+    end
+    for i, v in next, Children or {} do
+        v.Parent = Object
+    end
+    return Object
+end
+
+local function CreateElement(ElementName, ElementFunction)
+    OrionLib.Elements[ElementName] = function(...)
+        return ElementFunction(...)
+    end
+end
+
+local function MakeElement(ElementName, ...)
+    local NewElement = OrionLib.Elements[ElementName](...)
+    return NewElement
+end
+
+local function SetProps(Element, Props)
+    table.foreach(
+        Props,
+        function(Property, Value)
+            Element[Property] = Value
+        end
+    )
+    return Element
+end
+
+local function SetChildren(Element, Children)
+    table.foreach(
+        Children,
+        function(_, Child)
+            Child.Parent = Element
+        end
+    )
+    return Element
+end
+
+local function Round(Number, Factor)
+    local Result = math.floor(Number / Factor + (math.sign(Number) * 0.5)) * Factor
+    if Result < 0 then
+        Result = Result + Factor
+    end
+    return Result
+end
+
+local function ReturnProperty(Object)
+    if Object:IsA("Frame") or Object:IsA("TextButton") then
+        return "BackgroundColor3"
+    end
+    if Object:IsA("ScrollingFrame") then
+        return "ScrollBarImageColor3"
+    end
+    if Object:IsA("UIStroke") then
+        return "Color"
+    end
+    if Object:IsA("TextLabel") or Object:IsA("TextBox") then
+        return "TextColor3"
+    end
+    if Object:IsA("ImageLabel") or Object:IsA("ImageButton") then
+        return "ImageColor3"
+    end
+end
+
+local function AddThemeObject(Object, Type)
+    if not OrionLib.ThemeObjects[Type] then
+        OrionLib.ThemeObjects[Type] = {}
+    end
+    table.insert(OrionLib.ThemeObjects[Type], Object)
+    Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Type]
+    return Object
+end
+
+local function SetTheme()
+    for Name, Type in pairs(OrionLib.ThemeObjects) do
+        for _, Object in pairs(Type) do
+            Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Name]
+        end
+    end
+end
+
+local function PackColor(Color)
+    return {R = Color.R * 255, G = Color.G * 255, B = Color.B * 255}
+end
+
+local function UnpackColor(Color)
+    return Color3.fromRGB(Color.R, Color.G, Color.B)
+end
+
+local function LoadCfg(Config)
+    local Data = HttpService:JSONDecode(Config)
+    table.foreach(
+        Data,
+        function(a, b)
+            if OrionLib.Flags[a] then
+                spawn(
+                    function()
+                        if OrionLib.Flags[a].Type == "Colorpicker" then
+                            OrionLib.Flags[a]:Set(UnpackColor(b))
+                        else
+                            OrionLib.Flags[a]:Set(b)
+                        end
+                    end
+                )
+            else
+                warn("Quantum Library Config Loader - Could not find ", a, b)
+            end
+        end
+    )
+end
+
+local function SaveCfg(Name)
+    local Data = {}
+    for i, v in pairs(OrionLib.Flags) do
+        if v.Save then
+            if v.Type == "Colorpicker" then
+                Data[i] = PackColor(v.Value)
+            else
+                Data[i] = v.Value
+            end
+        end
+    end
+    writefile(OrionLib.Folder .. "/" .. Name .. ".txt", tostring(HttpService:JSONEncode(Data)))
+end
+
+local WhitelistedMouse = {
+    Enum.UserInputType.MouseButton1,
+    Enum.UserInputType.MouseButton2,
+    Enum.UserInputType.MouseButton3
+}
+local BlacklistedKeys = {
+    Enum.KeyCode.Unknown,
+    Enum.KeyCode.W,
+    Enum.KeyCode.A,
+    Enum.KeyCode.S,
+    Enum.KeyCode.D,
+    Enum.KeyCode.Up,
+    Enum.KeyCode.Left,
+    Enum.KeyCode.Down,
+    Enum.KeyCode.Right,
+    Enum.KeyCode.Slash,
+    Enum.KeyCode.Tab,
+    Enum.KeyCode.Backspace,
+    Enum.KeyCode.Escape
+}
+
+local function CheckKey(Table, Key)
+    for _, v in next, Table do
+        if v == Key then
+            return true
+        end
+    end
+end
+
+CreateElement(
+    "Corner",
+    function(Scale, Offset)
+        local Corner =
+            Create(
+            "UICorner",
+            {
+                CornerRadius = UDim.new(Scale or 0, Offset or 10)
+            }
+        )
+        return Corner
+    end
+)
+
+CreateElement(
+    "Stroke",
+    function(Color, Thickness)
+        local Stroke =
+            Create(
+            "UIStroke",
+            {
+                Color = Color or Color3.fromRGB(255, 255, 255),
+                Thickness = Thickness or 1
+            }
+        )
+        return Stroke
+    end
+)
+
+CreateElement(
+    "List",
+    function(Scale, Offset)
+        local List =
+            Create(
+            "UIListLayout",
+            {
+                SortOrder = Enum.SortOrder.LayoutOrder,
+                Padding = UDim.new(Scale or 0, Offset or 0)
+            }
+        )
+        return List
+    end
+)
+
+CreateElement(
+    "Padding",
+    function(Bottom, Left, Right, Top)
+        local Padding =
+            Create(
+            "UIPadding",
+            {
+                PaddingBottom = UDim.new(0, Bottom or 4),
+                PaddingLeft = UDim.new(0, Left or 4),
+                PaddingRight = UDim.new(0, Right or 4),
+                PaddingTop = UDim.new(0, Top or 4)
+            }
+        )
+        return Padding
+    end
+)
+
+CreateElement(
+    "TFrame",
+    function()
+        local TFrame =
+            Create(
+            "Frame",
+            {
+                BackgroundTransparency = 1
+            }
+        )
+        return TFrame
+    end
+)
+
+CreateElement(
+    "Frame",
+    function(Color)
+        local Frame =
+            Create(
+            "Frame",
+            {
+                BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+                BorderSizePixel = 0
+            }
+        )
+        return Frame
+    end
+)
+
+CreateElement(
+    "RoundFrame",
+    function(Color, Scale, Offset)
+        local Frame =
+            Create(
+            "Frame",
+            {
+                BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+                BorderSizePixel = 0
+            },
+            {
+                Create(
+                    "UICorner",
+                    {
+                        CornerRadius = UDim.new(Scale, Offset)
+                    }
+                )
+            }
+        )
+        return Frame
+    end
+)
+
+CreateElement(
+    "Button",
+    function()
+        local Button =
+            Create(
+            "TextButton",
+            {
+                Text = "",
+                AutoButtonColor = false,
+                BackgroundTransparency = 1,
+                BorderSizePixel = 0
+            }
+        )
+        return Button
+    end
+)
+
+CreateElement(
+    "ScrollFrame",
+    function(Color, Width)
+        local ScrollFrame =
+            Create(
+            "ScrollingFrame",
+            {
+                BackgroundTransparency = 1,
+                MidImage = "rbxassetid://7445543667",
+                BottomImage = "rbxassetid://7445543667",
+                TopImage = "rbxassetid://7445543667",
+                ScrollBarImageColor3 = Color,
+                BorderSizePixel = 0,
+                ScrollBarThickness = Width,
+                CanvasSize = UDim2.new(0, 0, 0, 0)
+            }
+        )
+        return ScrollFrame
+    end
+)
+
+CreateElement(
+    "Image",
+    function(ImageID)
+        local ImageNew =
+            Create(
+            "ImageLabel",
+            {
+                Image = ImageID,
+                BackgroundTransparency = 1
+            }
+        )
+
+        if GetIcon(ImageID) ~= nil then
+            ImageNew.Image = GetIcon(ImageID)
+        end
+
+        return ImageNew
+    end
+)
+
+CreateElement(
+    "ImageButton",
+    function(ImageID)
+        local Image =
+            Create(
+            "ImageButton",
+            {
+                Image = ImageID,
+                BackgroundTransparency = 1
+            }
+        )
+        return Image
+    end
+)
+
+CreateElement(
+    "Label",
+    function(Text, TextSize, Transparency)
+        local Label =
+            Create(
+            "TextLabel",
+            {
+                Text = Text or "",
+                TextColor3 = Color3.fromRGB(240, 240, 240),
+                TextTransparency = Transparency or 0,
+                TextSize = TextSize or 15,
+                Font = Enum.Font.Gotham,
+                RichText = true,
+                BackgroundTransparency = 1,
+                TextXAlignment = Enum.TextXAlignment.Left
+            }
+        )
+        return Label
+    end
+)
+
+local NotificationHolder =
+    SetProps(
+    SetChildren(
+        MakeElement("TFrame"),
+        {
+            SetProps(
+                MakeElement("List"),
+                {
+                    HorizontalAlignment = Enum.HorizontalAlignment.Center,
+                    SortOrder = Enum.SortOrder.LayoutOrder,
+                    VerticalAlignment = Enum.VerticalAlignment.Bottom,
+                    Padding = UDim.new(0, 5)
+                }
+            )
+        }
+    ),
+    {
+        Position = UDim2.new(1, -25, 1, -25),
+        Size = UDim2.new(0, 300, 1, -25),
+        AnchorPoint = Vector2.new(1, 1),
+        Parent = Orion
+    }
+)
+
+function OrionLib:MakeNotification(NotificationConfig)
+    spawn(
+        function()
+            NotificationConfig.Name = NotificationConfig.Name or "Notification"
+            NotificationConfig.Content = NotificationConfig.Content or "Test"
+            NotificationConfig.Image = NotificationConfig.Image or "rbxassetid://4384403532"
+            NotificationConfig.Time = NotificationConfig.Time or 15
+
+            local NotificationParent =
+                SetProps(
+                MakeElement("TFrame"),
+                {
+                    Size = UDim2.new(1, 0, 0, 0),
+                    AutomaticSize = Enum.AutomaticSize.Y,
+                    Parent = NotificationHolder
+                }
+            )
+
+            local NotificationFrame =
+                SetChildren(
+                SetProps(
+                    MakeElement("RoundFrame", Color3.fromRGB(25, 25, 25), 0, 10),
+                    {
+                        Parent = NotificationParent,
+                        Size = UDim2.new(1, 0, 0, 0),
+                        Position = UDim2.new(1, -55, 0, 0),
+                        BackgroundTransparency = 0,
+                        AutomaticSize = Enum.AutomaticSize.Y
+                    }
+                ),
+                {
+                    MakeElement("Stroke", Color3.fromRGB(93, 93, 93), 1.2),
+                    MakeElement("Padding", 12, 12, 12, 12),
+                    SetProps(
+                        MakeElement("Image", NotificationConfig.Image),
+                        {
+                            Size = UDim2.new(0, 20, 0, 20),
+                            ImageColor3 = Color3.fromRGB(240, 240, 240),
+                            Name = "Icon"
+                        }
+                    ),
+                    SetProps(
+                        MakeElement("Label", NotificationConfig.Name, 15),
+                        {
+                            Size = UDim2.new(1, -30, 0, 20),
+                            Position = UDim2.new(0, 30, 0, 0),
+                            Font = Enum.Font.GothamBold,
+                            Name = "Title"
+                        }
+                    ),
+                    SetProps(
+                        MakeElement("Label", NotificationConfig.Content, 14),
+                        {
+                            Size = UDim2.new(1, 0, 0, 0),
+                            Position = UDim2.new(0, 0, 0, 25),
+                            Font = Enum.Font.GothamSemibold,
+                            Name = "Content",
+                            AutomaticSize = Enum.AutomaticSize.Y,
+                            TextColor3 = Color3.fromRGB(200, 200, 200),
+                            TextWrapped = true
+                        }
+                    )
+                }
+            )
+
+            TweenService:Create(
+                NotificationFrame,
+                TweenInfo.new(0.5, Enum.EasingStyle.Quint),
+                {Position = UDim2.new(0, 0, 0, 0)}
+            ):Play()
+
+            wait(NotificationConfig.Time - 0.88)
+            TweenService:Create(
+                NotificationFrame.Icon,
+                TweenInfo.new(0.4, Enum.EasingStyle.Quint),
+                {ImageTransparency = 1}
+            ):Play()
+            TweenService:Create(
+                NotificationFrame,
+                TweenInfo.new(0.8, Enum.EasingStyle.Quint),
+                {BackgroundTransparency = 0.6}
+            ):Play()
+            wait(0.3)
+            TweenService:Create(
+                NotificationFrame.UIStroke,
+                TweenInfo.new(0.6, Enum.EasingStyle.Quint),
+                {Transparency = 0.9}
+            ):Play()
+            TweenService:Create(
+                NotificationFrame.Title,
+                TweenInfo.new(0.6, Enum.EasingStyle.Quint),
+                {TextTransparency = 0.4}
+            ):Play()
+            TweenService:Create(
+                NotificationFrame.Content,
+                TweenInfo.new(0.6, Enum.EasingStyle.Quint),
+                {TextTransparency = 0.5}
+            ):Play()
+            wait(0.05)
+
+            NotificationFrame:TweenPosition(UDim2.new(1, 20, 0, 0), "In", "Quint", 0.8, true)
+            wait(1.35)
+            NotificationFrame:Destroy()
+        end
+    )
+end
+
+function OrionLib:Init()
+    if OrionLib.SaveCfg then
+        pcall(
+            function()
+                if isfile(OrionLib.Folder .. "/" .. game.GameId .. ".txt") then
+                    LoadCfg(readfile(OrionLib.Folder .. "/" .. game.GameId .. ".txt"))
+                    OrionLib:MakeNotification(
+                        {
+                            Name = "Configuration",
+                            Content = "Auto-loaded configuration for the game " .. game.GameId .. ".",
+                            Time = 5
+                        }
+                    )
+                end
+            end
+        )
+    end
+end
+
+function OrionLib:MakeWindow(WindowConfig)
+    local FirstTab = true
+    local Minimized = false
+    local Loaded = false
+    local UIHidden = false
+
+    WindowConfig = WindowConfig or {}
+    WindowConfig.Name = WindowConfig.Name or "Quantum Library"
+    WindowConfig.ConfigFolder = WindowConfig.ConfigFolder or WindowConfig.Name
+    WindowConfig.SaveConfig = WindowConfig.SaveConfig or false
+    WindowConfig.HidePremium = WindowConfig.HidePremium or false
+    if WindowConfig.IntroEnabled == nil then
+        WindowConfig.IntroEnabled = true
+    end
+    WindowConfig.IntroText = WindowConfig.IntroText or "Quantum Library"
+    WindowConfig.CloseCallback = WindowConfig.CloseCallback or function()
+        end
+    WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
+    WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://8834748103"
+    WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://6022668911"
+    OrionLib.Folder = WindowConfig.ConfigFolder
+    OrionLib.SaveCfg = WindowConfig.SaveConfig
+
+    if WindowConfig.SaveConfig then
+        if not isfolder(WindowConfig.ConfigFolder) then
+            makefolder(WindowConfig.ConfigFolder)
+        end
+    end
+
+    local TabHolder =
+        AddThemeObject(
+        SetChildren(
+            SetProps(
+                MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 4),
+                {
+                    Size = UDim2.new(1, 0, 1, -50)
+                }
+            ),
+            {
+                MakeElement("List"),
+                MakeElement("Padding", 8, 0, 0, 8)
+            }
+        ),
+        "Divider"
+    )
+
+    AddConnection(
+        TabHolder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"),
+        function()
+            TabHolder.CanvasSize = UDim2.new(0, 0, 0, TabHolder.UIListLayout.AbsoluteContentSize.Y + 16)
+        end
+    )
+
+    local CloseBtn =
+        SetChildren(
+        SetProps(
+            MakeElement("Button"),
+            {
+                Size = UDim2.new(0.5, 0, 1, 0),
+                Position = UDim2.new(0.5, 0, 0, 0),
+                BackgroundTransparency = 1
+            }
+        ),
+        {
+            AddThemeObject(
+                SetProps(
+                    MakeElement("Image", "rbxassetid://7072725342"),
+                    {
+                        Position = UDim2.new(0, 9, 0, 6),
+                        Size = UDim2.new(0, 18, 0, 18)
+                    }
+                ),
+                "Text"
+            )
+        }
+    )
+
+    local MinimizeBtn =
+        SetChildren(
+        SetProps(
+            MakeElement("Button"),
+            {
+                Size = UDim2.new(0.5, 0, 1, 0),
+                BackgroundTransparency = 1
+            }
+        ),
+        {
+            AddThemeObject(
+                SetProps(
+                    MakeElement("Image", "rbxassetid://7072719338"),
+                    {
+                        Position = UDim2.new(0, 9, 0, 6),
+                        Size = UDim2.new(0, 18, 0, 18),
+                        Name = "Ico"
+                    }
+                ),
+                "Text"
+            )
+        }
+    )
+
+    local DragPoint =
+        SetProps(
+        MakeElement("TFrame"),
+        {
+            Size = UDim2.new(1, 0, 0, 50)
+        }
+    )
+
+    local WindowStuff =
+        AddThemeObject(
+        SetChildren(
+            SetProps(
+                MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10),
+                {
+                    Size = UDim2.new(0, 150, 1, -50),
+                    Position = UDim2.new(0, 0, 0, 50)
+                }
+            ),
+            {
+                AddThemeObject(
+                    SetProps(
+                        MakeElement("Frame"),
+                        {
+                            Size = UDim2.new(1, 0, 0, 10),
+                            Position = UDim2.new(0, 0, 0, 0)
+                        }
+                    ),
+                    "Second"
+                ),
+                AddThemeObject(
+                    SetProps(
+                        MakeElement("Frame"),
+                        {
+                            Size = UDim2.new(0, 10, 1, 0),
+                            Position = UDim2.new(1, -10, 0, 0)
+                        }
+                    ),
+                    "Second"
+                ),
+                AddThemeObject(
+                    SetProps(
+                        MakeElement("Frame"),
+                        {
+                            Size = UDim2.new(0, 1, 1, 0),
+                            Position = UDim2.new(1, -1, 0, 0)
+                        }
+                    ),
+                    "Stroke"
+                ),
+                TabHolder,
+                SetChildren(
+                    SetProps(
+                        MakeElement("TFrame"),
+                        {
+                            Size = UDim2.new(1, 0, 0, 50),
+                            Position = UDim2.new(0, 0, 1, -50)
+                        }
+                    ),
+                    {
+                        AddThemeObject(
+                            SetProps(
+                                MakeElement("Frame"),
+                                {
+                                    Size = UDim2.new(1, 0, 0, 1)
+                                }
+                            ),
+                            "Stroke"
+                        ),
+                        AddThemeObject(
+                            SetChildren(
+                                SetProps(
+                                    MakeElement("Frame"),
+                                    {
+                                        AnchorPoint = Vector2.new(0, 0.5),
+                                        Size = UDim2.new(0, 32, 0, 32),
+                                        Position = UDim2.new(0, 10, 0.5, 0)
+                                    }
+                                ),
+                                {
+                                    SetProps(
+                                        MakeElement(
+                                            "Image",
+                                            "https://www.roblox.com/headshot-thumbnail/image?userId=" ..
+                                                LocalPlayer.UserId .. "&width=420&height=420&format=png"
+                                        ),
+                                        {
+                                            Size = UDim2.new(1, 0, 1, 0)
+                                        }
+                                    ),
+                                    AddThemeObject(
+                                        SetProps(
+                                            MakeElement("Image", "rbxassetid://4031889928"),
+                                            {
+                                                Size = UDim2.new(1, 0, 1, 0)
+                                            }
+                                        ),
+                                        "Second"
+                                    ),
+                                    MakeElement("Corner", 1)
+                                }
+                            ),
+                            "Divider"
+                        ),
+                        SetChildren(
+                            SetProps(
+                                MakeElement("TFrame"),
+                                {
+                                    AnchorPoint = Vector2.new(0, 0.5),
+                                    Size = UDim2.new(0, 32, 0, 32),
+                                    Position = UDim2.new(0, 10, 0.5, 0)
+                                }
+                            ),
+                            {
+                                AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                                MakeElement("Corner", 1)
+                            }
+                        ),
+                        AddThemeObject(
+                            SetProps(
+                                MakeElement("Label", LocalPlayer.DisplayName, WindowConfig.HidePremium and 14 or 13),
+                                {
+                                    Size = UDim2.new(1, -60, 0, 13),
+                                    Position = WindowConfig.HidePremium and UDim2.new(0, 50, 0, 19) or
+                                        UDim2.new(0, 50, 0, 12),
+                                    Font = Enum.Font.GothamBold,
+                                    ClipsDescendants = true
+                                }
+                            ),
+                            "Text"
+                        ),
+                        AddThemeObject(
+                            SetProps(
+                                MakeElement("Label", "", 12),
+                                {
+                                    Size = UDim2.new(1, -60, 0, 12),
+                                    Position = UDim2.new(0, 50, 1, -25),
+                                    Visible = not WindowConfig.HidePremium
+                                }
+                            ),
+                            "TextDark"
+                        )
+                    }
+                )
+            }
+        ),
+        "Second"
+    )
+
+    local WindowName =
+        AddThemeObject(
+        SetProps(
+            MakeElement("Label", WindowConfig.Name, 14),
+            {
+                Size = UDim2.new(1, -30, 2, 0),
+                Position = UDim2.new(0, 25, 0, -24),
+                Font = Enum.Font.GothamBlack,
+                TextSize = 20
+            }
+        ),
+        "Text"
+    )
+
+    local WindowTopBarLine =
+        AddThemeObject(
+        SetProps(
+            MakeElement("Frame"),
+            {
+                Size = UDim2.new(1, 0, 0, 1),
+                Position = UDim2.new(0, 0, 1, -1)
+            }
+        ),
+        "Stroke"
+    )
+
+    local MainWindow =
+        AddThemeObject(
+        SetChildren(
+            SetProps(
+                MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10),
+                {
+                    Parent = Orion,
+                    Position = UDim2.new(0.5, -307, 0.5, -172),
+                    Size = UDim2.new(0, 615, 0, 344),
+                    ClipsDescendants = true
+                }
+            ),
+            {
+                --SetProps(MakeElement("Image", "rbxassetid://3523728077"), {
+                --	AnchorPoint = Vector2.new(0.5, 0.5),
+                --	Position = UDim2.new(0.5, 0, 0.5, 0),
+                --	Size = UDim2.new(1, 80, 1, 320),
+                --	ImageColor3 = Color3.fromRGB(33, 33, 33),
+                --	ImageTransparency = 0.7
+                --}),
+                SetChildren(
+                    SetProps(
+                        MakeElement("TFrame"),
+                        {
+                            Size = UDim2.new(1, 0, 0, 50),
+                            Name = "TopBar"
+                        }
+                    ),
+                    {
+                        WindowName,
+                        WindowTopBarLine,
+                        AddThemeObject(
+                            SetChildren(
+                                SetProps(
+                                    MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 7),
+                                    {
+                                        Size = UDim2.new(0, 70, 0, 30),
+                                        Position = UDim2.new(1, -90, 0, 10)
+                                    }
+                                ),
+                                {
+                                    AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                                    AddThemeObject(
+                                        SetProps(
+                                            MakeElement("Frame"),
+                                            {
+                                                Size = UDim2.new(0, 1, 1, 0),
+                                                Position = UDim2.new(0.5, 0, 0, 0)
+                                            }
+                                        ),
+                                        "Stroke"
+                                    ),
+                                    CloseBtn,
+                                    MinimizeBtn
+                                }
+                            ),
+                            "Second"
+                        )
+                    }
+                ),
+                DragPoint,
+                WindowStuff
+            }
+        ),
+        "Main"
+    )
+
+    if WindowConfig.ShowIcon then
+        WindowName.Position = UDim2.new(0, 50, 0, -24)
+        local WindowIcon =
+            SetProps(
+            MakeElement("Image", WindowConfig.Icon),
+            {
+                Size = UDim2.new(0, 20, 0, 20),
+                Position = UDim2.new(0, 25, 0, 15)
+            }
+        )
+        WindowIcon.Parent = MainWindow.TopBar
+    end
+
+    AddDraggingFunctionality(DragPoint, MainWindow)
+
+    AddConnection(
+        CloseBtn.MouseButton1Up,
+        function()
+            MainWindow.Visible = false
+            UIHidden = true
+            OrionLib:MakeNotification(
+                {
+                    Name = "Interface Hidden",
+                    Content = "Tap RightShift to reopen the interface",
+                    Time = 5
+                }
+            )
+            WindowConfig.CloseCallback()
+        end
+    )
+
+    AddConnection(
+        UserInputService.InputBegan,
+        function(Input)
+            if Input.KeyCode == Enum.KeyCode.RightShift and UIHidden then
+                MainWindow.Visible = true
+            end
+        end
+    )
+
+    AddConnection(
+        MinimizeBtn.MouseButton1Up,
+        function()
+            if Minimized then
+                TweenService:Create(
+                    MainWindow,
+                    TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                    {Size = UDim2.new(0, 615, 0, 344)}
+                ):Play()
+                MinimizeBtn.Ico.Image = "rbxassetid://7072719338"
+                wait(.02)
+                MainWindow.ClipsDescendants = false
+                WindowStuff.Visible = true
+                WindowTopBarLine.Visible = true
+            else
+                MainWindow.ClipsDescendants = true
+                WindowTopBarLine.Visible = false
+                MinimizeBtn.Ico.Image = "rbxassetid://7072720870"
+
+                TweenService:Create(
+                    MainWindow,
+                    TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                    {Size = UDim2.new(0, WindowName.TextBounds.X + 140, 0, 50)}
+                ):Play()
+                wait(0.1)
+                WindowStuff.Visible = false
+            end
+            Minimized = not Minimized
+        end
+    )
+
+    local function LoadSequence()
+        MainWindow.Visible = false
+        local LoadSequenceLogo =
+            SetProps(
+            MakeElement("Image", WindowConfig.IntroIcon),
+            {
+                Parent = Orion,
+                AnchorPoint = Vector2.new(0.5, 0.5),
+                Position = UDim2.new(0.5, 0, 0.4, 0),
+                Size = UDim2.new(0, 28, 0, 28),
+                ImageColor3 = Color3.fromRGB(255, 255, 255),
+                ImageTransparency = 1
+            }
+        )
+
+        local LoadSequenceText =
+            SetProps(
+            MakeElement("Label", WindowConfig.IntroText, 14),
+            {
+                Parent = Orion,
+                Size = UDim2.new(1, 0, 1, 0),
+                AnchorPoint = Vector2.new(0.5, 0.5),
+                Position = UDim2.new(0.5, 19, 0.5, 0),
+                TextXAlignment = Enum.TextXAlignment.Center,
+                Font = Enum.Font.GothamBold,
+                TextTransparency = 1
+            }
+        )
+
+        TweenService:Create(
+            LoadSequenceLogo,
+            TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            {ImageTransparency = 0, Position = UDim2.new(0.5, 0, 0.5, 0)}
+        ):Play()
+        wait(0.8)
+        TweenService:Create(
+            LoadSequenceLogo,
+            TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            {Position = UDim2.new(0.5, -(LoadSequenceText.TextBounds.X / 2), 0.5, 0)}
+        ):Play()
+        wait(0.3)
+        TweenService:Create(
+            LoadSequenceText,
+            TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            {TextTransparency = 0}
+        ):Play()
+        wait(2)
+        TweenService:Create(
+            LoadSequenceText,
+            TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            {TextTransparency = 1}
+        ):Play()
+        MainWindow.Visible = true
+        LoadSequenceLogo:Destroy()
+        LoadSequenceText:Destroy()
+    end
+
+    if WindowConfig.IntroEnabled then
+        LoadSequence()
+    end
+
+    local TabFunction = {}
+    function TabFunction:MakeTab(TabConfig)
+        TabConfig = TabConfig or {}
+        TabConfig.Name = TabConfig.Name or "Tab"
+        TabConfig.Icon = TabConfig.Icon or ""
+        TabConfig.PremiumOnly = TabConfig.PremiumOnly or false
+
+        local TabFrame =
+            SetChildren(
+            SetProps(
+                MakeElement("Button"),
+                {
+                    Size = UDim2.new(1, 0, 0, 30),
+                    Parent = TabHolder
+                }
+            ),
+            {
+                AddThemeObject(
+                    SetProps(
+                        MakeElement("Image", TabConfig.Icon),
+                        {
+                            AnchorPoint = Vector2.new(0, 0.5),
+                            Size = UDim2.new(0, 18, 0, 18),
+                            Position = UDim2.new(0, 10, 0.5, 0),
+                            ImageTransparency = 0.4,
+                            Name = "Ico"
+                        }
+                    ),
+                    "Text"
+                ),
+                AddThemeObject(
+                    SetProps(
+                        MakeElement("Label", TabConfig.Name, 14),
+                        {
+                            Size = UDim2.new(1, -35, 1, 0),
+                            Position = UDim2.new(0, 35, 0, 0),
+                            Font = Enum.Font.GothamSemibold,
+                            TextTransparency = 0.4,
+                            Name = "Title"
+                        }
+                    ),
+                    "Text"
+                )
+            }
+        )
+
+        if GetIcon(TabConfig.Icon) ~= nil then
+            TabFrame.Ico.Image = GetIcon(TabConfig.Icon)
+        end
+
+        local Container =
+            AddThemeObject(
+            SetChildren(
+                SetProps(
+                    MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 5),
+                    {
+                        Size = UDim2.new(1, -150, 1, -50),
+                        Position = UDim2.new(0, 150, 0, 50),
+                        Parent = MainWindow,
+                        Visible = false,
+                        Name = "ItemContainer"
+                    }
+                ),
+                {
+                    MakeElement("List", 0, 6),
+                    MakeElement("Padding", 15, 10, 10, 15)
+                }
+            ),
+            "Divider"
+        )
+
+        AddConnection(
+            Container.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"),
+            function()
+                Container.CanvasSize = UDim2.new(0, 0, 0, Container.UIListLayout.AbsoluteContentSize.Y + 30)
+            end
+        )
+
+        if FirstTab then
+            FirstTab = false
+            TabFrame.Ico.ImageTransparency = 0
+            TabFrame.Title.TextTransparency = 0
+            TabFrame.Title.Font = Enum.Font.GothamBlack
+            Container.Visible = true
+        end
+
+        AddConnection(
+            TabFrame.MouseButton1Click,
+            function()
+                for _, Tab in next, TabHolder:GetChildren() do
+                    if Tab:IsA("TextButton") then
+                        Tab.Title.Font = Enum.Font.GothamSemibold
+                        TweenService:Create(
+                            Tab.Ico,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {ImageTransparency = 0.4}
+                        ):Play()
+                        TweenService:Create(
+                            Tab.Title,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {TextTransparency = 0.4}
+                        ):Play()
+                    end
+                end
+                for _, ItemContainer in next, MainWindow:GetChildren() do
+                    if ItemContainer.Name == "ItemContainer" then
+                        ItemContainer.Visible = false
+                    end
+                end
+                TweenService:Create(
+                    TabFrame.Ico,
+                    TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                    {ImageTransparency = 0}
+                ):Play()
+                TweenService:Create(
+                    TabFrame.Title,
+                    TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                    {TextTransparency = 0}
+                ):Play()
+                TabFrame.Title.Font = Enum.Font.GothamBlack
+                Container.Visible = true
+            end
+        )
+
+        local function GetElements(ItemParent)
+            local ElementFunction = {}
+            function ElementFunction:AddLabel(Text)
+                local LabelFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 30),
+                                BackgroundTransparency = 0.7,
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", Text, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 1, 0),
+                                        Position = UDim2.new(0, 12, 0, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke")
+                        }
+                    ),
+                    "Second"
+                )
+
+                local LabelFunction = {}
+                function LabelFunction:Set(ToChange)
+                    LabelFrame.Content.Text = ToChange
+                end
+                return LabelFunction
+            end
+            function ElementFunction:AddParagraph(Text, Content)
+                Text = Text or "Text"
+                Content = Content or "Content"
+
+                local ParagraphFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 30),
+                                BackgroundTransparency = 0.7,
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", Text, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 0, 14),
+                                        Position = UDim2.new(0, 12, 0, 10),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Title"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", "", 13),
+                                    {
+                                        Size = UDim2.new(1, -24, 0, 0),
+                                        Position = UDim2.new(0, 12, 0, 26),
+                                        Font = Enum.Font.GothamSemibold,
+                                        Name = "Content",
+                                        TextWrapped = true
+                                    }
+                                ),
+                                "TextDark"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke")
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    ParagraphFrame.Content:GetPropertyChangedSignal("Text"),
+                    function()
+                        ParagraphFrame.Content.Size = UDim2.new(1, -24, 0, ParagraphFrame.Content.TextBounds.Y)
+                        ParagraphFrame.Size = UDim2.new(1, 0, 0, ParagraphFrame.Content.TextBounds.Y + 35)
+                    end
+                )
+
+                ParagraphFrame.Content.Text = Content
+
+                local ParagraphFunction = {}
+                function ParagraphFunction:Set(ToChange)
+                    ParagraphFrame.Content.Text = ToChange
+                end
+                return ParagraphFunction
+            end
+            function ElementFunction:AddButton(ButtonConfig)
+                ButtonConfig = ButtonConfig or {}
+                ButtonConfig.Name = ButtonConfig.Name or "Button"
+                ButtonConfig.Callback = ButtonConfig.Callback or function()
+                    end
+                ButtonConfig.Icon = ButtonConfig.Icon or "rbxassetid://3944703587"
+
+                local Button = {}
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local ButtonFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 33),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", ButtonConfig.Name, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 1, 0),
+                                        Position = UDim2.new(0, 12, 0, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Image", ButtonConfig.Icon),
+                                    {
+                                        Size = UDim2.new(0, 20, 0, 20),
+                                        Position = UDim2.new(1, -30, 0, 7)
+                                    }
+                                ),
+                                "TextDark"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            Click
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    Click.MouseEnter,
+                    function()
+                        TweenService:Create(
+                            ButtonFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseLeave,
+                    function()
+                        TweenService:Create(
+                            ButtonFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Up,
+                    function()
+                        TweenService:Create(
+                            ButtonFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                        spawn(
+                            function()
+                                ButtonConfig.Callback()
+                            end
+                        )
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Down,
+                    function()
+                        TweenService:Create(
+                            ButtonFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                function Button:Set(ButtonText)
+                    ButtonFrame.Content.Text = ButtonText
+                end
+
+                return Button
+            end
+            function ElementFunction:AddToggle(ToggleConfig)
+                ToggleConfig = ToggleConfig or {}
+                ToggleConfig.Name = ToggleConfig.Name or "Toggle"
+                ToggleConfig.Default = ToggleConfig.Default or false
+                ToggleConfig.Callback = ToggleConfig.Callback or function()
+                    end
+                ToggleConfig.Color = ToggleConfig.Color or Color3.fromRGB(9, 99, 195)
+                ToggleConfig.Flag = ToggleConfig.Flag or nil
+                ToggleConfig.Save = ToggleConfig.Save or false
+
+                local Toggle = {Value = ToggleConfig.Default, Save = ToggleConfig.Save}
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local ToggleBox =
+                    SetChildren(
+                    SetProps(
+                        MakeElement("RoundFrame", ToggleConfig.Color, 0, 4),
+                        {
+                            Size = UDim2.new(0, 24, 0, 24),
+                            Position = UDim2.new(1, -24, 0.5, 0),
+                            AnchorPoint = Vector2.new(0.5, 0.5)
+                        }
+                    ),
+                    {
+                        SetProps(
+                            MakeElement("Stroke"),
+                            {
+                                Color = ToggleConfig.Color,
+                                Name = "Stroke",
+                                Transparency = 0.5
+                            }
+                        ),
+                        SetProps(
+                            MakeElement("Image", "rbxassetid://3944680095"),
+                            {
+                                Size = UDim2.new(0, 20, 0, 20),
+                                AnchorPoint = Vector2.new(0.5, 0.5),
+                                Position = UDim2.new(0.5, 0, 0.5, 0),
+                                ImageColor3 = Color3.fromRGB(255, 255, 255),
+                                Name = "Ico"
+                            }
+                        )
+                    }
+                )
+
+                local ToggleFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 38),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", ToggleConfig.Name, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 1, 0),
+                                        Position = UDim2.new(0, 12, 0, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            ToggleBox,
+                            Click
+                        }
+                    ),
+                    "Second"
+                )
+
+                function Toggle:Set(Value)
+                    Toggle.Value = Value
+                    TweenService:Create(
+                        ToggleBox,
+                        TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                        {BackgroundColor3 = Toggle.Value and ToggleConfig.Color or OrionLib.Themes.Default.Divider}
+                    ):Play()
+                    TweenService:Create(
+                        ToggleBox.Stroke,
+                        TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                        {Color = Toggle.Value and ToggleConfig.Color or OrionLib.Themes.Default.Stroke}
+                    ):Play()
+                    TweenService:Create(
+                        ToggleBox.Ico,
+                        TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                        {
+                            ImageTransparency = Toggle.Value and 0 or 1,
+                            Size = Toggle.Value and UDim2.new(0, 20, 0, 20) or UDim2.new(0, 8, 0, 8)
+                        }
+                    ):Play()
+                    ToggleConfig.Callback(Toggle.Value)
+                end
+
+                Toggle:Set(Toggle.Value)
+
+                AddConnection(
+                    Click.MouseEnter,
+                    function()
+                        TweenService:Create(
+                            ToggleFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseLeave,
+                    function()
+                        TweenService:Create(
+                            ToggleFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Up,
+                    function()
+                        TweenService:Create(
+                            ToggleFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                        SaveCfg(game.GameId)
+                        Toggle:Set(not Toggle.Value)
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Down,
+                    function()
+                        TweenService:Create(
+                            ToggleFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                if ToggleConfig.Flag then
+                    OrionLib.Flags[ToggleConfig.Flag] = Toggle
+                end
+                return Toggle
+            end
+            function ElementFunction:AddSlider(SliderConfig)
+                SliderConfig = SliderConfig or {}
+                SliderConfig.Name = SliderConfig.Name or "Slider"
+                SliderConfig.Min = SliderConfig.Min or 0
+                SliderConfig.Max = SliderConfig.Max or 100
+                SliderConfig.Increment = SliderConfig.Increment or 1
+                SliderConfig.Default = SliderConfig.Default or 50
+                SliderConfig.Callback = SliderConfig.Callback or function()
+                    end
+                SliderConfig.ValueName = SliderConfig.ValueName or ""
+                SliderConfig.Color = SliderConfig.Color or Color3.fromRGB(9, 149, 98)
+                SliderConfig.Flag = SliderConfig.Flag or nil
+                SliderConfig.Save = SliderConfig.Save or false
+
+                local Slider = {Value = SliderConfig.Default, Save = SliderConfig.Save}
+                local Dragging = false
+
+                local SliderDrag =
+                    SetChildren(
+                    SetProps(
+                        MakeElement("RoundFrame", SliderConfig.Color, 0, 5),
+                        {
+                            Size = UDim2.new(0, 0, 1, 0),
+                            BackgroundTransparency = 0.3,
+                            ClipsDescendants = true
+                        }
+                    ),
+                    {
+                        AddThemeObject(
+                            SetProps(
+                                MakeElement("Label", "value", 13),
+                                {
+                                    Size = UDim2.new(1, -12, 0, 14),
+                                    Position = UDim2.new(0, 12, 0, 6),
+                                    Font = Enum.Font.GothamBold,
+                                    Name = "Value",
+                                    TextTransparency = 0
+                                }
+                            ),
+                            "Text"
+                        )
+                    }
+                )
+
+                local SliderBar =
+                    SetChildren(
+                    SetProps(
+                        MakeElement("RoundFrame", SliderConfig.Color, 0, 5),
+                        {
+                            Size = UDim2.new(1, -24, 0, 26),
+                            Position = UDim2.new(0, 12, 0, 30),
+                            BackgroundTransparency = 0.9
+                        }
+                    ),
+                    {
+                        SetProps(
+                            MakeElement("Stroke"),
+                            {
+                                Color = SliderConfig.Color
+                            }
+                        ),
+                        AddThemeObject(
+                            SetProps(
+                                MakeElement("Label", "value", 13),
+                                {
+                                    Size = UDim2.new(1, -12, 0, 14),
+                                    Position = UDim2.new(0, 12, 0, 6),
+                                    Font = Enum.Font.GothamBold,
+                                    Name = "Value",
+                                    TextTransparency = 0.8
+                                }
+                            ),
+                            "Text"
+                        ),
+                        SliderDrag
+                    }
+                )
+
+                local SliderFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4),
+                            {
+                                Size = UDim2.new(1, 0, 0, 65),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", SliderConfig.Name, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 0, 14),
+                                        Position = UDim2.new(0, 12, 0, 10),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            SliderBar
+                        }
+                    ),
+                    "Second"
+                )
+
+                SliderBar.InputBegan:Connect(
+                    function(Input)
+                        if
+                            Input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                Input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            Dragging = true
+                        end
+                    end
+                )
+
+                SliderBar.InputEnded:Connect(
+                    function(Input)
+                        if
+                            Input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                Input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            Dragging = false
+                        end
+                    end
+                )
+
+                UserInputService.InputChanged:Connect(
+                    function(Input)
+                        if
+                            Dragging and
+                                (Input.UserInputType == Enum.UserInputType.MouseMovement or
+                                    Input.UserInputType == Enum.UserInputType.Touch)
+                         then
+                            local SizeScale =
+                                math.clamp(
+                                (Input.Position.X - SliderBar.AbsolutePosition.X) / SliderBar.AbsoluteSize.X,
+                                0,
+                                1
+                            )
+                            Slider:Set(SliderConfig.Min + ((SliderConfig.Max - SliderConfig.Min) * SizeScale))
+                            SaveCfg(game.GameId)
+                        end
+                    end
+                )
+                function Slider:Set(Value)
+                    self.Value = math.clamp(Round(Value, SliderConfig.Increment), SliderConfig.Min, SliderConfig.Max)
+                    TweenService:Create(
+                        SliderDrag,
+                        TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                        {
+                            Size = UDim2.fromScale(
+                                (self.Value - SliderConfig.Min) / (SliderConfig.Max - SliderConfig.Min),
+                                1
+                            )
+                        }
+                    ):Play()
+                    SliderBar.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+                    SliderDrag.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+                    SliderConfig.Callback(self.Value)
+                end
+
+                Slider:Set(Slider.Value)
+                if SliderConfig.Flag then
+                    OrionLib.Flags[SliderConfig.Flag] = Slider
+                end
+                return Slider
+            end
+            function ElementFunction:AddDropdown(DropdownConfig)
+                DropdownConfig = DropdownConfig or {}
+                DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+                DropdownConfig.Options = DropdownConfig.Options or {}
+                DropdownConfig.Default = DropdownConfig.Default or ""
+                DropdownConfig.Callback = DropdownConfig.Callback or function()
+                    end
+                DropdownConfig.Flag = DropdownConfig.Flag or nil
+                DropdownConfig.Save = DropdownConfig.Save or false
+
+                local Dropdown = {
+                    Value = DropdownConfig.Default,
+                    Options = DropdownConfig.Options,
+                    Buttons = {},
+                    Toggled = false,
+                    Type = "Dropdown",
+                    Save = DropdownConfig.Save
+                }
+                local MaxElements = 5
+
+                if not table.find(Dropdown.Options, Dropdown.Value) then
+                    Dropdown.Value = "..."
+                end
+
+                local DropdownList = MakeElement("List")
+
+                local DropdownContainer =
+                    AddThemeObject(
+                    SetProps(
+                        SetChildren(
+                            MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4),
+                            {
+                                DropdownList
+                            }
+                        ),
+                        {
+                            Parent = ItemParent,
+                            Position = UDim2.new(0, 0, 0, 38),
+                            Size = UDim2.new(1, 0, 1, -38),
+                            ClipsDescendants = true
+                        }
+                    ),
+                    "Divider"
+                )
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local DropdownFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 38),
+                                Parent = ItemParent,
+                                ClipsDescendants = true
+                            }
+                        ),
+                        {
+                            DropdownContainer,
+                            SetProps(
+                                SetChildren(
+                                    MakeElement("TFrame"),
+                                    {
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Label", DropdownConfig.Name, 15),
+                                                {
+                                                    Size = UDim2.new(1, -12, 1, 0),
+                                                    Position = UDim2.new(0, 12, 0, 0),
+                                                    Font = Enum.Font.GothamBold,
+                                                    Name = "Content"
+                                                }
+                                            ),
+                                            "Text"
+                                        ),
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Image", "rbxassetid://7072706796"),
+                                                {
+                                                    Size = UDim2.new(0, 20, 0, 20),
+                                                    AnchorPoint = Vector2.new(0, 0.5),
+                                                    Position = UDim2.new(1, -30, 0.5, 0),
+                                                    ImageColor3 = Color3.fromRGB(240, 240, 240),
+                                                    Name = "Ico"
+                                                }
+                                            ),
+                                            "TextDark"
+                                        ),
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Label", "Selected", 13),
+                                                {
+                                                    Size = UDim2.new(1, -40, 1, 0),
+                                                    Font = Enum.Font.Gotham,
+                                                    Name = "Selected",
+                                                    TextXAlignment = Enum.TextXAlignment.Right
+                                                }
+                                            ),
+                                            "TextDark"
+                                        ),
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Frame"),
+                                                {
+                                                    Size = UDim2.new(1, 0, 0, 1),
+                                                    Position = UDim2.new(0, 0, 1, -1),
+                                                    Name = "Line",
+                                                    Visible = false
+                                                }
+                                            ),
+                                            "Stroke"
+                                        ),
+                                        Click
+                                    }
+                                ),
+                                {
+                                    Size = UDim2.new(1, 0, 0, 38),
+                                    ClipsDescendants = true,
+                                    Name = "F"
+                                }
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            MakeElement("Corner")
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"),
+                    function()
+                        DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+                    end
+                )
+
+                local function AddOptions(Options)
+                    for _, Option in pairs(Options) do
+                        local OptionBtn =
+                            AddThemeObject(
+                            SetProps(
+                                SetChildren(
+                                    MakeElement("Button", Color3.fromRGB(40, 40, 40)),
+                                    {
+                                        MakeElement("Corner", 0, 6),
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Label", Option, 13, 0.4),
+                                                {
+                                                    Position = UDim2.new(0, 8, 0, 0),
+                                                    Size = UDim2.new(1, -8, 1, 0),
+                                                    Name = "Title"
+                                                }
+                                            ),
+                                            "Text"
+                                        )
+                                    }
+                                ),
+                                {
+                                    Parent = DropdownContainer,
+                                    Size = UDim2.new(1, 0, 0, 28),
+                                    BackgroundTransparency = 1,
+                                    ClipsDescendants = true
+                                }
+                            ),
+                            "Divider"
+                        )
+
+                        AddConnection(
+                            OptionBtn.MouseButton1Click,
+                            function()
+                                Dropdown:Set(Option)
+                                SaveCfg(game.GameId)
+                            end
+                        )
+
+                        Dropdown.Buttons[Option] = OptionBtn
+                    end
+                end
+
+                function Dropdown:Refresh(Options, Delete)
+                    if Delete then
+                        for _, v in pairs(Dropdown.Buttons) do
+                            v:Destroy()
+                        end
+                        table.clear(Dropdown.Options)
+                        table.clear(Dropdown.Buttons)
+                    end
+                    Dropdown.Options = Options
+                    AddOptions(Dropdown.Options)
+                end
+
+                function Dropdown:Set(Value)
+                    if not table.find(Dropdown.Options, Value) then
+                        Dropdown.Value = "..."
+                        DropdownFrame.F.Selected.Text = Dropdown.Value
+                        for _, v in pairs(Dropdown.Buttons) do
+                            TweenService:Create(
+                                v,
+                                TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                                {BackgroundTransparency = 1}
+                            ):Play()
+                            TweenService:Create(
+                                v.Title,
+                                TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                                {TextTransparency = 0.4}
+                            ):Play()
+                        end
+                        return
+                    end
+
+                    Dropdown.Value = Value
+                    DropdownFrame.F.Selected.Text = Dropdown.Value
+
+                    for _, v in pairs(Dropdown.Buttons) do
+                        TweenService:Create(
+                            v,
+                            TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                            {BackgroundTransparency = 1}
+                        ):Play()
+                        TweenService:Create(
+                            v.Title,
+                            TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                            {TextTransparency = 0.4}
+                        ):Play()
+                    end
+                    TweenService:Create(
+                        Dropdown.Buttons[Value],
+                        TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                        {BackgroundTransparency = 0}
+                    ):Play()
+                    TweenService:Create(
+                        Dropdown.Buttons[Value].Title,
+                        TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                        {TextTransparency = 0}
+                    ):Play()
+                    return DropdownConfig.Callback(Dropdown.Value)
+                end
+
+                AddConnection(
+                    Click.MouseButton1Click,
+                    function()
+                        Dropdown.Toggled = not Dropdown.Toggled
+                        DropdownFrame.F.Line.Visible = Dropdown.Toggled
+                        TweenService:Create(
+                            DropdownFrame.F.Ico,
+                            TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                            {Rotation = Dropdown.Toggled and 180 or 0}
+                        ):Play()
+                        if #Dropdown.Options > MaxElements then
+                            TweenService:Create(
+                                DropdownFrame,
+                                TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                                {
+                                    Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 28)) or
+                                        UDim2.new(1, 0, 0, 38)
+                                }
+                            ):Play()
+                        else
+                            TweenService:Create(
+                                DropdownFrame,
+                                TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                                {
+                                    Size = Dropdown.Toggled and
+                                        UDim2.new(1, 0, 0, DropdownList.AbsoluteContentSize.Y + 38) or
+                                        UDim2.new(1, 0, 0, 38)
+                                }
+                            ):Play()
+                        end
+                    end
+                )
+
+                Dropdown:Refresh(Dropdown.Options, false)
+                Dropdown:Set(Dropdown.Value)
+                if DropdownConfig.Flag then
+                    OrionLib.Flags[DropdownConfig.Flag] = Dropdown
+                end
+                return Dropdown
+            end
+            function ElementFunction:AddBind(BindConfig)
+                BindConfig.Name = BindConfig.Name or "Bind"
+                BindConfig.Default = BindConfig.Default or Enum.KeyCode.Unknown
+                BindConfig.Hold = BindConfig.Hold or false
+                BindConfig.Callback = BindConfig.Callback or function()
+                    end
+                BindConfig.Flag = BindConfig.Flag or nil
+                BindConfig.Save = BindConfig.Save or false
+
+                local Bind = {Value, Binding = false, Type = "Bind", Save = BindConfig.Save}
+                local Holding = false
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local BindBox =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4),
+                            {
+                                Size = UDim2.new(0, 24, 0, 24),
+                                Position = UDim2.new(1, -12, 0.5, 0),
+                                AnchorPoint = Vector2.new(1, 0.5)
+                            }
+                        ),
+                        {
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", BindConfig.Name, 14),
+                                    {
+                                        Size = UDim2.new(1, 0, 1, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        TextXAlignment = Enum.TextXAlignment.Center,
+                                        Name = "Value"
+                                    }
+                                ),
+                                "Text"
+                            )
+                        }
+                    ),
+                    "Main"
+                )
+
+                local BindFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 38),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", BindConfig.Name, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 1, 0),
+                                        Position = UDim2.new(0, 12, 0, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            BindBox,
+                            Click
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    BindBox.Value:GetPropertyChangedSignal("Text"),
+                    function()
+                        --BindBox.Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)
+                        TweenService:Create(
+                            BindBox,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.InputEnded,
+                    function(Input)
+                        if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                            if Bind.Binding then
+                                return
+                            end
+                            Bind.Binding = true
+                            BindBox.Value.Text = ""
+                        end
+                    end
+                )
+
+                AddConnection(
+                    UserInputService.InputBegan,
+                    function(Input)
+                        if UserInputService:GetFocusedTextBox() then
+                            return
+                        end
+                        if
+                            (Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value) and
+                                not Bind.Binding
+                         then
+                            if BindConfig.Hold then
+                                Holding = true
+                                BindConfig.Callback(Holding)
+                            else
+                                BindConfig.Callback()
+                            end
+                        elseif Bind.Binding then
+                            local Key
+                            pcall(
+                                function()
+                                    if not CheckKey(BlacklistedKeys, Input.KeyCode) then
+                                        Key = Input.KeyCode
+                                    end
+                                end
+                            )
+                            pcall(
+                                function()
+                                    if CheckKey(WhitelistedMouse, Input.UserInputType) and not Key then
+                                        Key = Input.UserInputType
+                                    end
+                                end
+                            )
+                            Key = Key or Bind.Value
+                            Bind:Set(Key)
+                            SaveCfg(game.GameId)
+                        end
+                    end
+                )
+
+                AddConnection(
+                    UserInputService.InputEnded,
+                    function(Input)
+                        if Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value then
+                            if BindConfig.Hold and Holding then
+                                Holding = false
+                                BindConfig.Callback(Holding)
+                            end
+                        end
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseEnter,
+                    function()
+                        TweenService:Create(
+                            BindFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseLeave,
+                    function()
+                        TweenService:Create(
+                            BindFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Up,
+                    function()
+                        TweenService:Create(
+                            BindFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Down,
+                    function()
+                        TweenService:Create(
+                            BindFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                function Bind:Set(Key)
+                    Bind.Binding = false
+                    Bind.Value = Key or Bind.Value
+                    Bind.Value = Bind.Value.Name or Bind.Value
+                    BindBox.Value.Text = Bind.Value
+                end
+
+                Bind:Set(BindConfig.Default)
+                if BindConfig.Flag then
+                    OrionLib.Flags[BindConfig.Flag] = Bind
+                end
+                return Bind
+            end
+            function ElementFunction:AddTextbox(TextboxConfig)
+                TextboxConfig = TextboxConfig or {}
+                TextboxConfig.Name = TextboxConfig.Name or "Textbox"
+                TextboxConfig.Default = TextboxConfig.Default or ""
+                TextboxConfig.TextDisappear = TextboxConfig.TextDisappear or false
+                TextboxConfig.Callback = TextboxConfig.Callback or function()
+                    end
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local TextboxActual =
+                    AddThemeObject(
+                    Create(
+                        "TextBox",
+                        {
+                            Size = UDim2.new(1, 0, 1, 0),
+                            BackgroundTransparency = 1,
+                            TextColor3 = Color3.fromRGB(255, 255, 255),
+                            PlaceholderColor3 = Color3.fromRGB(210, 210, 210),
+                            PlaceholderText = "Input",
+                            Font = Enum.Font.GothamSemibold,
+                            TextXAlignment = Enum.TextXAlignment.Center,
+                            TextSize = 14,
+                            ClearTextOnFocus = false
+                        }
+                    ),
+                    "Text"
+                )
+
+                local TextContainer =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4),
+                            {
+                                Size = UDim2.new(0, 24, 0, 24),
+                                Position = UDim2.new(1, -12, 0.5, 0),
+                                AnchorPoint = Vector2.new(1, 0.5)
+                            }
+                        ),
+                        {
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            TextboxActual
+                        }
+                    ),
+                    "Main"
+                )
+
+                local TextboxFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 38),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            AddThemeObject(
+                                SetProps(
+                                    MakeElement("Label", TextboxConfig.Name, 15),
+                                    {
+                                        Size = UDim2.new(1, -12, 1, 0),
+                                        Position = UDim2.new(0, 12, 0, 0),
+                                        Font = Enum.Font.GothamBold,
+                                        Name = "Content"
+                                    }
+                                ),
+                                "Text"
+                            ),
+                            AddThemeObject(MakeElement("Stroke"), "Stroke"),
+                            TextContainer,
+                            Click
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    TextboxActual:GetPropertyChangedSignal("Text"),
+                    function()
+                        --TextContainer.Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)
+                        TweenService:Create(
+                            TextContainer,
+                            TweenInfo.new(0.45, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    TextboxActual.FocusLost,
+                    function()
+                        TextboxConfig.Callback(TextboxActual.Text)
+                        if TextboxConfig.TextDisappear then
+                            TextboxActual.Text = ""
+                        end
+                    end
+                )
+
+                TextboxActual.Text = TextboxConfig.Default
+
+                AddConnection(
+                    Click.MouseEnter,
+                    function()
+                        TweenService:Create(
+                            TextboxFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseLeave,
+                    function()
+                        TweenService:Create(
+                            TextboxFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}
+                        ):Play()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Up,
+                    function()
+                        TweenService:Create(
+                            TextboxFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3
+                                )
+                            }
+                        ):Play()
+                        TextboxActual:CaptureFocus()
+                    end
+                )
+
+                AddConnection(
+                    Click.MouseButton1Down,
+                    function()
+                        TweenService:Create(
+                            TextboxFrame,
+                            TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out),
+                            {
+                                BackgroundColor3 = Color3.fromRGB(
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6,
+                                    OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6
+                                )
+                            }
+                        ):Play()
+                    end
+                )
+            end
+            function ElementFunction:AddColorpicker(ColorpickerConfig)
+                ColorpickerConfig = ColorpickerConfig or {}
+                ColorpickerConfig.Name = ColorpickerConfig.Name or "Colorpicker"
+                ColorpickerConfig.Default = ColorpickerConfig.Default or Color3.fromRGB(255, 255, 255)
+                ColorpickerConfig.Callback = ColorpickerConfig.Callback or function()
+                    end
+                ColorpickerConfig.Flag = ColorpickerConfig.Flag or nil
+                ColorpickerConfig.Save = ColorpickerConfig.Save or false
+
+                local ColorH, ColorS, ColorV = 1, 1, 1
+                local Colorpicker = {
+                    Value = ColorpickerConfig.Default,
+                    Toggled = false,
+                    Type = "Colorpicker",
+                    Save = ColorpickerConfig.Save
+                }
+
+                local ColorSelection =
+                    Create(
+                    "ImageLabel",
+                    {
+                        Size = UDim2.new(0, 18, 0, 18),
+                        Position = UDim2.new(select(3, Color3.toHSV(Colorpicker.Value))),
+                        ScaleType = Enum.ScaleType.Fit,
+                        AnchorPoint = Vector2.new(0.5, 0.5),
+                        BackgroundTransparency = 1,
+                        Image = "http://www.roblox.com/asset/?id=4805639000"
+                    }
+                )
+
+                local HueSelection =
+                    Create(
+                    "ImageLabel",
+                    {
+                        Size = UDim2.new(0, 18, 0, 18),
+                        Position = UDim2.new(0.5, 0, 1 - select(1, Color3.toHSV(Colorpicker.Value))),
+                        ScaleType = Enum.ScaleType.Fit,
+                        AnchorPoint = Vector2.new(0.5, 0.5),
+                        BackgroundTransparency = 1,
+                        Image = "http://www.roblox.com/asset/?id=4805639000"
+                    }
+                )
+
+                local Color =
+                    Create(
+                    "ImageLabel",
+                    {
+                        Size = UDim2.new(1, -25, 1, 0),
+                        Visible = false,
+                        Image = "rbxassetid://4155801252"
+                    },
+                    {
+                        Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+                        ColorSelection
+                    }
+                )
+
+                local Hue =
+                    Create(
+                    "Frame",
+                    {
+                        Size = UDim2.new(0, 20, 1, 0),
+                        Position = UDim2.new(1, -20, 0, 0),
+                        Visible = false
+                    },
+                    {
+                        Create(
+                            "UIGradient",
+                            {
+                                Rotation = 270,
+                                Color = ColorSequence.new {
+                                    ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)),
+                                    ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)),
+                                    ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)),
+                                    ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)),
+                                    ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)),
+                                    ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)),
+                                    ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))
+                                }
+                            }
+                        ),
+                        Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+                        HueSelection
+                    }
+                )
+
+                local ColorpickerContainer =
+                    Create(
+                    "Frame",
+                    {
+                        Position = UDim2.new(0, 0, 0, 32),
+                        Size = UDim2.new(1, 0, 1, -32),
+                        BackgroundTransparency = 1,
+                        ClipsDescendants = true
+                    },
+                    {
+                        Hue,
+                        Color,
+                        Create(
+                            "UIPadding",
+                            {
+                                PaddingLeft = UDim.new(0, 35),
+                                PaddingRight = UDim.new(0, 35),
+                                PaddingBottom = UDim.new(0, 10),
+                                PaddingTop = UDim.new(0, 17)
+                            }
+                        )
+                    }
+                )
+
+                local Click =
+                    SetProps(
+                    MakeElement("Button"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0)
+                    }
+                )
+
+                local ColorpickerBox =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4),
+                            {
+                                Size = UDim2.new(0, 24, 0, 24),
+                                Position = UDim2.new(1, -12, 0.5, 0),
+                                AnchorPoint = Vector2.new(1, 0.5)
+                            }
+                        ),
+                        {
+                            AddThemeObject(MakeElement("Stroke"), "Stroke")
+                        }
+                    ),
+                    "Main"
+                )
+
+                local ColorpickerFrame =
+                    AddThemeObject(
+                    SetChildren(
+                        SetProps(
+                            MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5),
+                            {
+                                Size = UDim2.new(1, 0, 0, 38),
+                                Parent = ItemParent
+                            }
+                        ),
+                        {
+                            SetProps(
+                                SetChildren(
+                                    MakeElement("TFrame"),
+                                    {
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Label", ColorpickerConfig.Name, 15),
+                                                {
+                                                    Size = UDim2.new(1, -12, 1, 0),
+                                                    Position = UDim2.new(0, 12, 0, 0),
+                                                    Font = Enum.Font.GothamBold,
+                                                    Name = "Content"
+                                                }
+                                            ),
+                                            "Text"
+                                        ),
+                                        ColorpickerBox,
+                                        Click,
+                                        AddThemeObject(
+                                            SetProps(
+                                                MakeElement("Frame"),
+                                                {
+                                                    Size = UDim2.new(1, 0, 0, 1),
+                                                    Position = UDim2.new(0, 0, 1, -1),
+                                                    Name = "Line",
+                                                    Visible = false
+                                                }
+                                            ),
+                                            "Stroke"
+                                        )
+                                    }
+                                ),
+                                {
+                                    Size = UDim2.new(1, 0, 0, 38),
+                                    ClipsDescendants = true,
+                                    Name = "F"
+                                }
+                            ),
+                            ColorpickerContainer,
+                            AddThemeObject(MakeElement("Stroke"), "Stroke")
+                        }
+                    ),
+                    "Second"
+                )
+
+                AddConnection(
+                    Click.MouseButton1Click,
+                    function()
+                        Colorpicker.Toggled = not Colorpicker.Toggled
+                        TweenService:Create(
+                            ColorpickerFrame,
+                            TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                            {Size = Colorpicker.Toggled and UDim2.new(1, 0, 0, 148) or UDim2.new(1, 0, 0, 38)}
+                        ):Play()
+                        Color.Visible = Colorpicker.Toggled
+                        Hue.Visible = Colorpicker.Toggled
+                        ColorpickerFrame.F.Line.Visible = Colorpicker.Toggled
+                    end
+                )
+
+                local function UpdateColorPicker()
+                    ColorpickerBox.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+                    Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+                    Colorpicker:Set(ColorpickerBox.BackgroundColor3)
+                    ColorpickerConfig.Callback(ColorpickerBox.BackgroundColor3)
+                    SaveCfg(game.GameId)
+                end
+
+                ColorH =
+                    1 -
+                    (math.clamp(HueSelection.AbsolutePosition.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+                        Hue.AbsoluteSize.Y)
+                ColorS =
+                    (math.clamp(ColorSelection.AbsolutePosition.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) /
+                    Color.AbsoluteSize.X)
+                ColorV =
+                    1 -
+                    (math.clamp(ColorSelection.AbsolutePosition.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) /
+                        Color.AbsoluteSize.Y)
+
+                Color.InputBegan:Connect(
+                    function(input)
+                        if
+                            input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            if ColorInput then
+                                ColorInput:Disconnect()
+                            end
+                            ColorInput =
+                                RunService.RenderStepped:Connect(
+                                function()
+                                    local inputPosition =
+                                        UserInputService:GetLastInputType() == Enum.UserInputType.Touch and
+                                        input.Position or
+                                        UserInputService:GetMouseLocation()
+                                    local ColorX =
+                                        math.clamp(
+                                        (inputPosition.X - Color.AbsolutePosition.X) / Color.AbsoluteSize.X,
+                                        0,
+                                        1
+                                    )
+                                    local ColorY =
+                                        math.clamp(
+                                        (inputPosition.Y - Color.AbsolutePosition.Y) / Color.AbsoluteSize.Y,
+                                        0,
+                                        1
+                                    )
+                                    ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+                                    ColorS = ColorX
+                                    ColorV = 1 - ColorY
+                                    UpdateColorPicker()
+                                end
+                            )
+                        end
+                    end
+                )
+
+                Color.InputEnded:Connect(
+                    function(input)
+                        if
+                            input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            if ColorInput then
+                                ColorInput:Disconnect()
+                                ColorInput = nil
+                            end
+                        end
+                    end
+                )
+
+                AddConnection(
+                    Color.InputEnded,
+                    function(input)
+                        if
+                            input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            if ColorInput then
+                                ColorInput:Disconnect()
+                            end
+                        end
+                    end
+                )
+
+                AddConnection(
+                    Hue.InputBegan,
+                    function(input)
+                        if
+                            input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            if HueInput then
+                                HueInput:Disconnect()
+                            end
+
+                            HueInput =
+                                AddConnection(
+                                RunService.RenderStepped,
+                                function()
+                                    local HueY =
+                                        (math.clamp(Mouse.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+                                        Hue.AbsoluteSize.Y)
+
+                                    HueSelection.Position = UDim2.new(0.5, 0, HueY, 0)
+                                    ColorH = 1 - HueY
+
+                                    UpdateColorPicker()
+                                end
+                            )
+                        end
+                    end
+                )
+
+                AddConnection(
+                    Hue.InputEnded,
+                    function(input)
+                        if
+                            input.UserInputType == Enum.UserInputType.MouseButton1 or
+                                input.UserInputType == Enum.UserInputType.Touch
+                         then
+                            if HueInput then
+                                HueInput:Disconnect()
+                            end
+                        end
+                    end
+                )
+
+                function Colorpicker:Set(Value)
+                    Colorpicker.Value = Value
+                    ColorpickerBox.BackgroundColor3 = Colorpicker.Value
+                    ColorpickerConfig.Callback(Colorpicker.Value)
+                end
+
+                Colorpicker:Set(Colorpicker.Value)
+                if ColorpickerConfig.Flag then
+                    OrionLib.Flags[ColorpickerConfig.Flag] = Colorpicker
+                end
+                return Colorpicker
+            end
+            return ElementFunction
+        end
+
+        local ElementFunction = {}
+
+        function ElementFunction:AddSection(SectionConfig)
+            SectionConfig.Name = SectionConfig.Name or "Section"
+
+            local SectionFrame =
+                SetChildren(
+                SetProps(
+                    MakeElement("TFrame"),
+                    {
+                        Size = UDim2.new(1, 0, 0, 26),
+                        Parent = Container
+                    }
+                ),
+                {
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement("Label", SectionConfig.Name, 14),
+                            {
+                                Size = UDim2.new(1, -12, 0, 16),
+                                Position = UDim2.new(0, 0, 0, 3),
+                                Font = Enum.Font.GothamSemibold
+                            }
+                        ),
+                        "TextDark"
+                    ),
+                    SetChildren(
+                        SetProps(
+                            MakeElement("TFrame"),
+                            {
+                                AnchorPoint = Vector2.new(0, 0),
+                                Size = UDim2.new(1, 0, 1, -24),
+                                Position = UDim2.new(0, 0, 0, 23),
+                                Name = "Holder"
+                            }
+                        ),
+                        {
+                            MakeElement("List", 0, 6)
+                        }
+                    )
+                }
+            )
+
+            AddConnection(
+                SectionFrame.Holder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"),
+                function()
+                    SectionFrame.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y + 31)
+                    SectionFrame.Holder.Size =
+                        UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y)
+                end
+            )
+
+            local SectionFunction = {}
+            for i, v in next, GetElements(SectionFrame.Holder) do
+                SectionFunction[i] = v
+            end
+            return SectionFunction
+        end
+
+        for i, v in next, GetElements(Container) do
+            ElementFunction[i] = v
+        end
+
+        if TabConfig.PremiumOnly then
+            for i, v in next, ElementFunction do
+                ElementFunction[i] = function()
+                end
+            end
+            Container:FindFirstChild("UIListLayout"):Destroy()
+            Container:FindFirstChild("UIPadding"):Destroy()
+            SetChildren(
+                SetProps(
+                    MakeElement("TFrame"),
+                    {
+                        Size = UDim2.new(1, 0, 1, 0),
+                        Parent = ItemParent
+                    }
+                ),
+                {
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement("Image", "rbxassetid://3610239960"),
+                            {
+                                Size = UDim2.new(0, 18, 0, 18),
+                                Position = UDim2.new(0, 15, 0, 15),
+                                ImageTransparency = 0.4
+                            }
+                        ),
+                        "Text"
+                    ),
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement("Label", "Unauthorised Access", 14),
+                            {
+                                Size = UDim2.new(1, -38, 0, 14),
+                                Position = UDim2.new(0, 38, 0, 18),
+                                TextTransparency = 0.4
+                            }
+                        ),
+                        "Text"
+                    ),
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement("Image", "rbxassetid://4483345875"),
+                            {
+                                Size = UDim2.new(0, 56, 0, 56),
+                                Position = UDim2.new(0, 84, 0, 110)
+                            }
+                        ),
+                        "Text"
+                    ),
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement("Label", "Premium Features", 14),
+                            {
+                                Size = UDim2.new(1, -150, 0, 14),
+                                Position = UDim2.new(0, 150, 0, 112),
+                                Font = Enum.Font.GothamBold
+                            }
+                        ),
+                        "Text"
+                    ),
+                    AddThemeObject(
+                        SetProps(
+                            MakeElement(
+                                "Label",
+                                "This part of the script is locked to Sirius Premium users. Purchase Premium in the Discord server (discord.gg/sirius)",
+                                12
+                            ),
+                            {
+                                Size = UDim2.new(1, -200, 0, 14),
+                                Position = UDim2.new(0, 150, 0, 138),
+                                TextWrapped = true,
+                                TextTransparency = 0.4
+                            }
+                        ),
+                        "Text"
+                    )
+                }
+            )
+        end
+        return ElementFunction
+    end
+
+    OrionLib:MakeNotification(
+        {
+            Name = "UI Library Upgrade",
+            Content = "New UI Library Available at sirius.menu/discord and sirius.menu/rayfield",
+            Time = 5
+        }
+    )
+
+    return TabFunction
+end
+
+function OrionLib:Destroy()
+    Orion:Destroy()
+end
+
+return OrionLib
